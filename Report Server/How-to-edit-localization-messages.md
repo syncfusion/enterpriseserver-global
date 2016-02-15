@@ -2,7 +2,7 @@
 
 Localized message files can be edited and changed for any specific texts.
 
-N> Read [How to add new localization](/How-to-add-new-localizations.md) to know how to upload `default.po` and translate to a desired language before editing it.  
+<aside class="notice"> Read [How to add new localization](/How-to-add-new-localizations.md) to know how to upload `default.po` and translate to a desired language before editing it. </aside>
 
 1. After converting the localized messages, Open the file and modify the words and sentences which you want to change in the window.
 
