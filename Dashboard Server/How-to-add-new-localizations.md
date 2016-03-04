@@ -28,7 +28,7 @@ To make Syncfusion Dashboard Server use a different culture perform the followin
 
     ![Start Order or No thanks](images/add-localization-5.png)
  
-6. The selected file will be listed in home page of translator kit.
+6. The uploaded file will be listed in home page of translator kit. Click on the file to open it and make any corrections in the translation if needed.
 
     ![Translator Home page](images/add-localization-6.png)
  
