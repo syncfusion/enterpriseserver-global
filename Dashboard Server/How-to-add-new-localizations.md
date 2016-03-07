@@ -1,8 +1,8 @@
 #Adding new localizations
 
-Create your own culture texts for the Syncfusion Report Server and add it in the application anytime.
+Create your own culture texts for the Syncfusion Dashboard Server and add it in the application anytime.
 
-To make Syncfusion Report Server use a different culture perform the following steps:
+To make Syncfusion Dashboard Server use a different culture perform the following steps:
 
 1. Open [Google Translator Kit](https://translate.google.com/toolkit). Click on Upload button.
 
@@ -16,7 +16,7 @@ To make Syncfusion Report Server use a different culture perform the following s
 
     ![Upload](images/add-localization-3.png)
  
-3. Upload [default.po](locale/default.po) file which contains the texts from the Report Server application from `~Installed Location~/Report Server/ReportServer.Web/locale into google translator`.
+3. Upload [default.po](locale/default.po) file which contains the texts from the Dashboard Server application from `~Installed Location~/Dashboard Server/DashboardServer.Web/locale into google translator`.
 
 4. Make sure that the source language is in English and file name as `messages` as in the below image.
 
@@ -40,12 +40,12 @@ To make Syncfusion Report Server use a different culture perform the following s
 
     ![Download Messages.po](images/add-localization-8.png)
  
-9. Create a folder in `~Installed Location~/Report Server/ReportServer.Web/locale` with {language code}-{country code} and paste the downloaded messages.po file inside the newly created folder.
+9. Create a folder in `~Installed Location~/Dashboard Server/DashboardServer.Web/locale` with {language code}-{country code} and paste the downloaded messages.po file inside the newly created folder.
 
     For example, if you are translating to Italian, create a folder named `it-it` and paste the messages.po like the below.
     
-    `~Installed Location~/Report Server/ReportServer.Web/locale/it-it/messages.po`
+    `~Installed Location~/Dashboard Server/DashboardServer.Web/locale/it-it/messages.po`
     
-    Newly added language will be listed in language list in Report Server after refreshing the page in the Report Server.
+    Newly added language will be listed in language list in Dashboard Server after refreshing the page in the Dashboard Server.
     
     ![New Languages](images/add-localization-9.png)
