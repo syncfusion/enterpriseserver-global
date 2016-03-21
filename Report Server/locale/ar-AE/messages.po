@@ -1,0 +1,3368 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-03-01 19:33+0530\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"Last-Translator: \n"
+
+#: Views\Administration\Administration.cshtml:302
+msgid " to learn how to add new localizations in Report Server. "
+msgstr " لمعرفة كيفية إضافة تعريب جديد في Server تقرير. "
+
+#: Views\Items\_DeleteItem.cshtml:21
+msgid "\" + itemTypeName + \""
+msgstr "\ "+ itemTypeName + \""
+
+#: Models\Permission.cs:51
+msgid ""
+"\" + row.Field<string>(GlobalAppSettings.DbColumns.DB_PermissionEntity.Name) "
+"+ \""
+msgstr "\ "+ row.Field <سلسلة> (GlobalAppSettings.DbColumns.DB_PermissionEntity.Name) + \""
+
+#: Views\Items\_CopyItem.cshtml:17 Views\Items\_CopyItem.cshtml:36
+#: Views\Items\_MoveItem.cshtml:34
+msgid "\" + ViewBag.Action + \""
+msgstr "\ "+ ViewBag.Action + \""
+
+#: Views\Items\_DeleteItem.cshtml:13 Views\Items\_DeleteItem.cshtml:42
+msgid "\"+itemTypeName+\""
+msgstr "\ "+ itemTypeName + \""
+
+#: Views\Items\_DeleteItem.cshtml:27
+msgid "\"+Model.Value+\""
+msgstr "\ "+ Model.Value + \""
+
+#: Views\Items\_MoveItem.cshtml:16
+msgid "\"+ViewBag.Action+\""
+msgstr "\ "+ ViewBag.Action + \""
+
+#: Scripts\Core\UMP.Core.js:378
+msgid "{0} of {1} pages ({2} items)"
+msgstr "{0} من {1} صفحة ( {2} البنود)"
+
+#: Views\UserManagement\_AddUserInGroup.cshtml:15
+msgid "1024 characters maximum"
+msgstr "1024 حرفا كحد أقصى"
+
+#: Controllers\Items\FilesController.cs:132
+msgid "A file with the same name already exists"
+msgstr "ملف يحمل نفس الاسم موجود بالفعل"
+
+#: Scripts\Report\AddRdlReport.js:212 Scripts\Report\AddRdlReport.js:294
+msgid "A report with the same name already exists in this category"
+msgstr "تقرير مع نفس الاسم موجود بالفعل في هذه الفئة"
+
+#: Views\Error\AccessDenied.cshtml:2 Views\Error\AccessDenied.cshtml:10
+msgid "Access Denied"
+msgstr "تم الرفض"
+
+#: Views\Accounts\Login.cshtml:88
+msgid "Access is denied"
+msgstr "تم رفض الوصول"
+
+#: Views\Permission\_AddGroupPermission.cshtml:44
+#: Views\Permission\_AddUserPermission.cshtml:43
+msgid "Access mode"
+msgstr "وضع وصول"
+
+#: Views\Permission\GroupPermission.cshtml:67
+#: Views\Permission\UserPermission.cshtml:71
+msgid "Access Mode"
+msgstr "وضع الوصول"
+
+#: Views\Accounts\AccountActivation.cshtml:42
+msgid "Account"
+msgstr "حساب"
+
+#: Views\Accounts\AccountActivation.cshtml:41
+msgid "Account Activated"
+msgstr "حساب المنشط"
+
+#: Views\Items\_ItemsGrid.cshtml:59 Views\Items\_ItemVersion.cshtml:83
+#: Views\Permission\GroupPermission.cshtml:76
+#: Views\Permission\UserPermission.cshtml:80
+#: Views\Scheduler\Schedules.cshtml:148
+#: Views\Shared\_FixedLeftSection.cshtml:32
+msgid "Actions"
+msgstr "الإجراءات"
+
+#: Views\UserManagement\UserManagement.cshtml:174
+msgid "Activate User"
+msgstr "تفعيل العضو"
+
+#: Scripts\User\UserManagementProfile.js:173
+#: Scripts\User\UserManagementProfile.js:192
+msgid ""
+"Activation code has been generated successfully. As email settings are not "
+"configured we are not able to send activation email to the user."
+msgstr "تم إنشاء رمز التفعيل بنجاح. كما لم يتم تكوين إعدادات البريد الإلكتروني نحن لسنا قادرين على إرسال بريد التنشيط للمستخدم."
+
+#: Scripts\User\UserManagementProfile.js:192
+msgid "Activation code has been resent successfully."
+msgstr "وقد يستاء رمز التفعيل بنجاح."
+
+#: Scripts\User\UserManagementProfile.js:173
+msgid "Activation code has been sent successfully."
+msgstr "تم ارسال رمز التفعيل بنجاح."
+
+#: Views\Scheduler\Schedules.cshtml:126 Views\UserManagement\Index.cshtml:40
+#: Views\UserManagement\UserManagement.cshtml:142
+#: Views\UserManagement\UserManagement.cshtml:149
+#: Views\UserManagement\UserManagement.cshtml:154
+msgid "Active"
+msgstr "نشط"
+
+#: Views\Group\ActiveDirectoryGroupImport.cshtml:115
+#: Views\Group\ActiveDirectoryGroupImport.cshtml:194
+#: Views\UserManagement\ActiveDirectoryUserImport.cshtml:119
+#: Views\UserManagement\ActiveDirectoryUserImport.cshtml:191
+msgid "Active Directory"
+msgstr "الدليل النشط"
+
+#: Views\Group\Group.cshtml:247
+msgid "Active Directory group"
+msgstr "مجموعة نشطة دليل"
+
+#: Views\Group\Group.cshtml:17
+msgid "Active Directory Group"
+msgstr "المجموعة النشطة دليل"
+
+#: Scripts\Group\ActiveDirectoryGroupImport.js:79
+#: Scripts\Group\ActiveDirectoryGroupImport.js:84
+msgid "Active directory group import"
+msgstr "استيراد مجموعة دليل النشطة"
+
+#: Views\Group\ActiveDirectoryGroupImport.cshtml:2
+msgid "Active Directory Groups import"
+msgstr "استيراد المجموعات الدليل النشط"
+
+#: Views\Administration\ScheduleSynchronization.cshtml:17
+#: Views\Shared\_FixedLeftSection.cshtml:87
+msgid "Active Directory Settings"
+msgstr "إعدادات خدمة Active Directory"
+
+#: Views\Administration\Administration.cshtml:456
+msgid "ACTIVE DIRECTORY SETTINGS"
+msgstr "إعدادات الدليل النشط"
+
+#: Scripts\Group\SynchronizeGroups.js:139 Scripts\User\SynchronizeUsers.js:126
+#: Scripts\User\SynchronizeUsers.js:135
+#: Views\Group\ActiveDirectoryGroup.cshtml:2 Views\Group\Group.cshtml:224
+#: Views\UserManagement\Index.cshtml:220
+msgid "Active Directory Synchronization"
+msgstr "التزامن النشط دليل"
+
+#: Views\Group\ActiveDirectoryGroup.cshtml:169
+msgid "Active Directory Synchronization - GROUPS"
+msgstr "التزامن النشط دليل - فئات"
+
+#: Views\UserManagement\SynchronizeUsers.cshtml:156
+msgid "Active Directory Synchronization - USERS"
+msgstr "التزامن النشط دليل على مستخدمي -"
+
+#: Views\Administration\ScheduleSynchronization.cshtml:23
+msgid "Active Directory Synchronization Schedule"
+msgstr "نشط دليل جدول التزامن"
+
+#: Views\UserManagement\Index.cshtml:236
+msgid "Active Directory User"
+msgstr "مستخدم Active Directory"
+
+#: Scripts\User\ActiveDirectoryUserImport.js:96
+#: Scripts\User\ActiveDirectoryUserImport.js:101
+msgid "Active directory user import"
+msgstr "الدليل النشط استيراد المستعمل"
+
+#: Views\UserManagement\ActiveDirectoryUserImport.cshtml:2
+msgid "Active Directory users import"
+msgstr "عدد المستخدمين النشطين دليل استيراد"
+
+#: Views\Shared\_FixedLeftSection.cshtml:91
+msgid "AD SETTINGS"
+msgstr "إعدادات م"
+
+#: Scripts\Report\SelectDataSource.js:170 Views\Category\_AddCategory.cshtml:54
+#: Views\DataSources\_AddDataSource.cshtml:21 Views\Files\_AddFile.cshtml:94
+#: Views\Group\EditGroup.cshtml:183 Views\Group\_AddGroup.cshtml:59
+#: Views\Permission\_AddGroupPermission.cshtml:78
+#: Views\Permission\_AddUserPermission.cshtml:76
+#: Views\UserManagement\Index.cshtml:286
+#: Views\UserManagement\_AddUserInGroup.cshtml:23
+msgid "Add"
+msgstr "إضافة"
+
+#: Views\Category\_AddCategory.cshtml:19 Views\Category\_AddCategory.cshtml:64
+msgid "Add Category"
+msgstr "إضافة فئة"
+
+#: Scripts\DataSource\AddDataSource.js:225
+#: Views\DataSources\_AddDataSource.cshtml:15
+msgid "Add Data Source"
+msgstr "إضافة مصدر بيانات"
+
+#: Views\Shared\_SchedulerDialog.cshtml:230
+msgid "Add external recipients"
+msgstr "إضافة المستلمين الخارجية"
+
+#: Views\Files\_AddFile.cshtml:43 Views\Files\_AddFile.cshtml:115
+msgid "Add File"
+msgstr "اضف ملف"
+
+#: Views\Group\_AddGroup.cshtml:28
+msgid "Add Group"
+msgstr "إضافة مجموعة"
+
+#: Views\Group\Group.cshtml:197 Views\Group\Group.cshtml:203
+#: Views\Group\Group.cshtml:204
+msgid "Add new group"
+msgstr "إضافة مجموعة جديدة"
+
+#: Views\Group\ActiveDirectoryGroup.cshtml:133
+#: Views\Group\ActiveDirectoryGroup.cshtml:145 Views\Group\Group.cshtml:153
+#: Views\Group\ViewGroup.cshtml:72
+msgid "Add New Group"
+msgstr "إضافة مجموعة جديدة"
+
+#: Views\Permission\GroupPermission.cshtml:90
+#: Views\Permission\UserPermission.cshtml:95
+msgid "Add New Permission"
+msgstr "إضافة إذن جديد"
+
+#: Views\UserManagement\Index.cshtml:185 Views\UserManagement\Index.cshtml:191
+#: Views\UserManagement\Index.cshtml:196 Views\UserManagement\Index.cshtml:197
+msgid "Add new user"
+msgstr "إضافة مستخدم جديد"
+
+#: Views\Permission\GroupPermission.cshtml:36
+#: Views\Permission\UserPermission.cshtml:36
+#: Views\Permission\_AddGroupPermission.cshtml:33
+#: Views\Permission\_AddUserPermission.cshtml:32
+#: Views\Permission\_GroupPermissionGrid.cshtml:8
+#: Views\Permission\_PermissionGrid.cshtml:7
+msgid "Add Permission"
+msgstr "إضافة إذن"
+
+#: Views\Permission\GroupPermission.cshtml:36
+#: Views\Permission\_GroupPermissionGrid.cshtml:8
+msgid "Add Permission to the group"
+msgstr "إضافة إذن إلى مجموعة"
+
+#: Views\Permission\UserPermission.cshtml:36
+#: Views\Permission\_PermissionGrid.cshtml:7
+msgid "Add Permission to the user"
+msgstr "إضافة يسمح للمستخدم"
+
+#: Scripts\Report\AddRdlReport.js:330 Scripts\Report\AddRdlReport.js:336
+#: Scripts\Report\AddRdlReport.js:348 Scripts\Report\AddRdlReport.js:357
+#: Scripts\Report\AddRdlReport.js:363 Views\Reports\_AddReport.cshtml:22
+msgid "Add Report"
+msgstr "إضافة تقرير"
+
+#: Views\Group\EditGroup.cshtml:183
+msgid "Add selected user(s) to the group"
+msgstr "إضافة المستخدم المحدد (ق) إلى مجموعة"
+
+#: Views\UserManagement\_AddUserInGroup.cshtml:8
+msgid "Add the selected users to a Group"
+msgstr "إضافة المستخدمين المحدد إلى مجموعة"
+
+#: Views\Group\EditGroup.cshtml:179
+msgid "Add user"
+msgstr "إضافة مستخدم"
+
+#: Scripts\User\UserManagement.js:213 Views\UserManagement\Index.cshtml:245
+msgid "Add User"
+msgstr "إضافة مستخدم"
+
+#: Views\Group\Group.cshtml:47
+msgid "Add Users"
+msgstr "إضافة مستخدمين"
+
+#: Views\User\UserCSVUpload.cshtml:16
+msgid "Add Users by CSV File Upload"
+msgstr "إضافة مستخدمين عن طريق تحميل ملف CSV"
+
+#: Models\Item.cs:328
+msgid "Added"
+msgstr "وأضاف"
+
+#: Views\Shared\_Layout.cshtml:88
+msgid "ADMIN"
+msgstr "مشرف"
+
+#: Views\Administration\Administration.cshtml:2
+msgid "Administration"
+msgstr "إدارة"
+
+#: Views\Shared\_SchedulerDialog.cshtml:196
+msgid "After"
+msgstr "بعد"
+
+#: Views\Shared\_FixedLeftSection.cshtml:26
+msgid "All"
+msgstr "جميع"
+
+#: Views\Shared\_FixedLeftSection.cshtml:240
+msgid "all reports"
+msgstr "جميع التقارير"
+
+#: Views\Reports\Reports.cshtml:31 Views\Shared\_FixedLeftSection.cshtml:209
+#: Views\Shared\_FixedLeftSection.cshtml:279
+#: Views\Shared\_FixedLeftSection.cshtml:307
+msgid "All Reports"
+msgstr "كل التقارير"
+
+#: Views\Accounts\AccountActivation.cshtml:62
+#: Views\Accounts\ChangePassword.cshtml:59
+#: Views\Accounts\CodeConfirmation.cshtml:43
+#: Views\Accounts\ForgotPassword.cshtml:72 Views\Accounts\Login.cshtml:105
+#: Views\Shared\_Layout.cshtml:176 Views\SystemStartUpPage\System.cshtml:131
+msgid "All Rights Reserved"
+msgstr "كل الحقوق محفوظة"
+
+#: Views\Shared\_ProfilePictureUploadBox.cshtml:37
+msgid ""
+"Allowed file types are .png, .jpg, and .jpeg. Maximum file size is 20MB. "
+"Recommended resolution is 200x200 pixels"
+msgstr "أنواع الملفات المسموح بها وبابوا نيو غينيا، jpg و. و. jpeg. الحد الأقصى لحجم الملف 20MB. قرار الموصى بها هي الصور 200x200 بكسل"
+
+#: Controllers\Accounts\AccountsController.cs:466
+msgid ""
+"An email with instructions on how to change your password has been sent to "
+msgstr "وقد أرسلت رسالة بالبريد الالكتروني مع تعليمات حول كيفية تغيير كلمة المرور ل "
+
+#: Scripts\Administration\ScheduleSynchronization.js:59
+#: Scripts\Scheduler\Scheduler.js:849
+msgid "and"
+msgstr "و"
+
+#: Views\SystemStartUpPage\System.cshtml:23
+msgid ""
+"Application needs a database to proceed further. So choose a database to "
+"proceed."
+msgstr "التطبيق يحتاج قاعدة بيانات على المضي قدما. لذلك اختر قاعدة بيانات والمضي قدما."
+
+#: Scripts\Scheduler\Scheduler.js:396
+msgid "April"
+msgstr "أبريل"
+
+#: Views\Items\_DeleteItem.cshtml:21
+msgid "Are you sure you want to delete"
+msgstr "هل أنت متأكد أنك تريد حذف"
+
+#: Views\Group\_DeleteConfirm.cshtml:34
+msgid "Are you sure you want to delete the group"
+msgstr "هل أنت متأكد أنك تريد حذف مجموعة"
+
+#: Scripts\User\EditProfile.js:245 Scripts\User\UserManagementProfile.js:263
+msgid "Are you sure you want to delete the profile picture?"
+msgstr "هل أنت متأكد أنك تريد حذف صورة الملف الشخصي؟"
+
+#: Views\UserManagement\UserManagement.cshtml:251
+#: Views\UserManagement\ViewProfile.cshtml:127
+msgid "Are you sure you want to delete the User"
+msgstr "هل أنت متأكد أنك تريد حذف العضو"
+
+#: Views\UserManagement\Index.cshtml:307
+msgid "Are you sure you want to delete the User(s)"
+msgstr "هل أنت متأكد أنك تريد حذف المستخدم (ق)"
+
+#: Views\UserManagement\Index.cshtml:335
+msgid "Are you sure you want to delete the User?"
+msgstr "هل أنت متأكد أنك تريد حذف العضو؟"
+
+#: Views\Permission\_DeletePermission.cshtml:15
+msgid "Are you sure you want to delete this permission?"
+msgstr "هل أنت متأكد أنك تريد حذف هذا إذن؟"
+
+#: Views\Scheduler\_DeleteSchedule.cshtml:14
+msgid "Are you sure you want to delete this schedule"
+msgstr "هل أنت متأكد أنك تريد حذف هذا الجدول"
+
+#: Views\Group\_DeleteGroupUser.cshtml:26
+msgid "Are you sure you want to delete this user from the group?"
+msgstr "هل أنت متأكد أنك تريد حذف هذا المستخدم من المجموعة؟"
+
+#: Views\Accounts\ForgotPassword.cshtml:49
+msgid ""
+"As email settings are not configured, we will not be able to send an email "
+"to reset your password."
+msgstr "كما لا يتم تكوين إعدادات البريد الإلكتروني، ونحن لن تكون قادرة على إرسال بريد إلكتروني إلى إعادة تعيين كلمة المرور الخاصة بك."
+
+#: Views\Items\_DeleteItem.cshtml:53
+msgid "as the Category contains reports."
+msgstr "كما الفئة يحتوي على التقارير."
+
+#: Views\Items\_DeleteItem.cshtml:59
+msgid "as the Data Source is being used by reports."
+msgstr "كما يتم استخدام مصدر البيانات عن طريق التقارير."
+
+#: Views\Items\_DeleteItem.cshtml:56
+msgid "as the Report has schedules."
+msgstr "كما ورد في تقرير لها جداول."
+
+#: Views\UserManagement\Index.cshtml:224
+#: Views\UserManagement\_AddUserInGroup.cshtml:7
+msgid "Assign Group"
+msgstr "المجموعة تعيين"
+
+#: Scripts\Scheduler\Scheduler.js:400
+msgid "August"
+msgstr "أغسطس"
+
+#: Views\Accounts\Login.cshtml:48
+msgid "Authentication Mode"
+msgstr "وضع مصادقة"
+
+#: Views\Reports\_ReportSelectDataSource.cshtml:32
+msgid "Available"
+msgstr "متاح"
+
+#: Views\Shared\_SchedulerDialog.cshtml:260
+msgid "Back"
+msgstr "الى الخلف"
+
+#: Views\Administration\Administration.cshtml:180
+#: Views\Administration\Administration.cshtml:214
+#: Views\Files\_AddFile.cshtml:77
+#: Views\UserManagement\UploadFileFormAction.cshtml:94
+msgid "Browse file path"
+msgstr "مسار الملف الاستعراض"
+
+#: Views\Administration\Administration.cshtml:134
+#: Views\Administration\Administration.cshtml:323
+#: Views\Administration\Administration.cshtml:446
+#: Views\Administration\Administration.cshtml:542
+#: Views\Administration\KerberosAuthentication.cshtml:81
+#: Views\Administration\ScheduleSynchronization.cshtml:220
+#: Views\Category\_AddCategory.cshtml:55 Views\Category\_EditCategory.cshtml:50
+#: Views\DataSources\_AddDataSource.cshtml:22
+#: Views\DataSources\_EditDataSource.cshtml:22 Views\Files\_AddFile.cshtml:95
+#: Views\Files\_EditFile.cshtml:113 Views\Group\_AddGroup.cshtml:60
+#: Views\Items\_CopyItem.cshtml:62 Views\Items\_MoveItem.cshtml:57
+#: Views\Permission\_AddGroupPermission.cshtml:79
+#: Views\Permission\_AddUserPermission.cshtml:77
+#: Views\Reports\_AddReport.cshtml:84 Views\Reports\_EditReport.cshtml:94
+#: Views\Reports\_ReportSelectDataSource.cshtml:26
+#: Views\Shared\_SchedulerDialog.cshtml:218
+#: Views\Shared\_SchedulerDialog.cshtml:260 Views\User\EditPassword.cshtml:82
+#: Views\User\EditProfile.cshtml:126 Views\UserManagement\Index.cshtml:287
+#: Views\UserManagement\_AddUserInGroup.cshtml:24
+msgid "Cancel"
+msgstr "إلغاء"
+
+#: Views\Items\_DeleteItem.cshtml:53 Views\Items\_DeleteItem.cshtml:56
+#: Views\Items\_DeleteItem.cshtml:59
+msgid "Cannot delete"
+msgstr "لا يمكن حذف"
+
+#: Views\Category\Category.cshtml:2 Views\Category\Category.cshtml:17
+#: Views\Permission\GroupPermission.cshtml:2
+#: Views\Permission\UserPermission.cshtml:2
+msgid "Categories"
+msgstr "الفئات"
+
+#: Views\Shared\_FixedLeftSection.cshtml:11
+msgid "CATEGORIES"
+msgstr "الفئات"
+
+#: Scripts\Items\Items.js:152 Views\Items\_ItemAddOptions.cshtml:44
+#: Views\Items\_ItemsGrid.cshtml:13 Views\Reports\_AddReport.cshtml:30
+msgid "Category"
+msgstr "فئة"
+
+#: Views\Category\_AddCategory.cshtml:64
+msgid "Category has been added successfully."
+msgstr "تمت إضافة فئة بنجاح."
+
+#: Scripts\Category\EditCategory.js:111
+msgid "Category has been updated successfully."
+msgstr "تم تحديث فئة بنجاح."
+
+#: Views\Category\_AddCategory.cshtml:29 Views\Category\_EditCategory.cshtml:26
+msgid "Category Name"
+msgstr "اسم التصنيف"
+
+#: Scripts\Category\AddCategory.js:82 Scripts\Category\EditCategory.js:104
+msgid "Category name already exists"
+msgstr "اسم الفئة موجود مسبقا"
+
+#: Views\Accounts\ChangePassword.cshtml:7 Views\User\EditPassword.cshtml:2
+#: Views\User\EditPassword.cshtml:26 Views\User\EditProfile.cshtml:30
+msgid "Change Password"
+msgstr "تغيير كلمة السر"
+
+#: Scripts\User\EditProfile.js:215 Scripts\User\EditProfile.js:232
+#: Scripts\User\UserManagementProfile.js:231
+#: Scripts\User\UserManagementProfile.js:250
+msgid "Change Profile picture"
+msgstr "تغيير الصورة الشخصية"
+
+#: Views\Shared\_ProfilePictureUploadBox.cshtml:7
+msgid "Change Profile Picture"
+msgstr "تغيير صورة الملف الشخصي"
+
+#: Views\Administration\Administration.cshtml:196
+#: Views\Category\_AddCategory.cshtml:43 Views\Category\_EditCategory.cshtml:40
+#: Views\DataSources\_AddDataSource.cshtml:48
+#: Views\DataSources\_EditDataSource.cshtml:44
+#: Views\DataSources\_EditDataSource.cshtml:149 Views\Files\_AddFile.cshtml:69
+#: Views\Files\_EditFile.cshtml:74 Views\Files\_EditFile.cshtml:99
+#: Views\Group\EditGroup.cshtml:166 Views\Group\_AddGroup.cshtml:49
+#: Views\Reports\_AddReport.cshtml:60 Views\Reports\_EditReport.cshtml:60
+#: Views\Reports\_EditReport.cshtml:80
+#: Views\Reports\_ReportSelectDataSource.cshtml:82
+msgid "characters maximum"
+msgstr "حرفا كحد أقصى"
+
+#: Controllers\Items\ReportsController.cs:110
+#: Views\Reports\_AddReport.cshtml:19
+msgid "Choose file"
+msgstr "اختر ملف"
+
+#: Scripts\Core\UMP.Core.js:375
+msgid "Clear"
+msgstr "واضح"
+
+#: Scripts\Scheduler\Scheduler.js:210 Scripts\Scheduler\Scheduler.js:219
+#: Scripts\Scheduler\Scheduler.js:250 Scripts\Scheduler\Scheduler.js:275
+#: Scripts\Scheduler\Scheduler.js:984 Scripts\Scheduler\Scheduler.js:993
+#: Scripts\Scheduler\Scheduler.js:1024 Scripts\Scheduler\Scheduler.js:1049
+msgid "Clear All"
+msgstr "مسح الكل"
+
+#: Views\Accounts\AccountActivation.cshtml:42
+msgid "click"
+msgstr "انقر"
+
+#: Views\Administration\Administration.cshtml:302
+msgid "Click "
+msgstr "انقر "
+
+#: Views\Accounts\CodeConfirmation.cshtml:23
+msgid "click here"
+msgstr "انقر هنا"
+
+#: Views\Items\_CopyItem.cshtml:59 Views\Items\_ItemsGrid.cshtml:99
+msgid "Clone"
+msgstr "استنساخ"
+
+#: Scripts\Items\ItemActions.js:151
+msgid "Clone Report"
+msgstr "استنساخ تقرير"
+
+#: Models\Item.cs:342
+msgid "Cloned from"
+msgstr "المستنسخة من"
+
+#: Views\Category\_AddCategory.cshtml:20 Views\Category\_EditCategory.cshtml:20
+#: Views\DataSources\_AddDataSource.cshtml:16
+#: Views\DataSources\_EditDataSource.cshtml:16 Views\Files\_AddFile.cshtml:46
+#: Views\Files\_EditFile.cshtml:42 Views\Group\_AddGroup.cshtml:31
+#: Views\Items\_CopyItem.cshtml:21 Views\Items\_DeleteItem.cshtml:16
+#: Views\Items\_DeleteItem.cshtml:45 Views\Items\_ItemVersion.cshtml:24
+#: Views\Items\_ItemVersion.cshtml:64 Views\Items\_MoveItem.cshtml:20
+#: Views\Reports\_AddReport.cshtml:23 Views\Reports\_EditReport.cshtml:27
+#: Views\Reports\_ReportSelectDataSource.cshtml:17
+#: Views\Scheduler\_DeleteSchedule.cshtml:9
+#: Views\Shared\_ProfilePictureUploadBox.cshtml:10
+#: Views\Shared\_SchedulerDialog.cshtml:38
+#: Views\UserManagement\Index.cshtml:248
+msgid "Close"
+msgstr "قريب"
+
+#: Views\Shared\_FixedLeftSection.cshtml:68
+msgid "Collapse"
+msgstr "انهيار"
+
+#: Views\Items\_ItemVersion.cshtml:149
+msgid "Comments"
+msgstr "تعليقات"
+
+#: Models\Scheduler\ScheduleManagement.cs:582
+#: Views\Scheduler\Schedules.cshtml:132
+msgid "Completed"
+msgstr "منجز"
+
+#: Views\Administration\Administration.cshtml:462
+msgid "Configuration for connecting to Active Directory"
+msgstr "تكوين لربط إلى Active Directory"
+
+#: Views\Administration\Administration.cshtml:339
+msgid "Configuration for sending emails from the Report Server"
+msgstr "التكوين لإرسال رسائل البريد الإلكتروني من خادم تقرير"
+
+#: Views\Administration\Administration.cshtml:138
+msgid "Configure General Settings of the Reports Server"
+msgstr "تكوين إعدادات عامة من خادم تقارير"
+
+#: Views\Accounts\ChangePassword.cshtml:31
+#: Views\SystemStartUpPage\System.cshtml:113
+#: Views\UserManagement\UserManagement.cshtml:212
+msgid "Confirm password"
+msgstr "تأكيد كلمة المرور"
+
+#: Views\Accounts\AccountActivation.cshtml:31 Views\User\EditPassword.cshtml:64
+msgid "Confirm Password"
+msgstr "تأكيد كلمة المرور"
+
+#: Views\DataSources\_EditDataSource.cshtml:74
+#: Views\Reports\_ReportSelectDataSource.cshtml:112
+msgid "Connect using"
+msgstr "الاتصال باستخدام"
+
+#: Views\DataSources\_AddDataSource.cshtml:78
+msgid "Connect using:"
+msgstr "الاتصال باستخدام:"
+
+#: Controllers\System\SystemStartUpPageController.cs:128
+msgid "Connected successfully."
+msgstr "الاتصال بنجاح."
+
+#: Controllers\Administration\AdministrationController.cs:171
+msgid "Connection Failed"
+msgstr "فشل الاتصال"
+
+#: Models\DataSourceManager.cs:574
+msgid "Connection has been created successfully"
+msgstr "تم إنشاء الاتصال بنجاح"
+
+#: Models\DataSourceManager.cs:516 Models\DataSourceManager.cs:545
+#: Models\DataSourceManager.cs:603 Models\DataSourceManager.cs:633
+#: Models\DataSourceManager.cs:662 Models\DataSourceManager.cs:929
+#: Models\DataSourceManager.cs:982 Models\DataSourceManager.cs:1040
+msgid "Connection has been created successfully."
+msgstr "تم إنشاء الاتصال بنجاح."
+
+#: Views\DataSources\_AddDataSource.cshtml:69
+#: Views\DataSources\_EditDataSource.cshtml:65
+#: Views\Reports\_ReportSelectDataSource.cshtml:103
+msgid "Connection string"
+msgstr "سلسلة الاتصال"
+
+#: Models\DataSourceManager.cs:875
+msgid "Connection string should contain data source and catalog fields"
+msgstr "وينبغي أن يتضمن سلسلة اتصال مصدر البيانات والحقول كتالوج"
+
+#: Models\DataSourceManager.cs:988
+msgid "Connection string should contain datasource"
+msgstr "وينبغي أن يتضمن سلسلة الاتصال مصدر بيانات"
+
+#: Models\DataSourceManager.cs:1046
+msgid "Connection string should contain datasource and initial catalog fields"
+msgstr "وينبغي أن يتضمن سلسلة الاتصال مصدر البيانات والحقول كتالوج الأولية"
+
+#: Models\DataSourceManager.cs:935
+msgid "Connection string should contain server, database and domain fields"
+msgstr "وينبغي أن يتضمن سلسلة اتصال الخادم وقاعدة البيانات والحقول نطاق"
+
+#: Scripts\DataSource\AddDataSource.js:54
+#: Scripts\DataSource\AddDataSource.js:112
+#: Scripts\DataSource\EditDataSource.js:18
+#: Scripts\DataSource\EditDataSource.js:65
+#: Scripts\Report\SelectDataSource.js:38 Scripts\Report\SelectDataSource.js:310
+#: Scripts\Report\SelectDataSource.js:440
+msgid "Connection string should not be empty"
+msgstr "يجب أن سلسلة الاتصال لا تكون فارغة"
+
+#: Scripts\Core\UMP.Core.js:372
+msgid "Contains"
+msgstr "يحتوي على"
+
+#: Models\Item.cs:337
+msgid "Copied from"
+msgstr "نسخ من"
+
+#: Views\Items\_CopyItem.cshtml:55 Views\Items\_ItemsGrid.cshtml:92
+msgid "Copy"
+msgstr "نسخ"
+
+#: Scripts\Items\ItemActions.js:117
+msgid "Copy Report"
+msgstr "نسخة تقرير"
+
+#: Views\Accounts\AccountActivation.cshtml:62
+#: Views\Accounts\ChangePassword.cshtml:59
+#: Views\Accounts\CodeConfirmation.cshtml:43
+#: Views\Accounts\ForgotPassword.cshtml:72 Views\Accounts\Login.cshtml:105
+#: Views\Shared\_Layout.cshtml:176 Views\SystemStartUpPage\System.cshtml:131
+msgid "Copyright"
+msgstr "حق النشر"
+
+#: Views\Items\_ItemAddOptions.cshtml:7
+#: Views\Permission\_AddGroupPermission.cshtml:50
+#: Views\Permission\_AddUserPermission.cshtml:49
+msgid "Create"
+msgstr "خلق"
+
+#: Views\Items\_ItemAddOptions.cshtml:8
+msgid "CREATE"
+msgstr "خلق"
+
+#: Views\Group\Group.cshtml:206
+msgid "Create Group"
+msgstr "إنشاء مجموعة"
+
+#: Views\Accounts\AccountActivation.cshtml:21
+#: Views\Accounts\ChangePassword.cshtml:15
+msgid "Create new password"
+msgstr "إنشاء كلمة مرور جديدة"
+
+#: Views\UserManagement\Index.cshtml:199
+msgid "Create User"
+msgstr "إنشاء مستخدم"
+
+#: Views\Reports\_ReportSelectDataSource.cshtml:42
+msgid "Created By"
+msgstr "تم إنشاؤها بواسطة"
+
+#: Views\DataSources\_AddDataSource.cshtml:136
+#: Views\DataSources\_EditDataSource.cshtml:132
+#: Views\Reports\_ReportSelectDataSource.cshtml:170
+msgid "Credentials are not required"
+msgstr "ليس مطلوبا من أوراق اعتماد"
+
+#: Scripts\DataSource\AddDataSource.js:115
+#: Scripts\DataSource\AddDataSource.js:119
+#: Scripts\DataSource\EditDataSource.js:29
+#: Scripts\DataSource\EditDataSource.js:68
+#: Scripts\DataSource\EditDataSource.js:72
+#: Scripts\Report\SelectDataSource.js:49 Scripts\Report\SelectDataSource.js:76
+#: Scripts\Report\SelectDataSource.js:80 Scripts\Report\SelectDataSource.js:323
+#: Scripts\Report\SelectDataSource.js:447
+msgid "Credentials are required"
+msgstr "يرجى ملء أوراق اعتماد"
+
+#: Views\DataSources\_AddDataSource.cshtml:100
+#: Views\DataSources\_EditDataSource.cshtml:96
+#: Views\Reports\_ReportSelectDataSource.cshtml:134
+msgid "Credentials stored securely in the report server"
+msgstr "تخزين بيانات الاعتماد بأمان في الملقم التقرير"
+
+#: Views\DataSources\_AddDataSource.cshtml:84
+#: Views\DataSources\_EditDataSource.cshtml:80
+#: Views\Reports\_ReportSelectDataSource.cshtml:118
+msgid "Credentials supplied by the user running the report"
+msgstr "الاعتماد المقدمة من قبل المستخدم تشغيل التقرير"
+
+#: Views\User\EditPassword.cshtml:35
+msgid "Current Password"
+msgstr "كلمة السر الحالية"
+
+#: Scripts\Scheduler\Scheduler.js:336
+msgid "Daily"
+msgstr "يومي"
+
+#: Views\Items\_ItemAddOptions.cshtml:26
+#: Views\Reports\_ReportSelectDataSource.cshtml:41
+msgid "Data Source"
+msgstr "مصدر البيانات"
+
+#: Scripts\DataSource\AddDataSource.js:225
+msgid "Data Source has been added successfully."
+msgstr "تمت إضافة مصدر البيانات بنجاح."
+
+#: Scripts\DataSource\EditDataSource.js:260
+msgid "Data Source has been updated successfully."
+msgstr "تم تحديث بيانات المصدر بنجاح."
+
+#: Scripts\DataSource\AddDataSource.js:219
+#: Scripts\DataSource\EditDataSource.js:254
+#: Scripts\Report\SelectDataSource.js:268
+msgid "Data Source name already exists"
+msgstr "اسم مصدر البيانات موجود مسبقا"
+
+#: Views\DataSources\_AddDataSource.cshtml:53
+#: Views\DataSources\_EditDataSource.cshtml:49
+#: Views\Reports\_ReportSelectDataSource.cshtml:87
+msgid "Data Source type"
+msgstr "نوع مصدر البيانات"
+
+#: Views\DataSources\DataSources.cshtml:2
+msgid "Data Sources"
+msgstr "مصادر البيانات"
+
+#: Views\DataSources\DataSources.cshtml:22 Views\Shared\_Layout.cshtml:53
+msgid "DATA SOURCES"
+msgstr "مصادر البيانات"
+
+#: Views\SystemStartUpPage\System.cshtml:69
+msgid "Database name"
+msgstr "اسم قاعدة البيانات"
+
+#: Controllers\System\SystemStartUpPageController.cs:175
+msgid "Database name is already exist"
+msgstr "اسم قاعدة البيانات موجودة بالفعل"
+
+#: Views\Items\_ItemVersion.cshtml:157 Views\Items\_ItemVersion.cshtml:166
+#: Views\Items\_ItemVersion.cshtml:211 Views\Items\_ItemVersion.cshtml:220
+msgid "Date"
+msgstr "تاريخ"
+
+#: Views\Administration\Administration.cshtml:271
+msgid "Date format"
+msgstr "صيغة التاريخ"
+
+#: Scripts\Scheduler\Scheduler.js:353
+msgid "day"
+msgstr "يوم"
+
+#: Views\Administration\ScheduleSynchronization.cshtml:128
+#: Views\Shared\_SchedulerDialog.cshtml:107
+msgid "Day"
+msgstr "يوم"
+
+#: Views\Administration\ScheduleSynchronization.cshtml:70
+#: Views\Shared\_SchedulerDialog.cshtml:63
+msgid "day(s)"
+msgstr "أيام)"
+
+#: Scripts\Administration\ScheduleSynchronization.js:26
+#: Scripts\Scheduler\Scheduler.js:44 Scripts\Scheduler\Scheduler.js:823
+msgid "days"
+msgstr "أيام"
+
+#: Views\Administration\Administration.cshtml:505
+msgid "DC=example,DC=com"
+msgstr "DC = سبيل المثال، DC = كوم"
+
+#: Scripts\Scheduler\Scheduler.js:404
+msgid "December"
+msgstr "ديسمبر"
+
+#: Views\Group\Group.cshtml:71 Views\Items\_DeleteItem.cshtml:13
+#: Views\Items\_DeleteItem.cshtml:42 Views\Items\_ItemsGrid.cshtml:151
+#: Views\Scheduler\Schedules.cshtml:190 Views\Scheduler\Schedules.cshtml:192
+#: Views\Shared\_FixedLeftSection.cshtml:46
+#: Views\UserManagement\Index.cshtml:79
+msgid "Delete"
+msgstr "حذف"
+
+#: Scripts\Group\Group.js:163 Scripts\Group\Group.js:167
+#: Views\Group\EditGroup.cshtml:85 Views\Group\EditGroup.cshtml:146
+#: Views\Group\Group.cshtml:164 Views\Group\ViewGroup.cshtml:116
+#: Views\Group\_DeleteConfirm.cshtml:27
+msgid "Delete Group"
+msgstr "حذف المجموعة"
+
+#: Views\Group\AddUsers.cshtml:26
+msgid "DELETE GROUP"
+msgstr "حذف المجموعة"
+
+#: Views\Permission\_DeletePermission.cshtml:6
+msgid "Delete Permission"
+msgstr "حذف إذن"
+
+#: Scripts\User\EditProfile.js:219 Scripts\User\UserManagementProfile.js:237
+#: Views\User\EditProfile.cshtml:45
+#: Views\UserManagement\UserManagement.cshtml:56
+msgid "Delete profile picture"
+msgstr "حذف صورة الملف الشخصي"
+
+#: Scripts\User\EditProfile.js:245 Scripts\User\UserManagementProfile.js:263
+msgid "Delete Profile Picture"
+msgstr "حذف صورة الملف الشخصي"
+
+#: Views\Scheduler\_DeleteSchedule.cshtml:6
+msgid "Delete Schedule"
+msgstr "حذف الجدول"
+
+#: Scripts\User\UserManagement.js:719 Scripts\User\UserManagement.js:726
+#: Views\Group\_DeleteGroupUser.cshtml:15 Views\UserManagement\Index.cshtml:223
+#: Views\UserManagement\Index.cshtml:298 Views\UserManagement\Index.cshtml:326
+#: Views\UserManagement\UserManagement.cshtml:33
+#: Views\UserManagement\UserManagement.cshtml:242
+#: Views\UserManagement\ViewProfile.cshtml:47
+#: Views\UserManagement\ViewProfile.cshtml:118
+msgid "Delete User"
+msgstr "حذف العضو"
+
+#: Scripts\User\UserManagement.js:565 Scripts\User\UserManagement.js:578
+msgid "Delete User(s)"
+msgstr "حذف المستخدم (ق)"
+
+#: Models\Item.cs:319
+msgid "Deleted"
+msgstr "تم الحذف"
+
+#: Views\Category\_AddCategory.cshtml:39 Views\Category\_EditCategory.cshtml:36
+#: Views\DataSources\_AddDataSource.cshtml:43
+#: Views\DataSources\_EditDataSource.cshtml:39 Views\Files\_AddFile.cshtml:65
+#: Views\Files\_EditFile.cshtml:70
+#: Views\Group\ActiveDirectoryGroupImport.cshtml:51
+#: Views\Group\AddUsers.cshtml:74 Views\Group\EditGroup.cshtml:162
+#: Views\Group\Group.cshtml:179 Views\Group\ViewGroup.cshtml:132
+#: Views\Group\_AddGroup.cshtml:45 Views\Items\_ItemsGrid.cshtml:10
+#: Views\Reports\_AddReport.cshtml:57 Views\Reports\_EditReport.cshtml:56
+#: Views\Reports\_ReportSelectDataSource.cshtml:77
+#: Views\UserManagement\_AddUserInGroup.cshtml:15
+msgid "Description"
+msgstr "وصف"
+
+#: Views\Group\ActiveDirectoryGroupImport.cshtml:128
+#: Views\UserManagement\ActiveDirectoryUserImport.cshtml:127
+msgid "Directory Path"
+msgstr "مسار الدليل"
+
+#: Views\Scheduler\Schedules.cshtml:162 Views\Scheduler\Schedules.cshtml:164
+msgid "Disable"
+msgstr "تعطيل"
+
+#: Views\Administration\Administration.cshtml:258
+msgid "Display"
+msgstr "عرض"
+
+#: Views\Reports\_ReportSelectDataSource.cshtml:121
+msgid "Display the following text to prompt user for a username and password"
+msgstr "عرض النص التالي إلى المستخدم الفوري لاسم المستخدم وكلمة المرور"
+
+#: Views\DataSources\_AddDataSource.cshtml:87
+#: Views\DataSources\_EditDataSource.cshtml:83
+msgid "Display the following text to prompt user for a username and password:"
+msgstr "عرض النص التالي إلى المستخدم الفوري لاسم المستخدم وكلمة المرور:"
+
+#: Views\Administration\Administration.cshtml:503
+msgid "Distinguished Name"
+msgstr "الاسم المميز"
+
+#: Views\Items\_ItemsGrid.cshtml:77 Views\Items\_ItemVersion.cshtml:93
+msgid "Download"
+msgstr "تحميل"
+
+#: Views\Administration\KerberosAuthentication.cshtml:35
+msgid ""
+"Download and run the .bat file (Administration Mode) in the Windows Server, "
+"where you have Active Directory Domain Services role installed"
+msgstr "تحميل وتشغيل ملف .bat (وضع الإدارة) في ويندوز سيرفر، حيث لديك دور خدمات مجال Active Directory تثبيت"
+
+#: Views\Items\_ItemsGrid.cshtml:75
+msgid "Download Report"
+msgstr "حمل تقرير"
+
+#: Views\Items\_ItemsGrid.cshtml:131
+msgid "Download Report Designer"
+msgstr "حمل تقرير مصمم"
+
+#: Views\UserManagement\UploadFileFormAction.cshtml:84
+msgid "Download sample template"
+msgstr "تحميل قالب نموذج"
+
+#: Views\User\UserCSVUpload.cshtml:24
+#: Views\UserManagement\UploadFileFormAction.cshtml:84
+msgid "Download Template"
+msgstr "قالب تحميل"
+
+#: Models\Group\GroupModels.cs:189
+msgid "duplicate group(s) exists"
+msgstr "مجموعة مكررة (ق) موجود"
+
+#: Scripts\Group\ActiveDirectoryGroupImport.js:79
+#: Views\Group\ActiveDirectoryGroupImport.cshtml:155
+#: Views\UserManagement\ActiveDirectoryUserImport.cshtml:152
+msgid ""
+"Duplicate or Invalid data is found. Please change the data accordingly and "
+"re-import."
+msgstr "مكررة أو تم العثور على بيانات غير صالح. يرجى تغيير البيانات وفقا لذلك وإعادة استيراد."
+
+#: Scripts\User\UserManagement.js:680
+#: Views\UserManagement\UploadFileFormAction.cshtml:119
+msgid ""
+"Duplicate or Invalid data is found. Please change the data accordingly and "
+"re-upload the file."
+msgstr "مكررة أو تم العثور على بيانات غير صالح. يرجى تغيير البيانات وفقا لذلك وإعادة تحميل الملف."
+
+#: Models\UserManagementModel.cs:1197
+msgid "duplicate user(s) exists"
+msgstr "المستخدم مكررة (ق) موجود"
+
+#: Scripts\User\ActiveDirectoryUserImport.js:92
+msgid "duplicate user(s) exists."
+msgstr "المستخدم مكررة (ق) موجود."
+
+#: Views\Scheduler\Schedules.cshtml:181 Views\Scheduler\Schedules.cshtml:183
+msgid "Edit"
+msgstr "تحرير"
+
+#: Scripts\Group\EditGroup.js:70 Views\Group\ViewGroup.cshtml:112
+#: Views\Permission\GroupPermission.cshtml:34
+msgid "Edit Group"
+msgstr "تحرير المجموعة"
+
+#: Views\Permission\UserPermission.cshtml:34 Views\User\EditProfile.cshtml:2
+#: Views\User\Profile.cshtml:24 Views\UserManagement\ViewProfile.cshtml:44
+msgid "Edit Profile"
+msgstr "تعديل الملف الشخصي"
+
+#: Views\User\EditProfile.cshtml:44
+#: Views\UserManagement\UserManagement.cshtml:53
+msgid "Edit profile picture"
+msgstr "الصورة تعديل الملف الشخصي"
+
+#: Scripts\Administration\ScheduleSynchronization.js:153
+#: Scripts\Scheduler\Scheduler.js:174 Scripts\Scheduler\Scheduler.js:177
+#: Scripts\Scheduler\Scheduler.js:180 Scripts\Scheduler\Scheduler.js:950
+#: Scripts\Scheduler\Scheduler.js:953 Scripts\Scheduler\Scheduler.js:956
+msgid "effective"
+msgstr "فعال"
+
+#: Views\SystemStartUpPage\System.cshtml:102 Views\User\Profile.cshtml:52
+#: Views\UserManagement\Index.cshtml:262 Views\UserManagement\Index.cshtml:264
+#: Views\UserManagement\UserManagement.cshtml:107
+#: Views\UserManagement\UserManagement.cshtml:114
+#: Views\UserManagement\ViewProfile.cshtml:78
+msgid "Email address"
+msgstr "عنوان البريد الإلكتروني"
+
+#: Views\Group\EditGroup.cshtml:115 Views\Group\ViewGroup.cshtml:92
+#: Views\UserManagement\ActiveDirectoryUserImport.cshtml:49
+#: Views\UserManagement\Index.cshtml:49
+#: Views\UserManagement\SynchronizeUsers.cshtml:37
+#: Views\UserManagement\UploadFileFormAction.cshtml:27
+msgid "Email Address"
+msgstr "عنوان البريد الإلكتروني"
+
+#: Controllers\UserController.cs:158 Models\UserManagementModel.cs:753
+#: Models\UserManagementModel.cs:880 Models\UserManagementModel.cs:896
+#: Models\UserManagementModel.cs:1142
+#: Controllers\Administration\UserManagementController.cs:334
+#: Scripts\Scheduler\Scheduler.js:1410 Scripts\User\UserManagement.js:193
+msgid "Email address already exists"
+msgstr "عنوان البريد الإلكتروني موجود بالفعل"
+
+#: Models\UserManagementModel.cs:1146
+msgid "Email address already exists in list"
+msgstr "عنوان البريد الإلكتروني موجود بالفعل في قائمة"
+
+#: Models\UserManagementModel.cs:757
+msgid "Email address already exists in the list"
+msgstr "عنوان البريد الإلكتروني موجود بالفعل في القائمة"
+
+#: Models\UserManagementModel.cs:749 Models\UserManagementModel.cs:1138
+msgid "Email address is Invalid"
+msgstr "عنوان البريد الإلكتروني غير صالح"
+
+#: Models\UserManagementModel.cs:847
+msgid "Email address should not be empty"
+msgstr "يجب أن عنوان البريد الإلكتروني لا تكون فارغة"
+
+#: Controllers\Accounts\AccountsController.cs:571
+msgid "Email resent successfully."
+msgstr "البريد الإلكتروني تستاء بنجاح."
+
+#: Views\Shared\_FixedLeftSection.cshtml:79
+msgid "Email Settings"
+msgstr "إعدادات البريد الإلكتروني"
+
+#: Views\Administration\Administration.cshtml:334
+#: Views\Shared\_FixedLeftSection.cshtml:83
+msgid "EMAIL SETTINGS"
+msgstr "إعدادات البريد الإلكتروني"
+
+#: Views\SystemStartUpPage\System.cshtml:33
+msgid "Embedded"
+msgstr "المضمنة"
+
+#: Views\Scheduler\Schedules.cshtml:171 Views\Scheduler\Schedules.cshtml:173
+msgid "Enable"
+msgstr "تمكين"
+
+#: Views\Administration\ScheduleSynchronization.cshtml:34
+msgid "Enable Active Directory Scheduled Synchronization"
+msgstr "تمكين دليل مجدولة التزامن النشط"
+
+#: Views\Administration\Administration.cshtml:433
+#: Views\Administration\Administration.cshtml:512
+msgid "Enable SSL"
+msgstr "تمكين SSL"
+
+#: Views\Shared\_SchedulerDialog.cshtml:214
+msgid "Enabled"
+msgstr "تمكين"
+
+#: Views\Shared\_SchedulerDialog.cshtml:188
+msgid "Ends"
+msgstr "ينتهي"
+
+#: Scripts\Core\UMP.Core.js:372
+msgid "EndsWith"
+msgstr "EndsWith"
+
+#: Views\SystemStartUpPage\System.cshtml:83
+msgid "Enter your details to create a system administrator account."
+msgstr "إدخال التفاصيل الخاصة بك لإنشاء حساب مسؤول النظام."
+
+#: Views\Administration\Administration.cshtml:145
+msgid "Enter your Organization Name"
+msgstr "أدخل اسم منظمتكم"
+
+#: Views\Administration\Administration.cshtml:158
+msgid "Enter your URL"
+msgstr "أدخل عنوان موقعك"
+
+#: Views\Accounts\ForgotPassword.cshtml:29
+msgid ""
+"Enter your username or email address and we will send you a link to reset "
+"your password."
+msgstr "أدخل اسم المستخدم أو عنوان البريد الإلكتروني الخاص بك وسوف نرسل لك رابطا لإعادة تعيين كلمة المرور الخاصة بك."
+
+#: Views\Permission\GroupPermission.cshtml:70
+#: Views\Permission\UserPermission.cshtml:74
+#: Views\Permission\_AddGroupPermission.cshtml:55
+#: Views\Permission\_AddUserPermission.cshtml:54
+msgid "Entity"
+msgstr "كيان"
+
+#: Scripts\Core\UMP.Core.js:372
+msgid "Equal"
+msgstr "متساوي"
+
+#: Views\UserManagement\UploadFileFormAction.cshtml:33
+msgid "Error"
+msgstr "خطأ"
+
+#: Models\DataSourceManager.cs:116
+msgid "Error while adding data source"
+msgstr "خطأ ما اثناء اضافة مصدر البيانات"
+
+#: Models\DataSourceManager.cs:107 Models\DataSourceManager.cs:172
+msgid "Error while adding file"
+msgstr "خطأ أثناء إضافة ملف"
+
+#: Scripts\DataSource\AddDataSource.js:236
+#: Scripts\Report\SelectDataSource.js:279
+msgid "Error while creating data source"
+msgstr "خطأ أثناء إنشاء مصدر البيانات"
+
+#: Scripts\DataSource\EditDataSource.js:269
+msgid "Error while updating data source"
+msgstr "خطأ أثناء تحديث مصدر البيانات"
+
+#: Scripts\Report\AddRdlReport.js:491
+msgid "Error while uploading report. Please try again."
+msgstr "حدث خطأ أثناء تحميل التقرير. حاول مرة اخرى."
+
+#: Views\Items\_ItemVersion.cshtml:197
+msgid "Event"
+msgstr "حدث"
+
+#: Views\Administration\ScheduleSynchronization.cshtml:66
+#: Views\Administration\ScheduleSynchronization.cshtml:164
+#: Views\Shared\_SchedulerDialog.cshtml:61
+#: Views\Shared\_SchedulerDialog.cshtml:76
+#: Views\Shared\_SchedulerDialog.cshtml:137
+msgid "Every"
+msgstr "كل"
+
+#: Views\Administration\ScheduleSynchronization.cshtml:76
+#: Views\Shared\_SchedulerDialog.cshtml:67
+msgid "Every weekday"
+msgstr "كل ايام الاسبوع"
+
+#: Views\Shared\_SchedulerDialog.cshtml:249
+msgid "Excel"
+msgstr "تفوق"
+
+#: Views\UserManagement\_AddUserInGroup.cshtml:22
+msgid "Existing Group"
+msgstr "المجموعة الحالية"
+
+#: Views\Shared\_FixedLeftSection.cshtml:66
+msgid "Expand"
+msgstr "وسع"
+
+#: Scripts\Scheduler\Scheduler.js:1122
+msgid "External Recipient(s)"
+msgstr "مستلم خارجي (الصورة)"
+
+#: Views\Shared\_SchedulerDialog.cshtml:229
+msgid "External Recipients (Email address)"
+msgstr "المستلمين خارجي (عنوان البريد الإلكتروني)"
+
+#: Scripts\Report\AddRdlReport.js:330 Scripts\Report\AddRdlReport.js:336
+#: Scripts\Report\AddRdlReport.js:357 Scripts\Report\AddRdlReport.js:363
+msgid "Failed to add report. Please try again later."
+msgstr "فشل في إضافة التقرير. الرجاء معاودة المحاولة في وقت لاحق."
+
+#: Scripts\Group\Group.js:167
+msgid "Failed to delete group, please try again later."
+msgstr "فشلت في حذف المجموعة، يرجى المحاولة مرة أخرى في وقت لاحق."
+
+#: Scripts\User\UserManagement.js:578
+msgid "Failed to delete user(s), please try again later."
+msgstr "فشلت في حذف المستخدم (ق)، يرجى المحاولة مرة أخرى في وقت لاحق."
+
+#: Scripts\User\UserManagement.js:726
+msgid "Failed to delete user, please try again later."
+msgstr "فشلت في حذف المستخدم، يرجى المحاولة مرة أخرى في وقت لاحق."
+
+#: Scripts\Report\AddRdlReport.js:274 Scripts\Report\AddRdlReport.js:280
+msgid "Failed to update report. Please try again later."
+msgstr "فشل في تحديث التقرير. الرجاء معاودة المحاولة في وقت لاحق."
+
+#: Scripts\User\EditProfile.js:232 Scripts\User\UserManagementProfile.js:250
+msgid "Failed to update the Profile picture, try again later."
+msgstr "فشل لتحديث الصورة الشخصية، حاول مرة أخرى في وقت لاحق."
+
+#: Views\Administration\Administration.cshtml:233
+msgid "Favicon"
+msgstr "فافيكون"
+
+#: Scripts\Scheduler\Scheduler.js:394
+msgid "February"
+msgstr "فبراير"
+
+#: Views\UserManagement\UploadFileFormAction.cshtml:92
+msgid "file"
+msgstr "ملف"
+
+#: Views\Files\_AddFile.cshtml:74 Views\Files\_EditFile.cshtml:80
+#: Views\Items\_ItemAddOptions.cshtml:35
+msgid "File"
+msgstr "ملف"
+
+#: Views\Files\_AddFile.cshtml:115
+msgid "File has been added successfully."
+msgstr "تمت إضافة الملف بنجاح."
+
+#: Views\Items\_ItemVersion.cshtml:34
+msgid "File Logs"
+msgstr "سجلات ملف"
+
+#: Scripts\File\AddFile.js:118
+msgid "File name already exists"
+msgstr "اسم الملف موجود بالفعل"
+
+#: Views\Files\Files.cshtml:2
+msgid "Files"
+msgstr "ملفات"
+
+#: Views\Files\Files.cshtml:22 Views\Shared\_Layout.cshtml:60
+msgid "FILES"
+msgstr "ملفات"
+
+#: Scripts\Core\UMP.Core.js:374
+msgid "Filter"
+msgstr "فلتر"
+
+#: Scripts\Core\UMP.Core.js:373
+msgid "Filter Value"
+msgstr "القيمة فلتر"
+
+#: Scripts\Scheduler\Scheduler.js:387
+msgid "first"
+msgstr "الأول"
+
+#: Views\SystemStartUpPage\System.cshtml:94 Views\User\EditProfile.cshtml:56
+#: Views\User\Profile.cshtml:44 Views\UserManagement\Index.cshtml:269
+#: Views\UserManagement\Index.cshtml:271
+#: Views\UserManagement\UserManagement.cshtml:72
+#: Views\UserManagement\UserManagement.cshtml:79
+#: Views\UserManagement\ViewProfile.cshtml:70
+msgid "First name"
+msgstr "الاسم الاول"
+
+#: Views\UserManagement\ActiveDirectoryUserImport.cshtml:46
+msgid "First Name"
+msgstr "الاسم الاول"
+
+#: Views\Administration\Administration.cshtml:165
+msgid "for more details."
+msgstr "لمزيد من التفاصيل."
+
+#: Views\SystemStartUpPage\System.cshtml:33
+msgid "For testing purpose only"
+msgstr "لاختبار الغرض فقط"
+
+#: Views\Accounts\CodeConfirmation.cshtml:19 Views\Accounts\Login.cshtml:71
+msgid "Forgot your password?"
+msgstr "نسيت رقمك السري؟"
+
+#: Views\Shared\_SchedulerDialog.cshtml:238
+msgid "Format"
+msgstr "شكل"
+
+#: Scripts\Scheduler\Scheduler.js:390
+msgid "fourth"
+msgstr "رابع"
+
+#: Scripts\Scheduler\Scheduler.js:379
+#: Views\Administration\ScheduleSynchronization.cshtml:111
+#: Views\Shared\_SchedulerDialog.cshtml:94
+msgid "Friday"
+msgstr "الجمعة"
+
+#: Views\Shared\_Layout.cshtml:97
+msgid "General"
+msgstr "جنرال لواء"
+
+#: Views\Administration\KerberosAuthentication.cshtml:82
+msgid "Generate and download .bat file"
+msgstr "إنشاء وتنزيل ملف .bat"
+
+#: Views\Administration\KerberosAuthentication.cshtml:82
+msgid "Generate and Download .bat File"
+msgstr "توليد وتحميل ملف .bat"
+
+#: Scripts\Core\UMP.Core.js:379
+msgid "Go to first page"
+msgstr "الذهاب إلى الصفحة الأولى"
+
+#: Scripts\Core\UMP.Core.js:380
+msgid "Go to last page"
+msgstr "الذهاب إلى الصفحة الأخيرة"
+
+#: Scripts\Core\UMP.Core.js:381
+msgid "Go to next page"
+msgstr "الانتقال إلى الصفحة التالية"
+
+#: Scripts\Core\UMP.Core.js:382
+msgid "Go to previous page"
+msgstr "الانتقال إلى الصفحة السابقة"
+
+#: Scripts\Group\EditGroup.js:79 Scripts\Group\Group.js:58
+#: Scripts\User\UserManagement.js:334
+msgid "Group already exists with this name"
+msgstr "مجموعة موجود بالفعل بهذا الاسم"
+
+#: Controllers\Administration\UserManagementController.cs:709
+msgid "Group creation has been failed."
+msgstr "وقد فشل إنشاء المجموعة."
+
+#: Controllers\Administration\UserManagementController.cs:712
+msgid "Group has been created successfully."
+msgstr "تم إنشاء المجموعة بنجاح."
+
+#: Scripts\Group\Group.js:163
+msgid "Group has been deleted successfully."
+msgstr "تم حذف المجموعة بنجاح."
+
+#: Controllers\Group\GroupController.cs:246 Scripts\Group\EditGroup.js:70
+msgid "Group has been updated successfully."
+msgstr "تم تحديث المجموعة بنجاح."
+
+#: Views\Group\ActiveDirectoryGroupImport.cshtml:54
+msgid "group id"
+msgstr "معرف مجموعة"
+
+#: Views\Group\EditGroup.cshtml:157 Views\Group\_AddGroup.cshtml:40
+#: Views\UserManagement\_AddUserInGroup.cshtml:14
+msgid "Group name"
+msgstr "اسم المجموعة"
+
+#: Scripts\Group\ActiveDirectoryGroupImport.js:66
+#: Scripts\Group\SynchronizeGroups.js:122 Views\Group\AddUsers.cshtml:48
+#: Views\UserManagement\_AddUserInGroup.cshtml:18
+msgid "Group Name"
+msgstr "اسم المجموعة"
+
+#: Controllers\Group\GroupController.cs:241
+msgid "Group Name already exist"
+msgstr "اسم المجموعة موجودة بالفعل"
+
+#: Controllers\Administration\UserManagementController.cs:684
+#: Models\Group\GroupModels.cs:134 Models\Group\GroupModels.cs:271
+msgid "Group name already exists"
+msgstr "اسم المجموعة موجود بالفعل"
+
+#: Models\Group\GroupModels.cs:122 Models\Group\GroupModels.cs:250
+msgid "Group name should not be empty"
+msgstr "لا ينبغي أن يكون اسم المجموعة فارغا"
+
+#: Scripts\Scheduler\Scheduler.js:1122
+msgid "Group(s)"
+msgstr "مجموعة (ق)"
+
+#: Models\Group\GroupModels.cs:184
+msgid "group(s) are deleted."
+msgstr "يتم حذف مجموعة (ق)."
+
+#: Models\Group\GroupModels.cs:180
+msgid "group(s) details are modified."
+msgstr "تم تعديل مجموعة (ق) التفاصيل."
+
+#: Scripts\Group\ActiveDirectoryGroupImport.js:84
+#: Views\Group\ActiveDirectoryGroupImport.cshtml:154
+msgid "group(s) has been imported successfully."
+msgstr "تم استيراد مجموعة (ق) بنجاح."
+
+#: Models\Group\GroupModels.cs:189
+msgid "Groupname already exists"
+msgstr "اسم المجموعة موجود بالفعل"
+
+#: Views\Group\ActiveDirectoryGroup.cshtml:163
+#: Views\Group\ActiveDirectoryGroupImport.cshtml:105
+#: Views\Group\ActiveDirectoryGroupImport.cshtml:184
+#: Views\Group\EditGroup.cshtml:2 Views\Group\Group.cshtml:2
+#: Views\Group\ViewGroup.cshtml:2 Views\Group\ViewGroup.cshtml:101
+#: Views\Permission\GroupPermission.cshtml:24
+#: Views\Shared\_FixedLeftSection.cshtml:103 Views\User\Profile.cshtml:63
+#: Views\UserManagement\ViewProfile.cshtml:89
+msgid "Groups"
+msgstr "المجموعات"
+
+#: Views\Group\Group.cshtml:188 Views\Shared\_FixedLeftSection.cshtml:107
+msgid "GROUPS"
+msgstr "فئات"
+
+#: Scripts\Permission\GroupPermission.js:139
+#: Scripts\Permission\Permission.js:139
+msgid "has been added successfully."
+msgstr "تمت إضافة بنجاح."
+
+#: Scripts\Items\Items.js:151
+msgid "has been deleted successfully."
+msgstr "قد تم حذفه بنجاح."
+
+#: Scripts\Scheduler\ScheduleListing.js:140
+msgid "has been started successfully."
+msgstr "وقد بدأت بنجاح."
+
+#: Views\Accounts\AccountActivation.cshtml:42
+#: Views\Administration\Administration.cshtml:165
+#: Views\Administration\Administration.cshtml:302
+msgid "here"
+msgstr "هنا"
+
+#: Views\Administration\KerberosAuthentication.cshtml:63
+msgid "Host Domain name"
+msgstr "استضافة اسم النطاق"
+
+#: Views\Administration\KerberosAuthentication.cshtml:61
+msgid "Host Domain name "
+msgstr "استضافة اسم النطاق "
+
+#: Views\Shared\_SchedulerDialog.cshtml:253
+msgid "HTML"
+msgstr "HTML"
+
+#: Views\Accounts\CodeConfirmation.cshtml:23
+msgid "If it does not arrive,"
+msgstr "إذا كان لا يصل،"
+
+#: Views\Administration\Administration.cshtml:177
+#: Views\Administration\Administration.cshtml:211
+#: Views\Administration\Administration.cshtml:235
+msgid "Image"
+msgstr "صورة"
+
+#: Views\DataSources\_AddDataSource.cshtml:127
+#: Views\DataSources\_EditDataSource.cshtml:123
+#: Views\Reports\_ReportSelectDataSource.cshtml:161
+msgid ""
+"Impersonate the authenticated user after a connection has been made to the "
+"Data Source"
+msgstr "انتحال صفة مستخدم مصادق بعد أن تم إجراء اتصال إلى مصدر البيانات"
+
+#: Views\UserManagement\ActiveDirectoryUserImport.cshtml:122
+msgid "Import and Activate"
+msgstr "استيراد وتنشيط"
+
+#: Views\Group\Group.cshtml:213 Views\UserManagement\Index.cshtml:211
+msgid "Import from Active Directory"
+msgstr "استيراد من Active Directory"
+
+#: Views\UserManagement\Index.cshtml:205
+msgid "Import from csv"
+msgstr "الاستيراد من CSV"
+
+#: Scripts\Group\ActiveDirectoryGroupImport.js:66
+msgid "Import Group - Status"
+msgstr "المجموعة استيراد - الحالة"
+
+#: Views\Group\ActiveDirectoryGroupImport.cshtml:119
+msgid "Import groups"
+msgstr "استيراد المجموعات"
+
+#: Views\Group\ActiveDirectoryGroupImport.cshtml:111
+#: Views\Group\ActiveDirectoryGroupImport.cshtml:190
+msgid "IMPORT GROUPS"
+msgstr "فئات استيراد"
+
+#: Views\Group\Group.cshtml:211
+msgid "Import groups from Active Directory"
+msgstr "استيراد المجموعات من Active Directory"
+
+#: Views\Group\ActiveDirectoryGroupImport.cshtml:119
+msgid "Import the selected groups from the list"
+msgstr "استيراد مجموعات مختارة من القائمة"
+
+#: Views\UserManagement\UploadFileFormAction.cshtml:87
+msgid "Import Users"
+msgstr "استيراد المستخدمين"
+
+#: Views\UserManagement\ActiveDirectoryUserImport.cshtml:115
+#: Views\UserManagement\ActiveDirectoryUserImport.cshtml:187
+#: Views\UserManagement\UploadFileFormAction.cshtml:80
+msgid "IMPORT USERS"
+msgstr "استيراد المستخدمين"
+
+#: Views\UserManagement\Index.cshtml:209
+msgid "Import users from Active Directory"
+msgstr "استيراد المستخدمين من Active Directory"
+
+#: Views\UserManagement\Index.cshtml:203
+msgid "Import users from csv"
+msgstr "المستخدمين الاستيراد من CSV"
+
+#: Scripts\User\UserManagement.js:127 Scripts\User\UserManagement.js:632
+#: Scripts\User\UserManagement.js:680 Scripts\User\UserManagement.js:687
+msgid "Import users from CSV"
+msgstr "المستخدمين الاستيراد من CSV"
+
+#: Views\Scheduler\Schedules.cshtml:129 Views\UserManagement\Index.cshtml:42
+#: Views\UserManagement\UserManagement.cshtml:143
+#: Views\UserManagement\UserManagement.cshtml:159
+msgid "Inactive"
+msgstr "غير نشط"
+
+#: Views\Group\AddUsers.cshtml:34
+msgid "Info"
+msgstr "معلومات"
+
+#: Views\Error\HttpError500.cshtml:2 Views\Error\HttpError500.cshtml:10
+msgid "Internal Server Error"
+msgstr "خطأ في الخادم الداخلي"
+
+#: Controllers\Accounts\AccountsController.cs:576
+msgid "Internal server error occurs. Please try again."
+msgstr "يحدث خطأ داخلي في الملقم. حاول مرة اخرى."
+
+#: Controllers\Accounts\AccountsController.cs:522
+msgid "Internal server error while updating password. Please try again."
+msgstr "خطأ خادم داخلي أثناء تحديث كلمة السر. حاول مرة اخرى."
+
+#: Models\DataSourceManager.cs:44 Models\DataSourceManager.cs:138
+#: Models\DataSourceManager.cs:298
+#: Controllers\Accounts\AccountsController.cs:472
+#: Controllers\Items\FilesController.cs:167
+msgid "Internal server error. Please try again."
+msgstr "خطأ في الخادم الداخلي. حاول مرة اخرى."
+
+#: Views\Accounts\AccountActivation.cshtml:48
+msgid "Invalid Activation Link"
+msgstr "تنشيط ارتباط غير صالح"
+
+#: Scripts\Administration\SystemSettings.js:468
+msgid "Invalid Distinguished Name"
+msgstr "الاسم المميز غير صالح"
+
+#: Scripts\Administration\SystemSettings.js:332
+#: Scripts\User\UserManagement.js:62 Scripts\User\UserManagementProfile.js:21
+msgid "Invalid email address"
+msgstr "عنوان البريد الإلكتروني غير صالح"
+
+#: Scripts\Administration\SystemSettings.js:39
+#: Scripts\Administration\SystemSettings.js:73
+#: Scripts\Administration\SystemSettings.js:106
+msgid "Invalid file format"
+msgstr "تنسيق ملف غير صالح"
+
+#: Scripts\Administration\KerberosAuthentication.js:8
+msgid "Invalid Host Domain name"
+msgstr "اسم المجال المضيف غير صالح"
+
+#: Scripts\Administration\SystemSettings.js:461
+msgid "Invalid LDAP URL"
+msgstr "URL LDAP غير صالح"
+
+#: Controllers\Accounts\AccountsController.cs:400
+#: Controllers\Accounts\AccountsController.cs:403
+#: Controllers\Accounts\AccountsController.cs:526
+#: Controllers\Accounts\AccountsController.cs:540
+msgid "Invalid link"
+msgstr "رابط غير صالح"
+
+#: Models\UserManagementModel.cs:1202
+msgid "invalid user(s) exists "
+msgstr "مستخدم غير صالح (ق) موجود "
+
+#: Controllers\Accounts\AccountsController.cs:426
+msgid "Invalid username or email address"
+msgstr "اسم المستخدم أو عنوان البريد الإلكتروني غير صالح"
+
+#: Scripts\Group\ActiveDirectoryGroupImport.js:66
+#: Scripts\Group\SynchronizeGroups.js:122
+msgid ""
+"Invalid Username or Email Address&#13;Duplicated Username or Email Address"
+msgstr "اسم المستخدم غير صالح أو عنوان البريد الإلكتروني & # 13؛ المكررة اسم المستخدم أو عنوان البريد الإلكتروني"
+
+#: Views\Items\_ItemsGrid.cshtml:162
+msgid "Item Actions"
+msgstr "تطبيقات البند"
+
+#: Scripts\Scheduler\Scheduler.js:393
+msgid "January"
+msgstr "كانون الثاني"
+
+#: Scripts\Scheduler\Scheduler.js:399
+msgid "July"
+msgstr "يوليو"
+
+#: Scripts\Scheduler\Scheduler.js:398
+msgid "June"
+msgstr "يونيو"
+
+#: Views\Administration\Administration.cshtml:458
+msgid "Kerberos Authentication"
+msgstr "مصادقة Kerberos"
+
+#: Views\Administration\KerberosAuthentication.cshtml:28
+msgid "KERBEROS AUTHENTICATION SETTINGS"
+msgstr "إعدادات مصادقة Kerberos"
+
+#: Models\DataSourceManager.cs:856 Models\DataSourceManager.cs:914
+#: Models\DataSourceManager.cs:968 Models\DataSourceManager.cs:1025
+msgid "Keyword not supported: "
+msgstr "الكلمة غير معتمد: "
+
+#: Views\Accounts\CodeConfirmation.cshtml:27
+#: Views\Accounts\ForgotPassword.cshtml:53
+msgid "Know your password?"
+msgstr "تعرف كلمة المرور الخاصة بك؟"
+
+#: Views\Administration\Administration.cshtml:292
+msgid "Language"
+msgstr "لغة"
+
+#: Scripts\Scheduler\Scheduler.js:391
+msgid "last"
+msgstr "آخر"
+
+#: Views\Items\_ItemsGrid.cshtml:19 Views\User\EditProfile.cshtml:139
+#: Views\User\Profile.cshtml:80 Views\UserManagement\ViewProfile.cshtml:106
+msgid "Last Modified"
+msgstr "آخر تعديل"
+
+#: Views\SystemStartUpPage\System.cshtml:98 Views\User\Profile.cshtml:48
+#: Views\UserManagement\Index.cshtml:276 Views\UserManagement\Index.cshtml:278
+#: Views\UserManagement\UserManagement.cshtml:89
+#: Views\UserManagement\ViewProfile.cshtml:74
+msgid "Last name"
+msgstr "الكنية"
+
+#: Views\UserManagement\ActiveDirectoryUserImport.cshtml:43
+msgid "Last Name"
+msgstr "الكنية"
+
+#: Views\Scheduler\Schedules.cshtml:113
+msgid "Last Run"
+msgstr "تشغيل الماضي"
+
+#: Views\Administration\Administration.cshtml:493
+#: Views\Administration\Administration.cshtml:495
+msgid "LDAP URL"
+msgstr "URL LDAP"
+
+#: Views\Accounts\CodeConfirmation.cshtml:27
+#: Views\Accounts\ForgotPassword.cshtml:53
+msgid "Log In"
+msgstr "تسجيل الدخول"
+
+#: Views\Accounts\Login.cshtml:68
+msgid "LOG IN"
+msgstr "تسجيل الدخول"
+
+#: Views\Administration\Administration.cshtml:173
+msgid "Log in screen"
+msgstr "شاشة الدخول"
+
+#: Views\Shared\_Layout.cshtml:143
+msgid "Log Out"
+msgstr "خروج"
+
+#: Views\Accounts\Login.cshtml:11
+msgid "Login"
+msgstr "تسجيل الدخول"
+
+#: Views\Administration\KerberosAuthentication.cshtml:51
+#: Views\Administration\KerberosAuthentication.cshtml:53
+msgid "Machine name"
+msgstr "إسم الآلة"
+
+#: Views\Administration\Administration.cshtml:209
+msgid "Main screen"
+msgstr "الشاشة الرئيسية"
+
+#: Views\Group\EditGroup.cshtml:143 Views\Group\Group.cshtml:38
+#: Views\Group\ViewGroup.cshtml:109 Views\Permission\GroupPermission.cshtml:29
+#: Views\Permission\UserPermission.cshtml:29
+#: Views\UserManagement\Index.cshtml:64
+#: Views\UserManagement\UserManagement.cshtml:36
+#: Views\UserManagement\ViewProfile.cshtml:43
+msgid "Manage Permissions"
+msgstr "إدارة الأذونات"
+
+#: Scripts\Scheduler\Scheduler.js:395
+msgid "March"
+msgstr "مارس"
+
+#: Scripts\Scheduler\Scheduler.js:397
+msgid "May"
+msgstr "قد"
+
+#: Views\UserManagement\ActiveDirectoryUserImport.cshtml:52
+msgid "Mobile No"
+msgstr "رقم الجوال"
+
+#: Views\Group\ActiveDirectoryGroupImport.cshtml:131
+#: Views\UserManagement\ActiveDirectoryUserImport.cshtml:128
+msgid "Modify"
+msgstr "تعديل"
+
+#: Scripts\Scheduler\Scheduler.js:367
+#: Views\Administration\ScheduleSynchronization.cshtml:98
+#: Views\Shared\_SchedulerDialog.cshtml:85
+msgid "Monday"
+msgstr "الإثنين"
+
+#: Scripts\Administration\ScheduleSynchronization.js:79
+#: Scripts\Administration\ScheduleSynchronization.js:350
+#: Scripts\Administration\ScheduleSynchronization.js:358
+#: Scripts\Scheduler\Scheduler.js:82 Scripts\Scheduler\Scheduler.js:90
+#: Scripts\Scheduler\Scheduler.js:861 Scripts\Scheduler\Scheduler.js:868
+#: Views\Administration\ScheduleSynchronization.cshtml:134
+#: Views\Administration\ScheduleSynchronization.cshtml:154
+#: Views\Shared\_SchedulerDialog.cshtml:111
+#: Views\Shared\_SchedulerDialog.cshtml:128
+msgid "month(s)"
+msgstr "الشهر (s)"
+
+#: Scripts\Scheduler\Scheduler.js:338
+msgid "Monthly"
+msgstr "شهريا"
+
+#: Views\Items\_ItemsGrid.cshtml:86 Views\Items\_MoveItem.cshtml:53
+msgid "Move"
+msgstr "خطوة"
+
+#: Scripts\Items\ItemActions.js:83
+msgid "Move Report"
+msgstr "نقل تقرير"
+
+#: Models\Item.cs:322
+msgid "Moved to Trash"
+msgstr "انتقل إلى المهملات"
+
+#: Views\DataSources\_AddDataSource.cshtml:31
+#: Views\DataSources\_EditDataSource.cshtml:30 Views\Files\_AddFile.cshtml:55
+#: Views\Files\_EditFile.cshtml:52 Views\Group\ActiveDirectoryGroup.cshtml:16
+#: Views\Group\ActiveDirectoryGroupImport.cshtml:48
+#: Views\Group\EditGroup.cshtml:112 Views\Group\EditGroup.cshtml:155
+#: Views\Group\Group.cshtml:176 Views\Group\ViewGroup.cshtml:89
+#: Views\Group\ViewGroup.cshtml:125 Views\Group\_AddGroup.cshtml:38
+#: Views\Items\_CopyItem.cshtml:29 Views\Items\_ItemsGrid.cshtml:7
+#: Views\Items\_MoveItem.cshtml:27 Views\Reports\_AddReport.cshtml:49
+#: Views\Reports\_EditReport.cshtml:48
+#: Views\Reports\_ReportSelectDataSource.cshtml:68
+#: Views\Scheduler\Schedules.cshtml:144 Views\Shared\_SchedulerDialog.cshtml:43
+#: Views\UserManagement\ActiveDirectoryUserImport.cshtml:37
+#: Views\UserManagement\Index.cshtml:46
+#: Views\UserManagement\SynchronizeUsers.cshtml:29
+#: Views\UserManagement\UploadFileFormAction.cshtml:30
+#: Views\UserManagement\_AddUserInGroup.cshtml:14
+msgid "Name"
+msgstr "اسم"
+
+#: Models\UserManagementModel.cs:851 Scripts\Report\SelectDataSource.js:300
+msgid "Name should not be empty"
+msgstr "اسم لا ينبغي أن تكون فارغة"
+
+#: Scripts\Report\SelectDataSource.js:304
+msgid "Name should not contain ;?:@&=+$,\\*<>|\"/,"
+msgstr "؟ يجب أن لا تحتوي على الاسم؛: @ & = + $، \\ * <> | \ "/،"
+
+#: Views\Shared\_SchedulerDialog.cshtml:192
+msgid "Never"
+msgstr "أبدا"
+
+#: Models\Scheduler\ScheduleManagement.cs:565
+#: Models\Scheduler\ScheduleManagement.cs:568
+#: Models\Scheduler\ScheduleManagement.cs:583
+msgid "Never run"
+msgstr "أبدا تشغيل"
+
+#: Views\Reports\_ReportSelectDataSource.cshtml:33
+msgid "New Data Source"
+msgstr "مصدر بيانات جديد"
+
+#: Views\DataSources\_AddDataSource.cshtml:7
+msgid "New data source popup"
+msgstr "جديد المنبثقة مصدر البيانات"
+
+#: Views\Group\Group.cshtml:198 Views\UserManagement\_AddUserInGroup.cshtml:21
+msgid "New Group"
+msgstr "مجموعة جديدة"
+
+#: Views\Accounts\ChangePassword.cshtml:22
+#: Views\UserManagement\UserManagement.cshtml:202
+msgid "New password"
+msgstr "كلمة السر الجديدة"
+
+#: Views\Accounts\AccountActivation.cshtml:25 Views\User\EditPassword.cshtml:52
+msgid "New Password"
+msgstr "كلمة السر الجديدة"
+
+#: Views\UserManagement\Index.cshtml:186 Views\UserManagement\Index.cshtml:192
+msgid "New User"
+msgstr "مستخدم جديد"
+
+#: Views\Shared\_SchedulerDialog.cshtml:218
+msgid "Next"
+msgstr "التالى"
+
+#: Views\Administration\ScheduleSynchronization.cshtml:39
+msgid "Next Schedule"
+msgstr "الجدول التالي"
+
+#: Views\Scheduler\Schedules.cshtml:136
+msgid "Next Scheduled Run"
+msgstr "القادم المجدولة تشغيل"
+
+#: Scripts\Core\UMP.Core.js:273 Scripts\Core\UMP.Core.js:278
+#: Views\Group\_DeleteConfirm.cshtml:41 Views\Group\_DeleteGroupUser.cshtml:37
+#: Views\Items\_DeleteItem.cshtml:28
+#: Views\Permission\_DeletePermission.cshtml:22
+#: Views\Scheduler\_DeleteSchedule.cshtml:21
+#: Views\UserManagement\Index.cshtml:315 Views\UserManagement\Index.cshtml:343
+#: Views\UserManagement\UserManagement.cshtml:257
+#: Views\UserManagement\ViewProfile.cshtml:133
+msgid "No"
+msgstr "لا"
+
+#: Scripts\User\EditProfile.js:265 Scripts\User\EditProfile.js:288
+#: Scripts\User\UserManagementProfile.js:308 Views\Files\_AddFile.cshtml:80
+#: Views\Files\_EditFile.cshtml:86 Views\Reports\_ReportUpload.cshtml:77
+#: Views\UserManagement\UploadFileFormAction.cshtml:98
+msgid "No file selected."
+msgstr "لا يوجد ملف المحدد."
+
+#: Scripts\Core\UMP.Core.js:371
+msgid "No records to display"
+msgstr "عدم وجود سجلات للعرض"
+
+#: Views\Administration\Administration.cshtml:262
+#: Views\Group\EditGroup.cshtml:180 Views\Items\_CopyItem.cshtml:38
+#: Views\Items\_MoveItem.cshtml:36 Views\Reports\_AddReport.cshtml:34
+#: Views\Reports\_EditReport.cshtml:38 Views\Shared\_SchedulerDialog.cshtml:222
+#: Views\Shared\_SchedulerDialog.cshtml:225
+#: Views\UserManagement\_AddUserInGroup.cshtml:18
+msgid "No results match"
+msgstr "لا توجد نتائج مطابقة"
+
+#: Scripts\Core\UMP.Core.js:372
+msgid "NotEqual"
+msgstr "غير متساوي"
+
+#: Scripts\Scheduler\Scheduler.js:403
+msgid "November"
+msgstr "تشرين الثاني"
+
+#: Scripts\Administration\ScheduleSynchronization.js:317
+#: Scripts\Scheduler\Scheduler.js:48 Scripts\Scheduler\Scheduler.js:827
+msgid "Occures every weekday"
+msgstr "Occures كل يوم من أيام الأسبوع"
+
+#: Views\Shared\_SchedulerDialog.cshtml:198
+msgid "Occurrences"
+msgstr "الحوادث"
+
+#: Scripts\Administration\ScheduleSynchronization.js:79
+#: Scripts\Administration\ScheduleSynchronization.js:350
+#: Scripts\Scheduler\Scheduler.js:82 Scripts\Scheduler\Scheduler.js:861
+msgid "Occurs day"
+msgstr "يحدث اليوم"
+
+#: Scripts\Administration\ScheduleSynchronization.js:26
+#: Scripts\Administration\ScheduleSynchronization.js:62
+#: Scripts\Administration\ScheduleSynchronization.js:64
+#: Scripts\Administration\ScheduleSynchronization.js:114
+#: Scripts\Administration\ScheduleSynchronization.js:116
+#: Scripts\Administration\ScheduleSynchronization.js:341
+#: Scripts\Administration\ScheduleSynchronization.js:343
+#: Scripts\Administration\ScheduleSynchronization.js:368
+#: Scripts\Administration\ScheduleSynchronization.js:370
+#: Scripts\Administration\ScheduleSynchronization.js:380
+#: Scripts\Scheduler\Scheduler.js:44 Scripts\Scheduler\Scheduler.js:73
+#: Scripts\Scheduler\Scheduler.js:75 Scripts\Scheduler\Scheduler.js:102
+#: Scripts\Scheduler\Scheduler.js:112 Scripts\Scheduler\Scheduler.js:823
+#: Scripts\Scheduler\Scheduler.js:852 Scripts\Scheduler\Scheduler.js:854
+#: Scripts\Scheduler\Scheduler.js:878 Scripts\Scheduler\Scheduler.js:880
+#: Scripts\Scheduler\Scheduler.js:890
+msgid "Occurs every"
+msgstr "يحدث كل"
+
+#: Scripts\Scheduler\Scheduler.js:100
+msgid "Occurs every "
+msgstr "يحدث كل "
+
+#: Scripts\Administration\ScheduleSynchronization.js:24
+#: Scripts\Scheduler\Scheduler.js:42 Scripts\Scheduler\Scheduler.js:821
+msgid "Occurs every day"
+msgstr "يحدث كل يوم"
+
+#: Scripts\Administration\ScheduleSynchronization.js:358
+#: Scripts\Administration\ScheduleSynchronization.js:378
+#: Scripts\Scheduler\Scheduler.js:90 Scripts\Scheduler\Scheduler.js:110
+#: Scripts\Scheduler\Scheduler.js:868 Scripts\Scheduler\Scheduler.js:888
+msgid "Occurs the"
+msgstr "يحدث في"
+
+#: Scripts\Scheduler\Scheduler.js:402
+msgid "October"
+msgstr "شهر اكتوبر"
+
+#: Scripts\Administration\ScheduleSynchronization.js:378
+#: Scripts\Administration\ScheduleSynchronization.js:380
+#: Scripts\Scheduler\Scheduler.js:110 Scripts\Scheduler\Scheduler.js:112
+#: Scripts\Scheduler\Scheduler.js:888 Scripts\Scheduler\Scheduler.js:890
+#: Views\Administration\ScheduleSynchronization.cshtml:200
+#: Views\Shared\_SchedulerDialog.cshtml:169
+msgid "of"
+msgstr "من"
+
+#: Scripts\Administration\ScheduleSynchronization.js:79
+#: Scripts\Administration\ScheduleSynchronization.js:350
+#: Scripts\Administration\ScheduleSynchronization.js:358
+#: Scripts\Scheduler\Scheduler.js:82 Scripts\Scheduler\Scheduler.js:90
+#: Scripts\Scheduler\Scheduler.js:861 Scripts\Scheduler\Scheduler.js:868
+#: Views\Administration\ScheduleSynchronization.cshtml:131
+#: Views\Administration\ScheduleSynchronization.cshtml:151
+#: Views\Shared\_SchedulerDialog.cshtml:109
+#: Views\Shared\_SchedulerDialog.cshtml:126
+msgid "of every"
+msgstr "كل"
+
+#: Scripts\Core\UMP.Core.js:294 Scripts\Core\UMP.Core.js:299
+#: Views\Items\_CopyItem.cshtml:75 Views\Items\_DeleteItem.cshtml:31
+#: Views\Items\_DeleteItem.cshtml:66 Views\Items\_MoveItem.cshtml:72
+#: Views\Scheduler\_DeleteSchedule.cshtml:24
+msgid "OK"
+msgstr "حسنا"
+
+#: Views\Shared\_SchedulerDialog.cshtml:202
+msgid "On"
+msgstr "على"
+
+#: Views\Items\_ItemsGrid.cshtml:67 Views\Items\_ItemVersion.cshtml:89
+msgid "Open"
+msgstr "فتح"
+
+#: Views\Administration\Administration.cshtml:143
+msgid "Organization name"
+msgstr "اسم المؤسسة"
+
+#: Views\Items\_ItemsGrid.cshtml:16
+msgid "Owner"
+msgstr "مالك"
+
+#: Controllers\UserController.cs:40
+#: Controllers\Administration\UserManagementController.cs:56
+#: Controllers\Administration\UserManagementController.cs:61
+#: Controllers\Group\GroupController.cs:197
+#: Controllers\Group\GroupController.cs:199 Views\Error\HttpError404.cshtml:2
+#: Views\Error\HttpError404.cshtml:10
+msgid "Page Not Found"
+msgstr "الصفحة غير موجودة"
+
+#: Scripts\Administration\SystemSettings.js:135
+#: Scripts\Administration\SystemSettings.js:136 Views\Accounts\Login.cshtml:59
+#: Views\Administration\Administration.cshtml:26
+#: Views\Administration\Administration.cshtml:413
+#: Views\Administration\Administration.cshtml:479
+#: Views\DataSources\_AddDataSource.cshtml:111
+#: Views\DataSources\_EditDataSource.cshtml:107
+#: Views\Reports\_ReportSelectDataSource.cshtml:145
+#: Views\SystemStartUpPage\System.cshtml:64
+#: Views\SystemStartUpPage\System.cshtml:107
+msgid "Password"
+msgstr "كلمه السر"
+
+#: Views\Accounts\ForgotPassword.cshtml:23
+msgid "Password Assistance"
+msgstr "مساعدة كلمة المرور"
+
+#: Controllers\Accounts\AccountsController.cs:517
+msgid "Password has been changed successfully."
+msgstr "تم تغيير كلمة السر بنجاح."
+
+#: Controllers\UserController.cs:104
+#: Controllers\Administration\UserManagementController.cs:273
+msgid "Password has been updated successfully."
+msgstr "تم تحديث كلمة السر بنجاح."
+
+#: Views\Accounts\CodeConfirmation.cshtml:2
+#: Views\Accounts\ForgotPassword.cshtml:2
+msgid "Password Helper"
+msgstr "كلمة مساعد"
+
+#: Scripts\Accounts\ForgotPassword.js:143 Scripts\User\EditProfile.js:157
+#: Scripts\User\UserManagementProfile.js:138
+msgid "Password mismatch"
+msgstr "عدم تطابق كلمه المرور"
+
+#: Scripts\Accounts\Login.js:47
+msgid "Password required"
+msgstr "كلمة المرور مطلوبة"
+
+#: Controllers\UserController.cs:100
+#: Controllers\Administration\UserManagementController.cs:263
+msgid "Password updation has been failed."
+msgstr "وقد فشل كلمة المرور updation."
+
+#: Scripts\Accounts\ForgotPassword.js:104 Scripts\User\EditProfile.js:496
+msgid "Passwords mismatch"
+msgstr "عدم تطابق كلمات السر"
+
+#: Scripts\System\SystemSettings.js:298
+msgid "Passwords Mismatch"
+msgstr "كلمات السر عدم تطابق"
+
+#: Views\Shared\_SchedulerDialog.cshtml:241
+msgid "PDF"
+msgstr "PDF"
+
+#: Views\Group\AddUsers.cshtml:33
+msgid "People"
+msgstr "الناس"
+
+#: Views\Home\Permissiondenied.cshtml:2
+msgid "Permission Denied"
+msgstr "طلب الاذن مرفوض"
+
+#: Scripts\Permission\GroupPermission.js:149
+#: Scripts\Permission\Permission.js:149
+msgid "Permission Entity already exists"
+msgstr "الكيان إذن موجود بالفعل"
+
+#: Scripts\Permission\GroupPermission.js:135
+#: Scripts\Permission\Permission.js:135
+msgid "permission for"
+msgstr "إذن ل"
+
+#: Views\User\Profile.cshtml:57 Views\UserManagement\UserManagement.cshtml:124
+#: Views\UserManagement\ViewProfile.cshtml:83
+msgid "Phone number"
+msgstr "رقم الهاتف"
+
+#: Views\User\EditProfile.cshtml:39
+#: Views\UserManagement\UserManagement.cshtml:48
+msgid "pixel size recommended"
+msgstr "حجم بكسل أوصى"
+
+#: Views\Administration\Administration.cshtml:187
+#: Views\Administration\Administration.cshtml:220
+#: Views\Administration\Administration.cshtml:244
+msgid "pixels preferred"
+msgstr "بكسل فضل"
+
+#: Scripts\Administration\SystemSettings.js:328
+#: Scripts\Category\AddCategory.js:6 Scripts\Category\EditCategory.js:29
+#: Scripts\DataSource\AddDataSource.js:40
+#: Scripts\DataSource\EditDataSource.js:4 Scripts\File\AddFile.js:33
+#: Scripts\File\EditFile.js:37 Scripts\Group\EditGroup.js:5
+#: Scripts\Group\Group.js:87 Scripts\Items\ItemActions.js:4
+#: Scripts\Report\AddRdlReport.js:74 Scripts\Report\SelectDataSource.js:25
+#: Scripts\Scheduler\Scheduler.js:1153 Scripts\User\EditProfile.js:24
+#: Scripts\User\UserManagement.js:54 Scripts\User\UserManagement.js:66
+#: Scripts\User\UserManagement.js:476 Scripts\User\UserManagementProfile.js:29
+msgid "Please avoid special characters"
+msgstr "يرجى تجنب الأحرف الخاصة"
+
+#: Views\Reports\_ReportUpload.cshtml:44
+msgid "Please choose valid file to upload"
+msgstr "الرجاء اختيار ملف صالح لتحميل"
+
+#: Views\Group\ActiveDirectoryGroupImport.cshtml:199
+#: Views\UserManagement\ActiveDirectoryUserImport.cshtml:196
+msgid "Please click here to configure the Active Directory settings"
+msgstr "الرجاء النقر هنا لتكوين إعدادات خدمة Active Directory"
+
+#: Scripts\User\UserManagementProfile.js:173
+#: Scripts\User\UserManagementProfile.js:192
+msgid "Please click here to configure the email settings."
+msgstr "الرجاء النقر هنا لتكوين إعدادات البريد الإلكتروني."
+
+#: Models\UserManagementModel.cs:1216 Models\Group\GroupModels.cs:203
+#: Scripts\User\ActiveDirectoryUserImport.js:95
+msgid ""
+"Please click OK to check the list behind regarding the invalid or duplicate "
+"users."
+msgstr "الرجاء انقر فوق موافق للتحقق من قائمة راء بشأن المستخدمين غير صالحة أو مكررة."
+
+#: Scripts\Accounts\ForgotPassword.js:103 Scripts\System\SystemSettings.js:297
+msgid "Please confirm password"
+msgstr "يرجى تأكيد كلمة المرور"
+
+#: Scripts\Accounts\ForgotPassword.js:142 Scripts\User\EditProfile.js:156
+#: Scripts\User\UserManagementProfile.js:137
+msgid "Please confirm your new password"
+msgstr "يرجى تأكيد كلمة المرور الجديدة"
+
+#: Scripts\Scheduler\Scheduler.js:1421 Scripts\System\SystemSettings.js:234
+#: Scripts\User\EditProfile.js:20
+msgid "Please enter a valid email address"
+msgstr "رجاء قم بإدخال بريد الكتروني صحيح"
+
+#: Scripts\Category\AddCategory.js:32 Scripts\Category\EditCategory.js:55
+msgid "Please enter category name"
+msgstr "الرجاء إدخال اسم الفئة"
+
+#: Controllers\UserController.cs:94
+msgid "Please enter correct old password."
+msgstr "يرجى إدخال كلمة المرور القديمة الصحيحة."
+
+#: Scripts\DataSource\AddDataSource.js:109
+#: Scripts\DataSource\EditDataSource.js:62
+#: Scripts\Report\SelectDataSource.js:73
+msgid "Please enter data source name"
+msgstr "الرجاء إدخال اسم مصدر البيانات"
+
+#: Scripts\Administration\SystemSettings.js:515
+msgid "Please enter Distinguished Name"
+msgstr "الرجاء إدخال الاسم المميز"
+
+#: Scripts\System\SystemSettings.js:291 Scripts\User\UserManagement.js:115
+#: Scripts\User\UserManagementProfile.js:78 Views\User\EditProfile.cshtml:92
+#: Views\User\EditProfile.cshtml:96
+msgid "Please enter email address"
+msgstr "الرجاء إدخال عنوان البريد الإلكتروني"
+
+#: Scripts\File\AddFile.js:55 Scripts\File\EditFile.js:63
+msgid "Please enter file name"
+msgstr "الرجاء إدخال اسم الملف"
+
+#: Scripts\System\SystemSettings.js:288 Scripts\User\UserManagement.js:118
+#: Scripts\User\UserManagementProfile.js:81 Views\User\EditProfile.cshtml:60
+#: Views\User\EditProfile.cshtml:64
+msgid "Please enter first name"
+msgstr "الرجاء إدخال الاسم الأول"
+
+#: Scripts\Group\EditGroup.js:33 Scripts\Group\Group.js:115
+#: Scripts\User\UserManagement.js:503 Views\Group\EditGroup.cshtml:159
+#: Views\Group\ViewGroup.cshtml:129 Views\Group\_AddGroup.cshtml:41
+#: Views\UserManagement\_AddUserInGroup.cshtml:14
+msgid "Please enter group name"
+msgstr "الرجاء إدخال اسم المجموعة"
+
+#: Scripts\Administration\KerberosAuthentication.js:42
+msgid "Please enter Host Domain name"
+msgstr "الرجاء إدخال اسم المجال المضيف"
+
+#: Views\User\EditProfile.cshtml:76 Views\User\EditProfile.cshtml:80
+msgid "Please enter last name"
+msgstr "الرجاء إدخال اسم آخر"
+
+#: Scripts\Administration\SystemSettings.js:512
+msgid "Please enter LDAP URL"
+msgstr "الرجاء إدخال URL LDAP"
+
+#: Scripts\Administration\KerberosAuthentication.js:39
+msgid "Please enter machine name"
+msgstr "الرجاء إدخال اسم الجهاز"
+
+#: Scripts\Accounts\ForgotPassword.js:100
+#: Scripts\Administration\SystemSettings.js:447
+#: Scripts\Administration\SystemSettings.js:509
+#: Scripts\System\SystemSettings.js:294 Scripts\System\SystemSettings.js:349
+msgid "Please enter password"
+msgstr "الرجاء إدخال كلمة المرور"
+
+#: Views\User\EditProfile.cshtml:110 Views\User\EditProfile.cshtml:114
+msgid "Please enter phone number"
+msgstr "يرجى إدخال رقم الهاتف"
+
+#: Scripts\Administration\SystemSettings.js:518
+msgid "Please enter Port Number"
+msgstr "الرجاء إدخال رقم منفذ"
+
+#: Scripts\Items\ItemActions.js:22 Scripts\Items\ItemActions.js:51
+#: Scripts\Report\AddRdlReport.js:101 Scripts\Report\AddRdlReport.js:136
+#: Views\Reports\_AddReport.cshtml:53 Views\Reports\_EditReport.cshtml:52
+msgid "Please enter report name"
+msgstr "الرجاء إدخال اسم التقرير"
+
+#: Scripts\Scheduler\Scheduler.js:1147 Scripts\Scheduler\Scheduler.js:1212
+#: Scripts\Scheduler\Scheduler.js:1224 Scripts\Scheduler\Scheduler.js:1296
+#: Scripts\Scheduler\Scheduler.js:1310
+msgid "Please enter schedule name"
+msgstr "الرجاء إدخال اسم جدول"
+
+#: Scripts\Administration\ScheduleSynchronization.js:458
+msgid "Please enter schedule time"
+msgstr "الرجاء إدخال الجدول الزمني"
+
+#: Scripts\Administration\SystemSettings.js:444
+msgid "Please enter sender email address"
+msgstr "يرجى إدخال عنوان البريد الإلكتروني المرسل"
+
+#: Scripts\Administration\SystemSettings.js:441
+msgid "Please enter sender name"
+msgstr "الرجاء إدخال اسم المرسل"
+
+#: Scripts\System\SystemSettings.js:343
+msgid "Please enter server name"
+msgstr "الرجاء إدخال اسم الخادم"
+
+#: Scripts\Administration\SystemSettings.js:438
+msgid "Please enter SMTP port"
+msgstr "الرجاء إدخال منفذ SMTP"
+
+#: Scripts\Administration\SystemSettings.js:435
+msgid "Please enter SMTP server"
+msgstr "الرجاء إدخال خادم SMTP"
+
+#: Scripts\System\SystemSettings.js:352
+msgid "Please enter the database name"
+msgstr "الرجاء إدخال اسم قاعدة البيانات"
+
+#: Scripts\Accounts\Login.js:8 Scripts\Administration\SystemSettings.js:324
+#: Scripts\Category\AddCategory.js:10 Scripts\Category\EditCategory.js:33
+#: Scripts\DataSource\AddDataSource.js:44
+#: Scripts\DataSource\EditDataSource.js:8 Scripts\File\AddFile.js:29
+#: Scripts\File\EditFile.js:41 Scripts\Group\EditGroup.js:9
+#: Scripts\Group\Group.js:91 Scripts\Items\ItemActions.js:8
+#: Scripts\Report\AddRdlReport.js:78 Scripts\Report\SelectDataSource.js:29
+#: Scripts\System\SystemSettings.js:222 Scripts\User\EditProfile.js:28
+#: Scripts\User\UserManagement.js:50 Scripts\User\UserManagementProfile.js:25
+msgid "Please enter the name"
+msgstr "يرجى إدخال اسم"
+
+#: Scripts\Administration\SystemSettings.js:365
+msgid "Please enter URL"
+msgstr "الرجاء إدخال URL"
+
+#: Scripts\Administration\SystemSettings.js:450
+#: Scripts\Administration\SystemSettings.js:506
+#: Scripts\System\SystemSettings.js:285 Scripts\System\SystemSettings.js:346
+#: Scripts\User\UserManagement.js:112
+msgid "Please enter username"
+msgstr "الرجاء إدخال اسم المستخدم"
+
+#: Scripts\Administration\SystemSettings.js:320
+msgid "Please enter valid URL"
+msgstr "يرجى إدخال عنوان URL صالح"
+
+#: Scripts\User\EditProfile.js:79
+msgid "Please enter your email address"
+msgstr "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك"
+
+#: Scripts\User\EditProfile.js:82
+msgid "Please enter your first name"
+msgstr "الرجاء إدخال اسمك الأول"
+
+#: Scripts\Accounts\ForgotPassword.js:139 Scripts\User\EditProfile.js:153
+#: Scripts\User\UserManagementProfile.js:134
+msgid "Please enter your new password"
+msgstr "يرجى إدخال كلمة المرور الجديدة"
+
+#: Scripts\User\EditProfile.js:150
+msgid "Please enter your old password"
+msgstr "يرجى إدخال كلمة المرور القديمة"
+
+#: Scripts\Accounts\ForgotPassword.js:78
+msgid "Please enter your username or email address"
+msgstr "الرجاء إدخال اسم المستخدم أو عنوان البريد الإلكتروني الخاص بك"
+
+#: Views\Group\ActiveDirectoryGroupImport.cshtml:146
+msgid ""
+"Please search and select the groups from the following list to import into "
+"Report Server"
+msgstr "الرجاء البحث وحدد المجموعات من القائمة التالية لاستيراد إلى خادم تقرير"
+
+#: Views\UserManagement\ActiveDirectoryUserImport.cshtml:144
+msgid ""
+"Please search and select the users from the following list to import into "
+"Report Server"
+msgstr "الرجاء البحث وتحديد المستخدمين من القائمة التالية لاستيراد إلى خادم تقرير"
+
+#: Scripts\Administration\ScheduleSynchronization.js:413
+#: Scripts\Scheduler\Scheduler.js:1166
+msgid "Please select at least one day."
+msgstr "الرجاء تحديد يوم واحد على الأقل."
+
+#: Scripts\Scheduler\Scheduler.js:1241
+msgid "Please select atleast one recipient"
+msgstr "الرجاء تحديد أتلست مستلم واحد"
+
+#: Views\Reports\_AddReport.cshtml:40
+msgid "Please select category"
+msgstr "الرجاء تحديد الفئة"
+
+#: Views\Group\ActiveDirectoryGroupImport.cshtml:156
+msgid "Please select group(s) to import"
+msgstr "الرجاء تحديد مجموعة (ق) لاستيراد"
+
+#: Views\UserManagement\ActiveDirectoryUserImport.cshtml:153
+msgid "Please select user(s) to import"
+msgstr "يرجى اختيار المستخدم (ق) لاستيراد"
+
+#: Views\UserManagement\UploadFileFormAction.cshtml:101
+msgid "Please upload a valid csv file."
+msgstr "يرجى تحميل ملف CSV صالح."
+
+#: Scripts\File\AddFile.js:90
+msgid "Please upload a valid file"
+msgstr "يرجى تحميل ملف صالح"
+
+#: Views\Reports\_ReportUpload.cshtml:36
+msgid "Please upload the report"
+msgstr "يرجى تحميل التقرير"
+
+#: Views\Administration\Administration.cshtml:523
+#: Views\Administration\Administration.cshtml:525
+msgid "Port Number"
+msgstr "عدد ميناء"
+
+#: Views\Accounts\AccountActivation.cshtml:60
+#: Views\Accounts\ChangePassword.cshtml:57
+#: Views\Accounts\CodeConfirmation.cshtml:41 Views\Accounts\Login.cshtml:102
+#: Views\Shared\_Layout.cshtml:174 Views\SystemStartUpPage\System.cshtml:131
+msgid "Powered by"
+msgstr "مشغل بواسطة"
+
+#: Views\Accounts\ForgotPassword.cshtml:70
+msgid "Powered by "
+msgstr "مشغل بواسطة "
+
+#: Views\SystemStartUpPage\System.cshtml:76
+#: Views\SystemStartUpPage\System.cshtml:77
+#: Views\SystemStartUpPage\System.cshtml:122
+msgid "Proceed"
+msgstr "تقدم"
+
+#: Views\Shared\_Layout.cshtml:136
+msgid "Profile"
+msgstr "الملف الشخصي"
+
+#: Scripts\User\EditProfile.js:465
+msgid "Profile has been updated successfully."
+msgstr "تم تحديث الملف الشخصي بنجاح."
+
+#: Views\User\EditProfile.cshtml:38 Views\User\Profile.cshtml:31
+#: Views\UserManagement\UserManagement.cshtml:47
+#: Views\UserManagement\ViewProfile.cshtml:57
+msgid "Profile Picture"
+msgstr "الصورة الشخصية"
+
+#: Scripts\User\EditProfile.js:215 Scripts\User\UserManagementProfile.js:231
+msgid "Profile picture has been saved successfully."
+msgstr "تم حفظ الصورة الشخصية بنجاح."
+
+#: Views\Reports\_AddReport.cshtml:65 Views\Reports\_EditReport.cshtml:65
+msgid "RDL File"
+msgstr "ملف RDL"
+
+#: Views\Permission\_AddGroupPermission.cshtml:47
+#: Views\Permission\_AddUserPermission.cshtml:46
+msgid "Read"
+msgstr "اقرأ"
+
+#: Views\Permission\_AddGroupPermission.cshtml:48
+#: Views\Permission\_AddUserPermission.cshtml:47
+msgid "Read, Write"
+msgstr "قراءة، كتابة"
+
+#: Views\Permission\_AddGroupPermission.cshtml:49
+#: Views\Permission\_AddUserPermission.cshtml:48
+msgid "Read, Write, Delete"
+msgstr "قراءة، كتابة، حذف"
+
+#: Views\Administration\ScheduleSynchronization.cshtml:60
+#: Views\Administration\ScheduleSynchronization.cshtml:84
+#: Views\Administration\ScheduleSynchronization.cshtml:123
+#: Views\Administration\ScheduleSynchronization.cshtml:161
+#: Views\Shared\_SchedulerDialog.cshtml:57
+#: Views\Shared\_SchedulerDialog.cshtml:74
+#: Views\Shared\_SchedulerDialog.cshtml:104
+#: Views\Shared\_SchedulerDialog.cshtml:135
+msgid "Recurs"
+msgstr "يتكرر"
+
+#: Views\Accounts\Login.cshtml:65
+msgid "Remember me"
+msgstr "تذكرنى"
+
+#: Views\Group\EditGroup.cshtml:120 Views\Group\EditGroup.cshtml:124
+#: Views\Permission\GroupPermission.cshtml:54
+#: Views\Permission\UserPermission.cshtml:55
+msgid "Remove"
+msgstr "إزالة"
+
+#: Scripts\Items\Items.js:155 Views\Items\_CopyItem.cshtml:17
+#: Views\Items\_ItemAddOptions.cshtml:17 Views\Items\_MoveItem.cshtml:16
+#: Views\Scheduler\Schedules.cshtml:116
+msgid "Report"
+msgstr "تقرير"
+
+#: Scripts\Report\AddRdlReport.js:348
+msgid "Report has been added successfully."
+msgstr "تمت إضافة التقرير بنجاح."
+
+#: Scripts\Items\ItemActions.js:151
+msgid "Report has been cloned successfully."
+msgstr "وقد استنسخ التقرير بنجاح."
+
+#: Scripts\Items\ItemActions.js:117
+msgid "Report has been copied successfully."
+msgstr "تم نسخ التقرير بنجاح."
+
+#: Scripts\Items\ItemActions.js:83
+msgid "Report has been moved successfully."
+msgstr "تم نقل التقرير بنجاح."
+
+#: Scripts\Scheduler\Scheduler.js:190
+msgid "Report has been scheduled successfully."
+msgstr "وكان من المقرر التقرير بنجاح."
+
+#: Scripts\Report\AddRdlReport.js:265
+msgid "Report has been updated successfully."
+msgstr "تم تحديث التقرير بنجاح."
+
+#: Scripts\Report\AddRdlReport.js:475
+msgid "Report has been uploaded successfully."
+msgstr "تم تحميل التقرير بنجاح."
+
+#: Scripts\Items\ItemActions.js:90 Scripts\Items\ItemActions.js:124
+#: Scripts\Items\ItemActions.js:158
+msgid "Report name already exists"
+msgstr "اسم التقرير موجود بالفعل"
+
+#: Views\Accounts\Login.cshtml:49
+msgid "Report Server Authentication"
+msgstr "مصادقة خادم تقرير"
+
+#: Views\Administration\Administration.cshtml:165
+msgid ""
+"Report Server needs to be hosted in IIS with a valid SSL certificate "
+"assigned. Click"
+msgstr "يحتاج خادم تقرير إلى أن استضافتها في IIS مع شهادة SSL صالحة المعين. انقر"
+
+#: Views\Reports\Reports.cshtml:3
+msgid "Reports"
+msgstr "تقارير"
+
+#: Views\Shared\_Layout.cshtml:46
+msgid "REPORTS"
+msgstr "تقارير"
+
+#: Views\UserManagement\UserManagement.cshtml:170
+msgid "Resend Activation Code"
+msgstr "إعادة إرسال كود التفعيل"
+
+#: Views\Items\_ItemVersion.cshtml:97
+msgid "Restore"
+msgstr "استعادة"
+
+#: Models\Item.cs:325
+msgid "Restored from Trash"
+msgstr "استعادة من المهملات"
+
+#: Models\Item.cs:347
+msgid "Rollbacked to version"
+msgstr "Rollbacked إلى الإصدار"
+
+#: Views\Scheduler\Schedules.cshtml:153
+msgid "Run now"
+msgstr "اركض الآن"
+
+#: Scripts\Scheduler\ScheduleListing.js:140
+#: Views\Scheduler\Schedules.cshtml:155
+msgid "Run Now"
+msgstr "اركض الآن"
+
+#: Scripts\Scheduler\Scheduler.js:382
+#: Views\Administration\ScheduleSynchronization.cshtml:113
+#: Views\Shared\_SchedulerDialog.cshtml:95
+msgid "Saturday"
+msgstr "يوم السبت"
+
+#: Views\Administration\Administration.cshtml:135
+#: Views\Administration\Administration.cshtml:324
+#: Views\Administration\Administration.cshtml:447
+#: Views\Administration\Administration.cshtml:543
+#: Views\Group\EditGroup.cshtml:173 Views\Reports\_AddReport.cshtml:83
+#: Views\User\EditPassword.cshtml:83 Views\User\EditProfile.cshtml:127
+#: Views\UserManagement\UserManagement.cshtml:188
+msgid "Save"
+msgstr "حفظ"
+
+#: Views\Group\AddUsers.cshtml:22
+msgid "SAVE"
+msgstr "حفظ"
+
+#: Views\Accounts\AccountActivation.cshtml:37
+msgid "Save & Activate"
+msgstr "حفظ وتنشيط"
+
+#: Scripts\Scheduler\Scheduler.js:411 Views\Items\_ItemsGrid.cshtml:108
+#: Views\Shared\_SchedulerDialog.cshtml:37
+#: Views\Shared\_SchedulerDialog.cshtml:260
+msgid "Schedule"
+msgstr "جدول"
+
+#: Scripts\Scheduler\ScheduleListing.js:140
+msgid "Schedule—"
+msgstr "جدول-"
+
+#: Scripts\Scheduler\ScheduleListing.js:187
+msgid "Schedule has been deleted successfully."
+msgstr "لقد تم حذف جدول بنجاح."
+
+#: Scripts\Scheduler\Scheduler.js:965
+msgid "Schedule has been updated successfully."
+msgstr "تم تحديث جدول بنجاح."
+
+#: Views\Administration\ScheduleSynchronization.cshtml:41
+msgid "Schedule not started."
+msgstr "جدولة تكن قد بدأت."
+
+#: Views\Administration\Administration.cshtml:459
+#: Views\Administration\KerberosAuthentication.cshtml:2
+msgid "Schedule Synchronization"
+msgstr "جدول التزامن"
+
+#: Views\Administration\ScheduleSynchronization.cshtml:26
+msgid "Schedule to synchronize users and groups with Active Directory"
+msgstr "الجدول الزمني لمزامنة المستخدمين والمجموعات مع Active Directory"
+
+#: Views\Scheduler\Schedules.cshtml:2
+msgid "Schedules"
+msgstr "جداول"
+
+#: Views\Scheduler\Schedules.cshtml:205 Views\Shared\_Layout.cshtml:67
+msgid "SCHEDULES"
+msgstr "جداول"
+
+#: Views\Permission\GroupPermission.cshtml:73
+#: Views\Permission\UserPermission.cshtml:77
+#: Views\Permission\_AddGroupPermission.cshtml:64
+#: Views\Permission\_AddUserPermission.cshtml:62
+msgid "Scope"
+msgstr "نطاق"
+
+#: Views\Administration\Administration.cshtml:262
+#: Views\Group\ActiveDirectoryGroup.cshtml:177
+#: Views\Group\ActiveDirectoryGroupImport.cshtml:137
+#: Views\Group\Group.cshtml:191 Views\Shared\_SchedulerDialog.cshtml:222
+#: Views\Shared\_SchedulerDialog.cshtml:225
+#: Views\UserManagement\ActiveDirectoryUserImport.cshtml:133
+#: Views\UserManagement\Index.cshtml:179
+#: Views\UserManagement\_AddUserInGroup.cshtml:18
+msgid "Search"
+msgstr "بحث"
+
+#: Views\Shared\_FixedLeftSection.cshtml:15
+#: Views\Shared\_FixedLeftSection.cshtml:18
+msgid "Search categories"
+msgstr "بحث في الأقسام"
+
+#: Views\DataSources\DataSources.cshtml:18
+#: Views\DataSources\DataSources.cshtml:19
+msgid "Search data sources"
+msgstr "مصادر بيانات البحث"
+
+#: Views\Files\Files.cshtml:18 Views\Files\Files.cshtml:19
+msgid "Search files"
+msgstr "ابحث في الملفات"
+
+#: Views\Group\ActiveDirectoryGroup.cshtml:176
+#: Views\Group\ActiveDirectoryGroupImport.cshtml:136
+#: Views\Group\Group.cshtml:190
+msgid "Search groups"
+msgstr "مجموعة البحث"
+
+#: Views\Shared\UserList.cshtml:50
+msgid "Search Groups"
+msgstr "البحث في المجموعات"
+
+#: Views\Group\AddUsers.cshtml:101
+msgid "Search Here"
+msgstr "ابحث هنا"
+
+#: Views\Reports\Reports.cshtml:26 Views\Reports\Reports.cshtml:27
+msgid "Search reports"
+msgstr "تقارير البحث"
+
+#: Views\Scheduler\Schedules.cshtml:201 Views\Scheduler\Schedules.cshtml:202
+msgid "Search schedules"
+msgstr "بحث الجداول الزمنية"
+
+#: Views\Group\EditGroup.cshtml:185 Views\Group\EditGroup.cshtml:186
+#: Views\Group\ViewGroup.cshtml:142 Views\Group\ViewGroup.cshtml:143
+#: Views\UserManagement\ActiveDirectoryUserImport.cshtml:132
+#: Views\UserManagement\Index.cshtml:178
+#: Views\UserManagement\SynchronizeUsers.cshtml:160
+msgid "Search users"
+msgstr "للمستخدمين البحث"
+
+#: Views\Shared\UserList.cshtml:27
+msgid "Search Users"
+msgstr "البحث عن مستخدم"
+
+#: Scripts\Scheduler\Scheduler.js:388
+msgid "second"
+msgstr "ثانيا"
+
+#: Scripts\Report\AddRdlReport.js:480 Scripts\Report\SelectDataSource.js:159
+#: Views\Reports\_ReportSelectDataSource.cshtml:25
+msgid "Select"
+msgstr "اختار"
+
+#: Views\Shared\_SchedulerDialog.cshtml:257
+msgid ""
+"Select a user, group, or type an email address in the external recipient to "
+"schedule"
+msgstr "تحديد مستخدم أو مجموعة أو كتابة عنوان البريد الإلكتروني في المتلقي الخارجي لجدولة"
+
+#: Views\Permission\_AddGroupPermission.cshtml:46
+#: Views\Permission\_AddUserPermission.cshtml:45
+msgid "Select access mode"
+msgstr "وضع الوصول حدد"
+
+#: Scripts\Scheduler\Scheduler.js:204 Scripts\Scheduler\Scheduler.js:228
+#: Scripts\Scheduler\Scheduler.js:238 Scripts\Scheduler\Scheduler.js:262
+#: Scripts\Scheduler\Scheduler.js:288 Scripts\Scheduler\Scheduler.js:979
+#: Scripts\Scheduler\Scheduler.js:1002 Scripts\Scheduler\Scheduler.js:1012
+#: Scripts\Scheduler\Scheduler.js:1036 Scripts\Scheduler\Scheduler.js:1062
+msgid "Select All"
+msgstr "اختر الكل"
+
+#: Views\Items\_CopyItem.cshtml:38 Views\Items\_MoveItem.cshtml:36
+#: Views\Reports\_AddReport.cshtml:34 Views\Reports\_EditReport.cshtml:38
+msgid "Select category"
+msgstr "اختر الفئة"
+
+#: Views\Reports\_EditReport.cshtml:34
+msgid "Select Category"
+msgstr "اختر الفئة"
+
+#: Views\DataSources\_AddDataSource.cshtml:56
+#: Views\DataSources\_EditDataSource.cshtml:52
+#: Views\Reports\_ReportSelectDataSource.cshtml:16
+#: Views\Reports\_ReportSelectDataSource.cshtml:90
+msgid "Select Data Source"
+msgstr "تحديد مصدر البيانات"
+
+#: Views\Reports\_AddReport.cshtml:76 Views\Reports\_EditReport.cshtml:86
+msgid "Select Data Source(s)"
+msgstr "تحديد مصدر البيانات (ق)"
+
+#: Views\Permission\_AddGroupPermission.cshtml:57
+#: Views\Permission\_AddUserPermission.cshtml:56
+msgid "Select entity"
+msgstr "حدد كيان"
+
+#: Views\UserManagement\_AddUserInGroup.cshtml:18
+msgid "Select Group"
+msgstr "اختر المجموعة"
+
+#: Views\Shared\_SchedulerDialog.cshtml:225
+msgid "Select Groups"
+msgstr "اختر المجموعات"
+
+#: Views\Group\ActiveDirectoryGroup.cshtml:171
+msgid "Select groups to synchronize with Active Directory"
+msgstr "مجموعات مختارة لمزامنة مع Active Directory"
+
+#: Views\Administration\ScheduleSynchronization.cshtml:55
+#: Views\Shared\_SchedulerDialog.cshtml:52
+msgid "Select Recurrence Type"
+msgstr "حدد تكرار نوع"
+
+#: Views\Permission\_AddGroupPermission.cshtml:66
+#: Views\Permission\_AddUserPermission.cshtml:64
+msgid "Select scope"
+msgstr "حدد نطاق"
+
+#: Views\Permission\_AddGroupPermission.cshtml:39
+msgid "Select the permission to add to the group"
+msgstr "حدد إذن إضافة إلى مجموعة"
+
+#: Views\Permission\_AddUserPermission.cshtml:38
+msgid "Select the permission to add to the user"
+msgstr "حدد إذن إضافة إلى المستخدم"
+
+#: Views\Administration\Administration.cshtml:262
+msgid "Select Timezone"
+msgstr "حدد المنطقة الزمنية"
+
+#: Views\Group\EditGroup.cshtml:180
+msgid "Select user(s)"
+msgstr "حدد المستخدم (ق)"
+
+#: Views\Shared\_SchedulerDialog.cshtml:222
+msgid "Select Users"
+msgstr "حدد المستخدمين"
+
+#: Views\UserManagement\SynchronizeUsers.cshtml:166
+msgid "Select Users to synchronize with Active Directory"
+msgstr "حدد للمستخدمين مزامنة مع Active Directory"
+
+#: Views\UserManagement\_AddUserInGroup.cshtml:20
+msgid "Selected user(s)"
+msgstr "المستخدم المحدد (ق)"
+
+#: Views\Administration\Administration.cshtml:377
+msgid "Sender email address"
+msgstr "عنوان البريد الإلكتروني المرسل"
+
+#: Views\Administration\Administration.cshtml:374
+msgid "Sender Email Address"
+msgstr "مرسل البريد"
+
+#: Views\Administration\Administration.cshtml:367
+msgid "Sender name"
+msgstr "اسم المرسل"
+
+#: Views\Administration\Administration.cshtml:364
+msgid "Sender Name"
+msgstr "اسم المرسل"
+
+#: Scripts\Scheduler\Scheduler.js:401
+msgid "September"
+msgstr "سبتمبر"
+
+#: Views\SystemStartUpPage\System.cshtml:47
+msgid "Server name"
+msgstr "اسم الخادم"
+
+#: Controllers\Administration\AdministrationController.cs:110
+#: Controllers\Administration\AdministrationController.cs:141
+msgid "Settings has been updated successfully"
+msgstr "تم تحديث الإعدادات بنجاح"
+
+#: Views\Administration\Administration.cshtml:136
+#: Views\Administration\Administration.cshtml:325
+#: Views\Administration\Administration.cshtml:326
+#: Views\Administration\Administration.cshtml:448
+#: Views\Administration\Administration.cshtml:449
+#: Views\Administration\Administration.cshtml:544
+#: Views\Administration\Administration.cshtml:545
+#: Views\Administration\KerberosAuthentication.cshtml:83
+#: Views\Administration\ScheduleSynchronization.cshtml:222
+msgid "Settings has been updated successfully."
+msgstr "تم تحديث الإعدادات بنجاح."
+
+#: Views\Administration\Administration.cshtml:458
+msgid "Settings to authenticate users via Kerberos ticket management system"
+msgstr "إعدادات لمصادقة المستخدمين عبر Kerberos نظام إدارة تذكرة"
+
+#: Views\Administration\Administration.cshtml:315
+msgid "Show copyright information"
+msgstr "عرض معلومات حقوق النشر"
+
+#: Views\User\UserCSVUpload.cshtml:28
+msgid "Show List"
+msgstr "عرض قائمة"
+
+#: Views\Administration\Administration.cshtml:309
+msgid "Show powered by Syncfusion"
+msgstr "مشاهدة مدعوم من Syncfusion"
+
+#: Views\Shared\_FixedLeftSection.cshtml:71
+msgid "Site Settings"
+msgstr "إعدادات الموقع"
+
+#: Views\Administration\Administration.cshtml:133
+#: Views\Shared\_FixedLeftSection.cshtml:75
+msgid "SITE SETTINGS"
+msgstr "إعدادات الموقع"
+
+#: Views\Administration\Administration.cshtml:149
+msgid "Site URL"
+msgstr "عنوان الموقع"
+
+#: Views\Administration\Administration.cshtml:358
+msgid "SMTP port"
+msgstr "ميناء SMTP"
+
+#: Views\Administration\Administration.cshtml:355
+msgid "SMTP Port"
+msgstr "ميناء SMTP"
+
+#: Views\Administration\Administration.cshtml:349
+msgid "SMTP server"
+msgstr "خادم SMTP"
+
+#: Views\Administration\Administration.cshtml:346
+msgid "SMTP Server"
+msgstr "خادم SMTP"
+
+#: Views\SystemStartUpPage\System.cshtml:53
+msgid "SQL Authentication"
+msgstr "مصادقة SQL"
+
+#: Views\Shared\_SchedulerDialog.cshtml:178
+msgid "Starts on"
+msgstr "يبدأ يوم"
+
+#: Scripts\Core\UMP.Core.js:372
+msgid "StartsWith"
+msgstr "ابدا ب"
+
+#: Scripts\Group\ActiveDirectoryGroupImport.js:66
+#: Scripts\Group\SynchronizeGroups.js:122 Views\Scheduler\Schedules.cshtml:110
+#: Views\UserManagement\Index.cshtml:52
+#: Views\UserManagement\UserManagement.cshtml:137
+msgid "Status"
+msgstr "الحالة"
+
+#: Views\Accounts\ForgotPassword.cshtml:37
+msgid "Submit"
+msgstr "عرض"
+
+#: Scripts\Scheduler\Scheduler.js:364
+#: Views\Administration\ScheduleSynchronization.cshtml:96
+#: Views\Shared\_SchedulerDialog.cshtml:84
+msgid "Sunday"
+msgstr "الأحد"
+
+#: Scripts\Group\SynchronizeGroups.js:122
+msgid "Synchronization Group - Status"
+msgstr "المجموعة تزامن - الحالة"
+
+#: Views\Group\ActiveDirectoryGroup.cshtml:181
+#: Views\UserManagement\SynchronizeUsers.cshtml:164
+msgid "Synchronize"
+msgstr "تزامن"
+
+#: Views\Administration\Administration.cshtml:459
+msgid "Synchronize Active Directory users and groups on a regular schedule"
+msgstr "مزامنة المستخدمين Active Directory و مجموعات على جدول منتظم"
+
+#: Views\Group\ActiveDirectoryGroup.cshtml:181 Views\Group\Group.cshtml:223
+msgid "Synchronize groups with Active Directory"
+msgstr "مزامنة مجموعة مع Active Directory"
+
+#: Views\UserManagement\SynchronizeUsers.cshtml:2
+msgid "Synchronize Users"
+msgstr "مزامنة المستخدمين"
+
+#: Models\Group\GroupModels.cs:219
+msgid "Synchronizing groups with active directory has been failed."
+msgstr "وقد فشل مزامنة مجموعة مع الدليل النشط."
+
+#: Models\Group\GroupModels.cs:191
+msgid "Synchronizing groups with active directory has been successful"
+msgstr "وقد تزامن المجموعات مع الدليل النشط ناجحة"
+
+#: Models\UserManagementModel.cs:1224 Scripts\User\SynchronizeUsers.js:135
+msgid "Synchronizing users with active directory has been failed."
+msgstr "وقد فشلت مزامنة المستخدمين مع الدليل النشط."
+
+#: Models\UserManagementModel.cs:1204
+msgid "Synchronizing users with active directory has been successful."
+msgstr "مزامنة المستخدمين مع الدليل النشط قد حققت نجاحا."
+
+#: Views\Administration\Administration.cshtml:535
+msgid "Test Active Directory Connection"
+msgstr "اختبار الدليل النشط اتصال"
+
+#: Views\Administration\Administration.cshtml:535
+#: Views\DataSources\_AddDataSource.cshtml:139
+#: Views\Reports\_ReportSelectDataSource.cshtml:173
+msgid "Test Connection"
+msgstr "اختبار الاتصال"
+
+#: Views\DataSources\_EditDataSource.cshtml:135
+msgid "TEST CONNECTION"
+msgstr "اختبار الاتصال"
+
+#: Views\Administration\ScheduleSynchronization.cshtml:142
+#: Views\Administration\ScheduleSynchronization.cshtml:175
+#: Views\Administration\ScheduleSynchronization.cshtml:188
+#: Views\Shared\_SchedulerDialog.cshtml:118
+#: Views\Shared\_SchedulerDialog.cshtml:146
+#: Views\Shared\_SchedulerDialog.cshtml:157
+msgid "The"
+msgstr "ال"
+
+#: Models\UserManagementModel.cs:1184
+msgid "The destination URL is not reachable"
+msgstr "عنوان URL المقصود غير قابلة للوصول"
+
+#: Scripts\Items\ItemActions.js:161
+msgid "There is an error in cloning the report. Please try again later."
+msgstr "يوجد خطأ في استنساخ التقرير. الرجاء معاودة المحاولة في وقت لاحق."
+
+#: Scripts\Items\ItemActions.js:127
+msgid "There is an error in copying the report. Please try again later."
+msgstr "يوجد خطأ في نسخ التقرير. الرجاء معاودة المحاولة في وقت لاحق."
+
+#: Controllers\Group\GroupController.cs:248
+msgid ""
+"There is an error in updating this group. Please reload the page and try "
+"again"
+msgstr "يوجد خطأ في تحديث هذه المجموعة. يرجى إعادة تحميل الصفحة وحاول مرة أخرى"
+
+#: Scripts\Items\ItemActions.js:93
+msgid "There is an moving the report. Please try again later."
+msgstr "هناك تحريك التقرير. الرجاء معاودة المحاولة في وقت لاحق."
+
+#: Scripts\User\UserManagement.js:127
+#: Views\Group\ActiveDirectoryGroupImport.cshtml:153
+#: Views\UserManagement\UploadFileFormAction.cshtml:117
+msgid ""
+"There is no data in the uploaded file. Please check and try uploading again."
+msgstr "لا توجد بيانات في الملف الذي تم تحميله. يرجى مراجعة ومحاولة التحميل مرة أخرى."
+
+#: Scripts\Scheduler\Scheduler.js:389
+msgid "third"
+msgstr "ثلث"
+
+#: Scripts\Scheduler\Scheduler.js:376
+#: Views\Administration\ScheduleSynchronization.cshtml:109
+#: Views\Shared\_SchedulerDialog.cshtml:93
+msgid "Thursday"
+msgstr "الخميس"
+
+#: Views\Administration\ScheduleSynchronization.cshtml:209
+msgid "Time"
+msgstr "مرة"
+
+#: Views\Administration\Administration.cshtml:260
+msgid "Time zone"
+msgstr "منطقة زمنية"
+
+#: Models\Item.cs:332 Models\Item.cs:338 Models\Item.cs:343
+msgid "to"
+msgstr "إلى"
+
+#: Views\Items\_CopyItem.cshtml:36 Views\Items\_MoveItem.cshtml:34
+msgid "To"
+msgstr "إلى"
+
+#: Views\Accounts\AccountActivation.cshtml:42
+msgid "to log in to your account"
+msgstr "لتسجيل الدخول إلى حسابك"
+
+#: Views\Accounts\CodeConfirmation.cshtml:23
+msgid "to resend the email"
+msgstr "إعادة إرسال البريد الإلكتروني"
+
+#: Scripts\Scheduler\Scheduler.js:370
+#: Views\Administration\ScheduleSynchronization.cshtml:100
+#: Views\Shared\_SchedulerDialog.cshtml:86
+msgid "Tuesday"
+msgstr "الثلاثاء"
+
+#: Views\Administration\ScheduleSynchronization.cshtml:52
+#: Views\Shared\_SchedulerDialog.cshtml:50
+msgid "Type"
+msgstr "اكتب"
+
+#: Scripts\Report\SelectDataSource.js:427
+#: Views\DataSources\_AddDataSource.cshtml:90
+#: Views\DataSources\_EditDataSource.cshtml:86
+#: Views\Reports\_ReportSelectDataSource.cshtml:124
+msgid "Type or enter a username and password to access the Data Source:"
+msgstr "اكتب أو إدخال اسم المستخدم وكلمة المرور للوصول إلى مصدر البيانات:"
+
+#: Scripts\Scheduler\Scheduler.js:177 Scripts\Scheduler\Scheduler.js:180
+#: Scripts\Scheduler\Scheduler.js:953 Scripts\Scheduler\Scheduler.js:956
+msgid "until"
+msgstr "حتى"
+
+#: Scripts\Report\AddRdlReport.js:400 Views\Accounts\ChangePassword.cshtml:40
+#: Views\Category\_EditCategory.cshtml:49
+#: Views\DataSources\_EditDataSource.cshtml:21 Views\Files\_EditFile.cshtml:112
+#: Views\Items\_ItemsGrid.cshtml:142 Views\Reports\_EditReport.cshtml:93
+#: Views\Shared\_FixedLeftSection.cshtml:40
+#: Views\UserManagement\UserManagement.cshtml:228
+msgid "Update"
+msgstr "تحديث"
+
+#: Views\Group\ActiveDirectoryGroupImport.cshtml:131
+#: Views\UserManagement\ActiveDirectoryUserImport.cshtml:128
+msgid "Update Active Directory Configuration settings"
+msgstr "ضبط التهيئة الدليل النشط تحديث"
+
+#: Scripts\Category\EditCategory.js:111 Views\Category\_EditCategory.cshtml:18
+msgid "Update Category"
+msgstr "تحديث الفئة"
+
+#: Scripts\DataSource\EditDataSource.js:260
+#: Views\DataSources\_EditDataSource.cshtml:15
+msgid "Update Data Source"
+msgstr "المصدر تحديث البيانات"
+
+#: Views\Files\_EditFile.cshtml:39
+msgid "Update File"
+msgstr "ملف التحديث"
+
+#: Scripts\Report\AddRdlReport.js:265 Scripts\Report\AddRdlReport.js:274
+#: Scripts\Report\AddRdlReport.js:280 Views\Reports\_EditReport.cshtml:26
+msgid "Update Report"
+msgstr "تقرير التحديث"
+
+#: Models\Item.cs:316
+msgid "Updated"
+msgstr "تحديث"
+
+#: Views\Administration\Administration.cshtml:181
+#: Views\Administration\Administration.cshtml:215
+#: Views\Administration\Administration.cshtml:239
+#: Views\Reports\_ReportUpload.cshtml:87
+msgid "Upload"
+msgstr "تحميل"
+
+#: Views\UserManagement\UploadFileFormAction.cshtml:109
+msgid "Upload CSV File here"
+msgstr "تحميل ملف CSV هنا"
+
+#: Views\DataSources\_AddDataSource.cshtml:94
+#: Views\DataSources\_AddDataSource.cshtml:123
+#: Views\DataSources\_EditDataSource.cshtml:90
+#: Views\DataSources\_EditDataSource.cshtml:119
+#: Views\Reports\_ReportSelectDataSource.cshtml:128
+#: Views\Reports\_ReportSelectDataSource.cshtml:157
+msgid "Use as Windows credentials when connecting to the Data Source"
+msgstr "كما استخدم بيانات اعتماد Windows عند الاتصال إلى مصدر البيانات"
+
+#: Views\Items\_ItemVersion.cshtml:141 Views\Items\_ItemVersion.cshtml:205
+msgid "User"
+msgstr "مستخدم"
+
+#: Views\Accounts\AccountActivation.cshtml:20
+msgid "User account activation"
+msgstr "تفعيل حساب المستخدم"
+
+#: Scripts\User\UserManagement.js:213
+msgid "User has been added successfully."
+msgstr "تمت إضافة المستخدم بنجاح."
+
+#: Scripts\User\UserManagement.js:217
+msgid ""
+"User has been created successfully. As email settings are not configured we "
+"are not able to send activation email to the user."
+msgstr "تم إنشاء المستخدم بنجاح. كما لم يتم تكوين إعدادات البريد الإلكتروني نحن لسنا قادرين على إرسال بريد التنشيط للمستخدم."
+
+#: Scripts\User\UserManagement.js:719
+msgid "User has been deleted successfully."
+msgstr "لقد تم حذف المستخدم بنجاح."
+
+#: Views\UserManagement\SynchronizeUsers.cshtml:41
+msgid "User id"
+msgstr "معرف المستخدم"
+
+#: Scripts\User\ActiveDirectoryUserImport.js:94
+msgid "User import has been successfully done."
+msgstr "وقد تم ذلك استيراد المستخدم بنجاح."
+
+#: Scripts\User\UserManagement.js:632
+msgid "User import incomplete. Do you want to continue?"
+msgstr "استيراد المستخدم غير مكتملة. هل تريد الاستمرار؟"
+
+#: Views\Shared\_Layout.cshtml:105
+msgid "User Management"
+msgstr "إدارةالمستخدم"
+
+#: Views\User\Profile.cshtml:3 Views\UserManagement\UserManagement.cshtml:2
+#: Views\UserManagement\ViewProfile.cshtml:3
+msgid "User Profile"
+msgstr "ملف تعريفي للمستخدم"
+
+#: Controllers\Administration\UserManagementController.cs:419
+msgid "User profile has been updated successfully."
+msgstr "تم تحديث الملف الشخصي للمستخدم."
+
+#: Controllers\UserController.cs:214
+msgid "User Profile has been updated successfully."
+msgstr "تم تحديث الملف المستخدم بنجاح."
+
+#: Controllers\UserController.cs:209
+msgid "User profile updation failed."
+msgstr "فشل تعريف المستخدم updation."
+
+#: Controllers\Administration\UserManagementController.cs:400
+msgid "User profile updation has been failed"
+msgstr "وقد فشل تعريف المستخدم updation"
+
+#: Scripts\Scheduler\Scheduler.js:1122
+msgid "User(s)"
+msgstr "المستخدم (ق)"
+
+#: Models\UserManagementModel.cs:1192
+msgid "user(s) are deleted."
+msgstr "يتم حذف المستخدم (ق)."
+
+#: Models\UserManagementModel.cs:1188
+msgid "user(s) details are modified."
+msgstr "يتم تعديل المستخدم (ق) التفاصيل."
+
+#: Views\UserManagement\UploadFileFormAction.cshtml:118
+msgid "User(s) has been added successfully"
+msgstr "تمت إضافة المستخدم (ق) بنجاح"
+
+#: Scripts\User\UserManagement.js:687
+msgid "User(s) has been added successfully."
+msgstr "تمت إضافة المستخدم (ق) بنجاح."
+
+#: Scripts\User\UserManagement.js:565
+msgid "User(s) has been deleted successfully."
+msgstr "لقد تم حذف المستخدم (ق) بنجاح."
+
+#: Scripts\User\ActiveDirectoryUserImport.js:89
+#: Scripts\User\ActiveDirectoryUserImport.js:101
+#: Views\UserManagement\ActiveDirectoryUserImport.cshtml:151
+msgid "User(s) has been imported and activated successfully."
+msgstr "تم استيراد المستخدم (ق) وتفعيله بنجاح."
+
+#: Views\Accounts\Login.cshtml:55
+#: Views\Administration\Administration.cshtml:396
+#: Views\Administration\Administration.cshtml:469
+#: Views\Administration\Administration.cshtml:471
+#: Views\DataSources\_AddDataSource.cshtml:105
+#: Views\DataSources\_EditDataSource.cshtml:101
+#: Views\Reports\_ReportSelectDataSource.cshtml:139
+#: Views\SystemStartUpPage\System.cshtml:59
+#: Views\SystemStartUpPage\System.cshtml:90 Views\User\EditProfile.cshtml:50
+#: Views\User\Profile.cshtml:40
+#: Views\UserManagement\ActiveDirectoryUserImport.cshtml:40
+#: Views\UserManagement\Index.cshtml:255 Views\UserManagement\Index.cshtml:257
+#: Views\UserManagement\SynchronizeUsers.cshtml:33
+#: Views\UserManagement\UploadFileFormAction.cshtml:24
+#: Views\UserManagement\UserManagement.cshtml:63
+#: Views\UserManagement\ViewProfile.cshtml:66
+msgid "Username"
+msgstr "اسم المستخدم"
+
+#: Models\UserManagementModel.cs:745 Models\UserManagementModel.cs:880
+#: Models\UserManagementModel.cs:895 Models\UserManagementModel.cs:1134
+#: Scripts\User\UserManagement.js:181
+msgid "Username already exists"
+msgstr "اسم المستخدم موجود بالفعل"
+
+#: Scripts\System\SystemSettings.js:230
+msgid "Username contains invalid characters"
+msgstr "اسم المستخدم يحتوي على أحرف غير صالحة"
+
+#: Scripts\System\SystemSettings.js:226
+msgid "Username contains space"
+msgstr "اسم المستخدم يحتوي على مساحة"
+
+#: Models\UserManagementModel.cs:741 Models\UserManagementModel.cs:856
+#: Models\UserManagementModel.cs:1130
+msgid "Username is Invalid"
+msgstr "إسم المستخدم غير صحيح"
+
+#: Views\Accounts\ForgotPassword.cshtml:34
+msgid "Username or email address"
+msgstr "اسم المستخدم أو البريد الالكتروني"
+
+#: Models\UserManagementModel.cs:1197
+msgid "Username or Email address already exists"
+msgstr "اسم المستخدم أو عنوان البريد الإلكتروني موجود بالفعل"
+
+#: Scripts\User\ActiveDirectoryUserImport.js:92
+msgid "Username or Email address already exists or repeated"
+msgstr "اسم المستخدم أو عنوان البريد الإلكتروني موجود بالفعل أو تكرار"
+
+#: Models\UserManagementModel.cs:1202
+msgid "Username or Email address is Invalid"
+msgstr "اسم المستخدم أو عنوان البريد الإلكتروني غير صالح"
+
+#: Scripts\Accounts\Login.js:44
+msgid "Username required"
+msgstr "اسم المستخدم المطلوبة"
+
+#: Models\UserManagementModel.cs:736 Models\UserManagementModel.cs:843
+msgid "Username should not be empty"
+msgstr "يجب أن المستخدم لا تكون فارغة"
+
+#: Scripts\Core\UMP.Core.js:189
+msgid "Username should not contain special characters"
+msgstr "يجب أن لا يحتوي اسم المستخدم الأحرف الخاصة"
+
+#: Scripts\Core\UMP.Core.js:186 Scripts\User\UserManagement.js:58
+msgid "Username should not contain white space"
+msgstr "يجب أن لا يحتوي على اسم المستخدم المساحة البيضاء"
+
+#: Views\Group\AddUsers.cshtml:95 Views\Permission\UserPermission.cshtml:24
+#: Views\Shared\_FixedLeftSection.cshtml:95
+#: Views\UserManagement\ActiveDirectoryUserImport.cshtml:109
+#: Views\UserManagement\ActiveDirectoryUserImport.cshtml:181
+#: Views\UserManagement\UploadFileFormAction.cshtml:74
+#: Views\UserManagement\UserManagement.cshtml:20
+#: Views\UserManagement\ViewProfile.cshtml:24
+msgid "Users"
+msgstr "المستخدمين"
+
+#: Views\Shared\_FixedLeftSection.cshtml:99
+#: Views\UserManagement\Index.cshtml:175
+msgid "USERS"
+msgstr "المستخدمين"
+
+#: Views\UserManagement\UploadFileFormAction.cshtml:2
+msgid "Users - CSV import"
+msgstr "المستخدمين - الاستيراد CSV"
+
+#: Scripts\Group\ActiveDirectoryGroupImport.js:66
+msgid "Users imported"
+msgstr "المستخدمين المستوردة"
+
+#: Views\UserManagement\Index.cshtml:2
+msgid "Users List"
+msgstr "قائمة المستخدمين"
+
+#: Scripts\Group\ActiveDirectoryGroupImport.js:66
+msgid "Users not imported"
+msgstr "المستخدمين لا استوردت"
+
+#: Scripts\Group\SynchronizeGroups.js:122
+msgid "Users not Synchronized"
+msgstr "المستخدمين غير متزامنة"
+
+#: Views\Items\_ItemVersion.cshtml:133
+msgid "Version"
+msgstr "الإصدار"
+
+#: Views\DataSources\_EditDataSource.cshtml:144 Views\Files\_EditFile.cshtml:94
+#: Views\Reports\_EditReport.cshtml:76
+msgid "Version comments"
+msgstr "تعليقات نسخة"
+
+#: Views\Items\_ItemsGrid.cshtml:118
+msgid "Version history"
+msgstr "تاريخ الإصدار"
+
+#: Views\Items\_ItemVersion.cshtml:31
+msgid "Versions"
+msgstr "إصدارات"
+
+#: Views\Group\Group.cshtml:55 Views\Group\Group.cshtml:63
+#: Views\UserManagement\Index.cshtml:72
+msgid "View"
+msgstr "رأي"
+
+#: Views\Group\EditGroup.cshtml:135
+msgid "View Group"
+msgstr "عرض المجموعة"
+
+#: Views\Shared\_Layout.cshtml:134
+msgid "View my profile"
+msgstr "عرض ملفي الشخصي"
+
+#: Views\FileRender\ReportViewer.cshtml:22
+msgid "View Report"
+msgstr "عرض التقرير"
+
+#: Scripts\Scheduler\Scheduler.js:373
+#: Views\Administration\ScheduleSynchronization.cshtml:102
+#: Views\Shared\_SchedulerDialog.cshtml:87
+msgid "Wednesday"
+msgstr "الأربعاء"
+
+#: Views\Administration\ScheduleSynchronization.cshtml:90
+#: Views\Shared\_SchedulerDialog.cshtml:78
+msgid "week(s)"
+msgstr "أسبوع (s)"
+
+#: Scripts\Administration\ScheduleSynchronization.js:64
+#: Scripts\Administration\ScheduleSynchronization.js:343
+#: Scripts\Scheduler\Scheduler.js:75 Scripts\Scheduler\Scheduler.js:854
+msgid "week(s) on"
+msgstr "الأسبوع (ق) على"
+
+#: Scripts\Scheduler\Scheduler.js:350
+msgid "weekday"
+msgstr "يوم من أيام الأسبوع"
+
+#: Scripts\Scheduler\Scheduler.js:347
+msgid "weekend day"
+msgstr "يوم عطلة نهاية الأسبوع"
+
+#: Scripts\Scheduler\Scheduler.js:337
+msgid "Weekly"
+msgstr "أسبوعي"
+
+#: Views\Administration\Administration.cshtml:193
+#: Views\Administration\Administration.cshtml:195
+msgid "Welcome note"
+msgstr "كلمة ترحيب"
+
+#: Views\Accounts\AccountActivation.cshtml:20
+msgid "Welcome to"
+msgstr "مرحبا بكم في"
+
+#: Views\SystemStartUpPage\System.cshtml:6
+#: Views\SystemStartUpPage\System.cshtml:19
+msgid "Welcome to Syncfusion Report Server"
+msgstr "مرحبا بكم في Syncfusion Server تقرير"
+
+#: Views\Accounts\Login.cshtml:50 Views\SystemStartUpPage\System.cshtml:54
+msgid "Windows Authentication"
+msgstr "مصادقة Windows"
+
+#: Views\DataSources\_AddDataSource.cshtml:132
+#: Views\DataSources\_EditDataSource.cshtml:128
+#: Views\Reports\_ReportSelectDataSource.cshtml:166
+msgid "Windows Integrated Security"
+msgstr "نوافذ الأمن المتكاملة"
+
+#: Views\Shared\_SchedulerDialog.cshtml:245
+msgid "Word"
+msgstr "كلمة"
+
+#: Views\Administration\ScheduleSynchronization.cshtml:167
+#: Views\Shared\_SchedulerDialog.cshtml:139
+msgid "year(s)"
+msgstr "سنة"
+
+#: Scripts\Scheduler\Scheduler.js:339
+msgid "Yearly"
+msgstr "سنوي"
+
+#: Scripts\Administration\ScheduleSynchronization.js:116
+#: Scripts\Administration\ScheduleSynchronization.js:370
+#: Scripts\Administration\ScheduleSynchronization.js:380
+#: Scripts\Scheduler\Scheduler.js:102 Scripts\Scheduler\Scheduler.js:112
+#: Scripts\Scheduler\Scheduler.js:880 Scripts\Scheduler\Scheduler.js:890
+msgid "years on"
+msgstr "سنوات"
+
+#: Scripts\Core\UMP.Core.js:269 Views\Group\_DeleteConfirm.cshtml:40
+#: Views\Group\_DeleteGroupUser.cshtml:36 Views\Items\_DeleteItem.cshtml:27
+#: Views\Permission\_DeletePermission.cshtml:21
+#: Views\Scheduler\_DeleteSchedule.cshtml:20
+#: Views\UserManagement\Index.cshtml:314 Views\UserManagement\Index.cshtml:342
+#: Views\UserManagement\UserManagement.cshtml:256
+#: Views\UserManagement\ViewProfile.cshtml:132
+msgid "Yes"
+msgstr "نعم فعلا"
+
+#: Models\Scheduler\ScheduleManagement.cs:567
+msgid "Yet to run"
+msgstr "بعد تشغيل"
+
+#: Controllers\Items\ItemsController.cs:103
+msgid ""
+"You do not have permission to create reports in a category. So you could not "
+"clone reports in any category "
+msgstr "لم يكن لديك إذن لإنشاء تقارير في الفئة. لذلك لا يمكن استنساخ تقارير في أي فئة "
+
+#: Controllers\Items\ItemsController.cs:100
+msgid ""
+"You do not have permission to create reports in a category. So you could not "
+"copy reports in any category "
+msgstr "لم يكن لديك إذن لإنشاء تقارير في الفئة. لذلك لا يمكن نسخ التقارير في أي فئة "
+
+#: Controllers\Items\ItemsController.cs:73
+msgid ""
+"You do not have permission to create reports in any category or there is no "
+"category to move."
+msgstr "لم يكن لديك إذن لإنشاء التقارير في أي فئة أو ليس هناك فئة للتحرك."
+
+#: Views\Home\Permissiondenied.cshtml:12
+msgid "You do not have permission to view this page."
+msgstr "ليس لديك الصلاحية لدخول هذه الصفحة."
+
+#: Views\Accounts\AccountActivation.cshtml:42
+msgid "You have successfully activated your"
+msgstr "لقد قمت بتنشيط بك بنجاح"
+
