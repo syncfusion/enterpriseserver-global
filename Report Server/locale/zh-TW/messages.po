@@ -1,0 +1,3368 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-03-01 19:33+0530\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"Last-Translator: \n"
+
+#: Views\Administration\Administration.cshtml:302
+msgid " to learn how to add new localizations in Report Server. "
+msgstr "學習如何在報表服務器中添加新的本地化。"
+
+#: Views\Items\_DeleteItem.cshtml:21
+msgid "\" + itemTypeName + \""
+msgstr "\“+ itemTypeName + \”"
+
+#: Models\Permission.cs:51
+msgid ""
+"\" + row.Field<string>(GlobalAppSettings.DbColumns.DB_PermissionEntity.Name) "
+"+ \""
+msgstr "\“+ row.Field <字符串>（GlobalAppSettings.DbColumns.DB_PermissionEntity.Name）+ \”"
+
+#: Views\Items\_CopyItem.cshtml:17 Views\Items\_CopyItem.cshtml:36
+#: Views\Items\_MoveItem.cshtml:34
+msgid "\" + ViewBag.Action + \""
+msgstr "\“+ ViewBag.Action + \”"
+
+#: Views\Items\_DeleteItem.cshtml:13 Views\Items\_DeleteItem.cshtml:42
+msgid "\"+itemTypeName+\""
+msgstr "\“+ itemTypeName + \”"
+
+#: Views\Items\_DeleteItem.cshtml:27
+msgid "\"+Model.Value+\""
+msgstr "\“+ Model.Value + \”"
+
+#: Views\Items\_MoveItem.cshtml:16
+msgid "\"+ViewBag.Action+\""
+msgstr "\“+ ViewBag.Action + \”"
+
+#: Scripts\Core\UMP.Core.js:378
+msgid "{0} of {1} pages ({2} items)"
+msgstr "{0}的{1}頁{2}項）"
+
+#: Views\UserManagement\_AddUserInGroup.cshtml:15
+msgid "1024 characters maximum"
+msgstr "最多1024個字符"
+
+#: Controllers\Items\FilesController.cs:132
+msgid "A file with the same name already exists"
+msgstr "具有相同名稱的文件已存在"
+
+#: Scripts\Report\AddRdlReport.js:212 Scripts\Report\AddRdlReport.js:294
+msgid "A report with the same name already exists in this category"
+msgstr "具有相同名稱的報告中已存在此類別中"
+
+#: Views\Error\AccessDenied.cshtml:2 Views\Error\AccessDenied.cshtml:10
+msgid "Access Denied"
+msgstr "拒絕訪問"
+
+#: Views\Accounts\Login.cshtml:88
+msgid "Access is denied"
+msgstr "訪問被拒絕"
+
+#: Views\Permission\_AddGroupPermission.cshtml:44
+#: Views\Permission\_AddUserPermission.cshtml:43
+msgid "Access mode"
+msgstr "接入方式"
+
+#: Views\Permission\GroupPermission.cshtml:67
+#: Views\Permission\UserPermission.cshtml:71
+msgid "Access Mode"
+msgstr "訪問模式"
+
+#: Views\Accounts\AccountActivation.cshtml:42
+msgid "Account"
+msgstr "帳戶"
+
+#: Views\Accounts\AccountActivation.cshtml:41
+msgid "Account Activated"
+msgstr "帳號激活"
+
+#: Views\Items\_ItemsGrid.cshtml:59 Views\Items\_ItemVersion.cshtml:83
+#: Views\Permission\GroupPermission.cshtml:76
+#: Views\Permission\UserPermission.cshtml:80
+#: Views\Scheduler\Schedules.cshtml:148
+#: Views\Shared\_FixedLeftSection.cshtml:32
+msgid "Actions"
+msgstr "操作"
+
+#: Views\UserManagement\UserManagement.cshtml:174
+msgid "Activate User"
+msgstr "激活用戶"
+
+#: Scripts\User\UserManagementProfile.js:173
+#: Scripts\User\UserManagementProfile.js:192
+msgid ""
+"Activation code has been generated successfully. As email settings are not "
+"configured we are not able to send activation email to the user."
+msgstr "激活碼已成功生成。由於未配置電子郵件設置，我們無法發送激活電子郵件發送至用戶。"
+
+#: Scripts\User\UserManagementProfile.js:192
+msgid "Activation code has been resent successfully."
+msgstr "激活碼已成功反感。"
+
+#: Scripts\User\UserManagementProfile.js:173
+msgid "Activation code has been sent successfully."
+msgstr "激活碼已經發送成功。"
+
+#: Views\Scheduler\Schedules.cshtml:126 Views\UserManagement\Index.cshtml:40
+#: Views\UserManagement\UserManagement.cshtml:142
+#: Views\UserManagement\UserManagement.cshtml:149
+#: Views\UserManagement\UserManagement.cshtml:154
+msgid "Active"
+msgstr "活性"
+
+#: Views\Group\ActiveDirectoryGroupImport.cshtml:115
+#: Views\Group\ActiveDirectoryGroupImport.cshtml:194
+#: Views\UserManagement\ActiveDirectoryUserImport.cshtml:119
+#: Views\UserManagement\ActiveDirectoryUserImport.cshtml:191
+msgid "Active Directory"
+msgstr "活動目錄"
+
+#: Views\Group\Group.cshtml:247
+msgid "Active Directory group"
+msgstr "Active Directory組"
+
+#: Views\Group\Group.cshtml:17
+msgid "Active Directory Group"
+msgstr "Active Directory組"
+
+#: Scripts\Group\ActiveDirectoryGroupImport.js:79
+#: Scripts\Group\ActiveDirectoryGroupImport.js:84
+msgid "Active directory group import"
+msgstr "Active Directory組導入"
+
+#: Views\Group\ActiveDirectoryGroupImport.cshtml:2
+msgid "Active Directory Groups import"
+msgstr "Active Directory組進口"
+
+#: Views\Administration\ScheduleSynchronization.cshtml:17
+#: Views\Shared\_FixedLeftSection.cshtml:87
+msgid "Active Directory Settings"
+msgstr "Active Directory設置"
+
+#: Views\Administration\Administration.cshtml:456
+msgid "ACTIVE DIRECTORY SETTINGS"
+msgstr "Active Directory設置"
+
+#: Scripts\Group\SynchronizeGroups.js:139 Scripts\User\SynchronizeUsers.js:126
+#: Scripts\User\SynchronizeUsers.js:135
+#: Views\Group\ActiveDirectoryGroup.cshtml:2 Views\Group\Group.cshtml:224
+#: Views\UserManagement\Index.cshtml:220
+msgid "Active Directory Synchronization"
+msgstr "Active Directory同步"
+
+#: Views\Group\ActiveDirectoryGroup.cshtml:169
+msgid "Active Directory Synchronization - GROUPS"
+msgstr "Active Directory同步 - 群"
+
+#: Views\UserManagement\SynchronizeUsers.cshtml:156
+msgid "Active Directory Synchronization - USERS"
+msgstr "Active Directory同步 - 用戶"
+
+#: Views\Administration\ScheduleSynchronization.cshtml:23
+msgid "Active Directory Synchronization Schedule"
+msgstr "Active Directory同步日程安排"
+
+#: Views\UserManagement\Index.cshtml:236
+msgid "Active Directory User"
+msgstr "活動目錄用戶"
+
+#: Scripts\User\ActiveDirectoryUserImport.js:96
+#: Scripts\User\ActiveDirectoryUserImport.js:101
+msgid "Active directory user import"
+msgstr "活動目錄用戶導入"
+
+#: Views\UserManagement\ActiveDirectoryUserImport.cshtml:2
+msgid "Active Directory users import"
+msgstr "Active Directory用戶導入"
+
+#: Views\Shared\_FixedLeftSection.cshtml:91
+msgid "AD SETTINGS"
+msgstr "廣告設置"
+
+#: Scripts\Report\SelectDataSource.js:170 Views\Category\_AddCategory.cshtml:54
+#: Views\DataSources\_AddDataSource.cshtml:21 Views\Files\_AddFile.cshtml:94
+#: Views\Group\EditGroup.cshtml:183 Views\Group\_AddGroup.cshtml:59
+#: Views\Permission\_AddGroupPermission.cshtml:78
+#: Views\Permission\_AddUserPermission.cshtml:76
+#: Views\UserManagement\Index.cshtml:286
+#: Views\UserManagement\_AddUserInGroup.cshtml:23
+msgid "Add"
+msgstr "加"
+
+#: Views\Category\_AddCategory.cshtml:19 Views\Category\_AddCategory.cshtml:64
+msgid "Add Category"
+msgstr "添加類別"
+
+#: Scripts\DataSource\AddDataSource.js:225
+#: Views\DataSources\_AddDataSource.cshtml:15
+msgid "Add Data Source"
+msgstr "添加數據源"
+
+#: Views\Shared\_SchedulerDialog.cshtml:230
+msgid "Add external recipients"
+msgstr "添加外部收件人"
+
+#: Views\Files\_AddFile.cshtml:43 Views\Files\_AddFile.cshtml:115
+msgid "Add File"
+msgstr "添加文件"
+
+#: Views\Group\_AddGroup.cshtml:28
+msgid "Add Group"
+msgstr "添加組"
+
+#: Views\Group\Group.cshtml:197 Views\Group\Group.cshtml:203
+#: Views\Group\Group.cshtml:204
+msgid "Add new group"
+msgstr "添加新組"
+
+#: Views\Group\ActiveDirectoryGroup.cshtml:133
+#: Views\Group\ActiveDirectoryGroup.cshtml:145 Views\Group\Group.cshtml:153
+#: Views\Group\ViewGroup.cshtml:72
+msgid "Add New Group"
+msgstr "添加新組"
+
+#: Views\Permission\GroupPermission.cshtml:90
+#: Views\Permission\UserPermission.cshtml:95
+msgid "Add New Permission"
+msgstr "添加新權限"
+
+#: Views\UserManagement\Index.cshtml:185 Views\UserManagement\Index.cshtml:191
+#: Views\UserManagement\Index.cshtml:196 Views\UserManagement\Index.cshtml:197
+msgid "Add new user"
+msgstr "添加新用戶"
+
+#: Views\Permission\GroupPermission.cshtml:36
+#: Views\Permission\UserPermission.cshtml:36
+#: Views\Permission\_AddGroupPermission.cshtml:33
+#: Views\Permission\_AddUserPermission.cshtml:32
+#: Views\Permission\_GroupPermissionGrid.cshtml:8
+#: Views\Permission\_PermissionGrid.cshtml:7
+msgid "Add Permission"
+msgstr "添加權限"
+
+#: Views\Permission\GroupPermission.cshtml:36
+#: Views\Permission\_GroupPermissionGrid.cshtml:8
+msgid "Add Permission to the group"
+msgstr "添加權限到組"
+
+#: Views\Permission\UserPermission.cshtml:36
+#: Views\Permission\_PermissionGrid.cshtml:7
+msgid "Add Permission to the user"
+msgstr "添加權限給用戶"
+
+#: Scripts\Report\AddRdlReport.js:330 Scripts\Report\AddRdlReport.js:336
+#: Scripts\Report\AddRdlReport.js:348 Scripts\Report\AddRdlReport.js:357
+#: Scripts\Report\AddRdlReport.js:363 Views\Reports\_AddReport.cshtml:22
+msgid "Add Report"
+msgstr "添加報告"
+
+#: Views\Group\EditGroup.cshtml:183
+msgid "Add selected user(s) to the group"
+msgstr "選擇的用戶（多個）添加到該組"
+
+#: Views\UserManagement\_AddUserInGroup.cshtml:8
+msgid "Add the selected users to a Group"
+msgstr "選定的用戶添加到組"
+
+#: Views\Group\EditGroup.cshtml:179
+msgid "Add user"
+msgstr "新增用戶"
+
+#: Scripts\User\UserManagement.js:213 Views\UserManagement\Index.cshtml:245
+msgid "Add User"
+msgstr "添加用戶"
+
+#: Views\Group\Group.cshtml:47
+msgid "Add Users"
+msgstr "添加用戶"
+
+#: Views\User\UserCSVUpload.cshtml:16
+msgid "Add Users by CSV File Upload"
+msgstr "通過CSV文件上傳添加用戶"
+
+#: Models\Item.cs:328
+msgid "Added"
+msgstr "添加"
+
+#: Views\Shared\_Layout.cshtml:88
+msgid "ADMIN"
+msgstr "ADMIN"
+
+#: Views\Administration\Administration.cshtml:2
+msgid "Administration"
+msgstr "行政"
+
+#: Views\Shared\_SchedulerDialog.cshtml:196
+msgid "After"
+msgstr "後"
+
+#: Views\Shared\_FixedLeftSection.cshtml:26
+msgid "All"
+msgstr "所有"
+
+#: Views\Shared\_FixedLeftSection.cshtml:240
+msgid "all reports"
+msgstr "所有報告"
+
+#: Views\Reports\Reports.cshtml:31 Views\Shared\_FixedLeftSection.cshtml:209
+#: Views\Shared\_FixedLeftSection.cshtml:279
+#: Views\Shared\_FixedLeftSection.cshtml:307
+msgid "All Reports"
+msgstr "所有報表"
+
+#: Views\Accounts\AccountActivation.cshtml:62
+#: Views\Accounts\ChangePassword.cshtml:59
+#: Views\Accounts\CodeConfirmation.cshtml:43
+#: Views\Accounts\ForgotPassword.cshtml:72 Views\Accounts\Login.cshtml:105
+#: Views\Shared\_Layout.cshtml:176 Views\SystemStartUpPage\System.cshtml:131
+msgid "All Rights Reserved"
+msgstr "版權所有"
+
+#: Views\Shared\_ProfilePictureUploadBox.cshtml:37
+msgid ""
+"Allowed file types are .png, .jpg, and .jpeg. Maximum file size is 20MB. "
+"Recommended resolution is 200x200 pixels"
+msgstr "允許的文件類型是png格式，jpg和.JPEG。最大文件大小為20MB。推薦分辨率為200x200像素"
+
+#: Controllers\Accounts\AccountsController.cs:466
+msgid ""
+"An email with instructions on how to change your password has been sent to "
+msgstr "關於如何更改您的密碼指示的電子郵件已經發送到"
+
+#: Scripts\Administration\ScheduleSynchronization.js:59
+#: Scripts\Scheduler\Scheduler.js:849
+msgid "and"
+msgstr "和"
+
+#: Views\SystemStartUpPage\System.cshtml:23
+msgid ""
+"Application needs a database to proceed further. So choose a database to "
+"proceed."
+msgstr "應用程序需要一個數據庫來進一步進行。因此，選擇一個數據庫進行。"
+
+#: Scripts\Scheduler\Scheduler.js:396
+msgid "April"
+msgstr "四月"
+
+#: Views\Items\_DeleteItem.cshtml:21
+msgid "Are you sure you want to delete"
+msgstr "你確定你要刪除"
+
+#: Views\Group\_DeleteConfirm.cshtml:34
+msgid "Are you sure you want to delete the group"
+msgstr "你確定要刪除的組"
+
+#: Scripts\User\EditProfile.js:245 Scripts\User\UserManagementProfile.js:263
+msgid "Are you sure you want to delete the profile picture?"
+msgstr "你確定要刪除的檔案圖片嗎？"
+
+#: Views\UserManagement\UserManagement.cshtml:251
+#: Views\UserManagement\ViewProfile.cshtml:127
+msgid "Are you sure you want to delete the User"
+msgstr "你確定要刪除用戶"
+
+#: Views\UserManagement\Index.cshtml:307
+msgid "Are you sure you want to delete the User(s)"
+msgstr "你確定要刪除用戶（S）"
+
+#: Views\UserManagement\Index.cshtml:335
+msgid "Are you sure you want to delete the User?"
+msgstr "你確定要刪除的用戶？"
+
+#: Views\Permission\_DeletePermission.cshtml:15
+msgid "Are you sure you want to delete this permission?"
+msgstr "你確定要刪除此權限嗎？"
+
+#: Views\Scheduler\_DeleteSchedule.cshtml:14
+msgid "Are you sure you want to delete this schedule"
+msgstr "你確定要刪除這個時間表"
+
+#: Views\Group\_DeleteGroupUser.cshtml:26
+msgid "Are you sure you want to delete this user from the group?"
+msgstr "你確定要刪除該組此用戶？"
+
+#: Views\Accounts\ForgotPassword.cshtml:49
+msgid ""
+"As email settings are not configured, we will not be able to send an email "
+"to reset your password."
+msgstr "由於未配置電子郵件設置，我們將無法發送電子郵件重設密碼。"
+
+#: Views\Items\_DeleteItem.cshtml:53
+msgid "as the Category contains reports."
+msgstr "作為類別中包含的報告。"
+
+#: Views\Items\_DeleteItem.cshtml:59
+msgid "as the Data Source is being used by reports."
+msgstr "作為數據源正被報告。"
+
+#: Views\Items\_DeleteItem.cshtml:56
+msgid "as the Report has schedules."
+msgstr "由於報告已計劃。"
+
+#: Views\UserManagement\Index.cshtml:224
+#: Views\UserManagement\_AddUserInGroup.cshtml:7
+msgid "Assign Group"
+msgstr "分配組"
+
+#: Scripts\Scheduler\Scheduler.js:400
+msgid "August"
+msgstr "八月"
+
+#: Views\Accounts\Login.cshtml:48
+msgid "Authentication Mode"
+msgstr "身份驗證模式"
+
+#: Views\Reports\_ReportSelectDataSource.cshtml:32
+msgid "Available"
+msgstr "可用的"
+
+#: Views\Shared\_SchedulerDialog.cshtml:260
+msgid "Back"
+msgstr "背部"
+
+#: Views\Administration\Administration.cshtml:180
+#: Views\Administration\Administration.cshtml:214
+#: Views\Files\_AddFile.cshtml:77
+#: Views\UserManagement\UploadFileFormAction.cshtml:94
+msgid "Browse file path"
+msgstr "瀏覽文件路徑"
+
+#: Views\Administration\Administration.cshtml:134
+#: Views\Administration\Administration.cshtml:323
+#: Views\Administration\Administration.cshtml:446
+#: Views\Administration\Administration.cshtml:542
+#: Views\Administration\KerberosAuthentication.cshtml:81
+#: Views\Administration\ScheduleSynchronization.cshtml:220
+#: Views\Category\_AddCategory.cshtml:55 Views\Category\_EditCategory.cshtml:50
+#: Views\DataSources\_AddDataSource.cshtml:22
+#: Views\DataSources\_EditDataSource.cshtml:22 Views\Files\_AddFile.cshtml:95
+#: Views\Files\_EditFile.cshtml:113 Views\Group\_AddGroup.cshtml:60
+#: Views\Items\_CopyItem.cshtml:62 Views\Items\_MoveItem.cshtml:57
+#: Views\Permission\_AddGroupPermission.cshtml:79
+#: Views\Permission\_AddUserPermission.cshtml:77
+#: Views\Reports\_AddReport.cshtml:84 Views\Reports\_EditReport.cshtml:94
+#: Views\Reports\_ReportSelectDataSource.cshtml:26
+#: Views\Shared\_SchedulerDialog.cshtml:218
+#: Views\Shared\_SchedulerDialog.cshtml:260 Views\User\EditPassword.cshtml:82
+#: Views\User\EditProfile.cshtml:126 Views\UserManagement\Index.cshtml:287
+#: Views\UserManagement\_AddUserInGroup.cshtml:24
+msgid "Cancel"
+msgstr "取消"
+
+#: Views\Items\_DeleteItem.cshtml:53 Views\Items\_DeleteItem.cshtml:56
+#: Views\Items\_DeleteItem.cshtml:59
+msgid "Cannot delete"
+msgstr "無法刪除"
+
+#: Views\Category\Category.cshtml:2 Views\Category\Category.cshtml:17
+#: Views\Permission\GroupPermission.cshtml:2
+#: Views\Permission\UserPermission.cshtml:2
+msgid "Categories"
+msgstr "分類"
+
+#: Views\Shared\_FixedLeftSection.cshtml:11
+msgid "CATEGORIES"
+msgstr "類別"
+
+#: Scripts\Items\Items.js:152 Views\Items\_ItemAddOptions.cshtml:44
+#: Views\Items\_ItemsGrid.cshtml:13 Views\Reports\_AddReport.cshtml:30
+msgid "Category"
+msgstr "類別"
+
+#: Views\Category\_AddCategory.cshtml:64
+msgid "Category has been added successfully."
+msgstr "分類已成功添加。"
+
+#: Scripts\Category\EditCategory.js:111
+msgid "Category has been updated successfully."
+msgstr "類別已成功更新。"
+
+#: Views\Category\_AddCategory.cshtml:29 Views\Category\_EditCategory.cshtml:26
+msgid "Category Name"
+msgstr "分類名稱"
+
+#: Scripts\Category\AddCategory.js:82 Scripts\Category\EditCategory.js:104
+msgid "Category name already exists"
+msgstr "類別名稱已存在"
+
+#: Views\Accounts\ChangePassword.cshtml:7 Views\User\EditPassword.cshtml:2
+#: Views\User\EditPassword.cshtml:26 Views\User\EditProfile.cshtml:30
+msgid "Change Password"
+msgstr "更改密碼"
+
+#: Scripts\User\EditProfile.js:215 Scripts\User\EditProfile.js:232
+#: Scripts\User\UserManagementProfile.js:231
+#: Scripts\User\UserManagementProfile.js:250
+msgid "Change Profile picture"
+msgstr "更改個人資料圖片"
+
+#: Views\Shared\_ProfilePictureUploadBox.cshtml:7
+msgid "Change Profile Picture"
+msgstr "更改頭像"
+
+#: Views\Administration\Administration.cshtml:196
+#: Views\Category\_AddCategory.cshtml:43 Views\Category\_EditCategory.cshtml:40
+#: Views\DataSources\_AddDataSource.cshtml:48
+#: Views\DataSources\_EditDataSource.cshtml:44
+#: Views\DataSources\_EditDataSource.cshtml:149 Views\Files\_AddFile.cshtml:69
+#: Views\Files\_EditFile.cshtml:74 Views\Files\_EditFile.cshtml:99
+#: Views\Group\EditGroup.cshtml:166 Views\Group\_AddGroup.cshtml:49
+#: Views\Reports\_AddReport.cshtml:60 Views\Reports\_EditReport.cshtml:60
+#: Views\Reports\_EditReport.cshtml:80
+#: Views\Reports\_ReportSelectDataSource.cshtml:82
+msgid "characters maximum"
+msgstr "最大字符數"
+
+#: Controllers\Items\ReportsController.cs:110
+#: Views\Reports\_AddReport.cshtml:19
+msgid "Choose file"
+msgstr "選擇文件"
+
+#: Scripts\Core\UMP.Core.js:375
+msgid "Clear"
+msgstr "明確"
+
+#: Scripts\Scheduler\Scheduler.js:210 Scripts\Scheduler\Scheduler.js:219
+#: Scripts\Scheduler\Scheduler.js:250 Scripts\Scheduler\Scheduler.js:275
+#: Scripts\Scheduler\Scheduler.js:984 Scripts\Scheduler\Scheduler.js:993
+#: Scripts\Scheduler\Scheduler.js:1024 Scripts\Scheduler\Scheduler.js:1049
+msgid "Clear All"
+msgstr "全部清除"
+
+#: Views\Accounts\AccountActivation.cshtml:42
+msgid "click"
+msgstr "點擊"
+
+#: Views\Administration\Administration.cshtml:302
+msgid "Click "
+msgstr "點擊"
+
+#: Views\Accounts\CodeConfirmation.cshtml:23
+msgid "click here"
+msgstr "點擊這裡"
+
+#: Views\Items\_CopyItem.cshtml:59 Views\Items\_ItemsGrid.cshtml:99
+msgid "Clone"
+msgstr "克隆"
+
+#: Scripts\Items\ItemActions.js:151
+msgid "Clone Report"
+msgstr "克隆報告"
+
+#: Models\Item.cs:342
+msgid "Cloned from"
+msgstr "從克隆"
+
+#: Views\Category\_AddCategory.cshtml:20 Views\Category\_EditCategory.cshtml:20
+#: Views\DataSources\_AddDataSource.cshtml:16
+#: Views\DataSources\_EditDataSource.cshtml:16 Views\Files\_AddFile.cshtml:46
+#: Views\Files\_EditFile.cshtml:42 Views\Group\_AddGroup.cshtml:31
+#: Views\Items\_CopyItem.cshtml:21 Views\Items\_DeleteItem.cshtml:16
+#: Views\Items\_DeleteItem.cshtml:45 Views\Items\_ItemVersion.cshtml:24
+#: Views\Items\_ItemVersion.cshtml:64 Views\Items\_MoveItem.cshtml:20
+#: Views\Reports\_AddReport.cshtml:23 Views\Reports\_EditReport.cshtml:27
+#: Views\Reports\_ReportSelectDataSource.cshtml:17
+#: Views\Scheduler\_DeleteSchedule.cshtml:9
+#: Views\Shared\_ProfilePictureUploadBox.cshtml:10
+#: Views\Shared\_SchedulerDialog.cshtml:38
+#: Views\UserManagement\Index.cshtml:248
+msgid "Close"
+msgstr "關"
+
+#: Views\Shared\_FixedLeftSection.cshtml:68
+msgid "Collapse"
+msgstr "坍方"
+
+#: Views\Items\_ItemVersion.cshtml:149
+msgid "Comments"
+msgstr "註釋"
+
+#: Models\Scheduler\ScheduleManagement.cs:582
+#: Views\Scheduler\Schedules.cshtml:132
+msgid "Completed"
+msgstr "完成"
+
+#: Views\Administration\Administration.cshtml:462
+msgid "Configuration for connecting to Active Directory"
+msgstr "配置連接到Active Directory"
+
+#: Views\Administration\Administration.cshtml:339
+msgid "Configuration for sending emails from the Report Server"
+msgstr "配置從報表服務器發送電子郵件"
+
+#: Views\Administration\Administration.cshtml:138
+msgid "Configure General Settings of the Reports Server"
+msgstr "配置報表服務器的常規設置"
+
+#: Views\Accounts\ChangePassword.cshtml:31
+#: Views\SystemStartUpPage\System.cshtml:113
+#: Views\UserManagement\UserManagement.cshtml:212
+msgid "Confirm password"
+msgstr "確認密碼"
+
+#: Views\Accounts\AccountActivation.cshtml:31 Views\User\EditPassword.cshtml:64
+msgid "Confirm Password"
+msgstr "確認密碼"
+
+#: Views\DataSources\_EditDataSource.cshtml:74
+#: Views\Reports\_ReportSelectDataSource.cshtml:112
+msgid "Connect using"
+msgstr "連接方式"
+
+#: Views\DataSources\_AddDataSource.cshtml:78
+msgid "Connect using:"
+msgstr "連接方式："
+
+#: Controllers\System\SystemStartUpPageController.cs:128
+msgid "Connected successfully."
+msgstr "成功連接。"
+
+#: Controllers\Administration\AdministrationController.cs:171
+msgid "Connection Failed"
+msgstr "連接失敗"
+
+#: Models\DataSourceManager.cs:574
+msgid "Connection has been created successfully"
+msgstr "連接已成功創建"
+
+#: Models\DataSourceManager.cs:516 Models\DataSourceManager.cs:545
+#: Models\DataSourceManager.cs:603 Models\DataSourceManager.cs:633
+#: Models\DataSourceManager.cs:662 Models\DataSourceManager.cs:929
+#: Models\DataSourceManager.cs:982 Models\DataSourceManager.cs:1040
+msgid "Connection has been created successfully."
+msgstr "連接已成功創建。"
+
+#: Views\DataSources\_AddDataSource.cshtml:69
+#: Views\DataSources\_EditDataSource.cshtml:65
+#: Views\Reports\_ReportSelectDataSource.cshtml:103
+msgid "Connection string"
+msgstr "連接字符串"
+
+#: Models\DataSourceManager.cs:875
+msgid "Connection string should contain data source and catalog fields"
+msgstr "連接字符串應包含數據來源和目錄域"
+
+#: Models\DataSourceManager.cs:988
+msgid "Connection string should contain datasource"
+msgstr "連接字符串應包含數據源"
+
+#: Models\DataSourceManager.cs:1046
+msgid "Connection string should contain datasource and initial catalog fields"
+msgstr "連接字符串應包含數據源和初始目錄域"
+
+#: Models\DataSourceManager.cs:935
+msgid "Connection string should contain server, database and domain fields"
+msgstr "連接字符串應該包含服務器，數據庫和域名領域"
+
+#: Scripts\DataSource\AddDataSource.js:54
+#: Scripts\DataSource\AddDataSource.js:112
+#: Scripts\DataSource\EditDataSource.js:18
+#: Scripts\DataSource\EditDataSource.js:65
+#: Scripts\Report\SelectDataSource.js:38 Scripts\Report\SelectDataSource.js:310
+#: Scripts\Report\SelectDataSource.js:440
+msgid "Connection string should not be empty"
+msgstr "連接字符串不能為空"
+
+#: Scripts\Core\UMP.Core.js:372
+msgid "Contains"
+msgstr "包含"
+
+#: Models\Item.cs:337
+msgid "Copied from"
+msgstr "從複製"
+
+#: Views\Items\_CopyItem.cshtml:55 Views\Items\_ItemsGrid.cshtml:92
+msgid "Copy"
+msgstr "複製"
+
+#: Scripts\Items\ItemActions.js:117
+msgid "Copy Report"
+msgstr "複製報告"
+
+#: Views\Accounts\AccountActivation.cshtml:62
+#: Views\Accounts\ChangePassword.cshtml:59
+#: Views\Accounts\CodeConfirmation.cshtml:43
+#: Views\Accounts\ForgotPassword.cshtml:72 Views\Accounts\Login.cshtml:105
+#: Views\Shared\_Layout.cshtml:176 Views\SystemStartUpPage\System.cshtml:131
+msgid "Copyright"
+msgstr "版權"
+
+#: Views\Items\_ItemAddOptions.cshtml:7
+#: Views\Permission\_AddGroupPermission.cshtml:50
+#: Views\Permission\_AddUserPermission.cshtml:49
+msgid "Create"
+msgstr "創建"
+
+#: Views\Items\_ItemAddOptions.cshtml:8
+msgid "CREATE"
+msgstr "創建"
+
+#: Views\Group\Group.cshtml:206
+msgid "Create Group"
+msgstr "創建組"
+
+#: Views\Accounts\AccountActivation.cshtml:21
+#: Views\Accounts\ChangePassword.cshtml:15
+msgid "Create new password"
+msgstr "創建新密碼"
+
+#: Views\UserManagement\Index.cshtml:199
+msgid "Create User"
+msgstr "創建用戶"
+
+#: Views\Reports\_ReportSelectDataSource.cshtml:42
+msgid "Created By"
+msgstr "由...製作"
+
+#: Views\DataSources\_AddDataSource.cshtml:136
+#: Views\DataSources\_EditDataSource.cshtml:132
+#: Views\Reports\_ReportSelectDataSource.cshtml:170
+msgid "Credentials are not required"
+msgstr "憑據不需要"
+
+#: Scripts\DataSource\AddDataSource.js:115
+#: Scripts\DataSource\AddDataSource.js:119
+#: Scripts\DataSource\EditDataSource.js:29
+#: Scripts\DataSource\EditDataSource.js:68
+#: Scripts\DataSource\EditDataSource.js:72
+#: Scripts\Report\SelectDataSource.js:49 Scripts\Report\SelectDataSource.js:76
+#: Scripts\Report\SelectDataSource.js:80 Scripts\Report\SelectDataSource.js:323
+#: Scripts\Report\SelectDataSource.js:447
+msgid "Credentials are required"
+msgstr "證書是必需的"
+
+#: Views\DataSources\_AddDataSource.cshtml:100
+#: Views\DataSources\_EditDataSource.cshtml:96
+#: Views\Reports\_ReportSelectDataSource.cshtml:134
+msgid "Credentials stored securely in the report server"
+msgstr "憑據安全存儲在報表服務器"
+
+#: Views\DataSources\_AddDataSource.cshtml:84
+#: Views\DataSources\_EditDataSource.cshtml:80
+#: Views\Reports\_ReportSelectDataSource.cshtml:118
+msgid "Credentials supplied by the user running the report"
+msgstr "由用戶提供的憑據運行報告"
+
+#: Views\User\EditPassword.cshtml:35
+msgid "Current Password"
+msgstr "當前密碼"
+
+#: Scripts\Scheduler\Scheduler.js:336
+msgid "Daily"
+msgstr "日常"
+
+#: Views\Items\_ItemAddOptions.cshtml:26
+#: Views\Reports\_ReportSelectDataSource.cshtml:41
+msgid "Data Source"
+msgstr "數據源"
+
+#: Scripts\DataSource\AddDataSource.js:225
+msgid "Data Source has been added successfully."
+msgstr "數據源已經成功添加。"
+
+#: Scripts\DataSource\EditDataSource.js:260
+msgid "Data Source has been updated successfully."
+msgstr "數據源已成功更新。"
+
+#: Scripts\DataSource\AddDataSource.js:219
+#: Scripts\DataSource\EditDataSource.js:254
+#: Scripts\Report\SelectDataSource.js:268
+msgid "Data Source name already exists"
+msgstr "數據源名稱已經存在"
+
+#: Views\DataSources\_AddDataSource.cshtml:53
+#: Views\DataSources\_EditDataSource.cshtml:49
+#: Views\Reports\_ReportSelectDataSource.cshtml:87
+msgid "Data Source type"
+msgstr "數據源類型"
+
+#: Views\DataSources\DataSources.cshtml:2
+msgid "Data Sources"
+msgstr "數據源"
+
+#: Views\DataSources\DataSources.cshtml:22 Views\Shared\_Layout.cshtml:53
+msgid "DATA SOURCES"
+msgstr "數據源"
+
+#: Views\SystemStartUpPage\System.cshtml:69
+msgid "Database name"
+msgstr "數據庫名稱"
+
+#: Controllers\System\SystemStartUpPageController.cs:175
+msgid "Database name is already exist"
+msgstr "數據庫名稱已存在"
+
+#: Views\Items\_ItemVersion.cshtml:157 Views\Items\_ItemVersion.cshtml:166
+#: Views\Items\_ItemVersion.cshtml:211 Views\Items\_ItemVersion.cshtml:220
+msgid "Date"
+msgstr "日期"
+
+#: Views\Administration\Administration.cshtml:271
+msgid "Date format"
+msgstr "日期格式"
+
+#: Scripts\Scheduler\Scheduler.js:353
+msgid "day"
+msgstr "天"
+
+#: Views\Administration\ScheduleSynchronization.cshtml:128
+#: Views\Shared\_SchedulerDialog.cshtml:107
+msgid "Day"
+msgstr "天"
+
+#: Views\Administration\ScheduleSynchronization.cshtml:70
+#: Views\Shared\_SchedulerDialog.cshtml:63
+msgid "day(s)"
+msgstr "天）"
+
+#: Scripts\Administration\ScheduleSynchronization.js:26
+#: Scripts\Scheduler\Scheduler.js:44 Scripts\Scheduler\Scheduler.js:823
+msgid "days"
+msgstr "天"
+
+#: Views\Administration\Administration.cshtml:505
+msgid "DC=example,DC=com"
+msgstr "DC =例如，DC = COM"
+
+#: Scripts\Scheduler\Scheduler.js:404
+msgid "December"
+msgstr "十二月"
+
+#: Views\Group\Group.cshtml:71 Views\Items\_DeleteItem.cshtml:13
+#: Views\Items\_DeleteItem.cshtml:42 Views\Items\_ItemsGrid.cshtml:151
+#: Views\Scheduler\Schedules.cshtml:190 Views\Scheduler\Schedules.cshtml:192
+#: Views\Shared\_FixedLeftSection.cshtml:46
+#: Views\UserManagement\Index.cshtml:79
+msgid "Delete"
+msgstr "刪除"
+
+#: Scripts\Group\Group.js:163 Scripts\Group\Group.js:167
+#: Views\Group\EditGroup.cshtml:85 Views\Group\EditGroup.cshtml:146
+#: Views\Group\Group.cshtml:164 Views\Group\ViewGroup.cshtml:116
+#: Views\Group\_DeleteConfirm.cshtml:27
+msgid "Delete Group"
+msgstr "刪除組"
+
+#: Views\Group\AddUsers.cshtml:26
+msgid "DELETE GROUP"
+msgstr "刪除組"
+
+#: Views\Permission\_DeletePermission.cshtml:6
+msgid "Delete Permission"
+msgstr "刪除權限"
+
+#: Scripts\User\EditProfile.js:219 Scripts\User\UserManagementProfile.js:237
+#: Views\User\EditProfile.cshtml:45
+#: Views\UserManagement\UserManagement.cshtml:56
+msgid "Delete profile picture"
+msgstr "刪除資料圖片"
+
+#: Scripts\User\EditProfile.js:245 Scripts\User\UserManagementProfile.js:263
+msgid "Delete Profile Picture"
+msgstr "刪除頭像"
+
+#: Views\Scheduler\_DeleteSchedule.cshtml:6
+msgid "Delete Schedule"
+msgstr "刪除計劃"
+
+#: Scripts\User\UserManagement.js:719 Scripts\User\UserManagement.js:726
+#: Views\Group\_DeleteGroupUser.cshtml:15 Views\UserManagement\Index.cshtml:223
+#: Views\UserManagement\Index.cshtml:298 Views\UserManagement\Index.cshtml:326
+#: Views\UserManagement\UserManagement.cshtml:33
+#: Views\UserManagement\UserManagement.cshtml:242
+#: Views\UserManagement\ViewProfile.cshtml:47
+#: Views\UserManagement\ViewProfile.cshtml:118
+msgid "Delete User"
+msgstr "刪除用戶"
+
+#: Scripts\User\UserManagement.js:565 Scripts\User\UserManagement.js:578
+msgid "Delete User(s)"
+msgstr "刪除用戶（S）"
+
+#: Models\Item.cs:319
+msgid "Deleted"
+msgstr "已刪除"
+
+#: Views\Category\_AddCategory.cshtml:39 Views\Category\_EditCategory.cshtml:36
+#: Views\DataSources\_AddDataSource.cshtml:43
+#: Views\DataSources\_EditDataSource.cshtml:39 Views\Files\_AddFile.cshtml:65
+#: Views\Files\_EditFile.cshtml:70
+#: Views\Group\ActiveDirectoryGroupImport.cshtml:51
+#: Views\Group\AddUsers.cshtml:74 Views\Group\EditGroup.cshtml:162
+#: Views\Group\Group.cshtml:179 Views\Group\ViewGroup.cshtml:132
+#: Views\Group\_AddGroup.cshtml:45 Views\Items\_ItemsGrid.cshtml:10
+#: Views\Reports\_AddReport.cshtml:57 Views\Reports\_EditReport.cshtml:56
+#: Views\Reports\_ReportSelectDataSource.cshtml:77
+#: Views\UserManagement\_AddUserInGroup.cshtml:15
+msgid "Description"
+msgstr "描述"
+
+#: Views\Group\ActiveDirectoryGroupImport.cshtml:128
+#: Views\UserManagement\ActiveDirectoryUserImport.cshtml:127
+msgid "Directory Path"
+msgstr "目錄路徑"
+
+#: Views\Scheduler\Schedules.cshtml:162 Views\Scheduler\Schedules.cshtml:164
+msgid "Disable"
+msgstr "關閉"
+
+#: Views\Administration\Administration.cshtml:258
+msgid "Display"
+msgstr "顯示"
+
+#: Views\Reports\_ReportSelectDataSource.cshtml:121
+msgid "Display the following text to prompt user for a username and password"
+msgstr "顯示以下文字提示用戶輸入用戶名和密碼"
+
+#: Views\DataSources\_AddDataSource.cshtml:87
+#: Views\DataSources\_EditDataSource.cshtml:83
+msgid "Display the following text to prompt user for a username and password:"
+msgstr "顯示以下文字為用戶名和密碼提示用戶："
+
+#: Views\Administration\Administration.cshtml:503
+msgid "Distinguished Name"
+msgstr "專有名稱"
+
+#: Views\Items\_ItemsGrid.cshtml:77 Views\Items\_ItemVersion.cshtml:93
+msgid "Download"
+msgstr "下載"
+
+#: Views\Administration\KerberosAuthentication.cshtml:35
+msgid ""
+"Download and run the .bat file (Administration Mode) in the Windows Server, "
+"where you have Active Directory Domain Services role installed"
+msgstr "在Windows Server中，在安裝了Active Directory域服務的作用下載並運行.bat文件（管理模式）"
+
+#: Views\Items\_ItemsGrid.cshtml:75
+msgid "Download Report"
+msgstr "下載報告"
+
+#: Views\Items\_ItemsGrid.cshtml:131
+msgid "Download Report Designer"
+msgstr "下載報表設計器"
+
+#: Views\UserManagement\UploadFileFormAction.cshtml:84
+msgid "Download sample template"
+msgstr "下載示例模板"
+
+#: Views\User\UserCSVUpload.cshtml:24
+#: Views\UserManagement\UploadFileFormAction.cshtml:84
+msgid "Download Template"
+msgstr "下載模板"
+
+#: Models\Group\GroupModels.cs:189
+msgid "duplicate group(s) exists"
+msgstr "重複的組（S）存在"
+
+#: Scripts\Group\ActiveDirectoryGroupImport.js:79
+#: Views\Group\ActiveDirectoryGroupImport.cshtml:155
+#: Views\UserManagement\ActiveDirectoryUserImport.cshtml:152
+msgid ""
+"Duplicate or Invalid data is found. Please change the data accordingly and "
+"re-import."
+msgstr "重複或無效的數據中找到。請相應地更改數據，並重新導入。"
+
+#: Scripts\User\UserManagement.js:680
+#: Views\UserManagement\UploadFileFormAction.cshtml:119
+msgid ""
+"Duplicate or Invalid data is found. Please change the data accordingly and "
+"re-upload the file."
+msgstr "重複或無效的數據中找到。請相應地更改數據，並重新上傳文件。"
+
+#: Models\UserManagementModel.cs:1197
+msgid "duplicate user(s) exists"
+msgstr "重複的用戶（S）存在"
+
+#: Scripts\User\ActiveDirectoryUserImport.js:92
+msgid "duplicate user(s) exists."
+msgstr "重複的用戶（S）的存在。"
+
+#: Views\Scheduler\Schedules.cshtml:181 Views\Scheduler\Schedules.cshtml:183
+msgid "Edit"
+msgstr "編輯"
+
+#: Scripts\Group\EditGroup.js:70 Views\Group\ViewGroup.cshtml:112
+#: Views\Permission\GroupPermission.cshtml:34
+msgid "Edit Group"
+msgstr "編輯組"
+
+#: Views\Permission\UserPermission.cshtml:34 Views\User\EditProfile.cshtml:2
+#: Views\User\Profile.cshtml:24 Views\UserManagement\ViewProfile.cshtml:44
+msgid "Edit Profile"
+msgstr "編輯個人資料"
+
+#: Views\User\EditProfile.cshtml:44
+#: Views\UserManagement\UserManagement.cshtml:53
+msgid "Edit profile picture"
+msgstr "編輯資料圖片"
+
+#: Scripts\Administration\ScheduleSynchronization.js:153
+#: Scripts\Scheduler\Scheduler.js:174 Scripts\Scheduler\Scheduler.js:177
+#: Scripts\Scheduler\Scheduler.js:180 Scripts\Scheduler\Scheduler.js:950
+#: Scripts\Scheduler\Scheduler.js:953 Scripts\Scheduler\Scheduler.js:956
+msgid "effective"
+msgstr "有效"
+
+#: Views\SystemStartUpPage\System.cshtml:102 Views\User\Profile.cshtml:52
+#: Views\UserManagement\Index.cshtml:262 Views\UserManagement\Index.cshtml:264
+#: Views\UserManagement\UserManagement.cshtml:107
+#: Views\UserManagement\UserManagement.cshtml:114
+#: Views\UserManagement\ViewProfile.cshtml:78
+msgid "Email address"
+msgstr "電子郵件地址"
+
+#: Views\Group\EditGroup.cshtml:115 Views\Group\ViewGroup.cshtml:92
+#: Views\UserManagement\ActiveDirectoryUserImport.cshtml:49
+#: Views\UserManagement\Index.cshtml:49
+#: Views\UserManagement\SynchronizeUsers.cshtml:37
+#: Views\UserManagement\UploadFileFormAction.cshtml:27
+msgid "Email Address"
+msgstr "電子郵件地址"
+
+#: Controllers\UserController.cs:158 Models\UserManagementModel.cs:753
+#: Models\UserManagementModel.cs:880 Models\UserManagementModel.cs:896
+#: Models\UserManagementModel.cs:1142
+#: Controllers\Administration\UserManagementController.cs:334
+#: Scripts\Scheduler\Scheduler.js:1410 Scripts\User\UserManagement.js:193
+msgid "Email address already exists"
+msgstr "電子郵件地址已存在"
+
+#: Models\UserManagementModel.cs:1146
+msgid "Email address already exists in list"
+msgstr "電子郵件地址已存在於列表"
+
+#: Models\UserManagementModel.cs:757
+msgid "Email address already exists in the list"
+msgstr "電子郵件地址已經存在於列表"
+
+#: Models\UserManagementModel.cs:749 Models\UserManagementModel.cs:1138
+msgid "Email address is Invalid"
+msgstr "電子郵箱地址不可用"
+
+#: Models\UserManagementModel.cs:847
+msgid "Email address should not be empty"
+msgstr "電子郵件地址不能為空"
+
+#: Controllers\Accounts\AccountsController.cs:571
+msgid "Email resent successfully."
+msgstr "電子郵件反感成功。"
+
+#: Views\Shared\_FixedLeftSection.cshtml:79
+msgid "Email Settings"
+msgstr "電子郵件設置"
+
+#: Views\Administration\Administration.cshtml:334
+#: Views\Shared\_FixedLeftSection.cshtml:83
+msgid "EMAIL SETTINGS"
+msgstr "電子郵件設置"
+
+#: Views\SystemStartUpPage\System.cshtml:33
+msgid "Embedded"
+msgstr "嵌入式"
+
+#: Views\Scheduler\Schedules.cshtml:171 Views\Scheduler\Schedules.cshtml:173
+msgid "Enable"
+msgstr "啟用"
+
+#: Views\Administration\ScheduleSynchronization.cshtml:34
+msgid "Enable Active Directory Scheduled Synchronization"
+msgstr "啟用Active Directory同步計劃"
+
+#: Views\Administration\Administration.cshtml:433
+#: Views\Administration\Administration.cshtml:512
+msgid "Enable SSL"
+msgstr "啟用SSL"
+
+#: Views\Shared\_SchedulerDialog.cshtml:214
+msgid "Enabled"
+msgstr "啟用"
+
+#: Views\Shared\_SchedulerDialog.cshtml:188
+msgid "Ends"
+msgstr "完"
+
+#: Scripts\Core\UMP.Core.js:372
+msgid "EndsWith"
+msgstr "的endsWith"
+
+#: Views\SystemStartUpPage\System.cshtml:83
+msgid "Enter your details to create a system administrator account."
+msgstr "輸入您的詳細信息來創建一個系統管理員帳戶。"
+
+#: Views\Administration\Administration.cshtml:145
+msgid "Enter your Organization Name"
+msgstr "輸入您的組織名稱"
+
+#: Views\Administration\Administration.cshtml:158
+msgid "Enter your URL"
+msgstr "輸入您的網址"
+
+#: Views\Accounts\ForgotPassword.cshtml:29
+msgid ""
+"Enter your username or email address and we will send you a link to reset "
+"your password."
+msgstr "輸入您的用戶名或電子郵件地址，我們會送你一個鏈接重設密碼。"
+
+#: Views\Permission\GroupPermission.cshtml:70
+#: Views\Permission\UserPermission.cshtml:74
+#: Views\Permission\_AddGroupPermission.cshtml:55
+#: Views\Permission\_AddUserPermission.cshtml:54
+msgid "Entity"
+msgstr "實體"
+
+#: Scripts\Core\UMP.Core.js:372
+msgid "Equal"
+msgstr "等於"
+
+#: Views\UserManagement\UploadFileFormAction.cshtml:33
+msgid "Error"
+msgstr "錯誤"
+
+#: Models\DataSourceManager.cs:116
+msgid "Error while adding data source"
+msgstr "同時增加了數據源錯誤"
+
+#: Models\DataSourceManager.cs:107 Models\DataSourceManager.cs:172
+msgid "Error while adding file"
+msgstr "同時添加文件時出錯"
+
+#: Scripts\DataSource\AddDataSource.js:236
+#: Scripts\Report\SelectDataSource.js:279
+msgid "Error while creating data source"
+msgstr "建立出錯數據源"
+
+#: Scripts\DataSource\EditDataSource.js:269
+msgid "Error while updating data source"
+msgstr "錯誤而更新數據源"
+
+#: Scripts\Report\AddRdlReport.js:491
+msgid "Error while uploading report. Please try again."
+msgstr "錯誤上載報告。請再試一次。"
+
+#: Views\Items\_ItemVersion.cshtml:197
+msgid "Event"
+msgstr "事件"
+
+#: Views\Administration\ScheduleSynchronization.cshtml:66
+#: Views\Administration\ScheduleSynchronization.cshtml:164
+#: Views\Shared\_SchedulerDialog.cshtml:61
+#: Views\Shared\_SchedulerDialog.cshtml:76
+#: Views\Shared\_SchedulerDialog.cshtml:137
+msgid "Every"
+msgstr "一切"
+
+#: Views\Administration\ScheduleSynchronization.cshtml:76
+#: Views\Shared\_SchedulerDialog.cshtml:67
+msgid "Every weekday"
+msgstr "每個工作日"
+
+#: Views\Shared\_SchedulerDialog.cshtml:249
+msgid "Excel"
+msgstr "高強"
+
+#: Views\UserManagement\_AddUserInGroup.cshtml:22
+msgid "Existing Group"
+msgstr "現有組"
+
+#: Views\Shared\_FixedLeftSection.cshtml:66
+msgid "Expand"
+msgstr "擴大"
+
+#: Scripts\Scheduler\Scheduler.js:1122
+msgid "External Recipient(s)"
+msgstr "外部收件人（S）"
+
+#: Views\Shared\_SchedulerDialog.cshtml:229
+msgid "External Recipients (Email address)"
+msgstr "外部收件人（郵箱地址）"
+
+#: Scripts\Report\AddRdlReport.js:330 Scripts\Report\AddRdlReport.js:336
+#: Scripts\Report\AddRdlReport.js:357 Scripts\Report\AddRdlReport.js:363
+msgid "Failed to add report. Please try again later."
+msgstr "無法添加報告。請稍後再試。"
+
+#: Scripts\Group\Group.js:167
+msgid "Failed to delete group, please try again later."
+msgstr "無法刪除組，請稍後再試。"
+
+#: Scripts\User\UserManagement.js:578
+msgid "Failed to delete user(s), please try again later."
+msgstr "無法刪除用戶（），請稍後再試。"
+
+#: Scripts\User\UserManagement.js:726
+msgid "Failed to delete user, please try again later."
+msgstr "無法刪除用戶，請稍後再試。"
+
+#: Scripts\Report\AddRdlReport.js:274 Scripts\Report\AddRdlReport.js:280
+msgid "Failed to update report. Please try again later."
+msgstr "無法更新報告。請稍後再試。"
+
+#: Scripts\User\EditProfile.js:232 Scripts\User\UserManagementProfile.js:250
+msgid "Failed to update the Profile picture, try again later."
+msgstr "後來無法更新個人資料圖片，再試一次。"
+
+#: Views\Administration\Administration.cshtml:233
+msgid "Favicon"
+msgstr "網站圖標"
+
+#: Scripts\Scheduler\Scheduler.js:394
+msgid "February"
+msgstr "二月"
+
+#: Views\UserManagement\UploadFileFormAction.cshtml:92
+msgid "file"
+msgstr "文件"
+
+#: Views\Files\_AddFile.cshtml:74 Views\Files\_EditFile.cshtml:80
+#: Views\Items\_ItemAddOptions.cshtml:35
+msgid "File"
+msgstr "文件"
+
+#: Views\Files\_AddFile.cshtml:115
+msgid "File has been added successfully."
+msgstr "文件已成功添加。"
+
+#: Views\Items\_ItemVersion.cshtml:34
+msgid "File Logs"
+msgstr "文件記錄"
+
+#: Scripts\File\AddFile.js:118
+msgid "File name already exists"
+msgstr "文件名已存在"
+
+#: Views\Files\Files.cshtml:2
+msgid "Files"
+msgstr "檔"
+
+#: Views\Files\Files.cshtml:22 Views\Shared\_Layout.cshtml:60
+msgid "FILES"
+msgstr "FILES"
+
+#: Scripts\Core\UMP.Core.js:374
+msgid "Filter"
+msgstr "過濾"
+
+#: Scripts\Core\UMP.Core.js:373
+msgid "Filter Value"
+msgstr "篩選值"
+
+#: Scripts\Scheduler\Scheduler.js:387
+msgid "first"
+msgstr "第一"
+
+#: Views\SystemStartUpPage\System.cshtml:94 Views\User\EditProfile.cshtml:56
+#: Views\User\Profile.cshtml:44 Views\UserManagement\Index.cshtml:269
+#: Views\UserManagement\Index.cshtml:271
+#: Views\UserManagement\UserManagement.cshtml:72
+#: Views\UserManagement\UserManagement.cshtml:79
+#: Views\UserManagement\ViewProfile.cshtml:70
+msgid "First name"
+msgstr "名字"
+
+#: Views\UserManagement\ActiveDirectoryUserImport.cshtml:46
+msgid "First Name"
+msgstr "名字"
+
+#: Views\Administration\Administration.cshtml:165
+msgid "for more details."
+msgstr "更多細節。"
+
+#: Views\SystemStartUpPage\System.cshtml:33
+msgid "For testing purpose only"
+msgstr "僅用於測試目的"
+
+#: Views\Accounts\CodeConfirmation.cshtml:19 Views\Accounts\Login.cshtml:71
+msgid "Forgot your password?"
+msgstr "忘記密碼了嗎？"
+
+#: Views\Shared\_SchedulerDialog.cshtml:238
+msgid "Format"
+msgstr "格式"
+
+#: Scripts\Scheduler\Scheduler.js:390
+msgid "fourth"
+msgstr "第四"
+
+#: Scripts\Scheduler\Scheduler.js:379
+#: Views\Administration\ScheduleSynchronization.cshtml:111
+#: Views\Shared\_SchedulerDialog.cshtml:94
+msgid "Friday"
+msgstr "星期五"
+
+#: Views\Shared\_Layout.cshtml:97
+msgid "General"
+msgstr "一般"
+
+#: Views\Administration\KerberosAuthentication.cshtml:82
+msgid "Generate and download .bat file"
+msgstr "生成並下載.bat文件"
+
+#: Views\Administration\KerberosAuthentication.cshtml:82
+msgid "Generate and Download .bat File"
+msgstr "生成並下載.bat文件"
+
+#: Scripts\Core\UMP.Core.js:379
+msgid "Go to first page"
+msgstr "轉到第一頁"
+
+#: Scripts\Core\UMP.Core.js:380
+msgid "Go to last page"
+msgstr "轉到最後一頁"
+
+#: Scripts\Core\UMP.Core.js:381
+msgid "Go to next page"
+msgstr "轉到下一頁"
+
+#: Scripts\Core\UMP.Core.js:382
+msgid "Go to previous page"
+msgstr "轉到上一頁"
+
+#: Scripts\Group\EditGroup.js:79 Scripts\Group\Group.js:58
+#: Scripts\User\UserManagement.js:334
+msgid "Group already exists with this name"
+msgstr "組已經存在具有此名稱"
+
+#: Controllers\Administration\UserManagementController.cs:709
+msgid "Group creation has been failed."
+msgstr "集團創建以來，一直失敗。"
+
+#: Controllers\Administration\UserManagementController.cs:712
+msgid "Group has been created successfully."
+msgstr "集團已成功創建。"
+
+#: Scripts\Group\Group.js:163
+msgid "Group has been deleted successfully."
+msgstr "集團已成功刪除。"
+
+#: Controllers\Group\GroupController.cs:246 Scripts\Group\EditGroup.js:70
+msgid "Group has been updated successfully."
+msgstr "集團已成功更新。"
+
+#: Views\Group\ActiveDirectoryGroupImport.cshtml:54
+msgid "group id"
+msgstr "組ID"
+
+#: Views\Group\EditGroup.cshtml:157 Views\Group\_AddGroup.cshtml:40
+#: Views\UserManagement\_AddUserInGroup.cshtml:14
+msgid "Group name"
+msgstr "組名"
+
+#: Scripts\Group\ActiveDirectoryGroupImport.js:66
+#: Scripts\Group\SynchronizeGroups.js:122 Views\Group\AddUsers.cshtml:48
+#: Views\UserManagement\_AddUserInGroup.cshtml:18
+msgid "Group Name"
+msgstr "組名稱"
+
+#: Controllers\Group\GroupController.cs:241
+msgid "Group Name already exist"
+msgstr "組名稱已經存在"
+
+#: Controllers\Administration\UserManagementController.cs:684
+#: Models\Group\GroupModels.cs:134 Models\Group\GroupModels.cs:271
+msgid "Group name already exists"
+msgstr "集團名稱已經存在"
+
+#: Models\Group\GroupModels.cs:122 Models\Group\GroupModels.cs:250
+msgid "Group name should not be empty"
+msgstr "組名稱不能為空"
+
+#: Scripts\Scheduler\Scheduler.js:1122
+msgid "Group(s)"
+msgstr "組（多個）"
+
+#: Models\Group\GroupModels.cs:184
+msgid "group(s) are deleted."
+msgstr "組（多個）被刪除。"
+
+#: Models\Group\GroupModels.cs:180
+msgid "group(s) details are modified."
+msgstr "組（多個）的細節進行修改。"
+
+#: Scripts\Group\ActiveDirectoryGroupImport.js:84
+#: Views\Group\ActiveDirectoryGroupImport.cshtml:154
+msgid "group(s) has been imported successfully."
+msgstr "組（S）已成功導入。"
+
+#: Models\Group\GroupModels.cs:189
+msgid "Groupname already exists"
+msgstr "組名已經存在"
+
+#: Views\Group\ActiveDirectoryGroup.cshtml:163
+#: Views\Group\ActiveDirectoryGroupImport.cshtml:105
+#: Views\Group\ActiveDirectoryGroupImport.cshtml:184
+#: Views\Group\EditGroup.cshtml:2 Views\Group\Group.cshtml:2
+#: Views\Group\ViewGroup.cshtml:2 Views\Group\ViewGroup.cshtml:101
+#: Views\Permission\GroupPermission.cshtml:24
+#: Views\Shared\_FixedLeftSection.cshtml:103 Views\User\Profile.cshtml:63
+#: Views\UserManagement\ViewProfile.cshtml:89
+msgid "Groups"
+msgstr "組"
+
+#: Views\Group\Group.cshtml:188 Views\Shared\_FixedLeftSection.cshtml:107
+msgid "GROUPS"
+msgstr "組"
+
+#: Scripts\Permission\GroupPermission.js:139
+#: Scripts\Permission\Permission.js:139
+msgid "has been added successfully."
+msgstr "已成功添加。"
+
+#: Scripts\Items\Items.js:151
+msgid "has been deleted successfully."
+msgstr "已成功刪除。"
+
+#: Scripts\Scheduler\ScheduleListing.js:140
+msgid "has been started successfully."
+msgstr "已成功啟動。"
+
+#: Views\Accounts\AccountActivation.cshtml:42
+#: Views\Administration\Administration.cshtml:165
+#: Views\Administration\Administration.cshtml:302
+msgid "here"
+msgstr "這裡"
+
+#: Views\Administration\KerberosAuthentication.cshtml:63
+msgid "Host Domain name"
+msgstr "主機域名"
+
+#: Views\Administration\KerberosAuthentication.cshtml:61
+msgid "Host Domain name "
+msgstr "主機域名"
+
+#: Views\Shared\_SchedulerDialog.cshtml:253
+msgid "HTML"
+msgstr "HTML"
+
+#: Views\Accounts\CodeConfirmation.cshtml:23
+msgid "If it does not arrive,"
+msgstr "如果不到位，"
+
+#: Views\Administration\Administration.cshtml:177
+#: Views\Administration\Administration.cshtml:211
+#: Views\Administration\Administration.cshtml:235
+msgid "Image"
+msgstr "圖片"
+
+#: Views\DataSources\_AddDataSource.cshtml:127
+#: Views\DataSources\_EditDataSource.cshtml:123
+#: Views\Reports\_ReportSelectDataSource.cshtml:161
+msgid ""
+"Impersonate the authenticated user after a connection has been made to the "
+"Data Source"
+msgstr "冒充身份驗證的用戶連接已經到數據源後製成"
+
+#: Views\UserManagement\ActiveDirectoryUserImport.cshtml:122
+msgid "Import and Activate"
+msgstr "導入和激活"
+
+#: Views\Group\Group.cshtml:213 Views\UserManagement\Index.cshtml:211
+msgid "Import from Active Directory"
+msgstr "從Active Directory導入"
+
+#: Views\UserManagement\Index.cshtml:205
+msgid "Import from csv"
+msgstr "從CSV導入"
+
+#: Scripts\Group\ActiveDirectoryGroupImport.js:66
+msgid "Import Group - Status"
+msgstr "導入組 - 狀態"
+
+#: Views\Group\ActiveDirectoryGroupImport.cshtml:119
+msgid "Import groups"
+msgstr "導入組"
+
+#: Views\Group\ActiveDirectoryGroupImport.cshtml:111
+#: Views\Group\ActiveDirectoryGroupImport.cshtml:190
+msgid "IMPORT GROUPS"
+msgstr "導入組"
+
+#: Views\Group\Group.cshtml:211
+msgid "Import groups from Active Directory"
+msgstr "從Active Directory導入組"
+
+#: Views\Group\ActiveDirectoryGroupImport.cshtml:119
+msgid "Import the selected groups from the list"
+msgstr "從列表導入選定的組"
+
+#: Views\UserManagement\UploadFileFormAction.cshtml:87
+msgid "Import Users"
+msgstr "導入用戶"
+
+#: Views\UserManagement\ActiveDirectoryUserImport.cshtml:115
+#: Views\UserManagement\ActiveDirectoryUserImport.cshtml:187
+#: Views\UserManagement\UploadFileFormAction.cshtml:80
+msgid "IMPORT USERS"
+msgstr "導入用戶"
+
+#: Views\UserManagement\Index.cshtml:209
+msgid "Import users from Active Directory"
+msgstr "從Active Directory導入用戶"
+
+#: Views\UserManagement\Index.cshtml:203
+msgid "Import users from csv"
+msgstr "從CSV導入用戶"
+
+#: Scripts\User\UserManagement.js:127 Scripts\User\UserManagement.js:632
+#: Scripts\User\UserManagement.js:680 Scripts\User\UserManagement.js:687
+msgid "Import users from CSV"
+msgstr "從CSV導入用戶"
+
+#: Views\Scheduler\Schedules.cshtml:129 Views\UserManagement\Index.cshtml:42
+#: Views\UserManagement\UserManagement.cshtml:143
+#: Views\UserManagement\UserManagement.cshtml:159
+msgid "Inactive"
+msgstr "待用"
+
+#: Views\Group\AddUsers.cshtml:34
+msgid "Info"
+msgstr "信息"
+
+#: Views\Error\HttpError500.cshtml:2 Views\Error\HttpError500.cshtml:10
+msgid "Internal Server Error"
+msgstr "內部服務器錯誤"
+
+#: Controllers\Accounts\AccountsController.cs:576
+msgid "Internal server error occurs. Please try again."
+msgstr "發生內部服務器錯誤。請再試一次。"
+
+#: Controllers\Accounts\AccountsController.cs:522
+msgid "Internal server error while updating password. Please try again."
+msgstr "內部服務器錯誤，同時更新密碼。請再試一次。"
+
+#: Models\DataSourceManager.cs:44 Models\DataSourceManager.cs:138
+#: Models\DataSourceManager.cs:298
+#: Controllers\Accounts\AccountsController.cs:472
+#: Controllers\Items\FilesController.cs:167
+msgid "Internal server error. Please try again."
+msgstr "內部服務器錯誤。請再試一次。"
+
+#: Views\Accounts\AccountActivation.cshtml:48
+msgid "Invalid Activation Link"
+msgstr "無效的激活鏈接"
+
+#: Scripts\Administration\SystemSettings.js:468
+msgid "Invalid Distinguished Name"
+msgstr "無效的專有名稱"
+
+#: Scripts\Administration\SystemSettings.js:332
+#: Scripts\User\UserManagement.js:62 Scripts\User\UserManagementProfile.js:21
+msgid "Invalid email address"
+msgstr "無效的郵件地址"
+
+#: Scripts\Administration\SystemSettings.js:39
+#: Scripts\Administration\SystemSettings.js:73
+#: Scripts\Administration\SystemSettings.js:106
+msgid "Invalid file format"
+msgstr "文件格式無效"
+
+#: Scripts\Administration\KerberosAuthentication.js:8
+msgid "Invalid Host Domain name"
+msgstr "無效的主機域名"
+
+#: Scripts\Administration\SystemSettings.js:461
+msgid "Invalid LDAP URL"
+msgstr "無效的LDAP URL"
+
+#: Controllers\Accounts\AccountsController.cs:400
+#: Controllers\Accounts\AccountsController.cs:403
+#: Controllers\Accounts\AccountsController.cs:526
+#: Controllers\Accounts\AccountsController.cs:540
+msgid "Invalid link"
+msgstr "鏈接無效"
+
+#: Models\UserManagementModel.cs:1202
+msgid "invalid user(s) exists "
+msgstr "無效的用戶（S）存在"
+
+#: Controllers\Accounts\AccountsController.cs:426
+msgid "Invalid username or email address"
+msgstr "無效的用戶名或電子郵件地址"
+
+#: Scripts\Group\ActiveDirectoryGroupImport.js:66
+#: Scripts\Group\SynchronizeGroups.js:122
+msgid ""
+"Invalid Username or Email Address&#13;Duplicated Username or Email Address"
+msgstr "無效的用戶名或郵箱地址＆＃13;重複的用戶名或郵箱地址"
+
+#: Views\Items\_ItemsGrid.cshtml:162
+msgid "Item Actions"
+msgstr "項目操作"
+
+#: Scripts\Scheduler\Scheduler.js:393
+msgid "January"
+msgstr "一月"
+
+#: Scripts\Scheduler\Scheduler.js:399
+msgid "July"
+msgstr "七月"
+
+#: Scripts\Scheduler\Scheduler.js:398
+msgid "June"
+msgstr "六月"
+
+#: Views\Administration\Administration.cshtml:458
+msgid "Kerberos Authentication"
+msgstr "Kerberos身份驗證"
+
+#: Views\Administration\KerberosAuthentication.cshtml:28
+msgid "KERBEROS AUTHENTICATION SETTINGS"
+msgstr "Kerberos身份驗證設置"
+
+#: Models\DataSourceManager.cs:856 Models\DataSourceManager.cs:914
+#: Models\DataSourceManager.cs:968 Models\DataSourceManager.cs:1025
+msgid "Keyword not supported: "
+msgstr "關鍵字不支持："
+
+#: Views\Accounts\CodeConfirmation.cshtml:27
+#: Views\Accounts\ForgotPassword.cshtml:53
+msgid "Know your password?"
+msgstr "知道你的密碼？"
+
+#: Views\Administration\Administration.cshtml:292
+msgid "Language"
+msgstr "語言"
+
+#: Scripts\Scheduler\Scheduler.js:391
+msgid "last"
+msgstr "持續"
+
+#: Views\Items\_ItemsGrid.cshtml:19 Views\User\EditProfile.cshtml:139
+#: Views\User\Profile.cshtml:80 Views\UserManagement\ViewProfile.cshtml:106
+msgid "Last Modified"
+msgstr "上一次更改"
+
+#: Views\SystemStartUpPage\System.cshtml:98 Views\User\Profile.cshtml:48
+#: Views\UserManagement\Index.cshtml:276 Views\UserManagement\Index.cshtml:278
+#: Views\UserManagement\UserManagement.cshtml:89
+#: Views\UserManagement\ViewProfile.cshtml:74
+msgid "Last name"
+msgstr "姓"
+
+#: Views\UserManagement\ActiveDirectoryUserImport.cshtml:43
+msgid "Last Name"
+msgstr "姓"
+
+#: Views\Scheduler\Schedules.cshtml:113
+msgid "Last Run"
+msgstr "上次運行"
+
+#: Views\Administration\Administration.cshtml:493
+#: Views\Administration\Administration.cshtml:495
+msgid "LDAP URL"
+msgstr "LDAP URL"
+
+#: Views\Accounts\CodeConfirmation.cshtml:27
+#: Views\Accounts\ForgotPassword.cshtml:53
+msgid "Log In"
+msgstr "登錄"
+
+#: Views\Accounts\Login.cshtml:68
+msgid "LOG IN"
+msgstr "登錄"
+
+#: Views\Administration\Administration.cshtml:173
+msgid "Log in screen"
+msgstr "登錄屏幕"
+
+#: Views\Shared\_Layout.cshtml:143
+msgid "Log Out"
+msgstr "登出"
+
+#: Views\Accounts\Login.cshtml:11
+msgid "Login"
+msgstr "登錄"
+
+#: Views\Administration\KerberosAuthentication.cshtml:51
+#: Views\Administration\KerberosAuthentication.cshtml:53
+msgid "Machine name"
+msgstr "機器名稱"
+
+#: Views\Administration\Administration.cshtml:209
+msgid "Main screen"
+msgstr "主屏幕"
+
+#: Views\Group\EditGroup.cshtml:143 Views\Group\Group.cshtml:38
+#: Views\Group\ViewGroup.cshtml:109 Views\Permission\GroupPermission.cshtml:29
+#: Views\Permission\UserPermission.cshtml:29
+#: Views\UserManagement\Index.cshtml:64
+#: Views\UserManagement\UserManagement.cshtml:36
+#: Views\UserManagement\ViewProfile.cshtml:43
+msgid "Manage Permissions"
+msgstr "管理權限"
+
+#: Scripts\Scheduler\Scheduler.js:395
+msgid "March"
+msgstr "遊行"
+
+#: Scripts\Scheduler\Scheduler.js:397
+msgid "May"
+msgstr "可能"
+
+#: Views\UserManagement\ActiveDirectoryUserImport.cshtml:52
+msgid "Mobile No"
+msgstr "手機號碼"
+
+#: Views\Group\ActiveDirectoryGroupImport.cshtml:131
+#: Views\UserManagement\ActiveDirectoryUserImport.cshtml:128
+msgid "Modify"
+msgstr "修改"
+
+#: Scripts\Scheduler\Scheduler.js:367
+#: Views\Administration\ScheduleSynchronization.cshtml:98
+#: Views\Shared\_SchedulerDialog.cshtml:85
+msgid "Monday"
+msgstr "星期一"
+
+#: Scripts\Administration\ScheduleSynchronization.js:79
+#: Scripts\Administration\ScheduleSynchronization.js:350
+#: Scripts\Administration\ScheduleSynchronization.js:358
+#: Scripts\Scheduler\Scheduler.js:82 Scripts\Scheduler\Scheduler.js:90
+#: Scripts\Scheduler\Scheduler.js:861 Scripts\Scheduler\Scheduler.js:868
+#: Views\Administration\ScheduleSynchronization.cshtml:134
+#: Views\Administration\ScheduleSynchronization.cshtml:154
+#: Views\Shared\_SchedulerDialog.cshtml:111
+#: Views\Shared\_SchedulerDialog.cshtml:128
+msgid "month(s)"
+msgstr "月（S）"
+
+#: Scripts\Scheduler\Scheduler.js:338
+msgid "Monthly"
+msgstr "每月一次"
+
+#: Views\Items\_ItemsGrid.cshtml:86 Views\Items\_MoveItem.cshtml:53
+msgid "Move"
+msgstr "移動"
+
+#: Scripts\Items\ItemActions.js:83
+msgid "Move Report"
+msgstr "移動報告"
+
+#: Models\Item.cs:322
+msgid "Moved to Trash"
+msgstr "移到回收站"
+
+#: Views\DataSources\_AddDataSource.cshtml:31
+#: Views\DataSources\_EditDataSource.cshtml:30 Views\Files\_AddFile.cshtml:55
+#: Views\Files\_EditFile.cshtml:52 Views\Group\ActiveDirectoryGroup.cshtml:16
+#: Views\Group\ActiveDirectoryGroupImport.cshtml:48
+#: Views\Group\EditGroup.cshtml:112 Views\Group\EditGroup.cshtml:155
+#: Views\Group\Group.cshtml:176 Views\Group\ViewGroup.cshtml:89
+#: Views\Group\ViewGroup.cshtml:125 Views\Group\_AddGroup.cshtml:38
+#: Views\Items\_CopyItem.cshtml:29 Views\Items\_ItemsGrid.cshtml:7
+#: Views\Items\_MoveItem.cshtml:27 Views\Reports\_AddReport.cshtml:49
+#: Views\Reports\_EditReport.cshtml:48
+#: Views\Reports\_ReportSelectDataSource.cshtml:68
+#: Views\Scheduler\Schedules.cshtml:144 Views\Shared\_SchedulerDialog.cshtml:43
+#: Views\UserManagement\ActiveDirectoryUserImport.cshtml:37
+#: Views\UserManagement\Index.cshtml:46
+#: Views\UserManagement\SynchronizeUsers.cshtml:29
+#: Views\UserManagement\UploadFileFormAction.cshtml:30
+#: Views\UserManagement\_AddUserInGroup.cshtml:14
+msgid "Name"
+msgstr "名稱"
+
+#: Models\UserManagementModel.cs:851 Scripts\Report\SelectDataSource.js:300
+msgid "Name should not be empty"
+msgstr "名稱不能為空"
+
+#: Scripts\Report\SelectDataSource.js:304
+msgid "Name should not contain ;?:@&=+$,\\*<>|\"/,"
+msgstr "？名稱不應包含;：@＆= + $，\\ * <> | \“/，"
+
+#: Views\Shared\_SchedulerDialog.cshtml:192
+msgid "Never"
+msgstr "決不"
+
+#: Models\Scheduler\ScheduleManagement.cs:565
+#: Models\Scheduler\ScheduleManagement.cs:568
+#: Models\Scheduler\ScheduleManagement.cs:583
+msgid "Never run"
+msgstr "從不運行"
+
+#: Views\Reports\_ReportSelectDataSource.cshtml:33
+msgid "New Data Source"
+msgstr "新數據源"
+
+#: Views\DataSources\_AddDataSource.cshtml:7
+msgid "New data source popup"
+msgstr "新的數據源彈出"
+
+#: Views\Group\Group.cshtml:198 Views\UserManagement\_AddUserInGroup.cshtml:21
+msgid "New Group"
+msgstr "新集團"
+
+#: Views\Accounts\ChangePassword.cshtml:22
+#: Views\UserManagement\UserManagement.cshtml:202
+msgid "New password"
+msgstr "新密碼"
+
+#: Views\Accounts\AccountActivation.cshtml:25 Views\User\EditPassword.cshtml:52
+msgid "New Password"
+msgstr "新密碼"
+
+#: Views\UserManagement\Index.cshtml:186 Views\UserManagement\Index.cshtml:192
+msgid "New User"
+msgstr "新用戶"
+
+#: Views\Shared\_SchedulerDialog.cshtml:218
+msgid "Next"
+msgstr "下一個"
+
+#: Views\Administration\ScheduleSynchronization.cshtml:39
+msgid "Next Schedule"
+msgstr "下一步計劃"
+
+#: Views\Scheduler\Schedules.cshtml:136
+msgid "Next Scheduled Run"
+msgstr "下一次計劃運行"
+
+#: Scripts\Core\UMP.Core.js:273 Scripts\Core\UMP.Core.js:278
+#: Views\Group\_DeleteConfirm.cshtml:41 Views\Group\_DeleteGroupUser.cshtml:37
+#: Views\Items\_DeleteItem.cshtml:28
+#: Views\Permission\_DeletePermission.cshtml:22
+#: Views\Scheduler\_DeleteSchedule.cshtml:21
+#: Views\UserManagement\Index.cshtml:315 Views\UserManagement\Index.cshtml:343
+#: Views\UserManagement\UserManagement.cshtml:257
+#: Views\UserManagement\ViewProfile.cshtml:133
+msgid "No"
+msgstr "沒有"
+
+#: Scripts\User\EditProfile.js:265 Scripts\User\EditProfile.js:288
+#: Scripts\User\UserManagementProfile.js:308 Views\Files\_AddFile.cshtml:80
+#: Views\Files\_EditFile.cshtml:86 Views\Reports\_ReportUpload.cshtml:77
+#: Views\UserManagement\UploadFileFormAction.cshtml:98
+msgid "No file selected."
+msgstr "沒有文件選擇。"
+
+#: Scripts\Core\UMP.Core.js:371
+msgid "No records to display"
+msgstr "無記錄可顯示"
+
+#: Views\Administration\Administration.cshtml:262
+#: Views\Group\EditGroup.cshtml:180 Views\Items\_CopyItem.cshtml:38
+#: Views\Items\_MoveItem.cshtml:36 Views\Reports\_AddReport.cshtml:34
+#: Views\Reports\_EditReport.cshtml:38 Views\Shared\_SchedulerDialog.cshtml:222
+#: Views\Shared\_SchedulerDialog.cshtml:225
+#: Views\UserManagement\_AddUserInGroup.cshtml:18
+msgid "No results match"
+msgstr "沒有結果的比賽"
+
+#: Scripts\Core\UMP.Core.js:372
+msgid "NotEqual"
+msgstr "不平等"
+
+#: Scripts\Scheduler\Scheduler.js:403
+msgid "November"
+msgstr "十一月"
+
+#: Scripts\Administration\ScheduleSynchronization.js:317
+#: Scripts\Scheduler\Scheduler.js:48 Scripts\Scheduler\Scheduler.js:827
+msgid "Occures every weekday"
+msgstr "Occures每個工作日"
+
+#: Views\Shared\_SchedulerDialog.cshtml:198
+msgid "Occurrences"
+msgstr "出現次數"
+
+#: Scripts\Administration\ScheduleSynchronization.js:79
+#: Scripts\Administration\ScheduleSynchronization.js:350
+#: Scripts\Scheduler\Scheduler.js:82 Scripts\Scheduler\Scheduler.js:861
+msgid "Occurs day"
+msgstr "一天發生"
+
+#: Scripts\Administration\ScheduleSynchronization.js:26
+#: Scripts\Administration\ScheduleSynchronization.js:62
+#: Scripts\Administration\ScheduleSynchronization.js:64
+#: Scripts\Administration\ScheduleSynchronization.js:114
+#: Scripts\Administration\ScheduleSynchronization.js:116
+#: Scripts\Administration\ScheduleSynchronization.js:341
+#: Scripts\Administration\ScheduleSynchronization.js:343
+#: Scripts\Administration\ScheduleSynchronization.js:368
+#: Scripts\Administration\ScheduleSynchronization.js:370
+#: Scripts\Administration\ScheduleSynchronization.js:380
+#: Scripts\Scheduler\Scheduler.js:44 Scripts\Scheduler\Scheduler.js:73
+#: Scripts\Scheduler\Scheduler.js:75 Scripts\Scheduler\Scheduler.js:102
+#: Scripts\Scheduler\Scheduler.js:112 Scripts\Scheduler\Scheduler.js:823
+#: Scripts\Scheduler\Scheduler.js:852 Scripts\Scheduler\Scheduler.js:854
+#: Scripts\Scheduler\Scheduler.js:878 Scripts\Scheduler\Scheduler.js:880
+#: Scripts\Scheduler\Scheduler.js:890
+msgid "Occurs every"
+msgstr "每發生"
+
+#: Scripts\Scheduler\Scheduler.js:100
+msgid "Occurs every "
+msgstr "每發生"
+
+#: Scripts\Administration\ScheduleSynchronization.js:24
+#: Scripts\Scheduler\Scheduler.js:42 Scripts\Scheduler\Scheduler.js:821
+msgid "Occurs every day"
+msgstr "發生每一天"
+
+#: Scripts\Administration\ScheduleSynchronization.js:358
+#: Scripts\Administration\ScheduleSynchronization.js:378
+#: Scripts\Scheduler\Scheduler.js:90 Scripts\Scheduler\Scheduler.js:110
+#: Scripts\Scheduler\Scheduler.js:868 Scripts\Scheduler\Scheduler.js:888
+msgid "Occurs the"
+msgstr "發生"
+
+#: Scripts\Scheduler\Scheduler.js:402
+msgid "October"
+msgstr "十月"
+
+#: Scripts\Administration\ScheduleSynchronization.js:378
+#: Scripts\Administration\ScheduleSynchronization.js:380
+#: Scripts\Scheduler\Scheduler.js:110 Scripts\Scheduler\Scheduler.js:112
+#: Scripts\Scheduler\Scheduler.js:888 Scripts\Scheduler\Scheduler.js:890
+#: Views\Administration\ScheduleSynchronization.cshtml:200
+#: Views\Shared\_SchedulerDialog.cshtml:169
+msgid "of"
+msgstr "的"
+
+#: Scripts\Administration\ScheduleSynchronization.js:79
+#: Scripts\Administration\ScheduleSynchronization.js:350
+#: Scripts\Administration\ScheduleSynchronization.js:358
+#: Scripts\Scheduler\Scheduler.js:82 Scripts\Scheduler\Scheduler.js:90
+#: Scripts\Scheduler\Scheduler.js:861 Scripts\Scheduler\Scheduler.js:868
+#: Views\Administration\ScheduleSynchronization.cshtml:131
+#: Views\Administration\ScheduleSynchronization.cshtml:151
+#: Views\Shared\_SchedulerDialog.cshtml:109
+#: Views\Shared\_SchedulerDialog.cshtml:126
+msgid "of every"
+msgstr "每"
+
+#: Scripts\Core\UMP.Core.js:294 Scripts\Core\UMP.Core.js:299
+#: Views\Items\_CopyItem.cshtml:75 Views\Items\_DeleteItem.cshtml:31
+#: Views\Items\_DeleteItem.cshtml:66 Views\Items\_MoveItem.cshtml:72
+#: Views\Scheduler\_DeleteSchedule.cshtml:24
+msgid "OK"
+msgstr "好"
+
+#: Views\Shared\_SchedulerDialog.cshtml:202
+msgid "On"
+msgstr "上"
+
+#: Views\Items\_ItemsGrid.cshtml:67 Views\Items\_ItemVersion.cshtml:89
+msgid "Open"
+msgstr "打開"
+
+#: Views\Administration\Administration.cshtml:143
+msgid "Organization name"
+msgstr "機構名稱"
+
+#: Views\Items\_ItemsGrid.cshtml:16
+msgid "Owner"
+msgstr "所有者"
+
+#: Controllers\UserController.cs:40
+#: Controllers\Administration\UserManagementController.cs:56
+#: Controllers\Administration\UserManagementController.cs:61
+#: Controllers\Group\GroupController.cs:197
+#: Controllers\Group\GroupController.cs:199 Views\Error\HttpError404.cshtml:2
+#: Views\Error\HttpError404.cshtml:10
+msgid "Page Not Found"
+msgstr "找不到網頁"
+
+#: Scripts\Administration\SystemSettings.js:135
+#: Scripts\Administration\SystemSettings.js:136 Views\Accounts\Login.cshtml:59
+#: Views\Administration\Administration.cshtml:26
+#: Views\Administration\Administration.cshtml:413
+#: Views\Administration\Administration.cshtml:479
+#: Views\DataSources\_AddDataSource.cshtml:111
+#: Views\DataSources\_EditDataSource.cshtml:107
+#: Views\Reports\_ReportSelectDataSource.cshtml:145
+#: Views\SystemStartUpPage\System.cshtml:64
+#: Views\SystemStartUpPage\System.cshtml:107
+msgid "Password"
+msgstr "密碼"
+
+#: Views\Accounts\ForgotPassword.cshtml:23
+msgid "Password Assistance"
+msgstr "密碼幫助"
+
+#: Controllers\Accounts\AccountsController.cs:517
+msgid "Password has been changed successfully."
+msgstr "密碼已被更改成功。"
+
+#: Controllers\UserController.cs:104
+#: Controllers\Administration\UserManagementController.cs:273
+msgid "Password has been updated successfully."
+msgstr "密碼已成功更新。"
+
+#: Views\Accounts\CodeConfirmation.cshtml:2
+#: Views\Accounts\ForgotPassword.cshtml:2
+msgid "Password Helper"
+msgstr "密碼助手"
+
+#: Scripts\Accounts\ForgotPassword.js:143 Scripts\User\EditProfile.js:157
+#: Scripts\User\UserManagementProfile.js:138
+msgid "Password mismatch"
+msgstr "密碼不匹配"
+
+#: Scripts\Accounts\Login.js:47
+msgid "Password required"
+msgstr "需要密碼"
+
+#: Controllers\UserController.cs:100
+#: Controllers\Administration\UserManagementController.cs:263
+msgid "Password updation has been failed."
+msgstr "密碼選擇更新已經失敗。"
+
+#: Scripts\Accounts\ForgotPassword.js:104 Scripts\User\EditProfile.js:496
+msgid "Passwords mismatch"
+msgstr "密碼不匹配"
+
+#: Scripts\System\SystemSettings.js:298
+msgid "Passwords Mismatch"
+msgstr "密碼不匹配"
+
+#: Views\Shared\_SchedulerDialog.cshtml:241
+msgid "PDF"
+msgstr "PDF"
+
+#: Views\Group\AddUsers.cshtml:33
+msgid "People"
+msgstr "人"
+
+#: Views\Home\Permissiondenied.cshtml:2
+msgid "Permission Denied"
+msgstr "沒有權限"
+
+#: Scripts\Permission\GroupPermission.js:149
+#: Scripts\Permission\Permission.js:149
+msgid "Permission Entity already exists"
+msgstr "權限實體已存在"
+
+#: Scripts\Permission\GroupPermission.js:135
+#: Scripts\Permission\Permission.js:135
+msgid "permission for"
+msgstr "許可"
+
+#: Views\User\Profile.cshtml:57 Views\UserManagement\UserManagement.cshtml:124
+#: Views\UserManagement\ViewProfile.cshtml:83
+msgid "Phone number"
+msgstr "電話號碼"
+
+#: Views\User\EditProfile.cshtml:39
+#: Views\UserManagement\UserManagement.cshtml:48
+msgid "pixel size recommended"
+msgstr "像素大小推薦"
+
+#: Views\Administration\Administration.cshtml:187
+#: Views\Administration\Administration.cshtml:220
+#: Views\Administration\Administration.cshtml:244
+msgid "pixels preferred"
+msgstr "像素首選"
+
+#: Scripts\Administration\SystemSettings.js:328
+#: Scripts\Category\AddCategory.js:6 Scripts\Category\EditCategory.js:29
+#: Scripts\DataSource\AddDataSource.js:40
+#: Scripts\DataSource\EditDataSource.js:4 Scripts\File\AddFile.js:33
+#: Scripts\File\EditFile.js:37 Scripts\Group\EditGroup.js:5
+#: Scripts\Group\Group.js:87 Scripts\Items\ItemActions.js:4
+#: Scripts\Report\AddRdlReport.js:74 Scripts\Report\SelectDataSource.js:25
+#: Scripts\Scheduler\Scheduler.js:1153 Scripts\User\EditProfile.js:24
+#: Scripts\User\UserManagement.js:54 Scripts\User\UserManagement.js:66
+#: Scripts\User\UserManagement.js:476 Scripts\User\UserManagementProfile.js:29
+msgid "Please avoid special characters"
+msgstr "請避免特殊字符"
+
+#: Views\Reports\_ReportUpload.cshtml:44
+msgid "Please choose valid file to upload"
+msgstr "請選擇有效的文件上傳"
+
+#: Views\Group\ActiveDirectoryGroupImport.cshtml:199
+#: Views\UserManagement\ActiveDirectoryUserImport.cshtml:196
+msgid "Please click here to configure the Active Directory settings"
+msgstr "請點擊此處配置Active Directory設置"
+
+#: Scripts\User\UserManagementProfile.js:173
+#: Scripts\User\UserManagementProfile.js:192
+msgid "Please click here to configure the email settings."
+msgstr "請點擊此處配置電子郵件設置。"
+
+#: Models\UserManagementModel.cs:1216 Models\Group\GroupModels.cs:203
+#: Scripts\User\ActiveDirectoryUserImport.js:95
+msgid ""
+"Please click OK to check the list behind regarding the invalid or duplicate "
+"users."
+msgstr "請點擊即可查看關於無效或重複的用戶背後的名單。"
+
+#: Scripts\Accounts\ForgotPassword.js:103 Scripts\System\SystemSettings.js:297
+msgid "Please confirm password"
+msgstr "請確認密碼"
+
+#: Scripts\Accounts\ForgotPassword.js:142 Scripts\User\EditProfile.js:156
+#: Scripts\User\UserManagementProfile.js:137
+msgid "Please confirm your new password"
+msgstr "請確認您的新密碼"
+
+#: Scripts\Scheduler\Scheduler.js:1421 Scripts\System\SystemSettings.js:234
+#: Scripts\User\EditProfile.js:20
+msgid "Please enter a valid email address"
+msgstr "請輸入有效的電子郵件地址"
+
+#: Scripts\Category\AddCategory.js:32 Scripts\Category\EditCategory.js:55
+msgid "Please enter category name"
+msgstr "請輸入類別名稱"
+
+#: Controllers\UserController.cs:94
+msgid "Please enter correct old password."
+msgstr "請輸入正確的舊密碼。"
+
+#: Scripts\DataSource\AddDataSource.js:109
+#: Scripts\DataSource\EditDataSource.js:62
+#: Scripts\Report\SelectDataSource.js:73
+msgid "Please enter data source name"
+msgstr "請輸入數據源名稱"
+
+#: Scripts\Administration\SystemSettings.js:515
+msgid "Please enter Distinguished Name"
+msgstr "請輸入專有名稱"
+
+#: Scripts\System\SystemSettings.js:291 Scripts\User\UserManagement.js:115
+#: Scripts\User\UserManagementProfile.js:78 Views\User\EditProfile.cshtml:92
+#: Views\User\EditProfile.cshtml:96
+msgid "Please enter email address"
+msgstr "請輸入電子郵件地址"
+
+#: Scripts\File\AddFile.js:55 Scripts\File\EditFile.js:63
+msgid "Please enter file name"
+msgstr "請輸入文件名"
+
+#: Scripts\System\SystemSettings.js:288 Scripts\User\UserManagement.js:118
+#: Scripts\User\UserManagementProfile.js:81 Views\User\EditProfile.cshtml:60
+#: Views\User\EditProfile.cshtml:64
+msgid "Please enter first name"
+msgstr "請輸入名字"
+
+#: Scripts\Group\EditGroup.js:33 Scripts\Group\Group.js:115
+#: Scripts\User\UserManagement.js:503 Views\Group\EditGroup.cshtml:159
+#: Views\Group\ViewGroup.cshtml:129 Views\Group\_AddGroup.cshtml:41
+#: Views\UserManagement\_AddUserInGroup.cshtml:14
+msgid "Please enter group name"
+msgstr "請輸入組名"
+
+#: Scripts\Administration\KerberosAuthentication.js:42
+msgid "Please enter Host Domain name"
+msgstr "請輸入主機域名"
+
+#: Views\User\EditProfile.cshtml:76 Views\User\EditProfile.cshtml:80
+msgid "Please enter last name"
+msgstr "請輸入姓氏"
+
+#: Scripts\Administration\SystemSettings.js:512
+msgid "Please enter LDAP URL"
+msgstr "請輸入LDAP URL"
+
+#: Scripts\Administration\KerberosAuthentication.js:39
+msgid "Please enter machine name"
+msgstr "請輸入計算機名"
+
+#: Scripts\Accounts\ForgotPassword.js:100
+#: Scripts\Administration\SystemSettings.js:447
+#: Scripts\Administration\SystemSettings.js:509
+#: Scripts\System\SystemSettings.js:294 Scripts\System\SystemSettings.js:349
+msgid "Please enter password"
+msgstr "請輸入密碼"
+
+#: Views\User\EditProfile.cshtml:110 Views\User\EditProfile.cshtml:114
+msgid "Please enter phone number"
+msgstr "請輸入手機號碼"
+
+#: Scripts\Administration\SystemSettings.js:518
+msgid "Please enter Port Number"
+msgstr "請輸入端口號"
+
+#: Scripts\Items\ItemActions.js:22 Scripts\Items\ItemActions.js:51
+#: Scripts\Report\AddRdlReport.js:101 Scripts\Report\AddRdlReport.js:136
+#: Views\Reports\_AddReport.cshtml:53 Views\Reports\_EditReport.cshtml:52
+msgid "Please enter report name"
+msgstr "請輸入報表名稱"
+
+#: Scripts\Scheduler\Scheduler.js:1147 Scripts\Scheduler\Scheduler.js:1212
+#: Scripts\Scheduler\Scheduler.js:1224 Scripts\Scheduler\Scheduler.js:1296
+#: Scripts\Scheduler\Scheduler.js:1310
+msgid "Please enter schedule name"
+msgstr "請輸入計劃名稱"
+
+#: Scripts\Administration\ScheduleSynchronization.js:458
+msgid "Please enter schedule time"
+msgstr "請輸入預定時間"
+
+#: Scripts\Administration\SystemSettings.js:444
+msgid "Please enter sender email address"
+msgstr "請輸入發件人的電子郵件地址"
+
+#: Scripts\Administration\SystemSettings.js:441
+msgid "Please enter sender name"
+msgstr "請輸入發件人名稱"
+
+#: Scripts\System\SystemSettings.js:343
+msgid "Please enter server name"
+msgstr "請輸入服務器名稱"
+
+#: Scripts\Administration\SystemSettings.js:438
+msgid "Please enter SMTP port"
+msgstr "請輸入SMTP端口"
+
+#: Scripts\Administration\SystemSettings.js:435
+msgid "Please enter SMTP server"
+msgstr "請輸入SMTP服務器"
+
+#: Scripts\System\SystemSettings.js:352
+msgid "Please enter the database name"
+msgstr "請輸入數據庫名稱"
+
+#: Scripts\Accounts\Login.js:8 Scripts\Administration\SystemSettings.js:324
+#: Scripts\Category\AddCategory.js:10 Scripts\Category\EditCategory.js:33
+#: Scripts\DataSource\AddDataSource.js:44
+#: Scripts\DataSource\EditDataSource.js:8 Scripts\File\AddFile.js:29
+#: Scripts\File\EditFile.js:41 Scripts\Group\EditGroup.js:9
+#: Scripts\Group\Group.js:91 Scripts\Items\ItemActions.js:8
+#: Scripts\Report\AddRdlReport.js:78 Scripts\Report\SelectDataSource.js:29
+#: Scripts\System\SystemSettings.js:222 Scripts\User\EditProfile.js:28
+#: Scripts\User\UserManagement.js:50 Scripts\User\UserManagementProfile.js:25
+msgid "Please enter the name"
+msgstr "請輸入名稱"
+
+#: Scripts\Administration\SystemSettings.js:365
+msgid "Please enter URL"
+msgstr "請輸入網址"
+
+#: Scripts\Administration\SystemSettings.js:450
+#: Scripts\Administration\SystemSettings.js:506
+#: Scripts\System\SystemSettings.js:285 Scripts\System\SystemSettings.js:346
+#: Scripts\User\UserManagement.js:112
+msgid "Please enter username"
+msgstr "請輸入用戶名"
+
+#: Scripts\Administration\SystemSettings.js:320
+msgid "Please enter valid URL"
+msgstr "請輸入有效的網址"
+
+#: Scripts\User\EditProfile.js:79
+msgid "Please enter your email address"
+msgstr "請輸入您的電子郵件地址"
+
+#: Scripts\User\EditProfile.js:82
+msgid "Please enter your first name"
+msgstr "請輸入您的名字"
+
+#: Scripts\Accounts\ForgotPassword.js:139 Scripts\User\EditProfile.js:153
+#: Scripts\User\UserManagementProfile.js:134
+msgid "Please enter your new password"
+msgstr "請輸入您的新密碼"
+
+#: Scripts\User\EditProfile.js:150
+msgid "Please enter your old password"
+msgstr "請輸入您的舊密碼"
+
+#: Scripts\Accounts\ForgotPassword.js:78
+msgid "Please enter your username or email address"
+msgstr "請輸入您的用戶名或電子郵件地址"
+
+#: Views\Group\ActiveDirectoryGroupImport.cshtml:146
+msgid ""
+"Please search and select the groups from the following list to import into "
+"Report Server"
+msgstr "請從下面的列表中搜索並選擇組導入到報告服務器"
+
+#: Views\UserManagement\ActiveDirectoryUserImport.cshtml:144
+msgid ""
+"Please search and select the users from the following list to import into "
+"Report Server"
+msgstr "請從下面的列表中搜索和選擇的用戶導入到報告服務器"
+
+#: Scripts\Administration\ScheduleSynchronization.js:413
+#: Scripts\Scheduler\Scheduler.js:1166
+msgid "Please select at least one day."
+msgstr "請選擇至少一天。"
+
+#: Scripts\Scheduler\Scheduler.js:1241
+msgid "Please select atleast one recipient"
+msgstr "請選擇至少一個收件人"
+
+#: Views\Reports\_AddReport.cshtml:40
+msgid "Please select category"
+msgstr "請選擇類別"
+
+#: Views\Group\ActiveDirectoryGroupImport.cshtml:156
+msgid "Please select group(s) to import"
+msgstr "請選擇組（S）導入"
+
+#: Views\UserManagement\ActiveDirectoryUserImport.cshtml:153
+msgid "Please select user(s) to import"
+msgstr "請選擇用戶（S）導入"
+
+#: Views\UserManagement\UploadFileFormAction.cshtml:101
+msgid "Please upload a valid csv file."
+msgstr "請上傳有效的csv文件。"
+
+#: Scripts\File\AddFile.js:90
+msgid "Please upload a valid file"
+msgstr "請上傳有效的文件"
+
+#: Views\Reports\_ReportUpload.cshtml:36
+msgid "Please upload the report"
+msgstr "請上傳報告"
+
+#: Views\Administration\Administration.cshtml:523
+#: Views\Administration\Administration.cshtml:525
+msgid "Port Number"
+msgstr "端口號"
+
+#: Views\Accounts\AccountActivation.cshtml:60
+#: Views\Accounts\ChangePassword.cshtml:57
+#: Views\Accounts\CodeConfirmation.cshtml:41 Views\Accounts\Login.cshtml:102
+#: Views\Shared\_Layout.cshtml:174 Views\SystemStartUpPage\System.cshtml:131
+msgid "Powered by"
+msgstr "供電"
+
+#: Views\Accounts\ForgotPassword.cshtml:70
+msgid "Powered by "
+msgstr "供電"
+
+#: Views\SystemStartUpPage\System.cshtml:76
+#: Views\SystemStartUpPage\System.cshtml:77
+#: Views\SystemStartUpPage\System.cshtml:122
+msgid "Proceed"
+msgstr "繼續"
+
+#: Views\Shared\_Layout.cshtml:136
+msgid "Profile"
+msgstr "輪廓"
+
+#: Scripts\User\EditProfile.js:465
+msgid "Profile has been updated successfully."
+msgstr "個人資料已成功更新。"
+
+#: Views\User\EditProfile.cshtml:38 Views\User\Profile.cshtml:31
+#: Views\UserManagement\UserManagement.cshtml:47
+#: Views\UserManagement\ViewProfile.cshtml:57
+msgid "Profile Picture"
+msgstr "頭像"
+
+#: Scripts\User\EditProfile.js:215 Scripts\User\UserManagementProfile.js:231
+msgid "Profile picture has been saved successfully."
+msgstr "資料圖片已成功保存。"
+
+#: Views\Reports\_AddReport.cshtml:65 Views\Reports\_EditReport.cshtml:65
+msgid "RDL File"
+msgstr "RDL文件"
+
+#: Views\Permission\_AddGroupPermission.cshtml:47
+#: Views\Permission\_AddUserPermission.cshtml:46
+msgid "Read"
+msgstr "讀"
+
+#: Views\Permission\_AddGroupPermission.cshtml:48
+#: Views\Permission\_AddUserPermission.cshtml:47
+msgid "Read, Write"
+msgstr "讀，寫"
+
+#: Views\Permission\_AddGroupPermission.cshtml:49
+#: Views\Permission\_AddUserPermission.cshtml:48
+msgid "Read, Write, Delete"
+msgstr "讀，寫，刪除"
+
+#: Views\Administration\ScheduleSynchronization.cshtml:60
+#: Views\Administration\ScheduleSynchronization.cshtml:84
+#: Views\Administration\ScheduleSynchronization.cshtml:123
+#: Views\Administration\ScheduleSynchronization.cshtml:161
+#: Views\Shared\_SchedulerDialog.cshtml:57
+#: Views\Shared\_SchedulerDialog.cshtml:74
+#: Views\Shared\_SchedulerDialog.cshtml:104
+#: Views\Shared\_SchedulerDialog.cshtml:135
+msgid "Recurs"
+msgstr "復發"
+
+#: Views\Accounts\Login.cshtml:65
+msgid "Remember me"
+msgstr "記住我"
+
+#: Views\Group\EditGroup.cshtml:120 Views\Group\EditGroup.cshtml:124
+#: Views\Permission\GroupPermission.cshtml:54
+#: Views\Permission\UserPermission.cshtml:55
+msgid "Remove"
+msgstr "去掉"
+
+#: Scripts\Items\Items.js:155 Views\Items\_CopyItem.cshtml:17
+#: Views\Items\_ItemAddOptions.cshtml:17 Views\Items\_MoveItem.cshtml:16
+#: Views\Scheduler\Schedules.cshtml:116
+msgid "Report"
+msgstr "報告"
+
+#: Scripts\Report\AddRdlReport.js:348
+msgid "Report has been added successfully."
+msgstr "報告已成功添加。"
+
+#: Scripts\Items\ItemActions.js:151
+msgid "Report has been cloned successfully."
+msgstr "報告已經成功克隆。"
+
+#: Scripts\Items\ItemActions.js:117
+msgid "Report has been copied successfully."
+msgstr "報告已複製成功。"
+
+#: Scripts\Items\ItemActions.js:83
+msgid "Report has been moved successfully."
+msgstr "報告已成功移動。"
+
+#: Scripts\Scheduler\Scheduler.js:190
+msgid "Report has been scheduled successfully."
+msgstr "報告已成功預定。"
+
+#: Scripts\Report\AddRdlReport.js:265
+msgid "Report has been updated successfully."
+msgstr "報告已成功更新。"
+
+#: Scripts\Report\AddRdlReport.js:475
+msgid "Report has been uploaded successfully."
+msgstr "報告已經成功上傳。"
+
+#: Scripts\Items\ItemActions.js:90 Scripts\Items\ItemActions.js:124
+#: Scripts\Items\ItemActions.js:158
+msgid "Report name already exists"
+msgstr "報告名稱已經存在"
+
+#: Views\Accounts\Login.cshtml:49
+msgid "Report Server Authentication"
+msgstr "報表服務器身份驗證"
+
+#: Views\Administration\Administration.cshtml:165
+msgid ""
+"Report Server needs to be hosted in IIS with a valid SSL certificate "
+"assigned. Click"
+msgstr "報表服務器需要在IIS中託管與分配一個有效的SSL證書。點擊"
+
+#: Views\Reports\Reports.cshtml:3
+msgid "Reports"
+msgstr "報告"
+
+#: Views\Shared\_Layout.cshtml:46
+msgid "REPORTS"
+msgstr "報告"
+
+#: Views\UserManagement\UserManagement.cshtml:170
+msgid "Resend Activation Code"
+msgstr "重新發送激活碼"
+
+#: Views\Items\_ItemVersion.cshtml:97
+msgid "Restore"
+msgstr "恢復"
+
+#: Models\Item.cs:325
+msgid "Restored from Trash"
+msgstr "從垃圾桶還原"
+
+#: Models\Item.cs:347
+msgid "Rollbacked to version"
+msgstr "Rollbacked到版本"
+
+#: Views\Scheduler\Schedules.cshtml:153
+msgid "Run now"
+msgstr "現在運行"
+
+#: Scripts\Scheduler\ScheduleListing.js:140
+#: Views\Scheduler\Schedules.cshtml:155
+msgid "Run Now"
+msgstr "現在運行"
+
+#: Scripts\Scheduler\Scheduler.js:382
+#: Views\Administration\ScheduleSynchronization.cshtml:113
+#: Views\Shared\_SchedulerDialog.cshtml:95
+msgid "Saturday"
+msgstr "星期六"
+
+#: Views\Administration\Administration.cshtml:135
+#: Views\Administration\Administration.cshtml:324
+#: Views\Administration\Administration.cshtml:447
+#: Views\Administration\Administration.cshtml:543
+#: Views\Group\EditGroup.cshtml:173 Views\Reports\_AddReport.cshtml:83
+#: Views\User\EditPassword.cshtml:83 Views\User\EditProfile.cshtml:127
+#: Views\UserManagement\UserManagement.cshtml:188
+msgid "Save"
+msgstr "保存"
+
+#: Views\Group\AddUsers.cshtml:22
+msgid "SAVE"
+msgstr "保存"
+
+#: Views\Accounts\AccountActivation.cshtml:37
+msgid "Save & Activate"
+msgstr "保存並激活"
+
+#: Scripts\Scheduler\Scheduler.js:411 Views\Items\_ItemsGrid.cshtml:108
+#: Views\Shared\_SchedulerDialog.cshtml:37
+#: Views\Shared\_SchedulerDialog.cshtml:260
+msgid "Schedule"
+msgstr "時間表"
+
+#: Scripts\Scheduler\ScheduleListing.js:140
+msgid "Schedule—"
+msgstr "時間表-"
+
+#: Scripts\Scheduler\ScheduleListing.js:187
+msgid "Schedule has been deleted successfully."
+msgstr "計劃已成功刪除。"
+
+#: Scripts\Scheduler\Scheduler.js:965
+msgid "Schedule has been updated successfully."
+msgstr "計劃已成功更新。"
+
+#: Views\Administration\ScheduleSynchronization.cshtml:41
+msgid "Schedule not started."
+msgstr "安排尚未開始。"
+
+#: Views\Administration\Administration.cshtml:459
+#: Views\Administration\KerberosAuthentication.cshtml:2
+msgid "Schedule Synchronization"
+msgstr "日程安排同步"
+
+#: Views\Administration\ScheduleSynchronization.cshtml:26
+msgid "Schedule to synchronize users and groups with Active Directory"
+msgstr "附表同步用戶和組與Active Directory"
+
+#: Views\Scheduler\Schedules.cshtml:2
+msgid "Schedules"
+msgstr "時間表"
+
+#: Views\Scheduler\Schedules.cshtml:205 Views\Shared\_Layout.cshtml:67
+msgid "SCHEDULES"
+msgstr "時間表"
+
+#: Views\Permission\GroupPermission.cshtml:73
+#: Views\Permission\UserPermission.cshtml:77
+#: Views\Permission\_AddGroupPermission.cshtml:64
+#: Views\Permission\_AddUserPermission.cshtml:62
+msgid "Scope"
+msgstr "範圍"
+
+#: Views\Administration\Administration.cshtml:262
+#: Views\Group\ActiveDirectoryGroup.cshtml:177
+#: Views\Group\ActiveDirectoryGroupImport.cshtml:137
+#: Views\Group\Group.cshtml:191 Views\Shared\_SchedulerDialog.cshtml:222
+#: Views\Shared\_SchedulerDialog.cshtml:225
+#: Views\UserManagement\ActiveDirectoryUserImport.cshtml:133
+#: Views\UserManagement\Index.cshtml:179
+#: Views\UserManagement\_AddUserInGroup.cshtml:18
+msgid "Search"
+msgstr "搜索"
+
+#: Views\Shared\_FixedLeftSection.cshtml:15
+#: Views\Shared\_FixedLeftSection.cshtml:18
+msgid "Search categories"
+msgstr "搜索類別"
+
+#: Views\DataSources\DataSources.cshtml:18
+#: Views\DataSources\DataSources.cshtml:19
+msgid "Search data sources"
+msgstr "搜索數據源"
+
+#: Views\Files\Files.cshtml:18 Views\Files\Files.cshtml:19
+msgid "Search files"
+msgstr "搜索文件"
+
+#: Views\Group\ActiveDirectoryGroup.cshtml:176
+#: Views\Group\ActiveDirectoryGroupImport.cshtml:136
+#: Views\Group\Group.cshtml:190
+msgid "Search groups"
+msgstr "搜索組"
+
+#: Views\Shared\UserList.cshtml:50
+msgid "Search Groups"
+msgstr "搜索群組"
+
+#: Views\Group\AddUsers.cshtml:101
+msgid "Search Here"
+msgstr "這裡搜索"
+
+#: Views\Reports\Reports.cshtml:26 Views\Reports\Reports.cshtml:27
+msgid "Search reports"
+msgstr "搜索報告"
+
+#: Views\Scheduler\Schedules.cshtml:201 Views\Scheduler\Schedules.cshtml:202
+msgid "Search schedules"
+msgstr "搜索計劃"
+
+#: Views\Group\EditGroup.cshtml:185 Views\Group\EditGroup.cshtml:186
+#: Views\Group\ViewGroup.cshtml:142 Views\Group\ViewGroup.cshtml:143
+#: Views\UserManagement\ActiveDirectoryUserImport.cshtml:132
+#: Views\UserManagement\Index.cshtml:178
+#: Views\UserManagement\SynchronizeUsers.cshtml:160
+msgid "Search users"
+msgstr "搜索用戶"
+
+#: Views\Shared\UserList.cshtml:27
+msgid "Search Users"
+msgstr "搜索用戶"
+
+#: Scripts\Scheduler\Scheduler.js:388
+msgid "second"
+msgstr "第二"
+
+#: Scripts\Report\AddRdlReport.js:480 Scripts\Report\SelectDataSource.js:159
+#: Views\Reports\_ReportSelectDataSource.cshtml:25
+msgid "Select"
+msgstr "選擇"
+
+#: Views\Shared\_SchedulerDialog.cshtml:257
+msgid ""
+"Select a user, group, or type an email address in the external recipient to "
+"schedule"
+msgstr "選擇一個用戶，組或外部收件人鍵入電子郵件地址來安排"
+
+#: Views\Permission\_AddGroupPermission.cshtml:46
+#: Views\Permission\_AddUserPermission.cshtml:45
+msgid "Select access mode"
+msgstr "選擇接入方式"
+
+#: Scripts\Scheduler\Scheduler.js:204 Scripts\Scheduler\Scheduler.js:228
+#: Scripts\Scheduler\Scheduler.js:238 Scripts\Scheduler\Scheduler.js:262
+#: Scripts\Scheduler\Scheduler.js:288 Scripts\Scheduler\Scheduler.js:979
+#: Scripts\Scheduler\Scheduler.js:1002 Scripts\Scheduler\Scheduler.js:1012
+#: Scripts\Scheduler\Scheduler.js:1036 Scripts\Scheduler\Scheduler.js:1062
+msgid "Select All"
+msgstr "全選"
+
+#: Views\Items\_CopyItem.cshtml:38 Views\Items\_MoveItem.cshtml:36
+#: Views\Reports\_AddReport.cshtml:34 Views\Reports\_EditReport.cshtml:38
+msgid "Select category"
+msgstr "選擇類別"
+
+#: Views\Reports\_EditReport.cshtml:34
+msgid "Select Category"
+msgstr "選擇類別"
+
+#: Views\DataSources\_AddDataSource.cshtml:56
+#: Views\DataSources\_EditDataSource.cshtml:52
+#: Views\Reports\_ReportSelectDataSource.cshtml:16
+#: Views\Reports\_ReportSelectDataSource.cshtml:90
+msgid "Select Data Source"
+msgstr "選擇數據源"
+
+#: Views\Reports\_AddReport.cshtml:76 Views\Reports\_EditReport.cshtml:86
+msgid "Select Data Source(s)"
+msgstr "選擇數據源（S）"
+
+#: Views\Permission\_AddGroupPermission.cshtml:57
+#: Views\Permission\_AddUserPermission.cshtml:56
+msgid "Select entity"
+msgstr "選擇實體"
+
+#: Views\UserManagement\_AddUserInGroup.cshtml:18
+msgid "Select Group"
+msgstr "選擇組"
+
+#: Views\Shared\_SchedulerDialog.cshtml:225
+msgid "Select Groups"
+msgstr "選擇組"
+
+#: Views\Group\ActiveDirectoryGroup.cshtml:171
+msgid "Select groups to synchronize with Active Directory"
+msgstr "選擇組與Active Directory同步"
+
+#: Views\Administration\ScheduleSynchronization.cshtml:55
+#: Views\Shared\_SchedulerDialog.cshtml:52
+msgid "Select Recurrence Type"
+msgstr "選擇復發型"
+
+#: Views\Permission\_AddGroupPermission.cshtml:66
+#: Views\Permission\_AddUserPermission.cshtml:64
+msgid "Select scope"
+msgstr "選擇範圍"
+
+#: Views\Permission\_AddGroupPermission.cshtml:39
+msgid "Select the permission to add to the group"
+msgstr "選擇要添加到該組的權限"
+
+#: Views\Permission\_AddUserPermission.cshtml:38
+msgid "Select the permission to add to the user"
+msgstr "選擇要添加到該用戶的權限"
+
+#: Views\Administration\Administration.cshtml:262
+msgid "Select Timezone"
+msgstr "選擇時區"
+
+#: Views\Group\EditGroup.cshtml:180
+msgid "Select user(s)"
+msgstr "選擇用戶（S）"
+
+#: Views\Shared\_SchedulerDialog.cshtml:222
+msgid "Select Users"
+msgstr "選擇用戶"
+
+#: Views\UserManagement\SynchronizeUsers.cshtml:166
+msgid "Select Users to synchronize with Active Directory"
+msgstr "選擇用戶與Active Directory同步"
+
+#: Views\UserManagement\_AddUserInGroup.cshtml:20
+msgid "Selected user(s)"
+msgstr "所選用戶（S）"
+
+#: Views\Administration\Administration.cshtml:377
+msgid "Sender email address"
+msgstr "發件人的電子郵件地址"
+
+#: Views\Administration\Administration.cshtml:374
+msgid "Sender Email Address"
+msgstr "發件人郵箱地址"
+
+#: Views\Administration\Administration.cshtml:367
+msgid "Sender name"
+msgstr "發件人名稱"
+
+#: Views\Administration\Administration.cshtml:364
+msgid "Sender Name"
+msgstr "發件人名稱"
+
+#: Scripts\Scheduler\Scheduler.js:401
+msgid "September"
+msgstr "九月"
+
+#: Views\SystemStartUpPage\System.cshtml:47
+msgid "Server name"
+msgstr "服務器名稱"
+
+#: Controllers\Administration\AdministrationController.cs:110
+#: Controllers\Administration\AdministrationController.cs:141
+msgid "Settings has been updated successfully"
+msgstr "設置已成功更新"
+
+#: Views\Administration\Administration.cshtml:136
+#: Views\Administration\Administration.cshtml:325
+#: Views\Administration\Administration.cshtml:326
+#: Views\Administration\Administration.cshtml:448
+#: Views\Administration\Administration.cshtml:449
+#: Views\Administration\Administration.cshtml:544
+#: Views\Administration\Administration.cshtml:545
+#: Views\Administration\KerberosAuthentication.cshtml:83
+#: Views\Administration\ScheduleSynchronization.cshtml:222
+msgid "Settings has been updated successfully."
+msgstr "設置已成功更新。"
+
+#: Views\Administration\Administration.cshtml:458
+msgid "Settings to authenticate users via Kerberos ticket management system"
+msgstr "設置通過Kerberos票據管理系統的用戶進行身份驗證"
+
+#: Views\Administration\Administration.cshtml:315
+msgid "Show copyright information"
+msgstr "顯示版權信息"
+
+#: Views\User\UserCSVUpload.cshtml:28
+msgid "Show List"
+msgstr "顯示列表"
+
+#: Views\Administration\Administration.cshtml:309
+msgid "Show powered by Syncfusion"
+msgstr "展會搭載Syncfusion"
+
+#: Views\Shared\_FixedLeftSection.cshtml:71
+msgid "Site Settings"
+msgstr "網站設置"
+
+#: Views\Administration\Administration.cshtml:133
+#: Views\Shared\_FixedLeftSection.cshtml:75
+msgid "SITE SETTINGS"
+msgstr "站點設置"
+
+#: Views\Administration\Administration.cshtml:149
+msgid "Site URL"
+msgstr "網站網址"
+
+#: Views\Administration\Administration.cshtml:358
+msgid "SMTP port"
+msgstr "SMTP端口"
+
+#: Views\Administration\Administration.cshtml:355
+msgid "SMTP Port"
+msgstr "SMTP端口"
+
+#: Views\Administration\Administration.cshtml:349
+msgid "SMTP server"
+msgstr "SMTP服務器"
+
+#: Views\Administration\Administration.cshtml:346
+msgid "SMTP Server"
+msgstr "SMTP服務器"
+
+#: Views\SystemStartUpPage\System.cshtml:53
+msgid "SQL Authentication"
+msgstr "SQL身份驗證"
+
+#: Views\Shared\_SchedulerDialog.cshtml:178
+msgid "Starts on"
+msgstr "開始於"
+
+#: Scripts\Core\UMP.Core.js:372
+msgid "StartsWith"
+msgstr "以。。開始"
+
+#: Scripts\Group\ActiveDirectoryGroupImport.js:66
+#: Scripts\Group\SynchronizeGroups.js:122 Views\Scheduler\Schedules.cshtml:110
+#: Views\UserManagement\Index.cshtml:52
+#: Views\UserManagement\UserManagement.cshtml:137
+msgid "Status"
+msgstr "狀態"
+
+#: Views\Accounts\ForgotPassword.cshtml:37
+msgid "Submit"
+msgstr "提交"
+
+#: Scripts\Scheduler\Scheduler.js:364
+#: Views\Administration\ScheduleSynchronization.cshtml:96
+#: Views\Shared\_SchedulerDialog.cshtml:84
+msgid "Sunday"
+msgstr "星期日"
+
+#: Scripts\Group\SynchronizeGroups.js:122
+msgid "Synchronization Group - Status"
+msgstr "同步組 - 狀態"
+
+#: Views\Group\ActiveDirectoryGroup.cshtml:181
+#: Views\UserManagement\SynchronizeUsers.cshtml:164
+msgid "Synchronize"
+msgstr "同步"
+
+#: Views\Administration\Administration.cshtml:459
+msgid "Synchronize Active Directory users and groups on a regular schedule"
+msgstr "在定期同步Active Directory用戶和組"
+
+#: Views\Group\ActiveDirectoryGroup.cshtml:181 Views\Group\Group.cshtml:223
+msgid "Synchronize groups with Active Directory"
+msgstr "與Active Directory同步組"
+
+#: Views\UserManagement\SynchronizeUsers.cshtml:2
+msgid "Synchronize Users"
+msgstr "用戶同步"
+
+#: Models\Group\GroupModels.cs:219
+msgid "Synchronizing groups with active directory has been failed."
+msgstr "同步組與Active Directory已經失敗。"
+
+#: Models\Group\GroupModels.cs:191
+msgid "Synchronizing groups with active directory has been successful"
+msgstr "同步組與Active Directory已成功"
+
+#: Models\UserManagementModel.cs:1224 Scripts\User\SynchronizeUsers.js:135
+msgid "Synchronizing users with active directory has been failed."
+msgstr "與Active Directory同步用戶已經失敗。"
+
+#: Models\UserManagementModel.cs:1204
+msgid "Synchronizing users with active directory has been successful."
+msgstr "與Active Directory同步用戶已經成功。"
+
+#: Views\Administration\Administration.cshtml:535
+msgid "Test Active Directory Connection"
+msgstr "測試Active Directory連接"
+
+#: Views\Administration\Administration.cshtml:535
+#: Views\DataSources\_AddDataSource.cshtml:139
+#: Views\Reports\_ReportSelectDataSource.cshtml:173
+msgid "Test Connection"
+msgstr "測試連接"
+
+#: Views\DataSources\_EditDataSource.cshtml:135
+msgid "TEST CONNECTION"
+msgstr "測試連接"
+
+#: Views\Administration\ScheduleSynchronization.cshtml:142
+#: Views\Administration\ScheduleSynchronization.cshtml:175
+#: Views\Administration\ScheduleSynchronization.cshtml:188
+#: Views\Shared\_SchedulerDialog.cshtml:118
+#: Views\Shared\_SchedulerDialog.cshtml:146
+#: Views\Shared\_SchedulerDialog.cshtml:157
+msgid "The"
+msgstr "該"
+
+#: Models\UserManagementModel.cs:1184
+msgid "The destination URL is not reachable"
+msgstr "目標網址無法訪問"
+
+#: Scripts\Items\ItemActions.js:161
+msgid "There is an error in cloning the report. Please try again later."
+msgstr "有在克隆報告一個錯誤。請稍後再試。"
+
+#: Scripts\Items\ItemActions.js:127
+msgid "There is an error in copying the report. Please try again later."
+msgstr "有在複製報告一個錯誤。請稍後再試。"
+
+#: Controllers\Group\GroupController.cs:248
+msgid ""
+"There is an error in updating this group. Please reload the page and try "
+"again"
+msgstr "有在更新該組錯誤。請刷新頁面，然後再試一次"
+
+#: Scripts\Items\ItemActions.js:93
+msgid "There is an moving the report. Please try again later."
+msgstr "有一個移動的報告。請稍後再試。"
+
+#: Scripts\User\UserManagement.js:127
+#: Views\Group\ActiveDirectoryGroupImport.cshtml:153
+#: Views\UserManagement\UploadFileFormAction.cshtml:117
+msgid ""
+"There is no data in the uploaded file. Please check and try uploading again."
+msgstr "有上傳文件中的任何數據。請檢查並嘗試重新上傳。"
+
+#: Scripts\Scheduler\Scheduler.js:389
+msgid "third"
+msgstr "第三"
+
+#: Scripts\Scheduler\Scheduler.js:376
+#: Views\Administration\ScheduleSynchronization.cshtml:109
+#: Views\Shared\_SchedulerDialog.cshtml:93
+msgid "Thursday"
+msgstr "星期四"
+
+#: Views\Administration\ScheduleSynchronization.cshtml:209
+msgid "Time"
+msgstr "時間"
+
+#: Views\Administration\Administration.cshtml:260
+msgid "Time zone"
+msgstr "時區"
+
+#: Models\Item.cs:332 Models\Item.cs:338 Models\Item.cs:343
+msgid "to"
+msgstr "至"
+
+#: Views\Items\_CopyItem.cshtml:36 Views\Items\_MoveItem.cshtml:34
+msgid "To"
+msgstr "至"
+
+#: Views\Accounts\AccountActivation.cshtml:42
+msgid "to log in to your account"
+msgstr "登錄到您的帳戶"
+
+#: Views\Accounts\CodeConfirmation.cshtml:23
+msgid "to resend the email"
+msgstr "重新發送電子郵件"
+
+#: Scripts\Scheduler\Scheduler.js:370
+#: Views\Administration\ScheduleSynchronization.cshtml:100
+#: Views\Shared\_SchedulerDialog.cshtml:86
+msgid "Tuesday"
+msgstr "星期二"
+
+#: Views\Administration\ScheduleSynchronization.cshtml:52
+#: Views\Shared\_SchedulerDialog.cshtml:50
+msgid "Type"
+msgstr "類型"
+
+#: Scripts\Report\SelectDataSource.js:427
+#: Views\DataSources\_AddDataSource.cshtml:90
+#: Views\DataSources\_EditDataSource.cshtml:86
+#: Views\Reports\_ReportSelectDataSource.cshtml:124
+msgid "Type or enter a username and password to access the Data Source:"
+msgstr "輸入或輸入用戶名和密碼來訪問數據源："
+
+#: Scripts\Scheduler\Scheduler.js:177 Scripts\Scheduler\Scheduler.js:180
+#: Scripts\Scheduler\Scheduler.js:953 Scripts\Scheduler\Scheduler.js:956
+msgid "until"
+msgstr "直到"
+
+#: Scripts\Report\AddRdlReport.js:400 Views\Accounts\ChangePassword.cshtml:40
+#: Views\Category\_EditCategory.cshtml:49
+#: Views\DataSources\_EditDataSource.cshtml:21 Views\Files\_EditFile.cshtml:112
+#: Views\Items\_ItemsGrid.cshtml:142 Views\Reports\_EditReport.cshtml:93
+#: Views\Shared\_FixedLeftSection.cshtml:40
+#: Views\UserManagement\UserManagement.cshtml:228
+msgid "Update"
+msgstr "更新"
+
+#: Views\Group\ActiveDirectoryGroupImport.cshtml:131
+#: Views\UserManagement\ActiveDirectoryUserImport.cshtml:128
+msgid "Update Active Directory Configuration settings"
+msgstr "更新Active Directory配置設置"
+
+#: Scripts\Category\EditCategory.js:111 Views\Category\_EditCategory.cshtml:18
+msgid "Update Category"
+msgstr "Update分類"
+
+#: Scripts\DataSource\EditDataSource.js:260
+#: Views\DataSources\_EditDataSource.cshtml:15
+msgid "Update Data Source"
+msgstr "更新數據源"
+
+#: Views\Files\_EditFile.cshtml:39
+msgid "Update File"
+msgstr "更新文件"
+
+#: Scripts\Report\AddRdlReport.js:265 Scripts\Report\AddRdlReport.js:274
+#: Scripts\Report\AddRdlReport.js:280 Views\Reports\_EditReport.cshtml:26
+msgid "Update Report"
+msgstr "更新報告"
+
+#: Models\Item.cs:316
+msgid "Updated"
+msgstr "更新"
+
+#: Views\Administration\Administration.cshtml:181
+#: Views\Administration\Administration.cshtml:215
+#: Views\Administration\Administration.cshtml:239
+#: Views\Reports\_ReportUpload.cshtml:87
+msgid "Upload"
+msgstr "上傳"
+
+#: Views\UserManagement\UploadFileFormAction.cshtml:109
+msgid "Upload CSV File here"
+msgstr "上傳CSV文件在這裡"
+
+#: Views\DataSources\_AddDataSource.cshtml:94
+#: Views\DataSources\_AddDataSource.cshtml:123
+#: Views\DataSources\_EditDataSource.cshtml:90
+#: Views\DataSources\_EditDataSource.cshtml:119
+#: Views\Reports\_ReportSelectDataSource.cshtml:128
+#: Views\Reports\_ReportSelectDataSource.cshtml:157
+msgid "Use as Windows credentials when connecting to the Data Source"
+msgstr "連接到數據源時使用的Windows憑據"
+
+#: Views\Items\_ItemVersion.cshtml:141 Views\Items\_ItemVersion.cshtml:205
+msgid "User"
+msgstr "用戶"
+
+#: Views\Accounts\AccountActivation.cshtml:20
+msgid "User account activation"
+msgstr "用戶帳號激活"
+
+#: Scripts\User\UserManagement.js:213
+msgid "User has been added successfully."
+msgstr "用戶已成功添加。"
+
+#: Scripts\User\UserManagement.js:217
+msgid ""
+"User has been created successfully. As email settings are not configured we "
+"are not able to send activation email to the user."
+msgstr "用戶已成功創建。由於未配置電子郵件設置，我們無法發送激活電子郵件發送至用戶。"
+
+#: Scripts\User\UserManagement.js:719
+msgid "User has been deleted successfully."
+msgstr "用戶已成功刪除。"
+
+#: Views\UserManagement\SynchronizeUsers.cshtml:41
+msgid "User id"
+msgstr "用戶名"
+
+#: Scripts\User\ActiveDirectoryUserImport.js:94
+msgid "User import has been successfully done."
+msgstr "用戶導入已成功完成。"
+
+#: Scripts\User\UserManagement.js:632
+msgid "User import incomplete. Do you want to continue?"
+msgstr "用戶輸入不完整的。你想繼續嗎？"
+
+#: Views\Shared\_Layout.cshtml:105
+msgid "User Management"
+msgstr "用戶管理"
+
+#: Views\User\Profile.cshtml:3 Views\UserManagement\UserManagement.cshtml:2
+#: Views\UserManagement\ViewProfile.cshtml:3
+msgid "User Profile"
+msgstr "用戶資料"
+
+#: Controllers\Administration\UserManagementController.cs:419
+msgid "User profile has been updated successfully."
+msgstr "用戶資料已成功更新。"
+
+#: Controllers\UserController.cs:214
+msgid "User Profile has been updated successfully."
+msgstr "用戶配置文件已成功更新。"
+
+#: Controllers\UserController.cs:209
+msgid "User profile updation failed."
+msgstr "用戶配置文件沒有選擇更新。"
+
+#: Controllers\Administration\UserManagementController.cs:400
+msgid "User profile updation has been failed"
+msgstr "用戶配置文件選擇更新已經失敗"
+
+#: Scripts\Scheduler\Scheduler.js:1122
+msgid "User(s)"
+msgstr "用戶（S）"
+
+#: Models\UserManagementModel.cs:1192
+msgid "user(s) are deleted."
+msgstr "用戶（多個）被刪除。"
+
+#: Models\UserManagementModel.cs:1188
+msgid "user(s) details are modified."
+msgstr "用戶（S）的詳細信息被修改。"
+
+#: Views\UserManagement\UploadFileFormAction.cshtml:118
+msgid "User(s) has been added successfully"
+msgstr "用戶（S）已成功添加"
+
+#: Scripts\User\UserManagement.js:687
+msgid "User(s) has been added successfully."
+msgstr "用戶（S）已成功添加。"
+
+#: Scripts\User\UserManagement.js:565
+msgid "User(s) has been deleted successfully."
+msgstr "用戶（S）已成功刪除。"
+
+#: Scripts\User\ActiveDirectoryUserImport.js:89
+#: Scripts\User\ActiveDirectoryUserImport.js:101
+#: Views\UserManagement\ActiveDirectoryUserImport.cshtml:151
+msgid "User(s) has been imported and activated successfully."
+msgstr "用戶（S）已導入並成功激活。"
+
+#: Views\Accounts\Login.cshtml:55
+#: Views\Administration\Administration.cshtml:396
+#: Views\Administration\Administration.cshtml:469
+#: Views\Administration\Administration.cshtml:471
+#: Views\DataSources\_AddDataSource.cshtml:105
+#: Views\DataSources\_EditDataSource.cshtml:101
+#: Views\Reports\_ReportSelectDataSource.cshtml:139
+#: Views\SystemStartUpPage\System.cshtml:59
+#: Views\SystemStartUpPage\System.cshtml:90 Views\User\EditProfile.cshtml:50
+#: Views\User\Profile.cshtml:40
+#: Views\UserManagement\ActiveDirectoryUserImport.cshtml:40
+#: Views\UserManagement\Index.cshtml:255 Views\UserManagement\Index.cshtml:257
+#: Views\UserManagement\SynchronizeUsers.cshtml:33
+#: Views\UserManagement\UploadFileFormAction.cshtml:24
+#: Views\UserManagement\UserManagement.cshtml:63
+#: Views\UserManagement\ViewProfile.cshtml:66
+msgid "Username"
+msgstr "用戶名"
+
+#: Models\UserManagementModel.cs:745 Models\UserManagementModel.cs:880
+#: Models\UserManagementModel.cs:895 Models\UserManagementModel.cs:1134
+#: Scripts\User\UserManagement.js:181
+msgid "Username already exists"
+msgstr "此用戶名已存在"
+
+#: Scripts\System\SystemSettings.js:230
+msgid "Username contains invalid characters"
+msgstr "用戶名包含無效字符"
+
+#: Scripts\System\SystemSettings.js:226
+msgid "Username contains space"
+msgstr "用戶名包含空間"
+
+#: Models\UserManagementModel.cs:741 Models\UserManagementModel.cs:856
+#: Models\UserManagementModel.cs:1130
+msgid "Username is Invalid"
+msgstr "無效的用戶名"
+
+#: Views\Accounts\ForgotPassword.cshtml:34
+msgid "Username or email address"
+msgstr "用戶名或郵箱地址"
+
+#: Models\UserManagementModel.cs:1197
+msgid "Username or Email address already exists"
+msgstr "用戶名或郵箱地址已經存在"
+
+#: Scripts\User\ActiveDirectoryUserImport.js:92
+msgid "Username or Email address already exists or repeated"
+msgstr "用戶名或郵箱地址已經存在或反复"
+
+#: Models\UserManagementModel.cs:1202
+msgid "Username or Email address is Invalid"
+msgstr "用戶名或電子郵件地址無效"
+
+#: Scripts\Accounts\Login.js:44
+msgid "Username required"
+msgstr "所需的用戶名"
+
+#: Models\UserManagementModel.cs:736 Models\UserManagementModel.cs:843
+msgid "Username should not be empty"
+msgstr "用戶名不能為空"
+
+#: Scripts\Core\UMP.Core.js:189
+msgid "Username should not contain special characters"
+msgstr "用戶名不應該包含特殊字符"
+
+#: Scripts\Core\UMP.Core.js:186 Scripts\User\UserManagement.js:58
+msgid "Username should not contain white space"
+msgstr "用戶名不能包含空格"
+
+#: Views\Group\AddUsers.cshtml:95 Views\Permission\UserPermission.cshtml:24
+#: Views\Shared\_FixedLeftSection.cshtml:95
+#: Views\UserManagement\ActiveDirectoryUserImport.cshtml:109
+#: Views\UserManagement\ActiveDirectoryUserImport.cshtml:181
+#: Views\UserManagement\UploadFileFormAction.cshtml:74
+#: Views\UserManagement\UserManagement.cshtml:20
+#: Views\UserManagement\ViewProfile.cshtml:24
+msgid "Users"
+msgstr "用戶"
+
+#: Views\Shared\_FixedLeftSection.cshtml:99
+#: Views\UserManagement\Index.cshtml:175
+msgid "USERS"
+msgstr "USERS"
+
+#: Views\UserManagement\UploadFileFormAction.cshtml:2
+msgid "Users - CSV import"
+msgstr "用戶 -  CSV導入"
+
+#: Scripts\Group\ActiveDirectoryGroupImport.js:66
+msgid "Users imported"
+msgstr "用戶輸入"
+
+#: Views\UserManagement\Index.cshtml:2
+msgid "Users List"
+msgstr "用戶列表"
+
+#: Scripts\Group\ActiveDirectoryGroupImport.js:66
+msgid "Users not imported"
+msgstr "用戶不得進口"
+
+#: Scripts\Group\SynchronizeGroups.js:122
+msgid "Users not Synchronized"
+msgstr "用戶不同步"
+
+#: Views\Items\_ItemVersion.cshtml:133
+msgid "Version"
+msgstr "版"
+
+#: Views\DataSources\_EditDataSource.cshtml:144 Views\Files\_EditFile.cshtml:94
+#: Views\Reports\_EditReport.cshtml:76
+msgid "Version comments"
+msgstr "版本註釋"
+
+#: Views\Items\_ItemsGrid.cshtml:118
+msgid "Version history"
+msgstr "版本歷史記錄"
+
+#: Views\Items\_ItemVersion.cshtml:31
+msgid "Versions"
+msgstr "版本"
+
+#: Views\Group\Group.cshtml:55 Views\Group\Group.cshtml:63
+#: Views\UserManagement\Index.cshtml:72
+msgid "View"
+msgstr "視圖"
+
+#: Views\Group\EditGroup.cshtml:135
+msgid "View Group"
+msgstr "查看組"
+
+#: Views\Shared\_Layout.cshtml:134
+msgid "View my profile"
+msgstr "查看我的個人資料"
+
+#: Views\FileRender\ReportViewer.cshtml:22
+msgid "View Report"
+msgstr "查看報告"
+
+#: Scripts\Scheduler\Scheduler.js:373
+#: Views\Administration\ScheduleSynchronization.cshtml:102
+#: Views\Shared\_SchedulerDialog.cshtml:87
+msgid "Wednesday"
+msgstr "星期三"
+
+#: Views\Administration\ScheduleSynchronization.cshtml:90
+#: Views\Shared\_SchedulerDialog.cshtml:78
+msgid "week(s)"
+msgstr "週（多個）"
+
+#: Scripts\Administration\ScheduleSynchronization.js:64
+#: Scripts\Administration\ScheduleSynchronization.js:343
+#: Scripts\Scheduler\Scheduler.js:75 Scripts\Scheduler\Scheduler.js:854
+msgid "week(s) on"
+msgstr "週（多個）上"
+
+#: Scripts\Scheduler\Scheduler.js:350
+msgid "weekday"
+msgstr "平日"
+
+#: Scripts\Scheduler\Scheduler.js:347
+msgid "weekend day"
+msgstr "週末的一天"
+
+#: Scripts\Scheduler\Scheduler.js:337
+msgid "Weekly"
+msgstr "每週"
+
+#: Views\Administration\Administration.cshtml:193
+#: Views\Administration\Administration.cshtml:195
+msgid "Welcome note"
+msgstr "問候語"
+
+#: Views\Accounts\AccountActivation.cshtml:20
+msgid "Welcome to"
+msgstr "歡迎來到"
+
+#: Views\SystemStartUpPage\System.cshtml:6
+#: Views\SystemStartUpPage\System.cshtml:19
+msgid "Welcome to Syncfusion Report Server"
+msgstr "歡迎Syncfusion報表服務器"
+
+#: Views\Accounts\Login.cshtml:50 Views\SystemStartUpPage\System.cshtml:54
+msgid "Windows Authentication"
+msgstr "Windows身份驗證"
+
+#: Views\DataSources\_AddDataSource.cshtml:132
+#: Views\DataSources\_EditDataSource.cshtml:128
+#: Views\Reports\_ReportSelectDataSource.cshtml:166
+msgid "Windows Integrated Security"
+msgstr "Windows集成安全性"
+
+#: Views\Shared\_SchedulerDialog.cshtml:245
+msgid "Word"
+msgstr "字"
+
+#: Views\Administration\ScheduleSynchronization.cshtml:167
+#: Views\Shared\_SchedulerDialog.cshtml:139
+msgid "year(s)"
+msgstr "年份）"
+
+#: Scripts\Scheduler\Scheduler.js:339
+msgid "Yearly"
+msgstr "每年"
+
+#: Scripts\Administration\ScheduleSynchronization.js:116
+#: Scripts\Administration\ScheduleSynchronization.js:370
+#: Scripts\Administration\ScheduleSynchronization.js:380
+#: Scripts\Scheduler\Scheduler.js:102 Scripts\Scheduler\Scheduler.js:112
+#: Scripts\Scheduler\Scheduler.js:880 Scripts\Scheduler\Scheduler.js:890
+msgid "years on"
+msgstr "年"
+
+#: Scripts\Core\UMP.Core.js:269 Views\Group\_DeleteConfirm.cshtml:40
+#: Views\Group\_DeleteGroupUser.cshtml:36 Views\Items\_DeleteItem.cshtml:27
+#: Views\Permission\_DeletePermission.cshtml:21
+#: Views\Scheduler\_DeleteSchedule.cshtml:20
+#: Views\UserManagement\Index.cshtml:314 Views\UserManagement\Index.cshtml:342
+#: Views\UserManagement\UserManagement.cshtml:256
+#: Views\UserManagement\ViewProfile.cshtml:132
+msgid "Yes"
+msgstr "是"
+
+#: Models\Scheduler\ScheduleManagement.cs:567
+msgid "Yet to run"
+msgstr "然而運行"
+
+#: Controllers\Items\ItemsController.cs:103
+msgid ""
+"You do not have permission to create reports in a category. So you could not "
+"clone reports in any category "
+msgstr "您沒有權限創建在一個類別的報告。所以，你不能複製任何類別報告"
+
+#: Controllers\Items\ItemsController.cs:100
+msgid ""
+"You do not have permission to create reports in a category. So you could not "
+"copy reports in any category "
+msgstr "您沒有權限創建在一個類別的報告。所以，你不能複製任何類別報告"
+
+#: Controllers\Items\ItemsController.cs:73
+msgid ""
+"You do not have permission to create reports in any category or there is no "
+"category to move."
+msgstr "您沒有權限任何類別創建報表或者沒有類別移動。"
+
+#: Views\Home\Permissiondenied.cshtml:12
+msgid "You do not have permission to view this page."
+msgstr "您沒有權限瀏覽這個頁面。"
+
+#: Views\Accounts\AccountActivation.cshtml:42
+msgid "You have successfully activated your"
+msgstr "您已成功激活您"
+
