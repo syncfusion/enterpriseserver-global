@@ -16,7 +16,9 @@ To make Syncfusion Dashboard Server use a different culture perform the followin
 
     ![Upload](images/add-localization-3.png)
  
-3. Upload [default.po](locale/default.po) file which contains the texts from the Dashboard Server application from `~Installed Location~/Dashboard Server/DashboardServer.Web/locale into google translator`.
+3. Upload [default.po](locale/default.po) file which contains the texts from the Dashboard Server application from `~Installed Drive~\Syncfusion\Dashboard Server\DashboardServer.Web\locale into google translator`.
+
+    For example: `C:\Syncfusion\Dashboard Server\DashboardServer.Web\locale`
 
 4. Make sure that the source language is in English and file name as `messages` as in the below image.
 
@@ -40,11 +42,11 @@ To make Syncfusion Dashboard Server use a different culture perform the followin
 
     ![Download Messages.po](images/add-localization-8.png)
  
-9. Create a folder in `~Installed Location~/Dashboard Server/DashboardServer.Web/locale` with {language code}-{country code} and paste the downloaded messages.po file inside the newly created folder.
+9. Create a folder in `~Installed Drive~\Syncfusion\Dashboard Server\DashboardServer.Web\locale` with {language code}-{country code} and paste the downloaded messages.po file inside the newly created folder.
 
     For example, if you are translating to Italian, create a folder named `it-it` and paste the messages.po like the below.
     
-    `~Installed Location~/Dashboard Server/DashboardServer.Web/locale/it-it/messages.po`
+    `C:\Syncfusion\Dashboard Server\DashboardServer.Web\locale\it-it\messages.po`
     
     Newly added language will be listed in language list in Dashboard Server after refreshing the page in the Dashboard Server.
     
