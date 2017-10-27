@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2017-09-13 20:08+05:30\n"
+"POT-Creation-Date: 2017-09-20 20:44+05:30\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -10,20 +10,20 @@ msgstr ""
 "Language-Team: \n"
 "Last-Translator: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: en\n"
+"Language: en_US\n"
 
 #: Scripts\Mobile\AllNotifications.js:77
 msgid " days ago"
-msgstr "日前"
+msgstr " days ago"
 
-#: Scripts\Application\ApplicationGroups.js:414
-#: Scripts\Application\ApplicationGroups.js:443
+#: Scripts\Application\ApplicationGroups.js:416
+#: Scripts\Application\ApplicationGroups.js:445
 msgid " group(s) successfully."
 msgstr " group(s) successfully."
 
 #: Scripts\Mobile\AllNotifications.js:85
 msgid " months ago"
-msgstr "か月前"
+msgstr " months ago"
 
 #: Views\Administration\_SiteSettings.cshtml:206
 msgid " to learn how to add new localizations in User Management Server."
@@ -39,14 +39,14 @@ msgid ""
 "mode."
 msgstr " to send account activation emails, or choose automatic account activation mode."
 
-#: Scripts\Application\ViewApplication.js:653
-#: Scripts\Application\ViewApplication.js:702
+#: Scripts\Application\ViewApplication.js:655
+#: Scripts\Application\ViewApplication.js:704
 msgid " user(s) successfully."
 msgstr " user(s) successfully."
 
 #: Scripts\Mobile\AllNotifications.js:93
 msgid " years ago"
-msgstr "年前"
+msgstr "36年前"
 
 #: Views\Application\_AddApplicationDialog.cshtml:72
 msgid ""
@@ -60,7 +60,7 @@ msgstr "{0} of {1} pages ({2} items)"
 
 #: Scripts\Mobile\AllNotifications.js:74
 msgid "1 day ago"
-msgstr "10 (日前)"
+msgstr "1 day ago"
 
 #: Scripts\Accounts\Accounts.js:416 Scripts\Password\ChangePassword.js:140
 #: Scripts\System\SystemSettings.js:797
@@ -72,7 +72,7 @@ msgstr "1 lowercase,"
 #: Scripts\System\SystemSettings.js:798
 #: Scripts\User\UserManagementProfile.js:231
 msgid "1 numeric,"
-msgstr "数値"
+msgstr "1 numeric,"
 
 #: Scripts\Accounts\Accounts.js:418
 msgid "1 special character,"
@@ -151,7 +151,7 @@ msgstr "A week ago"
 #: Views\Error\AccessDenied.cshtml:2 Views\Error\AccessDenied.cshtml:11
 #: Views\Error\OAuthAccessDenied.cshtml:2
 msgid "Access Denied"
-msgstr "アクセスが拒否されました。"
+msgstr "403：没有访问权限"
 
 #: Scripts\Accounts\Accounts.js:273 Scripts\Accounts\Accounts.js:279
 #: Views\Accounts\Login.cshtml:160 Views\Authorization\Login.cshtml:156
@@ -174,11 +174,11 @@ msgstr "Access To All Users"
 
 #: Views\Accounts\AccountActivation.cshtml:89
 msgid "Account"
-msgstr "アカウント"
+msgstr "帐户"
 
 #: Views\Accounts\AccountActivation.cshtml:11
 msgid "Account Activation"
-msgstr "アカウントの稼動"
+msgstr "Account Activation"
 
 #: Views\Administration\UserSettings.cshtml:32
 msgid "Account Activation Mode"
@@ -187,18 +187,18 @@ msgstr "Account Activation Mode"
 #: Views\Administration\Storage.cshtml:34
 #: Views\Administration\Storage.cshtml:36
 msgid "Account name"
-msgstr "アカウント名"
+msgstr "Account name"
 
 #: Controllers\Accounts\AccountsController.cs:190
 msgid "Account not yet activated. Please contact the system administrator."
 msgstr "Account not yet activated. Please contact the system administrator."
 
-#: Scripts\Application\ViewApplicationAdmin.js:350
+#: Scripts\Application\ViewApplicationAdmin.js:352
 #: Views\Application\Index.cshtml:204
 #: Views\Application\ViewApplication.cshtml:64
 #: Views\Application\ViewApplication.cshtml:67
 msgid "Actions"
-msgstr "行動"
+msgstr "操作"
 
 #: Views\UserManagement\ViewProfile.cshtml:196
 msgid "Activate user"
@@ -237,7 +237,7 @@ msgstr "Activation emails cannot be sent until the email settings are configured
 #: Views\UserManagement\ViewProfile.cshtml:181
 #: Views\UserManagement\ViewProfile.cshtml:185
 msgid "Active"
-msgstr "アクティブ"
+msgstr "活跃"
 
 #: Views\Group\ActiveDirectoryGroupImport.cshtml:149
 #: Views\Group\ActiveDirectoryGroupImport.cshtml:238 Views\Home\Index.cshtml:71
@@ -246,7 +246,7 @@ msgstr "アクティブ"
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:152
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:238
 msgid "Active Directory"
-msgstr "Active_Directory"
+msgstr "Active Directory"
 
 #: Views\Group\Group.cshtml:24 Views\Group\Group.cshtml:321
 msgid "Active Directory group"
@@ -320,7 +320,7 @@ msgstr "AD schedule synchronization"
 #: Views\UserManagement\_AddUserInGroup.cshtml:39
 #: Views\UserManagement\_UserAddDialog.cshtml:50
 msgid "Add"
-msgstr "追加"
+msgstr "添加"
 
 #: Scripts\Application\ViewApplication.js:77
 msgid "Add Administrators"
@@ -338,7 +338,7 @@ msgstr "Add Application"
 #: Scripts\Group\Group.js:43 Scripts\Group\Group.js:49
 #: Views\Group\_AddGroup.cshtml:43 Views\Home\Index.cshtml:119
 msgid "Add Group"
-msgstr "品群を追加"
+msgstr "Add Group"
 
 #: Views\Application\Index.cshtml:227
 msgid "Add new application"
@@ -346,18 +346,18 @@ msgstr "Add new application"
 
 #: Views\Group\Group.cshtml:225 Views\Group\Group.cshtml:232
 msgid "Add new group"
-msgstr "新規コミュニティの追加"
+msgstr "Add new group"
 
 #: Views\Group\ActiveDirectoryGroup.cshtml:150
 #: Views\Group\ActiveDirectoryGroup.cshtml:162 Views\Group\Group.cshtml:162
 #: Views\Group\ViewGroup.cshtml:72
 msgid "Add New Group"
-msgstr "新規コミュニティの追加"
+msgstr "Add New Group"
 
 #: Views\UserManagement\Index.cshtml:191 Views\UserManagement\Index.cshtml:197
 #: Views\UserManagement\Index.cshtml:202 Views\UserManagement\Index.cshtml:203
 msgid "Add new user"
-msgstr "新しいユーザーを追加"
+msgstr "Add new user"
 
 #: Views\Group\EditGroup.cshtml:181
 #: Views\UserManagement\_AddUserInGroup.cshtml:9
@@ -366,16 +366,16 @@ msgstr "Add selected user(s) to the group"
 
 #: Views\Group\EditGroup.cshtml:175
 msgid "Add user"
-msgstr "ユーザーの追加"
+msgstr "Add user"
 
 #: Scripts\User\UserManagement.js:235 Scripts\User\UserManagement.js:248
 #: Views\Home\Index.cshtml:55 Views\UserManagement\_UserAddDialog.cshtml:8
 msgid "Add User"
-msgstr "ユーザーの追加"
+msgstr "Add User"
 
 #: Views\Group\Group.cshtml:44
 msgid "Add users"
-msgstr "ユーザーを追加"
+msgstr "Add users"
 
 #: Views\User\UserCSVUpload.cshtml:16
 msgid "Add users by uploading CSV file"
@@ -383,31 +383,31 @@ msgstr "Add users by uploading CSV file"
 
 #: Views\Group\ActiveDirectoryGroup.cshtml:98
 msgid "ADGroupId"
-msgstr "広告グループ ID"
+msgstr "ADGroupId"
 
 #: Views\Home\Index.cshtml:3
 msgid "Admin"
-msgstr "管理者"
+msgstr "Admin"
 
 #: Views\Administration\_ActiveDirectorySettings.cshtml:436
 #: Views\ServerConfiguration\Index.cshtml:204
 msgid "Admin password"
-msgstr "管理者のパスワード"
+msgstr "Admin password"
 
 #: Views\Administration\_ActiveDirectorySettings.cshtml:425
 #: Views\Administration\_ActiveDirectorySettings.cshtml:428
 #: Views\ServerConfiguration\Index.cshtml:198
 msgid "Admin username"
-msgstr "管理のユーザー名"
+msgstr "Admin username"
 
 #: Views\Administration\Administration.cshtml:2
 #: Views\Administration\SAMLSettings.cshtml:4
 msgid "Administration"
-msgstr "管理"
+msgstr "Administration"
 
 #: Views\Application\ViewApplication.cshtml:170
 msgid "Administrators"
-msgstr "管理者"
+msgstr "管理员"
 
 #: Views\ServerConfiguration\Index.cshtml:169
 #: Views\ServerConfiguration\Index.cshtml:239
@@ -423,7 +423,7 @@ msgstr "All users have access to the application"
 
 #: Views\Administration\NotificationSettings.cshtml:44
 msgid "Allow"
-msgstr "許可する"
+msgstr "Allow"
 
 #: Views\Application\_AddApplicationDialog.cshtml:54
 msgid "Allow access to all users"
@@ -460,7 +460,7 @@ msgstr "An year ago"
 #: Scripts\Administration\ScheduleSynchronization.js:95
 #: Scripts\Administration\ScheduleSynchronization.js:350
 msgid "and"
-msgstr "と"
+msgstr "和"
 
 #: Views\Administration\_EmailSettings.cshtml:4
 msgid "Anonymous authentication"
@@ -470,10 +470,10 @@ msgstr "Anonymous authentication"
 msgid "Application Access"
 msgstr "Application Access"
 
-#: Scripts\Application\ApplicationGroups.js:415
-#: Scripts\Application\ApplicationGroups.js:418
-#: Scripts\Application\ViewApplication.js:654
-#: Scripts\Application\ViewApplication.js:657
+#: Scripts\Application\ApplicationGroups.js:417
+#: Scripts\Application\ApplicationGroups.js:420
+#: Scripts\Application\ViewApplication.js:656
+#: Scripts\Application\ViewApplication.js:659
 msgid "Application Access Granted"
 msgstr "Application Access Granted"
 
@@ -489,10 +489,10 @@ msgid ""
 "setting to grant/revoke access for specific users."
 msgstr "Application access has been enabled for all users. Please disable this setting to grant/revoke access for specific users."
 
-#: Scripts\Application\ApplicationGroups.js:444
-#: Scripts\Application\ApplicationGroups.js:447
-#: Scripts\Application\ViewApplication.js:703
-#: Scripts\Application\ViewApplication.js:706
+#: Scripts\Application\ApplicationGroups.js:446
+#: Scripts\Application\ApplicationGroups.js:449
+#: Scripts\Application\ViewApplication.js:705
+#: Scripts\Application\ViewApplication.js:708
 msgid "Application Access Revoked"
 msgstr "Application Access Revoked"
 
@@ -500,13 +500,13 @@ msgstr "Application Access Revoked"
 msgid "Application added successfully."
 msgstr "Application added successfully."
 
-#: Scripts\Application\ViewApplicationAdmin.js:287
-#: Scripts\Application\ViewApplicationAdmin.js:290
+#: Scripts\Application\ViewApplicationAdmin.js:289
+#: Scripts\Application\ViewApplicationAdmin.js:292
 msgid "Application Administrative Access Granted"
 msgstr "Application Administrative Access Granted"
 
-#: Scripts\Application\ViewApplicationAdmin.js:420
-#: Scripts\Application\ViewApplicationAdmin.js:423
+#: Scripts\Application\ViewApplicationAdmin.js:422
+#: Scripts\Application\ViewApplicationAdmin.js:425
 msgid "Application Administrative Access Revoked"
 msgstr "Application Administrative Access Revoked"
 
@@ -534,11 +534,11 @@ msgstr "Application Management"
 #: Views\Application\_AddApplicationDialog.cshtml:27
 #: Views\Application\_ApplicationDetail.cshtml:12
 msgid "Application name"
-msgstr "アプリケーション名"
+msgstr "Application name"
 
 #: Views\Application\Index.cshtml:54 Views\Application\Index.cshtml:155
 msgid "Application Name"
-msgstr "アプリケーション名"
+msgstr "Application Name"
 
 #: Scripts\Application\AddApplication.js:125
 #: Scripts\Application\AddApplication.js:174
@@ -578,11 +578,11 @@ msgstr "Application with the same name already exists."
 #: Views\Home\Index.cshtml:163 Views\Home\Index.cshtml:191
 #: Views\Shared\_Menu.cshtml:39
 msgid "Applications"
-msgstr "アプリケーション"
+msgstr "应用"
 
 #: Views\Application\Index.cshtml:222
 msgid "APPLICATIONS"
-msgstr "アプリケーション"
+msgstr "应用"
 
 #: Views\Application\Index.cshtml:2
 msgid "Applications List"
@@ -591,7 +591,7 @@ msgstr "Applications List"
 #: Views\Administration\_ActiveDirectorySettings.cshtml:570
 #: Views\Administration\_ActiveDirectorySettings.cshtml:609
 msgid "Apply"
-msgstr "適用"
+msgstr "Apply"
 
 #: Views\Application\_EnableOrDisableApplicationDialog.cshtml:15
 msgid "Are you sure you want to delete the application"
@@ -616,7 +616,7 @@ msgstr "Are you sure you want to delete the user(s)?"
 #: Views\UserManagement\ViewProfile.cshtml:273
 #: Views\UserManagement\_SingleUserDeleteDialog.cshtml:15
 msgid "Are you sure you want to delete the user?"
-msgstr "このユーザーを削除してもよろしいですか？"
+msgstr "Are you sure you want to delete the user?"
 
 #: Views\Group\_DeleteGroupUser.cshtml:34
 msgid "Are you sure you want to delete this user from the group?"
@@ -658,25 +658,25 @@ msgstr "Assign group"
 
 #: Views\UserManagement\_UserImportSelectedDatabaseSchema.cshtml:43
 msgid "Assign to"
-msgstr "に割り当て"
+msgstr "Assign to"
 
 #: Scripts\Accounts\Accounts.js:414 Scripts\Password\ChangePassword.js:138
 #: Scripts\System\SystemSettings.js:795
 #: Scripts\User\UserManagementProfile.js:228
 msgid "at least 6 characters,"
-msgstr "少なくとも3文字"
+msgstr "at least 6 characters,"
 
 #: Views\Administration\_ActiveDirectorySettings.cshtml:252
 msgid "Authentication"
-msgstr "認証"
+msgstr "Authentication"
 
 #: Views\Administration\_EmailSettings.cshtml:53
 msgid "Authentication type"
-msgstr "認証タイプ"
+msgstr "Authentication type"
 
 #: Views\Administration\UserSettings.cshtml:35
 msgid "Automatic"
-msgstr "自動"
+msgstr "Automatic"
 
 #: Views\Home\Index.cshtml:74 Views\Home\Index.cshtml:93
 #: Views\Home\Index.cshtml:136 Views\Home\Index.cshtml:146
@@ -740,16 +740,16 @@ msgstr "AZURE BLOB STORAGE SETTINGS"
 
 #: Views\Administration\_ActiveDirectorySettings.cshtml:623
 msgid "Back"
-msgstr "戻る"
+msgstr "背部"
 
 #: Controllers\OAuthController.cs:103 Controllers\OAuthController.cs:129
 #: Controllers\Authorization\AuthorizationController.cs:494
 msgid "Bad Request"
-msgstr "400 不正なリクエスト"
+msgstr "Bad Request"
 
 #: Views\Administration\_EmailSettings.cshtml:5
 msgid "Basic authentication"
-msgstr "ベーシック認証"
+msgstr "Basic authentication"
 
 #: Views\Application\_RegenerateAccessToken.cshtml:17
 msgid ""
@@ -807,32 +807,32 @@ msgstr "Browse image path"
 #: Views\UserManagement\_AddUserInGroup.cshtml:40
 #: Views\UserManagement\_UserAddDialog.cshtml:51
 msgid "Cancel"
-msgstr "キャンセル"
+msgstr "取消"
 
 #: Views\User\Profile.cshtml:80
 msgid "Change password"
-msgstr "パスワードを変更"
+msgstr "更改密码"
 
 #: Scripts\User\UserManagementProfile.js:595
 #: Views\Accounts\ChangePassword.cshtml:11 Views\User\EditPassword.cshtml:2
 #: Views\UserManagement\ViewProfile.cshtml:3
 msgid "Change Password"
-msgstr "パスワードを変更する"
+msgstr "更改密码"
 
 #: Views\User\EditPassword.cshtml:20
 msgid "CHANGE PASSWORD"
-msgstr "パスワードを変更"
+msgstr "更改密码"
 
 #: Views\Shared\_ProfilePictureUploadBox.cshtml:1
 msgid "Change profile picture"
-msgstr "プロフィール画像を変更する"
+msgstr "Change profile picture"
 
 #: Scripts\User\EditProfile.js:130 Scripts\User\EditProfile.js:154
 #: Scripts\User\UserManagementProfile.js:339
 #: Scripts\User\UserManagementProfile.js:367
 #: Views\Shared\_ProfilePictureUploadBox.cshtml:8
 msgid "Change Profile Picture"
-msgstr "プロフィール画像を変更する"
+msgstr "Change Profile Picture"
 
 #: Views\UserManagement\_UserImportSelectedUserList.cshtml:7
 msgid "Change query"
@@ -844,11 +844,11 @@ msgstr "Choose the columns that has the user data"
 
 #: Scripts\Core\Server.Core.js:560
 msgid "Clear"
-msgstr "くりあー"
+msgstr "清除"
 
 #: Scripts\Group\EditGroup.js:67 Scripts\Group\EditGroup.js:85
 msgid "Clear all"
-msgstr "削除しました"
+msgstr "Clear all"
 
 #: Views\Application\Index.cshtml:239
 #: Views\Application\_ApplicationAdministrators.cshtml:12
@@ -869,24 +869,24 @@ msgstr "削除しました"
 #: Views\UserManagement\_UserImportSelectedDatabaseSchema.cshtml:19
 #: Views\UserManagement\_UserImportSelectedUserList.cshtml:16
 msgid "Clear search"
-msgstr "クリア検索"
+msgstr "Clear search"
 
 #: Views\Accounts\AccountActivation.cshtml:89
 msgid "click"
-msgstr "click"
+msgstr "[咔嗒]"
 
 #: Views\ServerConfiguration\Index.cshtml:192
 #: Views\ServerConfiguration\Index.cshtml:283
 msgid "Click"
-msgstr "クリック"
+msgstr "[咔嗒]"
 
 #: Views\Administration\_SiteSettings.cshtml:206
 msgid "Click "
-msgstr "クリック"
+msgstr "[咔嗒]"
 
 #: Views\Accounts\CodeConfirmation.cshtml:74
 msgid "click here"
-msgstr "こちらをクリック"
+msgstr "点击此处"
 
 #: Views\UserManagement\DatabaseUserImport.cshtml:242
 msgid "Click here to change the account activation type."
@@ -903,7 +903,7 @@ msgstr "Click here to configure the email settings."
 #: Views\Administration\_ActiveDirectorySettings.cshtml:144
 #: Views\Application\_ApplicationDetail.cshtml:36
 msgid "Client id"
-msgstr "client_id"
+msgstr "Client id"
 
 #: Views\Application\_ApplicationDetail.cshtml:45
 msgid "Client secret"
@@ -913,7 +913,7 @@ msgstr "Client secret"
 msgid "Client secret code"
 msgstr "Client secret code"
 
-#: Scripts\Application\ViewApplication.js:754
+#: Scripts\Application\ViewApplication.js:756
 msgid "Client secret generated successfully."
 msgstr "Client secret generated successfully."
 
@@ -923,7 +923,7 @@ msgstr "Client secret generated successfully."
 #: Scripts\Application\AddApplication.js:453
 #: Scripts\Application\AddApplication.js:460
 #: Scripts\Application\AddApplication.js:486
-#: Scripts\Application\ViewApplication.js:742
+#: Scripts\Application\ViewApplication.js:744
 #: Scripts\User\UserManagement.js:672
 #: Views\Application\_AddApplicationDialog.cshtml:18
 #: Views\Group\_AddGroup.cshtml:46
@@ -931,15 +931,15 @@ msgstr "Client secret generated successfully."
 #: Views\UserManagement\_LimitUserCreation.cshtml:10
 #: Views\UserManagement\_UserAddDialog.cshtml:11
 msgid "Close"
-msgstr "閉じる"
+msgstr "关"
 
 #: Views\Group\AddUsers.cshtml:61
 msgid "Color"
-msgstr "色"
+msgstr "颜色"
 
 #: Models\Scheduler\ScheduleManagement.cs:885
 msgid "Completed"
-msgstr "コンプリート"
+msgstr "Completed"
 
 #: Views\Administration\UserSettings.cshtml:26
 msgid "Configuration for activating user accounts in the UMS"
@@ -968,7 +968,7 @@ msgstr "Configure General Settings of the UMS"
 #: Views\User\EditPassword.cshtml:55
 #: Views\UserManagement\ViewProfile.cshtml:238
 msgid "Confirm password"
-msgstr "パスワード確認"
+msgstr "确认密码： *"
 
 #: Controllers\ServerConfiguration\ServerConfigurationController.cs:315
 #: Controllers\ServerConfiguration\ServerConfigurationController.cs:337
@@ -977,12 +977,12 @@ msgstr "Connected successfully"
 
 #: Views\ServerConfiguration\_FileStorage.cshtml:47
 msgid "Connection"
-msgstr "接続"
+msgstr "连接"
 
 #: Controllers\Administration\AdministrationController.cs:59
 #: Controllers\Administration\AdministrationController.cs:117
 msgid "Connection failed"
-msgstr "接続に失敗しました。"
+msgstr "Connection failed"
 
 #: Views\Administration\Storage.cshtml:100
 msgid "Connection string"
@@ -1000,25 +1000,25 @@ msgstr "Container name"
 
 #: Scripts\Core\Server.Core.js:557
 msgid "Contains"
-msgstr "含む"
+msgstr "Contains"
 
-#: Scripts\Application\ViewApplication.js:771
-#: Scripts\Application\ViewApplication.js:772
-#: Scripts\Application\ViewApplication.js:782
-#: Scripts\Application\ViewApplication.js:783
+#: Scripts\Application\ViewApplication.js:773
+#: Scripts\Application\ViewApplication.js:774
+#: Scripts\Application\ViewApplication.js:784
+#: Scripts\Application\ViewApplication.js:785
 msgid "Copied"
 msgstr "Copied"
 
-#: Scripts\Application\ViewApplication.js:774
-#: Scripts\Application\ViewApplication.js:785
+#: Scripts\Application\ViewApplication.js:776
+#: Scripts\Application\ViewApplication.js:787
 #: Views\Application\_ApplicationDetail.cshtml:41
 #: Views\Application\_ApplicationDetail.cshtml:50
 msgid "Copy to clipboard"
-msgstr "クリップボードにコピー"
+msgstr "Copy to clipboard"
 
 #: Views\Group\Group.cshtml:234
 msgid "Create group"
-msgstr "グループを作成"
+msgstr "创建群组"
 
 #: Views\Accounts\ChangePassword.cshtml:51
 msgid "Create new password"
@@ -1026,15 +1026,15 @@ msgstr "Create new password"
 
 #: Views\UserManagement\Index.cshtml:205
 msgid "Create user"
-msgstr "ユーザーの作成"
+msgstr "Create user"
 
 #: Scripts\System\SystemSettings.js:400
 msgid "Creation"
-msgstr "創造"
+msgstr "Creation"
 
 #: Views\User\EditPassword.cshtml:32
 msgid "Current password"
-msgstr "現在のパスワード"
+msgstr "Current password"
 
 #: Views\Administration\NotificationSettings.cshtml:27
 msgid "Customization of notifications for UMS"
@@ -1042,12 +1042,12 @@ msgstr "Customization of notifications for UMS"
 
 #: Scripts\Administration\ScheduleSynchronization.js:231
 msgid "Daily"
-msgstr "毎日"
+msgstr "Daily"
 
 #: Views\Administration\_ActiveDirectorySettings.cshtml:47
 #: Views\Home\Index.cshtml:77 Views\Home\Index.cshtml:96
 msgid "Database"
-msgstr "データベース"
+msgstr "Database."
 
 #: Scripts\System\SystemSettings.js:254 Scripts\System\SystemSettings.js:326
 #: Scripts\System\SystemSettings.js:472 Scripts\System\SystemSettings.js:1901
@@ -1073,7 +1073,7 @@ msgstr "Database Creation!"
 #: Views\ServerConfiguration\Index.cshtml:309
 #: Views\ServerConfiguration\Index.cshtml:365
 msgid "Database name"
-msgstr "データベースの名前"
+msgstr "Database name"
 
 #: Controllers\ServerConfiguration\ServerConfigurationController.cs:376
 #: Controllers\ServerConfiguration\ServerConfigurationController.cs:597
@@ -1086,7 +1086,7 @@ msgstr "Database name already exists."
 #: Views\ServerConfiguration\Index.cshtml:228
 #: Views\ServerConfiguration\Index.cshtml:255
 msgid "Database password"
-msgstr "57データベースパスワード"
+msgstr "Database password"
 
 #: Views\Administration\_ActiveDirectorySettings.cshtml:31
 msgid "Database schedule synchronization"
@@ -1115,7 +1115,7 @@ msgstr "Database type"
 
 #: Views\UserManagement\Index.cshtml:326
 msgid "Database user"
-msgstr "データベースのユーザー"
+msgstr "Database user"
 
 #: Views\UserManagement\DatabaseUserImport.cshtml:2
 msgid "Database User Import"
@@ -1127,45 +1127,45 @@ msgstr "Database User Synchronization - USERS"
 
 #: Views\Administration\_SiteSettings.cshtml:175
 msgid "Date format"
-msgstr "日付の表示形式"
+msgstr "Date format"
 
 #: Views\Administration\ScheduleAzureSynchronization.cshtml:159
 #: Views\Administration\ScheduleDatabaseSynchronization.cshtml:155
 #: Views\Administration\ScheduleSynchronization.cshtml:157
 msgid "Day"
-msgstr "日"
+msgstr "天"
 
 #: Views\Administration\ScheduleAzureSynchronization.cshtml:87
 #: Views\Administration\ScheduleDatabaseSynchronization.cshtml:83
 #: Views\Administration\ScheduleSynchronization.cshtml:85
 msgid "day(s)"
-msgstr "日間"
+msgstr "天"
 
 #: Scripts\Administration\ScheduleSynchronization.js:60
 #: Scripts\Administration\ScheduleSynchronization.js:325
 msgid "days"
-msgstr "日々"
+msgstr "天"
 
 #: Views\Notification\Notifications.cshtml:36
 #: Views\Notification\_UserNotification.cshtml:50
 msgid "days ago"
-msgstr "日前"
+msgstr "days ago"
 
 #: Views\ServerConfiguration\Index.cshtml:169
 #: Views\ServerConfiguration\Index.cshtml:239
 #: Views\ServerConfiguration\Index.cshtml:327
 #: Views\ServerConfiguration\Index.cshtml:384
 msgid "Default"
-msgstr "不履行"
+msgstr "默认"
 
 #: Views\Administration\NotificationSettings.cshtml:37
 msgid "Default settings"
-msgstr "デフォルト設定"
+msgstr "Default settings"
 
 #: Views\Application\Index.cshtml:99 Views\Group\Group.cshtml:67
 #: Views\UserManagement\Index.cshtml:89
 msgid "Delete"
-msgstr "削除"
+msgstr "删除"
 
 #: Views\Application\Index.cshtml:97
 msgid "Delete application"
@@ -1179,21 +1179,21 @@ msgstr "Delete Application"
 
 #: Scripts\Core\Server.Core.js:535
 msgid "Delete Avatar"
-msgstr "アバターを削除"
+msgstr "Delete Avatar"
 
 #: Views\Group\EditGroup.cshtml:143 Views\Group\ViewGroup.cshtml:121
 #: Views\Group\_DeleteConfirm.cshtml:38
 msgid "Delete group"
-msgstr "グループを削除"
+msgstr "Delete group"
 
 #: Scripts\Group\Group.js:161 Scripts\Group\Group.js:165
 #: Views\Group\EditGroup.cshtml:87 Views\Group\Group.cshtml:173
 msgid "Delete Group"
-msgstr "グループの削除"
+msgstr "Delete Group"
 
 #: Views\Group\AddUsers.cshtml:26
 msgid "DELETE GROUP"
-msgstr "グループの削除"
+msgstr "DELETE GROUP"
 
 #: Views\Group\Group.cshtml:303 Views\Group\_MultipleGroupDeleteDialog.cshtml:7
 msgid "Delete groups"
@@ -1225,7 +1225,7 @@ msgstr "Delete selected users"
 
 #: Views\Group\_DeleteGroupUser.cshtml:25 Views\UserManagement\Index.cshtml:298
 msgid "Delete user"
-msgstr "ユーザの削除"
+msgstr "Delete user"
 
 #: Scripts\User\UserManagement.js:792 Scripts\User\UserManagement.js:798
 #: Views\UserManagement\ViewProfile.cshtml:98
@@ -1233,7 +1233,7 @@ msgstr "ユーザの削除"
 #: Views\UserManagement\_MultipleUserDeleteDialog.cshtml:7
 #: Views\UserManagement\_SingleUserDeleteDialog.cshtml:7
 msgid "Delete User"
-msgstr "ユーザの削除"
+msgstr "Delete User"
 
 #: Scripts\User\UserManagement.js:614 Scripts\User\UserManagement.js:631
 #: Scripts\User\UserManagement.js:637
@@ -1251,7 +1251,7 @@ msgstr "Deleted user."
 #: Views\Group\ViewGroup.cshtml:136 Views\Group\_AddGroup.cshtml:61
 #: Views\UserManagement\_AddUserInGroup.cshtml:26
 msgid "Description"
-msgstr "説明"
+msgstr "Description"
 
 #: Views\Group\ActiveDirectoryGroupImport.cshtml:169
 msgid "Directory path "
@@ -1264,7 +1264,7 @@ msgstr "Directory path :"
 #: Views\Application\Index.cshtml:85
 #: Views\User\_UserNotificationPreference.cshtml:6
 msgid "Disable"
-msgstr "無効"
+msgstr "Disable"
 
 #: Views\Application\Index.cshtml:83
 msgid "Disable application"
@@ -1277,11 +1277,11 @@ msgstr "Disable Application"
 #: Views\Application\Index.cshtml:39
 #: Views\Application\_ApplicationDetail.cshtml:32
 msgid "Disabled"
-msgstr "無効"
+msgstr "已停用 -"
 
 #: Views\Administration\_SiteSettings.cshtml:167
 msgid "Display"
-msgstr "表示"
+msgstr "display()"
 
 #: Views\Administration\_ActiveDirectorySettings.cshtml:88
 msgid "Distinguished name"
@@ -1344,7 +1344,7 @@ msgstr "Duplicated username or email address"
 #: Views\Application\Index.cshtml:78
 #: Views\User\_UserNotificationPreference.cshtml:40
 msgid "Edit"
-msgstr "編集"
+msgstr "编辑"
 
 #: Views\Application\Index.cshtml:76
 msgid "Edit application"
@@ -1357,15 +1357,15 @@ msgstr "Edit Application"
 
 #: Views\Group\ViewGroup.cshtml:117
 msgid "Edit group"
-msgstr "グループの編集"
+msgstr "修改群组"
 
 #: Scripts\Group\EditGroup.js:108
 msgid "Edit Group"
-msgstr "品群を編集"
+msgstr "修改群组"
 
 #: Views\User\Profile.cshtml:150 Views\UserManagement\ViewProfile.cshtml:205
 msgid "Edit profile"
-msgstr "プロフィールを編集"
+msgstr "Edit profile"
 
 #: Views\Application\_AddApplicationDialog.cshtml:67
 #: Views\User\Profile.cshtml:87 Views\UserManagement\ViewProfile.cshtml:109
@@ -1375,18 +1375,18 @@ msgstr "Edit profile picture"
 #: Scripts\Administration\ScheduleSynchronization.js:194
 #: Scripts\Administration\ScheduleSynchronization.js:406
 msgid "effective"
-msgstr "有効な"
+msgstr "effective"
 
 #: Views\Accounts\Login.cshtml:93 Views\Administration\UserSettings.cshtml:39
 #: Views\Administration\_AdminMenu.cshtml:24 Views\User\Profile.cshtml:115
 #: Views\UserManagement\ViewProfile.cshtml:137
 #: Views\UserManagement\_UserImportSelectedDatabaseSchema.cshtml:46
 msgid "Email"
-msgstr "メール"
+msgstr "发送电子邮件"
 
 #: Views\UserManagement\_UserImportSelectedDatabaseSchema.cshtml:77
 msgid "Email :"
-msgstr "Eメール："
+msgstr "电子邮件："
 
 #: Views\ServerConfiguration\_UserAccount.cshtml:64
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:71
@@ -1394,10 +1394,10 @@ msgstr "Eメール："
 #: Views\UserManagement\_UserAddDialog.cshtml:28
 #: Views\UserManagement\_UserImportSelectedUserList.cshtml:58
 msgid "Email address"
-msgstr "電子メールアドレス"
+msgstr "电子邮件地址： *"
 
-#: Scripts\Application\ViewApplicationAdmin.js:174
-#: Scripts\Application\ViewApplicationAdmin.js:342
+#: Scripts\Application\ViewApplicationAdmin.js:176
+#: Scripts\Application\ViewApplicationAdmin.js:344
 #: Views\Application\ViewApplication.cshtml:61
 #: Views\Application\ViewApplication.cshtml:80 Views\Group\EditGroup.cshtml:117
 #: Views\Group\ViewGroup.cshtml:56 Views\Group\ViewGroup.cshtml:91
@@ -1411,7 +1411,7 @@ msgstr "電子メールアドレス"
 #: Views\UserManagement\SynchronizeUsers.cshtml:122
 #: Views\UserManagement\UploadFileFormAction.cshtml:63
 msgid "Email Address"
-msgstr "電子メールアドレス"
+msgstr "电子邮件地址： *"
 
 #: Models\UserManagementModel.cs:2111
 msgid "Email address already exists"
@@ -1465,7 +1465,7 @@ msgstr "Embedded SQL CE"
 #: Views\Application\Index.cshtml:92
 #: Views\User\_UserNotificationPreference.cshtml:5
 msgid "Enable"
-msgstr "有効"
+msgstr "要启用吗？"
 
 #: Views\Administration\ScheduleSynchronization.cshtml:33
 msgid "Enable Active Directory Scheduled Synchronization"
@@ -1502,11 +1502,11 @@ msgstr "Enable SSO"
 #: Views\Application\Index.cshtml:37
 #: Views\Application\_ApplicationDetail.cshtml:32
 msgid "Enabled"
-msgstr "有効化"
+msgstr "已启用"
 
 #: Scripts\Core\Server.Core.js:557
 msgid "EndsWith"
-msgstr "終わり"
+msgstr "endsWith()"
 
 #: Views\ServerConfiguration\_UserAccount.cshtml:40
 msgid "Enter your details to create a system administrator account."
@@ -1518,7 +1518,7 @@ msgstr "Enter your organization name"
 
 #: Views\Administration\_SiteSettings.cshtml:37
 msgid "Enter your URL"
-msgstr "3. URL の入力"
+msgstr "Enter your URL"
 
 #: Views\Accounts\ForgotPassword.cshtml:68
 msgid ""
@@ -1532,7 +1532,7 @@ msgstr "Equal"
 
 #: Views\UserManagement\UploadFileFormAction.cshtml:66
 msgid "Error"
-msgstr "エラー"
+msgstr "错误"
 
 #: Scripts\Core\Server.Core.js:535
 msgid "Error deleting profile picture."
@@ -1560,31 +1560,31 @@ msgstr "Error while deleting the application."
 msgid "Error while enabling the application."
 msgstr "Error while enabling the application."
 
-#: Scripts\Application\ViewApplication.js:758
+#: Scripts\Application\ViewApplication.js:760
 msgid "Error while generating client secret."
 msgstr "Error while generating client secret."
 
-#: Scripts\Application\ApplicationGroups.js:417
+#: Scripts\Application\ApplicationGroups.js:419
 msgid "Error while granting access to groups."
 msgstr "Error while granting access to groups."
 
-#: Scripts\Application\ViewApplication.js:656
+#: Scripts\Application\ViewApplication.js:658
 msgid "Error while granting access to users."
 msgstr "Error while granting access to users."
 
-#: Scripts\Application\ViewApplicationAdmin.js:289
+#: Scripts\Application\ViewApplicationAdmin.js:291
 msgid "Error while granting administrative access to users."
 msgstr "Error while granting administrative access to users."
 
-#: Scripts\Application\ApplicationGroups.js:446
+#: Scripts\Application\ApplicationGroups.js:448
 msgid "Error while revoking access to groups."
 msgstr "Error while revoking access to groups."
 
-#: Scripts\Application\ViewApplication.js:705
+#: Scripts\Application\ViewApplication.js:707
 msgid "Error while revoking access to users."
 msgstr "Error while revoking access to users."
 
-#: Scripts\Application\ViewApplicationAdmin.js:422
+#: Scripts\Application\ViewApplicationAdmin.js:424
 msgid "Error while revoking administrative access to users."
 msgstr "Error while revoking administrative access to users."
 
@@ -1619,13 +1619,13 @@ msgstr "Error while updating settings."
 #: Views\Administration\ScheduleSynchronization.cshtml:101
 #: Views\Administration\ScheduleSynchronization.cshtml:196
 msgid "Every"
-msgstr "毎"
+msgstr "Every"
 
 #: Views\Administration\ScheduleAzureSynchronization.cshtml:92
 #: Views\Administration\ScheduleDatabaseSynchronization.cshtml:88
 #: Views\Administration\ScheduleSynchronization.cshtml:90
 msgid "Every weekday"
-msgstr "毎週、日"
+msgstr "Every weekday"
 
 #: Views\ServerConfiguration\Index.cshtml:145
 #: Views\ServerConfiguration\Index.cshtml:215
@@ -1665,11 +1665,11 @@ msgstr "Failed to update the profile picture, try again later."
 #: Views\Administration\_SiteSettings.cshtml:97
 #: Views\Administration\_SiteSettings.cshtml:148
 msgid "Favicon"
-msgstr "ファビコン"
+msgstr "Favicon"
 
 #: Scripts\Core\Server.Core.js:559
 msgid "Filter"
-msgstr "フィルター"
+msgstr "过滤器"
 
 #: Scripts\Core\Server.Core.js:558
 msgid "Filter Value"
@@ -1684,30 +1684,30 @@ msgstr "Filter Value"
 #: Views\UserManagement\_UserImportSelectedDatabaseSchema.cshtml:45
 #: Views\UserManagement\_UserImportSelectedUserList.cshtml:55
 msgid "First name"
-msgstr "ファーストネーム"
+msgstr "名字："
 
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:133
 #: Views\UserManagement\DatabaseUserImport.cshtml:59
 #: Views\UserManagement\DatabaseUserImport.cshtml:128
 msgid "First Name"
-msgstr "姓"
+msgstr "名字"
 
 #: Views\UserManagement\_UserImportSelectedDatabaseSchema.cshtml:72
 msgid "First name :"
-msgstr "名："
+msgstr "名字："
 
 #: Views\Administration\KerberosAuthentication.cshtml:49
 msgid "For example"
-msgstr "例えば:"
+msgstr "例如："
 
 #: Views\ServerConfiguration\_FileStorage.cshtml:33
 #: Views\ServerConfiguration\_FileStorage.cshtml:64
 msgid "For example "
-msgstr "例えば："
+msgstr "例如："
 
 #: Views\Administration\_SiteSettings.cshtml:43
 msgid "for more details."
-msgstr "詳細について"
+msgstr "for more details."
 
 #: Views\ServerConfiguration\Index.cshtml:75
 msgid "For testing purpose, select Embedded SQL CE."
@@ -1715,12 +1715,12 @@ msgstr "For testing purpose, select Embedded SQL CE."
 
 #: Views\Accounts\Login.cshtml:113 Views\Authorization\Login.cshtml:109
 msgid "Forgot password?"
-msgstr "パスワードを忘れましたか？"
+msgstr "Forgot password?"
 
 #: Views\Accounts\CodeConfirmation.cshtml:54
 #: Views\Accounts\ResetPasswordLinkMessage.cshtml:50
 msgid "Forgot your password?"
-msgstr "パスワードをお忘れ"
+msgstr "Forgot your password?"
 
 #: Views\Administration\_ActiveDirectorySettings.cshtml:577
 msgid "Form relation"
@@ -1730,7 +1730,7 @@ msgstr "Form relation"
 #: Views\Administration\ScheduleDatabaseSynchronization.cshtml:136
 #: Views\Administration\ScheduleSynchronization.cshtml:138
 msgid "Friday"
-msgstr "金曜日"
+msgstr "星期五"
 
 #: Views\UserManagement\DatabaseUserImport.cshtml:172
 #: Views\UserManagement\DatabaseUserImport.cshtml:234
@@ -1740,7 +1740,7 @@ msgstr "From database"
 
 #: Views\Application\ViewApplication.cshtml:158
 msgid "General"
-msgstr "一般"
+msgstr "概况"
 
 #: Views\Administration\KerberosAuthentication.cshtml:57
 msgid "Generate and download .bat file"
@@ -1752,11 +1752,11 @@ msgstr "Go to first page"
 
 #: Scripts\Core\Server.Core.js:565
 msgid "Go to last page"
-msgstr "最後のページへ"
+msgstr "Go to last page"
 
 #: Scripts\Core\Server.Core.js:566
 msgid "Go to next page"
-msgstr "次ページへ"
+msgstr "Go to next page"
 
 #: Scripts\Core\Server.Core.js:567
 msgid "Go to previous page"
@@ -1764,19 +1764,19 @@ msgstr "Go to previous page"
 
 #: Scripts\Home\Home.js:48
 msgid "Good Afternoon,"
-msgstr "こんにちは"
+msgstr "Good Afternoon,"
 
 #: Scripts\Home\Home.js:42
 msgid "Good Day,"
-msgstr "- こんにちは！"
+msgstr "大家好"
 
 #: Scripts\Home\Home.js:51
 msgid "Good Evening,"
-msgstr "こんばんわ"
+msgstr "Good Evening,"
 
 #: Scripts\Home\Home.js:45
 msgid "Good Morning,"
-msgstr "おはよう。"
+msgstr "早"
 
 #: Views\Application\_ApplicationAdministrators.cshtml:58
 #: Views\Application\_ApplicationGroups.cshtml:27
@@ -1785,11 +1785,11 @@ msgstr "おはよう。"
 #: Views\Application\_ApplicationUsers.cshtml:31
 #: Views\Application\_ApplicationUsers.cshtml:76
 msgid "Grant access"
-msgstr "アクセスを許可"
+msgstr "Grant access"
 
 #: Views\Application\_ApplicationGroups.cshtml:31
 msgid "Grant Access"
-msgstr "グラントアクセス"
+msgstr "Grant Access"
 
 #: Views\Application\_ApplicationGroups.cshtml:53
 msgid "Grant Access to Groups"
@@ -1807,12 +1807,12 @@ msgstr "Grant Administrator Access"
 msgid "Grant Administrator Access to users"
 msgstr "Grant Administrator Access to users"
 
-#: Scripts\Application\ApplicationGroups.js:414
-#: Scripts\Application\ViewApplication.js:653
+#: Scripts\Application\ApplicationGroups.js:416
+#: Scripts\Application\ViewApplication.js:655
 msgid "Granted access to "
 msgstr "Granted access to "
 
-#: Scripts\Application\ViewApplicationAdmin.js:286
+#: Scripts\Application\ViewApplicationAdmin.js:288
 msgid "Granted administrative access to"
 msgstr "Granted administrative access to"
 
@@ -1834,7 +1834,7 @@ msgstr "Group has been updated successfully."
 
 #: Views\Group\ActiveDirectoryGroupImport.cshtml:72
 msgid "group id"
-msgstr "グルップID"
+msgstr "group id"
 
 #: Scripts\Group\ActiveDirectoryGroupImport.js:68
 #: Scripts\Group\SynchronizeGroups.js:139 Views\Group\AddUsers.cshtml:48
@@ -1842,7 +1842,7 @@ msgstr "グルップID"
 #: Views\UserManagement\_AddUserInGroup.cshtml:21
 #: Views\UserManagement\_AddUserInGroup.cshtml:29
 msgid "Group name"
-msgstr "グループ名"
+msgstr "Group name"
 
 #: Scripts\Group\EditGroup.js:117
 msgid "Group name already exists"
@@ -1877,7 +1877,7 @@ msgstr "group(s) has been imported successfully."
 
 #: Views\Group\ActiveDirectoryGroup.cshtml:108
 msgid "GroupId"
-msgstr "グルップID"
+msgstr "GroupId"
 
 #: Views\Application\ViewApplication.cshtml:164
 #: Views\Group\ActiveDirectoryGroup.cshtml:177
@@ -1889,12 +1889,12 @@ msgstr "グルップID"
 #: Views\UserManagement\ViewProfile.cshtml:154
 #: Views\UserManagement\_UserMenu.cshtml:19
 msgid "Groups"
-msgstr "品群"
+msgstr "Groups"
 
 #: Views\Group\ActiveDirectoryGroup.cshtml:181
 #: Views\Group\ActiveDirectoryGroup.cshtml:187 Views\Group\Group.cshtml:220
 msgid "GROUPS"
-msgstr "グループ"
+msgstr "GROUPS"
 
 #: Views\Administration\_SiteSettings.cshtml:83
 #: Views\Administration\_SiteSettings.cshtml:136
@@ -1908,16 +1908,16 @@ msgstr "Header logo"
 #: Views\ServerConfiguration\Index.cshtml:192
 #: Views\ServerConfiguration\Index.cshtml:283
 msgid "here"
-msgstr "ここ"
+msgstr "减号"
 
 #: Controllers\Administration\UserManagementController.cs:625
 #: Views\ServerConfiguration\_FileStorage.cshtml:3
 msgid "here."
-msgstr "向かいます。"
+msgstr "这么说。"
 
 #: Views\Shared\_Menu.cshtml:29 Views\Shared\_Menu.cshtml:31
 msgid "Home"
-msgstr "ホーム"
+msgstr "首页"
 
 #: Views\Administration\KerberosAuthentication.cshtml:46
 #: Views\Administration\KerberosAuthentication.cshtml:48
@@ -1926,16 +1926,16 @@ msgstr "Host domain name"
 
 #: Scripts\Administration\ScheduleSynchronization.js:230
 msgid "Hourly"
-msgstr "時間給制"
+msgstr "小时工"
 
 #: Views\Notification\Notifications.cshtml:168
 #: Views\Notification\_UserNotification.cshtml:187
 msgid "Hours ago"
-msgstr "時間前"
+msgstr "Hours ago"
 
 #: Views\Application\_AddApplicationDialog.cshtml:64
 msgid "Icon"
-msgstr "アイコン"
+msgstr "图标"
 
 #: Views\Accounts\CodeConfirmation.cshtml:74
 msgid "If it does not arrive,"
@@ -1943,7 +1943,7 @@ msgstr "If it does not arrive,"
 
 #: Views\Administration\_SiteSettings.cshtml:63
 msgid "Images"
-msgstr "画像"
+msgstr "Images"
 
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:162
 #: Views\UserManagement\UploadFileFormAction.cshtml:99
@@ -2070,11 +2070,11 @@ msgstr "Importing users from existing database is not available in automatic acc
 #: Views\UserManagement\ViewProfile.cshtml:176
 #: Views\UserManagement\ViewProfile.cshtml:189
 msgid "Inactive"
-msgstr "非アクティブ"
+msgstr "不活跃"
 
 #: Views\Group\AddUsers.cshtml:34
 msgid "Info"
-msgstr "状態"
+msgstr "Info"
 
 #: Views\User\_UserNotificationPreference.cshtml:7
 msgid "Inherit from global settings"
@@ -2130,7 +2130,7 @@ msgstr "Invalid distinguished name."
 #: Scripts\Administration\SystemSettings.js:302
 #: Scripts\User\UserManagement.js:63 Scripts\User\UserManagementProfile.js:35
 msgid "Invalid email address."
-msgstr "メール アドレスが無効です。"
+msgstr "Invalid email address."
 
 #: Scripts\Administration\Storage.js:63 Scripts\System\SystemSettings.js:907
 msgid "Invalid end point."
@@ -2140,7 +2140,7 @@ msgstr "Invalid end point."
 #: Scripts\Administration\SystemSettings.js:61
 #: Scripts\Administration\SystemSettings.js:93
 msgid "Invalid file format."
-msgstr "無効なファイル形式です"
+msgstr "Invalid file format."
 
 #: Scripts\Administration\KerberosAuthentication.js:8
 msgid "Invalid host domain name."
@@ -2161,7 +2161,7 @@ msgstr "Invalid metadata URI"
 
 #: Controllers\UserController.cs:198 Models\AccountModel.cs:158
 msgid "Invalid password."
-msgstr "パスワードが間違っています。"
+msgstr "Invalid password."
 
 #: Models\UserManagementModel.cs:611 Models\UserManagementModel.cs:812
 #: Models\UserManagementModel.cs:1135
@@ -2184,16 +2184,15 @@ msgstr "Invalid username or email address."
 
 #: Models\AccountModel.cs:168 Models\AccountModel.cs:226
 msgid "Invalid username."
-msgstr "ユーザー名が無効です."
+msgstr "Invalid username."
 
 #: Views\UserManagement\_UserImportSelectedDatabaseSchema.cshtml:48
 msgid "IsActive"
-msgstr "アクティブです"
+msgstr "IsActive"
 
 #: Views\UserManagement\_UserImportSelectedDatabaseSchema.cshtml:87
 msgid "IsActive :"
-msgstr "
-アクティブです"
+msgstr "IsActive :"
 
 #: Views\UserManagement\_UserImportSelectedDatabaseSchema.cshtml:92
 msgid "IsActive value :"
@@ -2210,7 +2209,7 @@ msgstr "Join type"
 #: Views\Notification\Notifications.cshtml:152
 #: Views\Notification\_UserNotification.cshtml:171
 msgid "Just now"
-msgstr "たった今"
+msgstr "Just now"
 
 #: Views\Administration\KerberosAuthentication.cshtml:2
 #: Views\Administration\_ActiveDirectorySettings.cshtml:13
@@ -2233,7 +2232,7 @@ msgstr "Know your password?"
 
 #: Views\Administration\_SiteSettings.cshtml:197
 msgid "Language"
-msgstr "言語"
+msgstr "Language"
 
 #: Views\ServerConfiguration\_UserAccount.cshtml:60
 #: Views\User\Profile.cshtml:107
@@ -2244,17 +2243,17 @@ msgstr "言語"
 #: Views\UserManagement\_UserImportSelectedDatabaseSchema.cshtml:47
 #: Views\UserManagement\_UserImportSelectedUserList.cshtml:52
 msgid "Last name"
-msgstr "苗字"
+msgstr "姓： *"
 
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:132
 #: Views\UserManagement\DatabaseUserImport.cshtml:56
 #: Views\UserManagement\DatabaseUserImport.cshtml:136
 msgid "Last Name"
-msgstr "名"
+msgstr "姓"
 
 #: Views\UserManagement\_UserImportSelectedDatabaseSchema.cshtml:82
 msgid "Last name :"
-msgstr "名"
+msgstr "姓： *"
 
 #: Views\Administration\_ActiveDirectorySettings.cshtml:78
 #: Views\Administration\_ActiveDirectorySettings.cshtml:80
@@ -2293,22 +2292,22 @@ msgstr "Licenses currently in use"
 #: Views\Notification\Notifications.cshtml:183
 #: Views\Notification\_UserNotification.cshtml:201
 msgid "LOAD MORE"
-msgstr "続きを読む"
+msgstr "加载更多"
 
 #: Views\Shared\_Header.cshtml:26
 msgid "Loading..."
-msgstr "読み込み中..."
+msgstr "正在加载..."
 
 #: Views\Accounts\CodeConfirmation.cshtml:87
 #: Views\Accounts\ForgotPassword.cshtml:105
 #: Views\Accounts\ResetPasswordLinkMessage.cshtml:54
 msgid "Log In"
-msgstr "ログイン"
+msgstr "Log In"
 
 #: Views\Administration\_SiteSettings.cshtml:67
 #: Views\Administration\_SiteSettings.cshtml:117
 msgid "Log in screen"
-msgstr "ログイン画面"
+msgstr "Log in screen"
 
 #: Views\Accounts\Login.cshtml:144 Views\Authorization\Login.cshtml:140
 msgid "Log in using"
@@ -2317,11 +2316,11 @@ msgstr "Log in using"
 #: Views\Shared\_Header.cshtml:69 Views\Shared\_Menu.cshtml:54
 #: Views\Shared\_Menu.cshtml:56
 msgid "Log out"
-msgstr "ログアウト"
+msgstr "Log out"
 
 #: Views\Shared\_Header.cshtml:70
 msgid "LOG OUT"
-msgstr "ログアウト"
+msgstr "LOG OUT"
 
 #: Models\AccountModel.cs:153
 msgid "Logged in successfully."
@@ -2329,12 +2328,12 @@ msgstr "Logged in successfully."
 
 #: Views\Accounts\Login.cshtml:48 Views\Authorization\Login.cshtml:45
 msgid "Login"
-msgstr "ログイン"
+msgstr "Login"
 
 #: Views\Accounts\Login.cshtml:116 Views\Accounts\Login.cshtml:119
 #: Views\Authorization\Login.cshtml:112 Views\Authorization\Login.cshtml:115
 msgid "LOGIN"
-msgstr "ログイン"
+msgstr "LOGIN"
 
 #: Views\Administration\KerberosAuthentication.cshtml:37
 #: Views\Administration\KerberosAuthentication.cshtml:39
@@ -2348,7 +2347,7 @@ msgstr "Mail notifications"
 
 #: Views\Administration\_AdminMenu.cshtml:54
 msgid "Manage License"
-msgstr "ライセンスを管理"
+msgstr "Manage License"
 
 #: Views\Administration\LicenseSettings.cshtml:20
 msgid "MANAGE LICENSES"
@@ -2365,7 +2364,7 @@ msgstr "Microsoft ADFS"
 #: Views\Notification\Notifications.cshtml:156
 #: Views\Notification\_UserNotification.cshtml:175
 msgid "Minutes ago"
-msgstr "分前"
+msgstr "Minutes ago"
 
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:74
 msgid "Mobile no"
@@ -2381,13 +2380,13 @@ msgstr "Mobile No"
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:182
 #: Views\UserManagement\DatabaseUserImport.cshtml:189
 msgid "Modify"
-msgstr "修正"
+msgstr "Modify"
 
 #: Views\Administration\ScheduleAzureSynchronization.cshtml:119
 #: Views\Administration\ScheduleDatabaseSynchronization.cshtml:115
 #: Views\Administration\ScheduleSynchronization.cshtml:117
 msgid "Monday"
-msgstr "月曜日"
+msgstr "星期一"
 
 #: Scripts\Administration\ScheduleSynchronization.js:114
 #: Scripts\Administration\ScheduleSynchronization.js:134
@@ -2400,19 +2399,19 @@ msgstr "月曜日"
 #: Views\Administration\ScheduleSynchronization.cshtml:166
 #: Views\Administration\ScheduleSynchronization.cshtml:185
 msgid "month(s)"
-msgstr "ヶ月"
+msgstr "个月"
 
 #: Scripts\Administration\ScheduleSynchronization.js:233
 msgid "Monthly"
-msgstr "月々"
+msgstr "Monthly"
 
 #: Views\User\Profile.cshtml:5
 msgid "My Profile"
-msgstr "私のプロフィール"
+msgstr "My Profile"
 
 #: Views\User\Profile.cshtml:75
 msgid "MY PROFILE"
-msgstr "マイプロフィール"
+msgstr "MY PROFILE"
 
 #: Views\User\EditPassword.cshtml:24
 msgid "MY PROFILE - Change Password"
@@ -2429,8 +2428,8 @@ msgstr "MySQL"
 msgid "MySQL ODBC DSN"
 msgstr "MySQL ODBC DSN"
 
-#: Scripts\Application\ViewApplicationAdmin.js:164
-#: Scripts\Application\ViewApplicationAdmin.js:333
+#: Scripts\Application\ViewApplicationAdmin.js:166
+#: Scripts\Application\ViewApplicationAdmin.js:335
 #: Views\Application\ViewApplication.cshtml:58
 #: Views\Application\ViewApplication.cshtml:77
 #: Views\Application\ViewApplication.cshtml:117
@@ -2452,7 +2451,7 @@ msgstr "MySQL ODBC DSN"
 #: Views\UserManagement\_AddUserInGroup.cshtml:17
 #: Views\UserManagement\_UserImportSelectedUserList.cshtml:46
 msgid "Name"
-msgstr "名前"
+msgstr "名字"
 
 #: Models\UserManagementModel.cs:2068
 msgid "Name cannot exceed 254 characters."
@@ -2481,7 +2480,7 @@ msgstr "New database"
 
 #: Views\Group\Group.cshtml:226 Views\UserManagement\_AddUserInGroup.cshtml:37
 msgid "New group"
-msgstr "新しいグループ"
+msgstr "New group"
 
 #: Scripts\Group\Group.js:43
 msgid "New group has been created successfully."
@@ -2491,11 +2490,11 @@ msgstr "New group has been created successfully."
 #: Views\Accounts\ChangePassword.cshtml:58 Views\User\EditPassword.cshtml:44
 #: Views\UserManagement\ViewProfile.cshtml:226
 msgid "New password"
-msgstr "新しいパスワード"
+msgstr "New password"
 
 #: Views\UserManagement\Index.cshtml:192 Views\UserManagement\Index.cshtml:198
 msgid "New user"
-msgstr "新規ユーザ"
+msgstr "New user"
 
 #: Views\UserManagement\_LimitUserCreation.cshtml:20
 msgid ""
@@ -2505,7 +2504,7 @@ msgstr "New users could not be added since there are no remaining licenses(s) av
 
 #: Views\Administration\_ActiveDirectorySettings.cshtml:622
 msgid "Next"
-msgstr "次"
+msgstr "下一步"
 
 #: Views\Administration\ScheduleAzureSynchronization.cshtml:39
 #: Views\Administration\ScheduleDatabaseSynchronization.cshtml:35
@@ -2525,7 +2524,7 @@ msgstr "Next Schedule"
 #: Views\UserManagement\_MultipleUserDeleteDialog.cshtml:23
 #: Views\UserManagement\_SingleUserDeleteDialog.cshtml:23
 msgid "No"
-msgstr "No"
+msgstr "否"
 
 #: Scripts\System\SystemSettings.js:1649 Scripts\System\SystemSettings.js:1696
 #: Scripts\System\SystemSettings.js:1750 Scripts\System\SystemSettings.js:1802
@@ -2556,7 +2555,7 @@ msgstr "No records to display"
 
 #: Scripts\Group\EditGroup.js:60 Scripts\Group\EditGroup.js:160
 msgid "No results found"
-msgstr "検索結果が見つかりません"
+msgstr "没有结果"
 
 #: Views\Administration\_SiteSettings.cshtml:171
 #: Views\Group\EditGroup.cshtml:177
@@ -2574,7 +2573,7 @@ msgstr "No. of Users"
 
 #: Scripts\Core\Server.Core.js:557
 msgid "NotEqual"
-msgstr "等しくない"
+msgstr "NotEqual"
 
 #: Views\User\_UserNotificationPreference.cshtml:12
 msgid "NOTIFICATION PREFERENCE"
@@ -2584,11 +2583,11 @@ msgstr "NOTIFICATION PREFERENCE"
 #: Scripts\Administration\NotificationSettings.js:27
 #: Views\User\_UserNotificationPreference.cshtml:15
 msgid "Notification Settings"
-msgstr "通知設定"
+msgstr "Notification Settings"
 
 #: Views\Administration\NotificationSettings.cshtml:24
 msgid "NOTIFICATION SETTINGS"
-msgstr "通知設定"
+msgstr "NOTIFICATION SETTINGS"
 
 #: Scripts\User\UserNotificationSettings.js:34
 msgid "Notification settings have been updated successfully."
@@ -2597,12 +2596,12 @@ msgstr "Notification settings have been updated successfully."
 #: Views\Administration\_AdminMenu.cshtml:36
 #: Views\Notification\Notifications.cshtml:4 Views\Shared\_Header.cshtml:89
 msgid "Notifications"
-msgstr "通知"
+msgstr "Notifications"
 
 #: Views\Notification\Notifications.cshtml:140
 #: Views\Notification\Notifications.cshtml:142
 msgid "NOTIFICATIONS"
-msgstr "通知設定"
+msgstr "NOTIFICATIONS"
 
 #: Scripts\Administration\ScheduleSynchronization.js:114
 #: Scripts\Administration\ScheduleSynchronization.js:362
@@ -2653,7 +2652,7 @@ msgstr "Occurs the"
 #: Views\Administration\ScheduleDatabaseSynchronization.cshtml:229
 #: Views\Administration\ScheduleSynchronization.cshtml:232
 msgid "of"
-msgstr "of"
+msgstr "共"
 
 #: Scripts\Administration\ScheduleSynchronization.js:114
 #: Scripts\Administration\ScheduleSynchronization.js:134
@@ -2683,8 +2682,7 @@ msgstr "OK"
 #: Views\Administration\_ActiveDirectorySettings.cshtml:225
 #: Views\ServerConfiguration\Index.cshtml:103
 msgid "Oracle"
-msgstr "Oracle
-"
+msgstr "Oracle"
 
 #: Views\Administration\_ActiveDirectorySettings.cshtml:389
 msgid "Oracle ODBC DSN"
@@ -2692,17 +2690,17 @@ msgstr "Oracle ODBC DSN"
 
 #: Views\Administration\_SiteSettings.cshtml:24
 msgid "Organization name"
-msgstr "組織名"
+msgstr "Organization name"
 
 #: Controllers\Group\GroupController.cs:285
 msgid "Page not found"
-msgstr "ページが見つかりません。"
+msgstr "Page not found"
 
 #: Controllers\Administration\UserManagementController.cs:1065
 #: Controllers\Administration\UserManagementController.cs:1072
 #: Views\Error\HttpError404.cshtml:2 Views\Error\HttpError404.cshtml:11
 msgid "Page Not Found"
-msgstr "ページが見つかりません。"
+msgstr "Page Not Found"
 
 #: Scripts\Group\SynchronizeGroups.js:144
 msgid "Partial success"
@@ -2721,7 +2719,7 @@ msgstr "Partial success"
 #: Views\ServerConfiguration\_UserAccount.cshtml:75
 #: Views\UserManagement\UploadFileFormAction.cshtml:65
 msgid "Password"
-msgstr "パスワード"
+msgstr "密码"
 
 #: Views\Accounts\ForgotPassword.cshtml:67
 #: Views\Accounts\ForgotPassword.cshtml:85
@@ -2800,15 +2798,15 @@ msgstr "Passwords mismatch."
 
 #: Views\Group\AddUsers.cshtml:33
 msgid "People"
-msgstr "人物"
+msgstr "People"
 
 #: Views\Home\Permissiondenied.cshtml:2
 msgid "Permission Denied"
-msgstr "許可は拒否されました"
+msgstr "Permission Denied"
 
 #: Views\User\Profile.cshtml:123 Views\UserManagement\ViewProfile.cshtml:145
 msgid "Phone"
-msgstr "電話"
+msgstr "电话： *"
 
 #: Scripts\Group\Group.js:83
 msgid "Please avoid special characters"
@@ -2933,7 +2931,7 @@ msgstr "Please contact the Azure Active Directory administrator to change your A
 #: Scripts\System\SystemSettings.js:576 Scripts\User\EditProfile.js:24
 #: Views\ServerConfiguration\_UserAccount.cshtml:68
 msgid "Please enter a valid email address."
-msgstr "有効なメール アドレスを入力してください。"
+msgstr "Please enter a valid email address."
 
 #: Scripts\Administration\Storage.js:123 Scripts\System\SystemSettings.js:969
 msgid "Please enter access key."
@@ -2997,21 +2995,21 @@ msgstr "Please enter distinguished name."
 
 #: Views\User\Profile.cshtml:117 Views\UserManagement\ViewProfile.cshtml:139
 msgid "Please enter email address"
-msgstr "メールアドレスを入力してください"
+msgstr "Please enter email address"
 
 #: Scripts\System\SystemSettings.js:766 Scripts\User\UserManagement.js:123
 #: Scripts\User\UserManagementProfile.js:102
 msgid "Please enter email address."
-msgstr "メールアドレスを入力してください"
+msgstr "Please enter email address."
 
 #: Views\User\Profile.cshtml:101 Views\UserManagement\ViewProfile.cshtml:123
 msgid "Please enter first name"
-msgstr "名前を入力してください"
+msgstr "Please enter first name"
 
 #: Scripts\System\SystemSettings.js:760 Scripts\User\UserManagement.js:126
 #: Scripts\User\UserManagementProfile.js:105
 msgid "Please enter first name."
-msgstr "名前を入力してください"
+msgstr "Please enter first name."
 
 #: Views\Administration\ScheduleAzureSynchronization.cshtml:69
 #: Views\Administration\ScheduleDatabaseSynchronization.cshtml:65
@@ -3056,7 +3054,7 @@ msgstr "Please enter new password."
 
 #: Scripts\Accounts\Accounts.js:578
 msgid "Please enter password"
-msgstr "パスワードを入力してください"
+msgstr "Please enter password"
 
 #: Scripts\Administration\SystemSettings.js:410
 #: Scripts\System\SystemSettings.js:769 Scripts\System\SystemSettings.js:1013
@@ -3066,11 +3064,11 @@ msgstr "パスワードを入力してください"
 #: Scripts\User\UserImportDatabase.js:236
 #: Views\Administration\_ActiveDirectorySettings.cshtml:72
 msgid "Please enter password."
-msgstr "パスワードを入力してください"
+msgstr "Please enter password."
 
 #: Views\User\Profile.cshtml:126 Views\UserManagement\ViewProfile.cshtml:148
 msgid "Please enter phone number"
-msgstr "電話番号を入力してください"
+msgstr "Please enter phone number"
 
 #: Scripts\System\SystemSettings.js:1264 Scripts\User\UserImportDatabase.js:230
 #: Views\Administration\_ActiveDirectorySettings.cshtml:116
@@ -3087,7 +3085,7 @@ msgstr "Please enter sender email address."
 
 #: Scripts\Administration\SystemSettings.js:404
 msgid "Please enter sender name."
-msgstr "送信者名を入力してください"
+msgstr "Please enter sender name."
 
 #: Scripts\Administration\DatabaseSettings.js:136
 #: Scripts\System\SystemSettings.js:878 Scripts\System\SystemSettings.js:1041
@@ -3133,7 +3131,7 @@ msgstr "Please enter the database password."
 
 #: Scripts\Group\Group.js:87
 msgid "Please enter the name"
-msgstr "名前を入力してください。"
+msgstr "Please enter the name"
 
 #: Scripts\Administration\Storage.js:55
 #: Scripts\Administration\SystemSettings.js:294
@@ -3142,17 +3140,17 @@ msgstr "名前を入力してください。"
 #: Scripts\User\UserImportDatabase.js:38 Scripts\User\UserManagement.js:51
 #: Scripts\User\UserManagementProfile.js:39
 msgid "Please enter the name."
-msgstr "名前を入力してください。"
+msgstr "Please enter the name."
 
 #: Scripts\Accounts\Accounts.js:378 Scripts\Accounts\Accounts.js:389
 #: Views\Accounts\AccountActivation.cshtml:80
 #: Views\Accounts\ChangePassword.cshtml:74
 msgid "Please enter the password"
-msgstr "パスワードを入力してください。"
+msgstr "Please enter the password"
 
 #: Scripts\Administration\DatabaseSettings.js:142
 msgid "Please enter the password."
-msgstr "パスワードを入力してください。"
+msgstr "Please enter the password."
 
 #: Scripts\Application\AddApplication.js:143
 msgid "Please enter the valid application name."
@@ -3206,16 +3204,16 @@ msgstr "Please enter valid URL."
 
 #: Scripts\User\EditProfile.js:84
 msgid "Please enter your email address."
-msgstr "メール アドレスを入力してください."
+msgstr "Please enter your email address."
 
 #: Scripts\User\EditProfile.js:87
 msgid "Please enter your first name."
-msgstr "名前を入力してください。"
+msgstr "Please enter your first name."
 
 #: Scripts\Password\ChangePassword.js:119
 #: Scripts\User\UserManagementProfile.js:211
 msgid "Please enter your new password."
-msgstr "新しいパスワードを入力してください"
+msgstr "Please enter your new password."
 
 #: Scripts\Password\ChangePassword.js:116
 msgid "Please enter your old password."
@@ -3223,7 +3221,7 @@ msgstr "Please enter your old password."
 
 #: Scripts\Administration\DatabaseSettings.js:139
 msgid "Please enter your username."
-msgstr "ユーザー名を入力してください"
+msgstr "Please enter your username."
 
 #: Views\Group\ActiveDirectoryGroupImport.cshtml:196
 msgid ""
@@ -3305,13 +3303,13 @@ msgstr "Please upload a valid CSV file."
 #: Views\Administration\_ActiveDirectorySettings.cshtml:493
 #: Views\Administration\_ActiveDirectorySettings.cshtml:496
 msgid "Port"
-msgstr "港"
+msgstr "Port"
 
 #: Views\Administration\_ActiveDirectorySettings.cshtml:111
 #: Views\Administration\_ActiveDirectorySettings.cshtml:114
 #: Views\ServerConfiguration\Index.cshtml:340
 msgid "Port number"
-msgstr "ポート番号"
+msgstr "Port number"
 
 #: Views\Administration\_ActiveDirectorySettings.cshtml:213
 #: Views\Administration\_ActiveDirectorySettings.cshtml:217
@@ -3323,7 +3321,7 @@ msgstr "PostgreSQL"
 #: Views\Shared\_Footer.cshtml:69 Views\Shared\_Footer.cshtml:93
 #: Views\Shared\_StartupFooter.cshtml:11
 msgid "Powered by"
-msgstr "搭載"
+msgstr "Powered by"
 
 #: Views\ServerConfiguration\Index.cshtml:392
 #: Views\ServerConfiguration\Index.cshtml:393
@@ -3338,11 +3336,11 @@ msgstr "搭載"
 #: Views\ServerConfiguration\_FileStorage.cshtml:77
 #: Views\ServerConfiguration\_UserAccount.cshtml:90
 msgid "Proceed"
-msgstr "次へ進む"
+msgstr "Proceed"
 
 #: Views\Shared\_Header.cshtml:67
 msgid "PROFILE"
-msgstr "プロフィール"
+msgstr "简历"
 
 #: Scripts\Core\Server.Core.js:524
 msgid "Profile picture has been deleted successfully."
@@ -3382,8 +3380,8 @@ msgstr "Recurs"
 msgid "Regenerate client secret"
 msgstr "Regenerate client secret"
 
-#: Scripts\Application\ViewApplication.js:754
-#: Scripts\Application\ViewApplication.js:758
+#: Scripts\Application\ViewApplication.js:756
+#: Scripts\Application\ViewApplication.js:760
 #: Views\Application\_RegenerateAccessToken.cshtml:6
 msgid "Regenerate Client Secret"
 msgstr "Regenerate Client Secret"
@@ -3398,11 +3396,11 @@ msgstr "Remaining licenses available"
 
 #: Views\Accounts\Login.cshtml:111 Views\Authorization\Login.cshtml:107
 msgid "Remember me"
-msgstr "私を覚えてますか"
+msgstr "Remember me"
 
 #: Views\Group\EditGroup.cshtml:122 Views\Group\EditGroup.cshtml:126
 msgid "Remove"
-msgstr "削除する"
+msgstr "删除"
 
 #: Scripts\Application\ViewApplication.js:98
 msgid "Remove Administartor"
@@ -3415,7 +3413,7 @@ msgstr "Resend activation code"
 
 #: Views\Accounts\ResetPasswordLinkMessage.cshtml:3
 msgid "Reset password link"
-msgstr "パスワード再設定のリンク"
+msgstr "Reset password link"
 
 #: Views\Administration\NotificationSettings.cshtml:44
 msgid "Restrict"
@@ -3448,12 +3446,12 @@ msgstr "Revoke Group(s) Access"
 msgid "Revoke User(s) Access"
 msgstr "Revoke User(s) Access"
 
-#: Scripts\Application\ApplicationGroups.js:443
-#: Scripts\Application\ViewApplication.js:702
+#: Scripts\Application\ApplicationGroups.js:445
+#: Scripts\Application\ViewApplication.js:704
 msgid "Revoked access for "
 msgstr "Revoked access for "
 
-#: Scripts\Application\ViewApplicationAdmin.js:419
+#: Scripts\Application\ViewApplicationAdmin.js:421
 msgid "Revoked administrative access for "
 msgstr "Revoked administrative access for "
 
@@ -3473,7 +3471,7 @@ msgstr "Role name"
 #: Views\Administration\ScheduleDatabaseSynchronization.cshtml:140
 #: Views\Administration\ScheduleSynchronization.cshtml:142
 msgid "Saturday"
-msgstr "土曜日"
+msgstr "星期六"
 
 #: Views\Administration\NotificationSettings.cshtml:95
 #: Views\Administration\SAMLSettings.cshtml:167
@@ -3550,7 +3548,7 @@ msgstr "Schedule to synchronize users and groups with Database"
 #: Views\UserManagement\_AddUserInGroup.cshtml:29
 #: Views\UserManagement\_UserImportSelectedDatabaseSchema.cshtml:18
 msgid "Search"
-msgstr "検索"
+msgstr "搜索"
 
 #: Views\Group\ActiveDirectoryGroup.cshtml:205
 msgid "Search AD groups"
@@ -3586,7 +3584,7 @@ msgstr "Search database schema"
 #: Views\Group\ActiveDirectoryGroupImport.cshtml:188
 #: Views\Group\Group.cshtml:313
 msgid "Search groups"
-msgstr "検索コミュニティ..."
+msgstr "Search groups"
 
 #: Views\Group\AddUsers.cshtml:101
 msgid "Search here"
@@ -3606,7 +3604,7 @@ msgstr "Search user"
 #: Views\UserManagement\SynchronizeDatabaseUsers.cshtml:165
 #: Views\UserManagement\_UserImportSelectedUserList.cshtml:15
 msgid "Search users"
-msgstr "ユーザー検索"
+msgstr "Search users"
 
 #: Scripts\System\SystemSettings.js:71 Scripts\System\SystemSettings.js:88
 #: Scripts\System\SystemSettings.js:101 Scripts\System\SystemSettings.js:113
@@ -3628,15 +3626,15 @@ msgstr "Select a database"
 #: Scripts\Group\EditGroup.js:57 Scripts\Group\EditGroup.js:75
 #: Scripts\Group\EditGroup.js:89 Scripts\Group\EditGroup.js:156
 msgid "Select all"
-msgstr "すべて選択"
+msgstr "Select all"
 
 #: Scripts\Group\DeleteGroupUser.js:29
 msgid "Select All"
-msgstr "でいま"
+msgstr "Select All"
 
 #: Views\UserManagement\_AddUserInGroup.cshtml:29
 msgid "Select Group"
-msgstr "グループ​を​選択"
+msgstr "Select Group"
 
 #: Views\Group\ActiveDirectoryGroup.cshtml:183
 msgid "Select groups to synchronize with Active Directory"
@@ -3719,11 +3717,11 @@ msgstr "Sender email address"
 #: Views\Administration\_EmailSettings.cshtml:39
 #: Views\Administration\_EmailSettings.cshtml:41
 msgid "Sender name"
-msgstr "送信者名"
+msgstr "Sender name"
 
 #: Scripts\Home\Home.js:29 Scripts\Home\Home.js:33
 msgid "Server Error"
-msgstr "サーバエラー"
+msgstr "Server Error"
 
 #: Scripts\Group\Group.js:336 Scripts\Group\Group.js:344
 msgid "Server group(s) and"
@@ -3744,19 +3742,19 @@ msgstr "Server group(s),"
 #: Views\ServerConfiguration\Index.cshtml:116
 #: Views\ServerConfiguration\Index.cshtml:336
 msgid "Server name"
-msgstr "サーバー名"
+msgstr "Server name"
 
 #: Scripts\Accounts\Accounts.js:297 Scripts\Accounts\Accounts.js:327
 msgid "Service UnAvailable"
-msgstr "サービスは利用できません"
+msgstr "Service UnAvailable"
 
 #: Views\UserManagement\ViewProfile.cshtml:3
 msgid "Set Password"
-msgstr "パスワードを設定"
+msgstr "Set Password"
 
 #: Views\Shared\_Menu.cshtml:66
 msgid "Settings"
-msgstr "設定"
+msgstr "设置"
 
 #: Scripts\Administration\ScheduleSynchronization.js:408
 msgid "Settings has been updated successfully."
@@ -3799,7 +3797,7 @@ msgstr "SINGLE SIGN-ON SETTINGS"
 
 #: Views\Administration\_AdminMenu.cshtml:18
 msgid "Site"
-msgstr "部位"
+msgstr "Site"
 
 #: Views\Administration\_SiteSettings.cshtml:15
 msgid "SITE SETTINGS"
@@ -3807,17 +3805,17 @@ msgstr "SITE SETTINGS"
 
 #: Views\Administration\_SiteSettings.cshtml:30
 msgid "Site URL"
-msgstr "サイトの URL"
+msgstr "Site URL"
 
 #: Views\Administration\_EmailSettings.cshtml:32
 #: Views\Administration\_EmailSettings.cshtml:34
 msgid "SMTP port"
-msgstr "SMTPポート"
+msgstr "SMTP port"
 
 #: Views\Administration\_EmailSettings.cshtml:25
 #: Views\Administration\_EmailSettings.cshtml:27
 msgid "SMTP server"
-msgstr "SMTPサーバー"
+msgstr "SMTP server"
 
 #: Views\Administration\Storage.cshtml:83
 #: Views\ServerConfiguration\_FileStorage.cshtml:58
@@ -3849,7 +3847,7 @@ msgstr "SSO settings has been updated. The application will be restarted automat
 
 #: Scripts\Core\Server.Core.js:557
 msgid "StartsWith"
-msgstr "始め"
+msgstr "startsWith()"
 
 #: Scripts\Group\ActiveDirectoryGroupImport.js:68
 #: Scripts\Group\SynchronizeGroups.js:139 Views\Application\Index.cshtml:66
@@ -3857,7 +3855,7 @@ msgstr "始め"
 #: Views\UserManagement\Index.cshtml:156
 #: Views\UserManagement\ViewProfile.cshtml:168
 msgid "Status"
-msgstr "状態"
+msgstr "状态"
 
 #: Views\ServerConfiguration\_FileStorage.cshtml:28
 msgid "Storage account name"
@@ -3879,12 +3877,12 @@ msgstr "成功"
 #: Views\Administration\ScheduleDatabaseSynchronization.cshtml:111
 #: Views\Administration\ScheduleSynchronization.cshtml:113
 msgid "Sunday"
-msgstr "日曜日"
+msgstr "星期天"
 
 #: Views\Administration\_ActiveDirectorySettings.cshtml:15
 #: Views\Home\Index.cshtml:83 Views\Home\Index.cshtml:141
 msgid "Synchronization"
-msgstr "同期"
+msgstr "Synchronization"
 
 #: Scripts\Group\SynchronizeGroups.js:139
 msgid "Synchronization group - Status"
@@ -4053,7 +4051,7 @@ msgstr "Test connection succeeded."
 #: Views\Administration\ScheduleSynchronization.cshtml:207
 #: Views\Administration\ScheduleSynchronization.cshtml:220
 msgid "The"
-msgstr "The"
+msgstr "是"
 
 #: Controllers\Group\GroupController.cs:460
 msgid "The AD settings is not configured."
@@ -4133,7 +4131,7 @@ msgstr "This link has expired."
 #: Controllers\Accounts\AccountsController.cs:102
 #: Views\Accounts\AccountActivation.cshtml:56
 msgid "This link is invalid."
-msgstr "このリンクは無効です。"
+msgstr "This link is invalid."
 
 #: Views\Application\_AddApplicationDialog.cshtml:60
 msgid ""
@@ -4157,17 +4155,17 @@ msgstr "This will be the default notification settings. Users can either choose 
 #: Views\Administration\ScheduleDatabaseSynchronization.cshtml:132
 #: Views\Administration\ScheduleSynchronization.cshtml:134
 msgid "Thursday"
-msgstr "木曜日"
+msgstr "星期四"
 
 #: Views\Administration\ScheduleAzureSynchronization.cshtml:243
 #: Views\Administration\ScheduleDatabaseSynchronization.cshtml:238
 #: Views\Administration\ScheduleSynchronization.cshtml:241
 msgid "Time"
-msgstr "時間"
+msgstr "时间"
 
 #: Views\Administration\_SiteSettings.cshtml:169
 msgid "Time zone"
-msgstr "タイムゾーン"
+msgstr "Time zone"
 
 #: Views\ServerConfiguration\Index.cshtml:283
 msgid "to learn how to create a DSN for MySQL database."
@@ -4195,13 +4193,13 @@ msgstr "Total license count"
 #: Views\Administration\ScheduleDatabaseSynchronization.cshtml:119
 #: Views\Administration\ScheduleSynchronization.cshtml:121
 msgid "Tuesday"
-msgstr "火曜日"
+msgstr "星期二"
 
 #: Views\Administration\ScheduleAzureSynchronization.cshtml:51
 #: Views\Administration\ScheduleDatabaseSynchronization.cshtml:47
 #: Views\Administration\ScheduleSynchronization.cshtml:49
 msgid "Type"
-msgstr "タイプ"
+msgstr "Typ"
 
 #: Views\Administration\_SiteSettings.cshtml:43
 msgid ""
@@ -4217,7 +4215,7 @@ msgstr "Unable to retrieve the recently logged in users."
 #: Views\Application\_AddApplicationDialog.cshtml:81
 #: Views\UserManagement\ViewProfile.cshtml:4
 msgid "Update"
-msgstr "更新"
+msgstr "Update"
 
 #: Views\Group\ActiveDirectoryGroupImport.cshtml:172
 #: Views\Group\ActiveDirectoryGroupImport.cshtml:181
@@ -4241,12 +4239,12 @@ msgstr "Update Notification Settings"
 #: Scripts\Password\ChangePassword.js:183
 #: Scripts\User\UserManagementProfile.js:592
 msgid "Update Password"
-msgstr "パスワードを更新します"
+msgstr "Update Password"
 
 #: Scripts\User\EditProfile.js:400 Scripts\User\EditProfile.js:406
 #: Scripts\User\UserManagementProfile.js:678
 msgid "Update Profile"
-msgstr "プロフィールを更新"
+msgstr "Update Profile"
 
 #: Views\Administration\Storage.cshtml:28
 msgid "Update the storage settings here"
@@ -4275,7 +4273,7 @@ msgstr "Use HTTPS (Recommended)"
 
 #: Views\Administration\_AdminMenu.cshtml:42
 msgid "User"
-msgstr "ユーザー"
+msgstr "用户"
 
 #: Views\Accounts\AccountActivation.cshtml:51
 msgid "User account activation"
@@ -4291,7 +4289,7 @@ msgstr "User data"
 
 #: Views\Administration\_AdminMenu.cshtml:30
 msgid "User Directory"
-msgstr "ユーザーディレクトリ"
+msgstr "User Directory"
 
 #: Views\Administration\ScheduleDatabaseSynchronization.cshtml:20
 msgid "User Directory Settings"
@@ -4330,13 +4328,13 @@ msgstr "User has been locked."
 #: Views\UserManagement\SynchronizeDatabaseUsers.cshtml:44
 #: Views\UserManagement\SynchronizeDatabaseUsers.cshtml:124
 msgid "User id"
-msgstr "ユーザ ID"
+msgstr "User id"
 
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:136
 #: Views\UserManagement\SynchronizeUsers.cshtml:50
 #: Views\UserManagement\SynchronizeUsers.cshtml:130
 msgid "User Id"
-msgstr "ユーザー ID"
+msgstr "User Id"
 
 #: Scripts\User\UserManagement.js:693
 msgid "User import incomplete. Do you want to continue?"
@@ -4344,11 +4342,11 @@ msgstr "User import incomplete. Do you want to continue?"
 
 #: Views\Shared\_Menu.cshtml:46 Views\Shared\_Menu.cshtml:48
 msgid "User Management"
-msgstr "10.1.4ユーザー管理"
+msgstr "User Management"
 
 #: Views\UserManagement\ViewProfile.cshtml:115
 msgid "User name"
-msgstr "ユーザ名"
+msgstr "用户名"
 
 #: Views\Authorization\Login.cshtml:78
 msgid "User name is empty"
@@ -4360,11 +4358,11 @@ msgstr "User Notification Preference"
 
 #: Views\UserManagement\ViewProfile.cshtml:13
 msgid "User Profile"
-msgstr "ユーザープロフィール"
+msgstr "User Profile"
 
 #: Views\User\Profile.cshtml:68
 msgid "USER PROFILE"
-msgstr "##user profile"
+msgstr "USER PROFILE"
 
 #: Controllers\Administration\UserManagementController.cs:983
 msgid "User profile failed to update."
@@ -4383,11 +4381,11 @@ msgstr "User profile update failed."
 #: Scripts\Administration\UserSettings.js:46
 #: Views\Administration\UserSettings.cshtml:2
 msgid "User Settings"
-msgstr "ユーザー設定"
+msgstr "User Settings"
 
 #: Views\Administration\UserSettings.cshtml:25
 msgid "USER SETTINGS"
-msgstr "ユーザー設定"
+msgstr "USER SETTINGS"
 
 #: Controllers\Administration\AdministrationController.cs:612
 msgid "User settings have been updated successfully."
@@ -4433,8 +4431,8 @@ msgstr "user(s) has been imported successfully."
 msgid "user(s) selected"
 msgstr "user(s) selected"
 
-#: Scripts\Application\ViewApplicationAdmin.js:286
-#: Scripts\Application\ViewApplicationAdmin.js:419
+#: Scripts\Application\ViewApplicationAdmin.js:288
+#: Scripts\Application\ViewApplicationAdmin.js:421
 msgid "user(s) successfully."
 msgstr "user(s) successfully."
 
@@ -4480,7 +4478,7 @@ msgstr "User(s) were not found in the database."
 #: Views\UserManagement\_UserImportSelectedDatabaseSchema.cshtml:44
 #: Views\UserManagement\_UserImportSelectedUserList.cshtml:49
 msgid "Username"
-msgstr "ユーザー名"
+msgstr "用户名"
 
 #: Views\Authorization\Login.cshtml:89
 msgid "Username / Email"
@@ -4488,7 +4486,7 @@ msgstr "Username / Email"
 
 #: Views\UserManagement\_UserImportSelectedDatabaseSchema.cshtml:67
 msgid "Username :"
-msgstr "ユーザー名"
+msgstr "用户名"
 
 #: Models\UserManagementModel.cs:2111
 msgid "Username already exists"
@@ -4520,7 +4518,7 @@ msgstr "Username contains space."
 #: Models\UserManagementModel.cs:1773 Models\UserManagementModel.cs:1907
 #: Models\UserManagementModel.cs:2088
 msgid "Username is invalid."
-msgstr "ユーザー名が無効です。"
+msgstr "Username is invalid."
 
 #: Views\Accounts\ForgotPassword.cshtml:72
 msgid "Username or Email address"
@@ -4585,13 +4583,13 @@ msgstr "Usernames, Email addresses, Names and Passwords with special characters 
 #: Views\UserManagement\ViewProfile.cshtml:88
 #: Views\UserManagement\_UserMenu.cshtml:13
 msgid "Users"
-msgstr "ユーザー"
+msgstr "用户"
 
 #: Views\UserManagement\Index.cshtml:184
 #: Views\UserManagement\SynchronizeUsers.cshtml:163
 #: Views\UserManagement\SynchronizeUsers.cshtml:172
 msgid "USERS"
-msgstr "ユーザー"
+msgstr "用户"
 
 #: Views\UserManagement\UploadFileFormAction.cshtml:2
 msgid "Users - CSV import"
@@ -4628,11 +4626,11 @@ msgstr "Users synchronized"
 #: Views\Group\Group.cshtml:51 Views\Group\Group.cshtml:58
 #: Views\UserManagement\Index.cshtml:83
 msgid "View"
-msgstr "表示"
+msgstr "查看"
 
 #: Views\Shared\_Header.cshtml:90
 msgid "View all"
-msgstr "すべてを表示"
+msgstr "查看全部 »"
 
 #: Views\Home\Index.cshtml:180
 msgid "View Applications"
@@ -4640,7 +4638,7 @@ msgstr "View Applications"
 
 #: Views\Group\EditGroup.cshtml:134
 msgid "View group"
-msgstr "ViewGroup."
+msgstr "View group"
 
 #: Views\Home\Index.cshtml:125
 msgid "View Groups"
@@ -4648,7 +4646,7 @@ msgstr "View Groups"
 
 #: Views\Shared\_Header.cshtml:66
 msgid "View my profile"
-msgstr "プロフィールを表示"
+msgstr "View my profile"
 
 #: Views\Home\Index.cshtml:61
 msgid "View Users"
@@ -4669,13 +4667,13 @@ msgstr "We are unable to process your request."
 #: Views\Administration\ScheduleDatabaseSynchronization.cshtml:123
 #: Views\Administration\ScheduleSynchronization.cshtml:125
 msgid "Wednesday"
-msgstr "水曜日"
+msgstr "星期三"
 
 #: Views\Administration\ScheduleAzureSynchronization.cshtml:107
 #: Views\Administration\ScheduleDatabaseSynchronization.cshtml:103
 #: Views\Administration\ScheduleSynchronization.cshtml:105
 msgid "week(s)"
-msgstr "週間"
+msgstr "week(s)"
 
 #: Scripts\Administration\ScheduleSynchronization.js:100
 msgid "week(s) on"
@@ -4687,7 +4685,7 @@ msgstr "week(s) on "
 
 #: Scripts\Administration\ScheduleSynchronization.js:232
 msgid "Weekly"
-msgstr "毎週"
+msgstr "Weekly"
 
 #: Views\Administration\_SiteSettings.cshtml:53
 #: Views\Administration\_SiteSettings.cshtml:56
@@ -4697,26 +4695,26 @@ msgstr "Welcome note"
 #: Views\ServerConfiguration\Index.cshtml:10
 #: Views\ServerConfiguration\Index.cshtml:68
 msgid "Welcome to"
-msgstr "ようこそ:"
+msgstr "Welcome to"
 
 #: Views\Administration\_ActiveDirectorySettings.cshtml:257
 #: Views\ServerConfiguration\Index.cshtml:123
 msgid "Windows authentication"
-msgstr "Windows認証"
+msgstr "Windows authentication"
 
 #: Views\Accounts\Login.cshtml:155 Views\Authorization\Login.cshtml:151
 msgid "Windows Authentication"
-msgstr "Windows認証"
+msgstr "Windows Authentication"
 
 #: Views\Administration\ScheduleAzureSynchronization.cshtml:202
 #: Views\Administration\ScheduleDatabaseSynchronization.cshtml:197
 #: Views\Administration\ScheduleSynchronization.cshtml:200
 msgid "year(s)"
-msgstr "35歳"
+msgstr "year(s)"
 
 #: Scripts\Administration\ScheduleSynchronization.js:234
 msgid "Yearly"
-msgstr "毎年"
+msgstr "Yearly"
 
 #: Scripts\Administration\ScheduleSynchronization.js:152
 #: Scripts\Administration\ScheduleSynchronization.js:177
@@ -4737,12 +4735,12 @@ msgstr "years on"
 #: Views\UserManagement\_MultipleUserDeleteDialog.cshtml:22
 #: Views\UserManagement\_SingleUserDeleteDialog.cshtml:22
 msgid "Yes"
-msgstr "はい"
+msgstr "是的"
 
 #: Views\Notification\Notifications.cshtml:34
 #: Views\Notification\_UserNotification.cshtml:48
 msgid "Yesterday"
-msgstr "昨日"
+msgstr "昨天"
 
 #: Models\Scheduler\ScheduleManagement.cs:871
 msgid "Yet to run"
@@ -4758,7 +4756,7 @@ msgstr "You can only choose"
 
 #: Views\Home\Permissiondenied.cshtml:12
 msgid "You do not have permission to view this page."
-msgstr "このフォーラムを閲覧する権限がありません。"
+msgstr "You do not have permission to view this page."
 
 #: Views\Home\Index.cshtml:213
 msgid "You don't have any applications."
