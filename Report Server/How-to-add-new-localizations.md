@@ -16,7 +16,7 @@ To make Syncfusion Report Server use a different culture perform the following s
 
     ![Upload](images/add-localization-3.png)
  
-3. Upload [default.po](locale/default.po) file which contains the texts from the Report Server application from `~Installed Location~/Report Server/ReportServer.Web/locale into google translator`.
+3. Upload [default.po](locale/default.po) file which contains the texts from the Report Server application from `C:\Syncfusion\Report Server\ReportServer.Web\locale into google translator`.
 
 4. Make sure that the source language is in English and file name as `messages` as in the below image.
 
@@ -40,11 +40,11 @@ To make Syncfusion Report Server use a different culture perform the following s
 
     ![Download Messages.po](images/add-localization-8.png)
  
-9. Create a folder in `~Installed Location~/Report Server/ReportServer.Web/locale` with {language code}-{country code} and paste the downloaded messages.po file inside the newly created folder.
+9. Create a folder in `C:\Syncfusion\Report Server\ReportServer.Web\locale` with {language code}-{country code} and paste the downloaded messages.po file inside the newly created folder.
 
     For example, if you are translating to Italian, create a folder named `it-it` and paste the messages.po like the below.
     
-    `~Installed Location~/Report Server/ReportServer.Web/locale/it-it/messages.po`
+    `C:\Syncfusion\Report Server\ReportServer.Web\locale\it-it\messages.po`
     
     Newly added language will be listed in language list in Report Server after refreshing the page in the Report Server.
     
