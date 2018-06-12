@@ -15,7 +15,7 @@ msgstr ""
 #: Scripts\Scheduler\scheduleRecipients.js:217
 msgid ""
 " , and the recipients will be notified when the condition has been satisfied."
-msgstr "當條件得到滿足時，收件人將被通知。"
+msgstr "，條件滿足後會通知收件人。"
 
 #: Views\Items\_MakeItemPublic.cshtml:54
 msgid " as public. Internal server error. Please try again."
@@ -23,7 +23,7 @@ msgstr "作為公眾。內部服務器錯誤。請再試一次。"
 
 #: Scripts\Homepages\PinWidget.js:38
 msgid " cannot be pinned to a homepage that already contains a dashboard."
-msgstr "無法固定到已包含信息中心的主頁。"
+msgstr "不能被固定到已經包含儀表板的主頁。"
 
 #: Scripts\System\SystemSettings.js:393
 msgid " Creation"
@@ -31,39 +31,39 @@ msgstr "創建"
 
 #: Scripts\Items\Items.js:250
 msgid " deleted"
-msgstr "已刪除"
+msgstr "刪除"
 
 #: Scripts\Items\Items.js:250
 msgid " has been deleted successfully."
-msgstr "已成功刪除"
+msgstr "已成功刪除。"
 
 #: Scripts\Items\Items.js:269
 msgid " has been failed to delete."
-msgstr "已經無法刪除。"
+msgstr "已經失敗刪除。"
 
 #: Scripts\Homepages\PinWidget.js:61 Scripts\Homepages\PinWidget.js:111
 msgid " has been pinned successfully."
-msgstr "已成功固定。"
+msgstr "已成功鎖定。"
 
 #: Views\Notification\_UserNotification.cshtml:105
 msgid " has mentioned you in the comment on the"
-msgstr "已經提到你在評論中"
+msgstr "在評論中提到你"
 
 #: Views\Dashboards\Dashboards.cshtml:380
 msgid " Public Dashboards disabled in "
-msgstr "禁用公用儀表板"
+msgstr "公開儀表板禁用"
 
 #: Views\Home\PublicDashboardViewDenied.cshtml:59
 msgid " Public Dashboards/Widgets disabled in "
-msgstr "禁用公用儀表板/小部件"
+msgstr "公共儀表板/小部件已禁用"
 
 #: Views\Widgets\Widgets.cshtml:116
 msgid " Public Widgets disabled in "
-msgstr "公共小部件已禁用"
+msgstr "公開窗口小部件已禁用"
 
 #: Views\Administration\_SiteSettings.cshtml:223
 msgid " to learn how to add new localizations in Dashboard Server."
-msgstr "了解如何在Dashboard Server中添加新的本地化版本。"
+msgstr "了解如何在Dashboard Server中添加新的本地化。"
 
 #: Views\User\Profile.cshtml:182
 msgid " to learn how to set a default homepage in Dashboard Server."
@@ -81,11 +81,11 @@ msgstr "到主頁。"
 
 #: Views\Items\_RemovePublic.cshtml:38
 msgid " will only be visible to users with the appropriate permissions."
-msgstr "只有具有相應權限的用戶才能看到。"
+msgstr "只有擁有適當權限的用戶才能看到。"
 
 #: Views\ServerConfiguration\Index.cshtml:76
 msgid "(For testing purpose, select Embedded SQL CE.)"
-msgstr "（為了測試目的，選擇Embedded SQL CE。）"
+msgstr "（為了測試目的，請選擇嵌入式SQL CE。）"
 
 #: Scripts\Dashboards\UpdateDataSource.js:55
 msgid "(New Data Source)"
@@ -97,13 +97,13 @@ msgstr "*最多1024個字符"
 
 #: Scripts\Core\Server.Core.js:573
 msgid "{0} of {1} pages ({2} items)"
-msgstr "{0} {1}頁（ {2}項） {0}"
+msgstr "{0} {1}頁面（ {2}項目）的{0}"
 
 #: Scripts\Accounts\Accounts.js:413 Scripts\Password\ChangePassword.js:140
 #: Scripts\System\SystemSettings.js:782
 #: Scripts\User\UserManagementProfile.js:236
 msgid "1 lowercase."
-msgstr "1小寫。"
+msgstr "1個小寫字母。"
 
 #: Scripts\Accounts\Accounts.js:414 Scripts\Password\ChangePassword.js:141
 #: Scripts\System\SystemSettings.js:783
@@ -115,7 +115,7 @@ msgstr "1數字。"
 #: Scripts\System\SystemSettings.js:784
 #: Scripts\User\UserManagementProfile.js:238
 msgid "1 special character."
-msgstr "1特色"
+msgstr "1個特殊字符。"
 
 #: Scripts\Accounts\Accounts.js:412 Scripts\Password\ChangePassword.js:139
 #: Scripts\System\SystemSettings.js:781
@@ -143,16 +143,16 @@ msgstr "最多1024個字符"
 
 #: Views\Administration\_SiteSettings.cshtml:204
 msgid "13.00"
-msgstr "2000"
+msgstr "13.00"
 
 #: Scripts\Administration\SystemSettings.js:12
 #: Scripts\Administration\SystemSettings.js:256
 msgid "13:00"
-msgstr "2000"
+msgstr "13:00"
 
 #: Views\Administration\_SiteSettings.cshtml:77
 msgid "200x44 pixels preferred"
-msgstr "200x44像素"
+msgstr "首選200x44像素"
 
 #: Scripts\Comments\Comment.js:236 Scripts\Comments\Comment.js:407
 #: Views\Shared\_Comments.cshtml:67 Views\Shared\_WidgetComments.cshtml:45
@@ -162,7 +162,7 @@ msgstr "最多4000個字符"
 #: Views\Administration\_SiteSettings.cshtml:91
 #: Views\Administration\_SiteSettings.cshtml:106
 msgid "40x40 pixels preferred"
-msgstr "40x40像素"
+msgstr "首選40x40像素"
 
 #: Views\ServerConfiguration\Index.cshtml:153
 #: Views\ServerConfiguration\Index.cshtml:223
@@ -249,7 +249,7 @@ msgstr "用戶名"
 
 #: Controllers\Accounts\AccountsController.cs:201
 msgid "Account not yet activated. Please contact the system administrator."
-msgstr "帳戶尚未激活請聯繫系統管理員。"
+msgstr "帳號尚未激活。請聯繫系統管理員。"
 
 #: Scripts\Comments\Comment.js:1052 Views\Dashboards\Dashboards.cshtml:514
 #: Views\Items\_ItemPermission.cshtml:150 Views\Items\_ItemsGrid.cshtml:106
@@ -260,7 +260,7 @@ msgstr "帳戶尚未激活請聯繫系統管理員。"
 #: Views\Permission\UserPermission.cshtml:159
 #: Views\Scheduler\Schedules.cshtml:186
 msgid "Actions"
-msgstr "行動"
+msgstr "操作"
 
 #: Scripts\System\CheckMailSettings.js:28
 #: Views\UserManagement\ViewProfile.cshtml:193
@@ -272,22 +272,22 @@ msgstr "激活用戶"
 msgid ""
 "Activation code has been generated successfully. As email settings are not "
 "configured we are not able to send activation email to the user."
-msgstr "激活碼已經成功生成。由於電子郵件設置未配置，我們無法向用戶發送激活電子郵件。"
+msgstr "激活碼已成功生成。由於未配置電子郵件設置，因此我們無法將激活電子郵件發送給用戶。"
 
 #: Scripts\User\UserManagementProfile.js:306
 msgid "Activation code has been resent successfully."
-msgstr "激活代碼已成功重新發送。"
+msgstr "激活碼已成功重新發送。"
 
 #: Scripts\User\UserManagementProfile.js:281
 msgid "Activation code has been sent successfully."
-msgstr "激活代碼已成功發送。"
+msgstr "激活碼已成功發送。"
 
 #: Scripts\Administration\UserSettings.js:21
 msgid ""
 "Activation emails cannot be sent until the email settings are configured. "
 "You can select ‘Automatic Activation’ to activate the user without "
 "configuring email settings."
-msgstr "在配置電子郵件設置之前，無法發送激活電子郵件。您可以選擇“自動激活”來激活用戶，而無需配置電子郵件設置。"
+msgstr "在配置電子郵件設置之前，不能發送激活電子郵件。您可以選擇'自動激活'來激活用戶，而無需配置電子郵件設置。"
 
 #: Scripts\User\UserManagementProfile.js:285
 #: Scripts\User\UserManagementProfile.js:287
@@ -296,7 +296,7 @@ msgstr "在配置電子郵件設置之前，無法發送激活電子郵件。您
 #: Views\UserManagement\ViewProfile.cshtml:178
 #: Views\UserManagement\ViewProfile.cshtml:182
 msgid "Active"
-msgstr "使用中"
+msgstr "活性"
 
 #: Views\Group\ActiveDirectoryGroupImport.cshtml:149
 #: Views\Group\ActiveDirectoryGroupImport.cshtml:238
@@ -318,15 +318,15 @@ msgstr "Active Directory組導入"
 
 #: Scripts\Group\Group.js:331 Scripts\Group\Group.js:337
 msgid "Active Directory Group(s)"
-msgstr "活動目錄組"
+msgstr "Active Directory組（s）"
 
 #: Scripts\Group\Group.js:349
 msgid "Active Directory Group(s) and"
-msgstr "Active Directory組和"
+msgstr "活動目錄組和"
 
 #: Scripts\Group\Group.js:340
 msgid "Active Directory Group(s) and "
-msgstr "Active Directory組和"
+msgstr "活動目錄組和"
 
 #: Views\Group\ActiveDirectoryGroupImport.cshtml:2
 msgid "Active Directory Groups import"
@@ -349,7 +349,7 @@ msgstr "Active Directory同步"
 
 #: Views\Group\ActiveDirectoryGroup.cshtml:181
 msgid "Active Directory Synchronization - GROUPS"
-msgstr "Active Directory同步 - 組播"
+msgstr "Active Directory同步 - 組"
 
 #: Views\UserManagement\SynchronizeUsers.cshtml:178
 msgid "Active Directory Synchronization - USERS"
@@ -357,11 +357,11 @@ msgstr "Active Directory同步 - 用戶"
 
 #: Views\Administration\ScheduleSynchronization.cshtml:26
 msgid "ACTIVE DIRECTORY SYNCHRONIZATION SCHEDULE"
-msgstr "主動目錄同步程序"
+msgstr "主動目錄同步時間表"
 
 #: Views\UserManagement\Index.cshtml:325
 msgid "Active Directory User"
-msgstr "Active Directory用戶"
+msgstr "活動目錄用戶"
 
 #: Scripts\User\ActiveDirectoryUserImport.js:86
 msgid "Active Directory user import"
@@ -385,7 +385,7 @@ msgstr "AD計劃同步"
 #: Views\UserManagement\_UserAddDialog.cshtml:50
 #: Views\Widgets\_AddWidget.cshtml:104
 msgid "Add"
-msgstr "添加"
+msgstr "加"
 
 #: Views\Category\_AddCategory.cshtml:26 Views\Category\_AddCategory.cshtml:74
 msgid "Add Category"
@@ -438,7 +438,7 @@ msgstr "添加新的數據源"
 
 #: Views\Shared\_CustomExpressionEditor.cshtml:52
 msgid "Add new expression"
-msgstr "添加新表達式"
+msgstr "添加新的表達式"
 
 #: Views\Group\Group.cshtml:228 Views\Group\Group.cshtml:235
 msgid "Add new group"
@@ -452,7 +452,7 @@ msgstr "添加新組"
 
 #: Scripts\Homepages\Homepages.js:433
 msgid "Add new Homepage"
-msgstr "添加新主頁"
+msgstr "添加新的主頁"
 
 #: Views\Permission\GroupPermission.cshtml:90
 #: Views\Permission\UserPermission.cshtml:96
@@ -474,11 +474,11 @@ msgstr "添加權限"
 
 #: Views\Permission\GroupPermission.cshtml:34
 msgid "Add Permission to the group"
-msgstr "將權限添加到組"
+msgstr "為該組添加權限"
 
 #: Views\Permission\UserPermission.cshtml:35
 msgid "Add Permission to the user"
-msgstr "向用戶添加權限"
+msgstr "為用戶添加權限"
 
 #: Views\Group\EditGroup.cshtml:182
 msgid "Add selected user(s) to the group"
@@ -513,11 +513,11 @@ msgstr "添加視圖"
 
 #: Scripts\Comments\Comment.js:650
 msgid "Add Watch"
-msgstr "添加手錶"
+msgstr "添加監視"
 
 #: Views\Widgets\_AddWidget.cshtml:54 Views\Widgets\_AddWidget.cshtml:124
 msgid "Add Widget"
-msgstr "添加小部件"
+msgstr "添加小工具"
 
 #: Models\ItemModel.cs:472
 msgid "Added"
@@ -525,7 +525,7 @@ msgstr "添加"
 
 #: Views\Dashboards\Dashboards.cshtml:478
 msgid "Added date"
-msgstr "添加日期"
+msgstr "新增日期"
 
 #: Views\Dashboards\Dashboards.cshtml:429
 #: Views\Homepages\_HomepageAddItem.cshtml:65 Views\Items\_ItemsList.cshtml:111
@@ -551,7 +551,7 @@ msgstr "管理員密碼"
 #: Views\Administration\_ActiveDirectorySettings.cshtml:423
 #: Views\UserManagement\ImportFromExistingDatabase.cshtml:181
 msgid "Admin username"
-msgstr "管理員名稱"
+msgstr "管理員用戶名"
 
 #: Views\Administration\_ActiveDirectorySettings.cshtml:426
 #: Views\ServerConfiguration\Index.cshtml:186
@@ -580,7 +580,7 @@ msgstr "聚合"
 #: Views\Shared\_CustomExpressionEditor.cshtml:113
 #: Views\Shared\_SchedulerDialog.cshtml:94
 msgid "All"
-msgstr "全部"
+msgstr "所有"
 
 #: Views\Dashboards\Dashboards.cshtml:63 Views\Dashboards\Dashboards.cshtml:259
 #: Views\Dashboards\Dashboards.cshtml:349
@@ -597,12 +597,12 @@ msgstr "所有儀表板"
 #: Views\ServerConfiguration\Index.cshtml:315
 #: Views\ServerConfiguration\Index.cshtml:372
 msgid "All the tables will have this prefix. (Default: SyncDS_)"
-msgstr "所有的表將有這個前綴。 （默認：SyncDS_）"
+msgstr "所有的表都會有這個前綴。 （默認：SyncDS_）"
 
 #: Views\Widgets\Widgets.cshtml:9 Views\Widgets\Widgets.cshtml:19
 #: Views\Widgets\Widgets.cshtml:97
 msgid "All Widgets"
-msgstr "所有小部件"
+msgstr "所有小工具"
 
 #: Views\Administration\DashboardSettings.cshtml:40
 #: Views\Administration\NotificationSettings.cshtml:44
@@ -617,12 +617,12 @@ msgstr "允許或限制通知。"
 msgid ""
 "Allowed file types are .png, .jpg, and .jpeg. Maximum file size is 20MB. "
 "Recommended resolution is 200x200 pixels."
-msgstr "允許的文件類型是.png，.jpg和.jpeg。最大文件大小為20MB。推薦分辨率為200x200像素。"
+msgstr "允許的文件類型是.png，.jpg和.jpeg。最大文件大小為20MB。推薦的分辨率是200x200像素。"
 
 #: Views\Accounts\CodeConfirmation.cshtml:65
 msgid ""
 "An email with instructions on how to change your password has been sent to"
-msgstr "已發送有關如何更改密碼的說明的電子郵件"
+msgstr "已發送一封電子郵件，其中包含有關如何更改密碼的說明"
 
 #: Scripts\Scheduler\DataChanges.js:2416
 msgid "An error has been occurred while evaluating your condition. "
@@ -642,33 +642,33 @@ msgstr "和"
 
 #: Scripts\Scheduler\recurrenceType.js:332
 msgid "and ends after"
-msgstr "並結束"
+msgstr "並在之後結束"
 
 #: Views\Administration\_EmailSettings.cshtml:4
 msgid "Anonymous authentication"
-msgstr "匿名認證"
+msgstr "匿名身份驗證"
 
 #: Views\Items\_GetLink.cshtml:59
 msgid ""
 "Anyone can navigate to this link, but only users with the appropriate "
 "permissions will be able to view the Dashboard."
-msgstr "任何人都可以導航到此鏈接，但只有具有適當權限的用戶才能查看信息中心。"
+msgstr "任何人都可以導航到此鏈接，但只有擁有適當權限的用戶才能查看信息中心。"
 
 #: Views\Items\_GetLink.cshtml:63
 msgid ""
 "Anyone can navigate to this link, but only users with the appropriate "
 "permissions will be able to view the Widget"
-msgstr "任何人都可以導航到此鏈接，但只有具有適當權限的用戶才能查看該窗口小部件"
+msgstr "任何人都可以導航到此鏈接，但只有具有適當權限的用戶才能查看該小部件"
 
 #: Views\Items\_GetLink.cshtml:67
 msgid ""
 "Anyone can navigate to this link, but only users with the appropriate "
 "permissions will be able to view."
-msgstr "任何人都可以導航到此鏈接，但只有具有相應權限的用戶才能查看。"
+msgstr "任何人都可以導航到此鏈接，但只有擁有相應權限的用戶才能查看。"
 
 #: Views\Shared\_RecurrenceType.cshtml:210
 msgid "Application Time Zone:"
-msgstr "申請時區："
+msgstr "應用時區："
 
 #: Views\Administration\_ActiveDirectorySettings.cshtml:568
 #: Views\Administration\_ActiveDirectorySettings.cshtml:607
@@ -676,11 +676,11 @@ msgstr "申請時區："
 #: Views\UserManagement\ImportFromExistingDatabase.cshtml:290
 #: Views\UserManagement\ImportFromExistingDatabase.cshtml:329
 msgid "Apply"
-msgstr "申請"
+msgstr "應用"
 
 #: Scripts\Scheduler\recurrenceType.js:91
 msgid "April"
-msgstr "2011年4月"
+msgstr "四月"
 
 #: Views\Items\_DeleteItem.cshtml:20
 msgid "Are you sure you want to delete"
@@ -688,23 +688,23 @@ msgstr "你確定你要刪除"
 
 #: Scripts\Scheduler\CustomExpressionEditor.js:521
 msgid "Are you sure you want to delete the expression?"
-msgstr "您確定要刪除該表達式嗎？"
+msgstr "你確定要刪除表達式嗎？"
 
 #: Views\Group\_DeleteConfirm.cshtml:46
 msgid "Are you sure you want to delete the group"
-msgstr "您確定要刪除該組"
+msgstr "你確定要刪除該組嗎？"
 
 #: Views\Group\_MultipleGroupDeleteDialog.cshtml:15
 msgid "Are you sure you want to delete the Group(s)?"
-msgstr "您確定要刪除群組嗎？"
+msgstr "您確定要刪除該群組嗎？"
 
 #: Scripts\User\EditProfile.js:183 Scripts\User\UserManagementProfile.js:382
 msgid "Are you sure you want to delete the profile picture?"
-msgstr "您確定要刪除個人資料圖片嗎？"
+msgstr "你確定要刪除個人資料照片嗎？"
 
 #: Views\UserManagement\_MultipleUserDeleteDialog.cshtml:15
 msgid "Are you sure you want to delete the User(s)?"
-msgstr "您確定您要刪除的用戶帳戶？"
+msgstr "您確定要刪除用戶嗎？"
 
 #: Views\UserManagement\ViewProfile.cshtml:269
 #: Views\UserManagement\_SingleUserDeleteDialog.cshtml:15
@@ -713,61 +713,61 @@ msgstr "你確定要刪除用戶嗎？"
 
 #: Views\Shared\_DashboardViews.cshtml:91
 msgid "Are you sure you want to delete the view "
-msgstr "您確定要刪除該視圖"
+msgstr "你確定要刪除視圖嗎？"
 
 #: Scripts\Comments\Comment.js:569
 msgid "Are you sure you want to delete this comment?"
-msgstr "確定刪除此播放清單?"
+msgstr "你確定要刪除此評論嗎？"
 
 #: Scripts\Homepages\Homepages.js:127
 msgid "Are you sure you want to delete this homepage?"
-msgstr "確定刪除此播放清單?"
+msgstr "您確定要刪除此主頁嗎？"
 
 #: Scripts\Items\ItemPermission.js:195 Scripts\Items\ItemPermission.js:216
 #: Views\Permission\_DeletePermission.cshtml:15
 msgid "Are you sure you want to delete this permission?"
-msgstr "您確定您要刪除此權限嗎？"
+msgstr "您確定要刪除此權限嗎？"
 
 #: Views\Scheduler\_DeleteSchedule.cshtml:13
 msgid "Are you sure you want to delete this schedule"
-msgstr "確定刪除此播放清單?"
+msgstr "您確定要刪除此時間表嗎？"
 
 #: Views\Group\_DeleteGroupUser.cshtml:34
 msgid "Are you sure you want to delete this user from the group?"
-msgstr "您確定要從該組中刪除此用戶嗎？"
+msgstr "你確定要刪除該用戶嗎？"
 
 #: Views\Items\_MakeItemPublic.cshtml:43 Views\Items\_RemovePublic.cshtml:33
 msgid "Are you sure you want to make the "
-msgstr "你確定要製作嗎"
+msgstr "你確定要製作嗎？"
 
 #: Views\Items\_shareItemView.cshtml:207
 msgid ""
 "Are you sure you want to remove access for this <span id=\"deletedItem\"></"
 "span>?"
-msgstr "您確定要刪除此<span id = \“deletedItem \”> </ span>的訪問權限嗎？"
+msgstr "您確定要刪除<span id = \“deletedItem \”> </ span>的訪問權嗎？"
 
 #: Views\Accounts\CodeConfirmation.cshtml:81
 #: Views\Accounts\ForgotPassword.cshtml:99
 msgid ""
 "As email settings are not configured, we will not be able to send an email "
 "to reset your password."
-msgstr "由於電子郵件設置未配置，我們將無法發送電子郵件以重置密碼。"
+msgstr "由於未配置電子郵件設置，我們將無法發送電子郵件來重置您的密碼。"
 
 #: Views\Items\_DeleteItem.cshtml:55 Views\Items\_DeleteItem.cshtml:58
 msgid "as it has been scheduled to run at certain times."
-msgstr "因為它已被安排在某些時間運行。"
+msgstr "因為它已經計劃在特定時間運行。"
 
 #: Views\Items\_DeleteItem.cshtml:52
 msgid "as the Category contains dashboards."
-msgstr "因為類別包含儀表板。"
+msgstr "因為該類別包含儀表板。"
 
 #: Views\Items\_DeleteItem.cshtml:61
 msgid "as the Data Source is being used by dashboards."
-msgstr "因為儀表板正在使用數據源。"
+msgstr "因為數據源正在被儀表板使用。"
 
 #: Views\UserManagement\Index.cshtml:306
 msgid "Assign a group to selected users"
-msgstr "將組分配給所選用戶"
+msgstr "將組分配給選定的用戶"
 
 #: Views\UserManagement\Index.cshtml:306
 #: Views\UserManagement\_AddUserInGroup.cshtml:7
@@ -780,7 +780,7 @@ msgstr "分配給"
 
 #: Views\Items\_ItemPermission.cshtml:68
 msgid "Assigned Permissions"
-msgstr "分配權限"
+msgstr "分配的權限"
 
 #: Scripts\Accounts\Accounts.js:411 Scripts\Password\ChangePassword.js:138
 #: Scripts\System\SystemSettings.js:780
@@ -791,11 +791,11 @@ msgstr "至少6個字符。"
 #: Scripts\Scheduler\DataChanges.js:486 Scripts\Scheduler\DataChanges.js:489
 #: Scripts\Scheduler\DataChanges.js:2229
 msgid "At least two conditions are needed to add global where condition."
-msgstr "需要至少兩個條件來添加全局條件。"
+msgstr "至少需要兩個條件才能在全局條件下添加條件。"
 
 #: Scripts\Scheduler\recurrenceType.js:95
 msgid "August"
-msgstr "2013年8月"
+msgstr "八月"
 
 #: Views\Administration\_ActiveDirectorySettings.cshtml:252
 #: Views\UserManagement\ImportFromExistingDatabase.cshtml:78
@@ -808,7 +808,7 @@ msgstr "認證提供者"
 
 #: Views\Administration\_EmailSettings.cshtml:53
 msgid "Authentication Type"
-msgstr "驗證類型"
+msgstr "認證類型"
 
 #: Views\Administration\SAMLSettings.cshtml:123
 #: Views\Administration\SAMLSettings.cshtml:126
@@ -821,19 +821,19 @@ msgstr "自動"
 
 #: Views\Administration\NotificationSettings.cshtml:114
 msgid "Autowatch comments of accessible items"
-msgstr "Autowatch可訪問項目的評論"
+msgstr "自動查看可訪問項目的評論"
 
 #: Views\Administration\NotificationSettings.cshtml:94
 msgid "Autowatch comments of created items"
-msgstr "Autowatch對已創建項目的註釋"
+msgstr "Autowatch創建項目的評論"
 
 #: Views\User\_UserNotificationPreference.cshtml:42
 msgid "Autowatch for comments of accessible items"
-msgstr "自動觀看可訪問項目的評論"
+msgstr "Autowatch針對無障礙物品的評論"
 
 #: Views\User\_UserNotificationPreference.cshtml:36
 msgid "Autowatch for comments of created items"
-msgstr "自動觀看創建項目的註釋"
+msgstr "Autowatch創建項目的評論"
 
 #: Scripts\User\ActiveDirectoryUserImport.js:86
 msgid "Azure  Active Directory user import"
@@ -879,7 +879,7 @@ msgstr "Azure AD同步"
 
 #: Views\Group\ActiveDirectoryGroup.cshtml:187
 msgid "Azure AD Synchronization - GROUPS"
-msgstr "Azure AD同步 -  GROUPS"
+msgstr "Azure AD同步 - 組"
 
 #: Views\UserManagement\SynchronizeUsers.cshtml:187
 msgid "Azure AD Synchronization - USERS"
@@ -887,7 +887,7 @@ msgstr "Azure AD同步 - 用戶"
 
 #: Views\Administration\ScheduleAzureSynchronization.cshtml:29
 msgid "AZURE AD SYNCHRONIZATION SCHEDULE"
-msgstr "AZURE AD SYNCHRONIZATION SCHEDULE"
+msgstr "AZURE AD同步時間表"
 
 #: Views\UserManagement\Index.cshtml:329
 msgid "Azure AD User"
@@ -900,7 +900,7 @@ msgstr "Azure AD用戶導入"
 #: Scripts\Group\Group.js:332 Scripts\Group\Group.js:341
 #: Scripts\Group\Group.js:345 Scripts\Group\Group.js:350
 msgid "Azure ADGroup(s)"
-msgstr "Azure ADGroup"
+msgstr "Azure ADGroup（s）"
 
 #: Views\ServerConfiguration\_FileStorage.cshtml:16
 msgid "Azure Blob Storage"
@@ -917,7 +917,7 @@ msgstr "AZURE BLOB存儲設置"
 #: Views\Shared\_SchedulerDialog.cshtml:145
 #: Views\Shared\_SchedulerDialog.cshtml:150
 msgid "Back"
-msgstr "回來"
+msgstr "背部"
 
 #: Views\Administration\_EmailSettings.cshtml:5
 msgid "Basic authentication"
@@ -1016,11 +1016,11 @@ msgstr "無法刪除"
 #: Views\Items\_ItemsGrid.cshtml:284 Views\Items\_ItemsList.cshtml:61
 #: Views\Items\_ItemsList.cshtml:111 Views\Items\_ItemsList.cshtml:385
 msgid "Category"
-msgstr "第1類"
+msgstr "類別"
 
 #: Views\Shared\_SchedulerDialog.cshtml:39
 msgid "Category "
-msgstr "第1類"
+msgstr "類別"
 
 #: Views\Category\_AddCategory.cshtml:74
 msgid "Category has been added successfully."
@@ -1060,11 +1060,11 @@ msgstr "更改密碼"
 #: Scripts\User\UserManagementProfile.js:345
 #: Scripts\User\UserManagementProfile.js:373
 msgid "Change Profile picture"
-msgstr "更改個人資料圖片"
+msgstr "更改檔案圖片"
 
 #: Views\Shared\_ProfilePictureUploadBox.cshtml:8
 msgid "Change Profile Picture"
-msgstr "更改個人資料圖片"
+msgstr "更改檔案圖片"
 
 #: Views\UserManagement\_UserImportSelectedUserList.cshtml:7
 msgid "Change Query"
@@ -1073,16 +1073,16 @@ msgstr "更改查詢"
 #: Scripts\Scheduler\DataChanges.js:1038 Scripts\Scheduler\Scheduler.js:1116
 #: Views\Shared\_DataChanges.cshtml:38
 msgid "Checks whether the filtered value changes."
-msgstr "檢查過濾後的值是否改變。"
+msgstr "檢查過濾的值是否更改。"
 
 #: Scripts\Scheduler\DataChanges.js:1042 Scripts\Scheduler\Scheduler.js:1120
 #: Views\Shared\_DataChanges.cshtml:42
 msgid "Checks whether the filtered value decreases continuously."
-msgstr "檢查濾波值是否連續降低。"
+msgstr "檢查濾波值是否持續下降。"
 
 #: Views\Shared\_DataChanges.cshtml:41
 msgid "Checks whether the filtered value decreases once."
-msgstr "檢查過濾值是否減少一次。"
+msgstr "檢查過濾的值是否減少一次。"
 
 #: Scripts\Scheduler\DataChanges.js:1041 Scripts\Scheduler\Scheduler.js:1119
 msgid "Checks whether the filtered value decreases once.\" name=\"Decreases"
@@ -1091,12 +1091,12 @@ msgstr "檢查過濾值是否減少一次。\“name = \”減少"
 #: Scripts\Scheduler\DataChanges.js:1040 Scripts\Scheduler\Scheduler.js:1118
 #: Views\Shared\_DataChanges.cshtml:40
 msgid "Checks whether the filtered value increases continuously."
-msgstr "檢查濾波值是否持續增加。"
+msgstr "檢查濾波值是否連續增加。"
 
 #: Scripts\Scheduler\DataChanges.js:1039 Scripts\Scheduler\Scheduler.js:1117
 #: Views\Shared\_DataChanges.cshtml:39
 msgid "Checks whether the filtered value increases once."
-msgstr "檢查過濾值是否增加一次。"
+msgstr "檢查過濾的值是否增加一次。"
 
 #: Views\UserManagement\_UserImportSelectedDatabaseSchema.cshtml:8
 msgid "Choose the columns that has the user data"
@@ -1105,20 +1105,20 @@ msgstr "選擇具有用戶數據的列"
 #: Scripts\Scheduler\Scheduler.js:597
 msgid ""
 "Choose the recurrence intervals for the dashboard server to start scheduling"
-msgstr "選擇儀表板服務器重新啟動計劃的重複間隔"
+msgstr "選擇儀表板服務器的重複週期以開始計劃"
 
 #: Scripts\Scheduler\Scheduler.js:635
 msgid "Choose the subscribers and export format"
-msgstr "選擇訂閱者和導出格式"
+msgstr "選擇訂戶和導出格式"
 
 #: Views\Shared\_DataChanges.cshtml:21
 msgid "Choose Widget"
-msgstr "選擇小部件"
+msgstr "選擇小工具"
 
 #: Scripts\Core\Server.Core.js:570 Scripts\Dashboards\DashboardViews.js:944
 #: Scripts\Dashboards\DashboardViews.js:947
 msgid "Clear"
-msgstr "清除"
+msgstr "明確"
 
 #: Scripts\Group\EditGroup.js:67 Scripts\Group\EditGroup.js:85
 #: Scripts\Items\ItemPermission.js:35 Scripts\Items\ItemPermission.js:43
@@ -1174,7 +1174,7 @@ msgid ""
 "server/administration/manage-dashboards/embed-server-dashboards\"><u class="
 "\"documentation-link\">here</u></a> to learn how to use this embed code in "
 "another application using different authentication."
-msgstr "點擊<a href=\"https://help.syncfusion.com/dashboard-platform/dashboard-server/administration/manage-dashboards/embed-server-dashboards\"> <u class = \“documentation-link \” >這裡</ u> </a>，了解如何在其他應用程序中使用不同的身份驗證使用此嵌入代碼。"
+msgstr "點擊<a href=\"https://help.syncfusion.com/dashboard-platform/dashboard-server/administration/manage-dashboards/embed-server-dashboards\"> <u class = \“documentation-link \” > here </ u> </a>了解如何在另一個使用不同身份驗證的應用程序中使用此嵌入代碼。"
 
 #: Views\Accounts\CodeConfirmation.cshtml:74
 msgid "click here "
@@ -1186,15 +1186,15 @@ msgstr "點擊此處更改帳戶激活類型"
 
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:269
 msgid "Click here to configure the Active Directory settings"
-msgstr "單擊此處配置Active Directory設置"
+msgstr "點擊此處配置Active Directory設置"
 
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:273
 msgid "Click here to configure the Azure Active Directory settings"
-msgstr "單擊此處配置Azure Active Directory設置"
+msgstr "點擊此處配置Azure Active Directory設置"
 
 #: Views\UserManagement\DatabaseUserImport.cshtml:296
 msgid "Click here to configure the Database settings"
-msgstr "單擊此處配置數據庫設置"
+msgstr "點擊此處配置數據庫設置"
 
 #: Views\UserManagement\DatabaseUserImport.cshtml:275
 msgid "Click here to configure the Email settings"
@@ -1217,7 +1217,7 @@ msgstr "客戶端ID"
 
 #: Views\Administration\_ActiveDirectorySettings.cshtml:153
 msgid "Client Secret Code"
-msgstr "客戶密碼"
+msgstr "客戶端密碼"
 
 #: Views\Items\_CopyItem.cshtml:79 Views\Items\_ItemsList.cshtml:290
 #: Views\Items\_ItemsList.cshtml:646
@@ -1230,7 +1230,7 @@ msgstr "克隆儀表板"
 
 #: Models\ItemModel.cs:486
 msgid "Cloned from"
-msgstr "克隆來自"
+msgstr "從克隆"
 
 #: Scripts\Homepages\Homepages.js:816
 msgid "close"
@@ -1293,11 +1293,11 @@ msgstr "列設置"
 
 #: Scripts\Comments\Comment.js:578
 msgid "Comment has been deleted successfully."
-msgstr "評論已成功刪除"
+msgstr "評論已成功刪除。"
 
 #: Scripts\Comments\Comment.js:147 Scripts\Comments\Comment.js:350
 msgid "Comment is too long"
-msgstr "評論太久了"
+msgstr "評論太長了"
 
 #: Views\Home\CommentNotFound.cshtml:2
 msgid "Comment Not Found"
@@ -1310,24 +1310,24 @@ msgstr "評論"
 
 #: Scripts\Comments\Comment.js:143 Scripts\Comments\Comment.js:345
 msgid "Comment should not be blank"
-msgstr "評論不應為空白"
+msgstr "評論不應該是空白的"
 
 #: Views\Shared\_Comments.cshtml:91 Views\Shared\_WidgetComments.cshtml:58
 msgid "Comment(s)"
-msgstr "評論"
+msgstr "註釋）"
 
 #: Views\Notification\Notifications.cshtml:74
 #: Views\Notification\_UserNotification.cshtml:86
 msgid "commented on the"
-msgstr "評論了"
+msgstr "評論"
 
 #: Views\Items\_ItemVersion.cshtml:157 Views\Shared\_DashboardViews.cshtml:39
 msgid "Comments"
-msgstr "評論"
+msgstr "註釋"
 
 #: Views\Shared\_Comments.cshtml:55
 msgid "COMMENTS"
-msgstr "評論"
+msgstr "註釋"
 
 #: Models\Scheduler\ScheduleManagement.cs:1212
 msgid "Completed"
@@ -1343,11 +1343,11 @@ msgstr "條件"
 
 #: Views\Administration\UserSettings.cshtml:26
 msgid "Configuration for activating user accounts in the Dashboard Server"
-msgstr "在Dashboard Server中激活用戶帳戶的配置"
+msgstr "在儀表板服務器中激活用戶帳戶的配置"
 
 #: Views\Administration\_ActiveDirectorySettings.cshtml:10
 msgid "Configuration for connecting to User Directories"
-msgstr "用於連接用戶目錄的配置"
+msgstr "用於連接到用戶目錄的配置"
 
 #: Views\Administration\_EmailSettings.cshtml:17
 msgid "Configuration for sending emails from the Dashboard Server"
@@ -1355,11 +1355,11 @@ msgstr "從儀表板服務器發送電子郵件的配置"
 
 #: Views\Administration\SAMLSettings.cshtml:100
 msgid "Configuration for setting Single Sign-On"
-msgstr "用於設置單點登錄的配置"
+msgstr "設置單一登錄的配置"
 
 #: Views\Administration\DashboardSettings.cshtml:29
 msgid "Configuration for the Dashboards"
-msgstr "儀表板的配置"
+msgstr "儀表板配置"
 
 #: Views\Administration\_SiteSettings.cshtml:16
 msgid "Configure General Settings of the Dashboard Server"
@@ -1383,7 +1383,7 @@ msgstr "連"
 
 #: Controllers\ServerConfiguration\ServerConfigurationController.cs:313
 msgid "Connected successfully."
-msgstr "已連接成功。"
+msgstr "連接成功。"
 
 #: Views\Administration\Storage.cshtml:71
 #: Views\ServerConfiguration\_FileStorage.cshtml:47
@@ -1404,7 +1404,7 @@ msgstr "連接字符串"
 #: Views\Administration\Storage.cshtml:64
 #: Views\ServerConfiguration\_FileStorage.cshtml:41
 msgid "Container name"
-msgstr "集裝箱名稱"
+msgstr "容器名稱"
 
 #: Scripts\Core\Server.Core.js:567
 msgid "Contains"
@@ -1423,7 +1423,7 @@ msgstr "複製"
 
 #: Models\ItemModel.cs:481
 msgid "Copied from"
-msgstr "從...複製"
+msgstr "複製"
 
 #: Views\Items\_CopyItem.cshtml:75 Views\Items\_ItemsList.cshtml:282
 #: Views\Items\_ItemsList.cshtml:638
@@ -1444,7 +1444,7 @@ msgstr "創建"
 
 #: Scripts\Scheduler\Scheduler.js:650 Views\Shared\_SchedulerDialog.cshtml:33
 msgid "Create a data driven or a time based schedule"
-msgstr "創建數據驅動或基於時間的計劃"
+msgstr "創建數據驅動或基於時間的時間表"
 
 #: Views\Group\Group.cshtml:237
 msgid "Create Group"
@@ -1458,7 +1458,7 @@ msgstr "創建鏈接"
 #: Views\Items\_ItemsList.cshtml:307 Views\Items\_ItemsList.cshtml:481
 #: Views\Items\_ItemsList.cshtml:658
 msgid "Create Schedule"
-msgstr "創建計劃"
+msgstr "創建時間表"
 
 #: Views\UserManagement\Index.cshtml:212
 msgid "Create User"
@@ -1478,12 +1478,12 @@ msgstr "自定義表達式"
 
 #: Views\Administration\NotificationSettings.cshtml:27
 msgid "Customization of notifications for Dashboard Server"
-msgstr "定制儀表板服務器的通知"
+msgstr "自定義Dashboard Server的通知"
 
 #: Scripts\Administration\ScheduleSynchronization.js:232
 #: Scripts\Scheduler\recurrenceType.js:31
 msgid "Daily"
-msgstr "每日"
+msgstr "日常"
 
 #: Scripts\Items\Items.js:242 Views\Items\_ItemAddOptions.cshtml:27
 #: Views\Scheduler\Schedules.cshtml:84
@@ -1513,7 +1513,7 @@ msgstr "儀表板已成功移動。"
 
 #: Scripts\Homepages\Homepages.js:411
 msgid "Dashboard has been pinned successfully."
-msgstr "儀表板已成功固定。"
+msgstr "儀表板已成功鎖定。"
 
 #: Models\ItemModel.cs:1057
 msgid "Dashboard has been published successfully."
@@ -1521,7 +1521,7 @@ msgstr "儀表板已成功發布。"
 
 #: Scripts\Scheduler\scheduleRecipients.js:225
 msgid "Dashboard has been scheduled successfully. "
-msgstr "儀錶盤已成功安排。"
+msgstr "儀表板已成功安排。"
 
 #: Views\Dashboards\_EditDashboard.cshtml:173
 msgid "Dashboard has been updated successfully."
@@ -1532,7 +1532,7 @@ msgid ""
 "Dashboard has been updated successfully. The previous version of the "
 "Dashboard used shared Data Sources. Do you want to update Data Sources for "
 "the new version?"
-msgstr "儀表板已成功更新。儀表板的以前版本使用共享數據源。要更新新版本的數據源嗎？"
+msgstr "儀表板已成功更新。儀表板的先前版本使用共享數據源。你想更新新版本的數據源嗎？"
 
 #: Views\Dashboards\Dashboards.cshtml:417
 #: Views\Homepages\_HomepageAddItem.cshtml:53
@@ -1542,13 +1542,13 @@ msgstr "儀表板名稱"
 #: Scripts\Items\ItemActions.js:88 Scripts\Items\ItemActions.js:123
 #: Scripts\Items\ItemActions.js:158
 msgid "Dashboard name already exists"
-msgstr "儀錶盤名稱已存在"
+msgstr "儀表板名稱已存在"
 
 #: Views\Administration\_SiteSettings.cshtml:43
 msgid ""
 "Dashboard Server needs to be hosted in IIS with a valid SSL certificate "
 "assigned. Click"
-msgstr "儀表板服務器需要託管在IIS中，並分配有效的SSL證書。點擊"
+msgstr "儀表板服務器需要在IIS中託管，並分配有效的SSL證書。點擊"
 
 #: Scripts\Administration\DashboardSettings.js:18
 #: Scripts\Administration\DashboardSettings.js:20
@@ -1557,7 +1557,7 @@ msgstr "儀表板設置"
 
 #: Views\Administration\DashboardSettings.cshtml:26
 msgid "DASHBOARD SETTINGS"
-msgstr "台板設置"
+msgstr "控制板設置"
 
 #: Controllers\Administration\AdministrationController.cs:967
 msgid "Dashboard Settings has been updated successfully"
@@ -1567,12 +1567,12 @@ msgstr "儀表板設置已成功更新"
 #: Views\Home\PublicDashboardViewDenied.cshtml:59
 #: Views\Widgets\Widgets.cshtml:116
 msgid "dashboard settings.</a>"
-msgstr "儀表板設置"
+msgstr "儀表板設置。</a>"
 
 #: Scripts\Dashboards\AddDashboard.js:122
 #: Scripts\Dashboards\EditDashboard.js:147
 msgid "Dashboard with the same name already exists"
-msgstr "具有相同名稱的儀表板已存在"
+msgstr "同名的儀表板已經存在"
 
 #: Views\Scheduler\Schedules.cshtml:151
 msgid "Dashboard:"
@@ -1629,7 +1629,7 @@ msgstr "數據源名稱"
 
 #: Scripts\DataSource\EditDataSource.js:162
 msgid "Data source name already exist"
-msgstr "數據源名稱已經存在"
+msgstr "數據源名稱已存在"
 
 #: Scripts\DataSource\AddDataSource.js:121
 msgid "Data source name already exists"
@@ -1687,15 +1687,15 @@ msgstr "數據庫錯誤"
 #: Views\UserManagement\ImportFromExistingDatabase.cshtml:261
 #: Views\UserManagement\ImportFromExistingDatabase.cshtml:264
 msgid "Database name"
-msgstr "數據庫 名稱"
+msgstr "數據庫名稱"
 
 #: Views\ServerConfiguration\Index.cshtml:297
 msgid "Database Name"
-msgstr "數據庫 名稱"
+msgstr "數據庫名稱"
 
 #: Controllers\ServerConfiguration\ServerConfigurationController.cs:687
 msgid "Database name already exists"
-msgstr "數據庫名稱已存在"
+msgstr "數據庫名稱已經存在"
 
 #: Controllers\ServerConfiguration\ServerConfigurationController.cs:374
 msgid "Database name is already exist"
@@ -1730,7 +1730,7 @@ msgstr "數據庫計劃同步"
 #: Scripts\User\UserImportDatabase.js:688
 #: Scripts\User\UserImportDatabase.js:690
 msgid "Database Settings"
-msgstr "數據庫 設置"
+msgstr "數據庫設置"
 
 #: Scripts\User\SynchronizeUsers.js:159 Scripts\User\SynchronizeUsers.js:171
 #: Views\UserManagement\Index.cshtml:275 Views\UserManagement\Index.cshtml:300
@@ -1739,12 +1739,12 @@ msgstr "數據庫同步"
 
 #: Views\Administration\ScheduleDatabaseSynchronization.cshtml:29
 msgid "DATABASE SYNCHRONIZATION SCHEDULE"
-msgstr "數據庫同步時序表"
+msgstr "數據庫同步時間表"
 
 #: Views\Administration\_ActiveDirectorySettings.cshtml:181
 #: Views\UserManagement\ImportFromExistingDatabase.cshtml:50
 msgid "Database type"
-msgstr "數據庫 類型"
+msgstr "數據庫類型"
 
 #: Views\UserManagement\Index.cshtml:333
 msgid "Database User"
@@ -1756,7 +1756,7 @@ msgstr "數據庫用戶導入"
 
 #: Views\UserManagement\SynchronizeDatabaseUsers.cshtml:167
 msgid "Database User Synchronization - USERS"
-msgstr "數據庫用戶同步 -  USERS"
+msgstr "數據庫用戶同步 - 用戶"
 
 #: Views\Items\_ItemVersion.cshtml:163 Views\Items\_ItemVersion.cshtml:171
 #: Views\Items\_ItemVersion.cshtml:211 Views\Items\_ItemVersion.cshtml:219
@@ -1772,27 +1772,27 @@ msgstr "日期格式"
 #: Scripts\Scheduler\recurrenceType.js:48
 #: Scripts\Scheduler\recurrenceType.js:279
 msgid "day"
-msgstr "是日光浴，"
+msgstr "天"
 
 #: Views\Administration\ScheduleAzureSynchronization.cshtml:162
 #: Views\Administration\ScheduleDatabaseSynchronization.cshtml:162
 #: Views\Administration\ScheduleSynchronization.cshtml:159
 #: Views\Shared\_RecurrenceType.cshtml:119
 msgid "Day"
-msgstr "日"
+msgstr "天"
 
 #: Views\Administration\ScheduleAzureSynchronization.cshtml:90
 #: Views\Administration\ScheduleDatabaseSynchronization.cshtml:90
 #: Views\Administration\ScheduleSynchronization.cshtml:87
 #: Views\Shared\_RecurrenceType.cshtml:52
 msgid "day(s)"
-msgstr " 天"
+msgstr "天）"
 
 #: Scripts\Administration\ScheduleSynchronization.js:61
 #: Scripts\Administration\ScheduleSynchronization.js:327
 #: Scripts\Scheduler\recurrenceType.js:239
 msgid "days"
-msgstr " 天"
+msgstr "天"
 
 #: Views\Notification\Notifications.cshtml:38
 #: Views\Notification\_UserNotification.cshtml:52
@@ -1817,11 +1817,11 @@ msgstr "默認主頁"
 
 #: Scripts\Homepages\Homepages.js:190 Scripts\Homepages\Homepages.js:193
 msgid "Default homepage has been added successfully."
-msgstr "默認主頁已成功添加。"
+msgstr "預設首頁已成功添加。"
 
 #: Scripts\Homepages\Homepages.js:190 Scripts\Homepages\Homepages.js:193
 msgid "Default homepage has been removed successfully."
-msgstr "默認主頁已成功刪除"
+msgstr "預設首頁已成功移除。"
 
 #: Views\Administration\NotificationSettings.cshtml:37
 msgid "Default Settings"
@@ -1896,19 +1896,19 @@ msgstr "刪除個人資料圖片"
 #: Scripts\Core\Server.Core.js:534 Scripts\User\EditProfile.js:183
 #: Scripts\User\UserManagementProfile.js:382
 msgid "Delete Profile Picture"
-msgstr "刪除個人資料圖片"
+msgstr "刪除資料圖片"
 
 #: Views\Scheduler\_DeleteSchedule.cshtml:5
 msgid "Delete Schedule"
-msgstr "刪除計劃"
+msgstr "刪除時間表"
 
 #: Views\Group\Group.cshtml:306
 msgid "Delete selected Groups"
-msgstr "刪除所選組"
+msgstr "刪除選定的組"
 
 #: Views\UserManagement\Index.cshtml:305
 msgid "Delete selected users"
-msgstr "刪除所選用戶"
+msgstr "刪除選定的用戶"
 
 #: Scripts\Items\ItemViewShare.js:9 Scripts\User\UserManagement.js:27
 #: Scripts\User\UserManagement.js:42 Scripts\User\UserManagement.js:803
@@ -1934,11 +1934,11 @@ msgstr "刪除視圖"
 
 #: Models\ItemModel.cs:463
 msgid "Deleted"
-msgstr "已刪除"
+msgstr "刪除"
 
 #: Models\AccountModel.cs:197
 msgid "Deleted user"
-msgstr "刪除 用戶"
+msgstr "已被刪除的用戶"
 
 #: Views\Category\_AddCategory.cshtml:46 Views\Category\_EditCategory.cshtml:43
 #: Views\Dashboards\_AddDashboard.cshtml:90
@@ -1963,7 +1963,7 @@ msgstr "描述"
 #: Views\Administration\SAMLSettings.cshtml:133
 #: Views\Administration\SAMLSettings.cshtml:136
 msgid "Designer Client Id"
-msgstr "設計器客戶端標識"
+msgstr "設計器客戶端ID"
 
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:189
 msgid "Directory Path"
@@ -1979,7 +1979,7 @@ msgstr "目錄路徑"
 #: Views\User\_UserNotificationPreference.cshtml:6
 #: Views\User\_UserNotificationPreference.cshtml:44
 msgid "Disable"
-msgstr "停用"
+msgstr "禁用"
 
 #: Views\Administration\_SiteSettings.cshtml:167
 msgid "Display"
@@ -1987,12 +1987,12 @@ msgstr "顯示"
 
 #: Views\Administration\_ActiveDirectorySettings.cshtml:88
 msgid "Distinguished Name"
-msgstr "尊敬的名字"
+msgstr "專有名稱"
 
 #: Scripts\Scheduler\recurrenceType.js:183
 #: Scripts\Scheduler\recurrenceType.js:195
 msgid "Done"
-msgstr "完成！"
+msgstr "完成"
 
 #: Views\Items\_ItemsGrid.cshtml:134 Views\Items\_ItemsGridForMobile.cshtml:20
 #: Views\Items\_ItemsList.cshtml:243 Views\Items\_ItemsList.cshtml:617
@@ -2004,7 +2004,7 @@ msgstr "下載"
 msgid ""
 "Download and run the .bat file (Administration Mode) in the Windows Server, "
 "where Active Directory Domain Services role is installed"
-msgstr "在安裝Active Directory域服務角色的Windows Server中下載並運行.bat文件（管理模式）"
+msgstr "在安裝了Active Directory域服務角色的Windows Server中下載並運行.bat文件（管理模式）"
 
 #: Views\Items\_ItemsGrid.cshtml:129 Views\Items\_ItemsList.cshtml:238
 #: Views\Items\_ItemsList.cshtml:612
@@ -2035,7 +2035,7 @@ msgstr "拖放失敗。內部服務器錯誤。請再試一次。"
 
 #: Scripts\Homepages\Homepages.js:542 Scripts\Homepages\Homepages.js:957
 msgid "Drag your widgets here to customize layout"
-msgstr "在這裡拖動您的小部件以自定義佈局"
+msgstr "拖動您的小部件來自定義佈局"
 
 #: Views\Homepages\Homepages.cshtml:79
 msgid "Duplicate"
@@ -2043,35 +2043,35 @@ msgstr "重複"
 
 #: Models\Group\GroupModels.cs:1153 Models\Group\GroupModels.cs:1332
 msgid "duplicate group(s) exists"
-msgstr "存在重複組"
+msgstr "存在重複的組"
 
 #: Scripts\Homepages\Homepages.js:348
 msgid "Duplicate Homepage"
-msgstr "重複首頁"
+msgstr "重複主頁"
 
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:222
 msgid ""
 "Duplicate or Invalid data is found. Please change the data accordingly and "
 "re-import"
-msgstr "找到重複或無效的數據。請相應更改數據並重新導入"
+msgstr "找到重複或無效的數據。請相應地更改數據並重新導入"
 
 #: Scripts\Group\ActiveDirectoryGroupImport.js:85
 #: Views\Group\ActiveDirectoryGroupImport.cshtml:203
 msgid ""
 "Duplicate or Invalid data is found. Please change the data accordingly and "
 "re-import."
-msgstr "找到重複或無效的數據。請相應更改數據並重新導入。"
+msgstr "找到重複或無效的數據。請相應地更改數據並重新導入。"
 
 #: Scripts\User\UserManagement.js:748
 #: Views\UserManagement\UploadFileFormAction.cshtml:152
 msgid ""
 "Duplicate or Invalid data is found. Please change the data accordingly and "
 "re-upload the file."
-msgstr "找到重複或無效的數據。請相應更改數據並重新上傳文件。"
+msgstr "找到重複或無效的數據。請相應地更改數據並重新上傳文件。"
 
 #: Views\ServerConfiguration\Index.cshtml:397
 msgid "Duplicate Table(s)"
-msgstr "重複表"
+msgstr "重複表格"
 
 #: Models\UserManagementModel.cs:699 Models\UserManagementModel.cs:893
 #: Models\UserManagementModel.cs:1094
@@ -2109,7 +2109,7 @@ msgstr "編輯佈局"
 
 #: Views\User\Profile.cshtml:200 Views\UserManagement\ViewProfile.cshtml:202
 msgid "Edit Profile"
-msgstr "編輯 設置"
+msgstr "編輯個人資料"
 
 #: Views\User\Profile.cshtml:105 Views\UserManagement\ViewProfile.cshtml:106
 msgid "Edit profile picture"
@@ -2124,7 +2124,7 @@ msgstr "有效"
 #: Scripts\Scheduler\recurrenceType.js:332
 #: Scripts\Scheduler\recurrenceType.js:335
 msgid "effective from"
-msgstr "有效"
+msgstr "有效的"
 
 #: Views\Administration\UserSettings.cshtml:39
 #: Views\Administration\_AdminMenu.cshtml:31 Views\User\Profile.cshtml:135
@@ -2134,18 +2134,18 @@ msgstr "電子郵件"
 
 #: Views\UserManagement\_UserImportSelectedDatabaseSchema.cshtml:46
 msgid "E-mail"
-msgstr "E-mail"
+msgstr "電子郵件"
 
 #: Views\UserManagement\_UserImportSelectedDatabaseSchema.cshtml:77
 msgid "E-mail : "
-msgstr "E-mail"
+msgstr "電子信箱："
 
 #: Views\ServerConfiguration\_UserAccount.cshtml:61
 #: Views\Shared\_ScheduleRecipients.cshtml:20
 #: Views\UserManagement\_UserAddDialog.cshtml:26
 #: Views\UserManagement\_UserAddDialog.cshtml:28
 msgid "Email address"
-msgstr "電郵地址*"
+msgstr "電子郵件地址"
 
 #: Scripts\User\UserImportDatabase.js:755 Views\Group\EditGroup.cshtml:63
 #: Views\Group\EditGroup.cshtml:117 Views\Group\ViewGroup.cshtml:56
@@ -2162,7 +2162,7 @@ msgstr "電郵地址*"
 #: Views\UserManagement\UploadFileFormAction.cshtml:66
 #: Views\UserManagement\_UserImportSelectedUserList.cshtml:58
 msgid "Email Address"
-msgstr "電郵地址*"
+msgstr "電子郵件地址"
 
 #: Controllers\UserController.cs:317 Models\UserManagementModel.cs:600
 #: Models\UserManagementModel.cs:699 Models\UserManagementModel.cs:829
@@ -2188,7 +2188,7 @@ msgstr "電子郵件地址已經存在於列表中"
 #: Models\UserManagementModel.cs:596 Models\UserManagementModel.cs:1026
 #: Models\UserManagementModel.cs:1874 Models\UserManagementModel.cs:2136
 msgid "Email address cannot exceed 254 characters"
-msgstr "電子郵件地址不得超過254個字符"
+msgstr "電子郵件地址不能超過254個字符"
 
 #: Models\UserManagementModel.cs:591 Models\UserManagementModel.cs:825
 #: Models\UserManagementModel.cs:1021 Models\UserManagementModel.cs:1690
@@ -2199,19 +2199,19 @@ msgstr "電子郵箱地址不可用"
 
 #: Scripts\Scheduler\Scheduler.js:522
 msgid "Email message is too long"
-msgstr "電子郵件信息太長"
+msgstr "電子郵件消息太長"
 
 #: Scripts\Scheduler\Scheduler.js:518
 msgid "Email message should not be blank"
-msgstr "電子郵件不應為空"
+msgstr "電子郵件不應為空白"
 
 #: Views\Administration\_EmailSettings.cshtml:14
 msgid "EMAIL SETTINGS"
-msgstr "電子郵件 設置"
+msgstr "電子郵件設置"
 
 #: Views\Items\_GetEmbedCode.cshtml:25
 msgid "Embed code updated."
-msgstr "嵌入代碼更新。"
+msgstr "嵌入代碼已更新。"
 
 #: Views\Items\_GetEmbedCode.cshtml:24
 msgid "Embed code:"
@@ -2272,11 +2272,11 @@ msgstr "完"
 
 #: Scripts\Core\Server.Core.js:567
 msgid "EndsWith"
-msgstr "的endsWith"
+msgstr "以。。結束"
 
 #: Scripts\Scheduler\Scheduler.js:663
 msgid "Enter the alert message to be added in the scheduled email"
-msgstr "在預定的電​​子郵件中輸入要添加的警報消息"
+msgstr "輸入要在預定電子郵件中添加的警報消息"
 
 #: Views\ServerConfiguration\_UserAccount.cshtml:37
 msgid "Enter your details to create a system administrator account."
@@ -2294,7 +2294,7 @@ msgstr "輸入您的網址"
 msgid ""
 "Enter your username or email address and we will send you a link to reset "
 "your password."
-msgstr "輸入您的用戶名或電子郵件地址，我們將向您發送一個鏈接以重置您的密碼。"
+msgstr "輸入您的用戶名或電子郵件地址，我們會向您發送一個鏈接來重置您的密碼。"
 
 #: Views\Permission\GroupPermission.cshtml:71
 #: Views\Permission\GroupPermission.cshtml:135
@@ -2324,15 +2324,15 @@ msgstr "刪除個人資料圖片時出錯。"
 
 #: Controllers\Administration\AdministrationController.cs:760
 msgid "Error in getting Next Schedule"
-msgstr "獲得下一個時間表錯誤"
+msgstr "獲取下一個計劃時出錯"
 
 #: Scripts\Category\EditCategory.js:122
 msgid "Error in update category"
-msgstr "更新類別中出錯"
+msgstr "更新類別中出現錯誤"
 
 #: Scripts\Homepages\Homepages.js:437
 msgid "Error while adding a homepage."
-msgstr "添加首頁時出錯。"
+msgstr "添加主頁時出錯。"
 
 #: Scripts\Homepages\PinWidget.js:120
 msgid "Error while adding a new homepage."
@@ -2349,11 +2349,11 @@ msgstr "連接數據庫時出錯"
 
 #: Scripts\Homepages\HomepageAddItem.js:380
 msgid "Error while getting tabs for multi-tabbed dashboards."
-msgstr "獲取多選項卡式儀表板的選項卡時出錯。"
+msgstr "獲取多標籤儀表板的選項卡時出錯。"
 
 #: Scripts\Homepages\PinWidget.js:67
 msgid "Error while pinning "
-msgstr "固定時出錯"
+msgstr "鎖定時出錯"
 
 #: Scripts\Homepages\HomepageAddItem.js:229
 msgid "Error while pinning Widget to the homepage."
@@ -2463,7 +2463,7 @@ msgstr "表達"
 
 #: Scripts\Scheduler\CustomExpressionEditor.js:568
 msgid "Expression deleted"
-msgstr "表情已刪除"
+msgstr "刪除表達式"
 
 #: Scripts\Scheduler\CustomExpressionEditor.js:568
 msgid "Expression has been deleted successfully"
@@ -2484,11 +2484,11 @@ msgstr "表達式名稱已經存在。"
 
 #: Scripts\Scheduler\CustomExpressionEditor.js:429
 msgid "Expression saved"
-msgstr "表達式保存"
+msgstr "保存表達式"
 
 #: Scripts\Scheduler\CustomExpressionEditor.js:353
 msgid "Expression updated"
-msgstr "表達式更新"
+msgstr "表達更新"
 
 #: Scripts\Scheduler\CustomExpressionEditor.js:325
 msgid "Expression updated successfully."
@@ -2496,7 +2496,7 @@ msgstr "表達式更新成功。"
 
 #: Scripts\Scheduler\scheduleRecipients.js:75
 msgid "External Recipient(s)"
-msgstr "外部接收者"
+msgstr "外部收件人"
 
 #: Views\Shared\_ScheduleRecipients.cshtml:20
 msgid "External Recipients"
@@ -2540,15 +2540,15 @@ msgstr "無法刪除用戶，請稍後再試。"
 
 #: Scripts\Comments\Comment.js:369
 msgid "Failed to edit the comment, please try again later."
-msgstr "無法編輯評論，請稍後再試。"
+msgstr "無法修改評論，請稍後再試。"
 
 #: Scripts\Comments\Comment.js:669
 msgid "Failed to UnWatch this item, please try again later."
-msgstr "無法取消關注此項目，請稍後再試。"
+msgstr "無法取消此項目，請稍後重試。"
 
 #: Scripts\User\EditProfile.js:174 Scripts\User\UserManagementProfile.js:373
 msgid "Failed to update the Profile picture, try again later."
-msgstr "無法更新個人資料圖片，請稍後再試。"
+msgstr "無法更新個人資料圖片，請稍後重試。"
 
 #: Scripts\Comments\Comment.js:650
 msgid "Failed to Watch this item, please try again later."
@@ -2561,7 +2561,7 @@ msgstr "網站圖標"
 
 #: Views\Dashboards\Dashboards.cshtml:57 Views\Dashboards\Dashboards.cshtml:339
 msgid "Favorite Dashboards"
-msgstr "喜歡的儀表板"
+msgstr "收藏儀表板"
 
 #: Views\Dashboards\Dashboards.cshtml:32 Views\Dashboards\Dashboards.cshtml:403
 msgid "Favorites"
@@ -2588,23 +2588,23 @@ msgstr "文件存儲"
 #: Scripts\Core\Server.Core.js:569
 #: Views\Shared\_CustomExpressionEditor.cshtml:94
 msgid "Filter"
-msgstr "過濾器"
+msgstr "過濾"
 
 #: Scripts\Core\Server.Core.js:568
 msgid "Filter Value"
-msgstr "過濾器值"
+msgstr "過濾值"
 
 #: Views\Shared\_DashboardViews.cshtml:42
 msgid "Filters"
-msgstr "篩選"
+msgstr "過濾器"
 
 #: Scripts\Dashboards\DashboardViews.js:1101
 msgid "FILTERS"
-msgstr "篩選"
+msgstr "濾波器"
 
 #: Scripts\Scheduler\recurrenceType.js:82
 msgid "first"
-msgstr "首"
+msgstr "第一"
 
 #: Views\ServerConfiguration\_UserAccount.cshtml:53
 #: Views\UserManagement\_UserAddDialog.cshtml:33
@@ -2625,7 +2625,7 @@ msgstr "名字"
 
 #: Views\UserManagement\_UserImportSelectedDatabaseSchema.cshtml:72
 msgid "First name :"
-msgstr "名字"
+msgstr "名字 ："
 
 #: Views\Administration\KerberosAuthentication.cshtml:49
 #: Views\Administration\Storage.cshtml:46
@@ -2649,12 +2649,12 @@ msgstr "忘記密碼？"
 #: Views\Accounts\CodeConfirmation.cshtml:54
 #: Views\Accounts\ResetPasswordLinkMessage.cshtml:50
 msgid "Forgot your password?"
-msgstr "忘記密碼？"
+msgstr "忘記密碼了嗎？"
 
 #: Views\Administration\_ActiveDirectorySettings.cshtml:575
 #: Views\UserManagement\ImportFromExistingDatabase.cshtml:297
 msgid "Form Relation"
-msgstr "形式關係"
+msgstr "表格關係"
 
 #: Views\Shared\_ScheduleRecipients.cshtml:29
 msgid "Format"
@@ -2687,7 +2687,7 @@ msgstr "從數據庫"
 
 #: Views\Items\_RemovePublic.cshtml:42
 msgid "from Public access. Internal server error. Please try again."
-msgstr "從公共訪問。內部服務器錯誤。請再試一次。"
+msgstr "來自公共訪問。內部服務器錯誤。請再試一次。"
 
 #: Views\Shared\_CustomExpressionEditor.cshtml:84
 msgid "Functions"
@@ -2699,7 +2699,7 @@ msgstr "生成並下載.bat文件"
 
 #: Views\Administration\KerberosAuthentication.cshtml:57
 msgid "Generate and Download .bat File"
-msgstr "生成和下載.bat文件"
+msgstr "生成並下載.bat文件"
 
 #: Scripts\Comments\Comment.js:1190
 #: Scripts\Scheduler\SchedulerEmailEditor.js:53
@@ -2727,7 +2727,7 @@ msgstr "獲取鏈接"
 
 #: Scripts\Core\Server.Core.js:574
 msgid "Go to first page"
-msgstr "Go to First Page"
+msgstr "轉到第一頁"
 
 #: Scripts\Core\Server.Core.js:575
 msgid "Go to last page"
@@ -2748,7 +2748,7 @@ msgstr "組"
 #: Scripts\Group\EditGroup.js:117 Scripts\Group\Group.js:59
 #: Scripts\User\UserManagement.js:381
 msgid "Group already exists with this name"
-msgstr "組名已經存在"
+msgstr "組已經存在這個名字"
 
 #: Controllers\Administration\UserManagementController.cs:787
 msgid "Group creation has been failed."
@@ -2764,7 +2764,7 @@ msgstr "組已成功刪除。"
 
 #: Controllers\Group\GroupController.cs:373 Scripts\Group\EditGroup.js:108
 msgid "Group has been updated successfully."
-msgstr "組已成功更新。"
+msgstr "組已更新成功。"
 
 #: Views\Group\ActiveDirectoryGroupImport.cshtml:72
 #: Views\Group\ActiveDirectoryGroupImport.cshtml:133
@@ -2774,24 +2774,24 @@ msgstr "組ID"
 #: Views\Group\EditGroup.cshtml:154 Views\Group\_AddGroup.cshtml:56
 #: Views\UserManagement\_AddUserInGroup.cshtml:21
 msgid "Group name"
-msgstr "組名"
+msgstr "團隊名字"
 
 #: Scripts\Group\ActiveDirectoryGroupImport.js:68
 #: Scripts\Group\SynchronizeGroups.js:139 Views\Group\AddUsers.cshtml:48
 #: Views\UserManagement\_AddUserInGroup.cshtml:29
 msgid "Group Name"
-msgstr "組名"
+msgstr "團隊名字"
 
 #: Controllers\Group\GroupController.cs:365
 msgid "Group Name already exist"
-msgstr "組名已經存在"
+msgstr "組名已存在"
 
 #: Controllers\Administration\UserManagementController.cs:762
 #: Models\Group\GroupModels.cs:686 Models\Group\GroupModels.cs:884
 #: Models\Group\GroupModels.cs:1075 Models\Group\GroupModels.cs:1153
 #: Models\Group\GroupModels.cs:1254 Models\Group\GroupModels.cs:1332
 msgid "Group name already exists"
-msgstr "組名已經存在"
+msgstr "組名已存在"
 
 #: Models\Group\GroupModels.cs:665 Models\Group\GroupModels.cs:863
 #: Models\Group\GroupModels.cs:1063 Models\Group\GroupModels.cs:1242
@@ -2804,11 +2804,11 @@ msgstr "組權限"
 
 #: Scripts\Scheduler\scheduleRecipients.js:75
 msgid "Group(s)"
-msgstr "組"
+msgstr "組（S）"
 
 #: Models\Group\GroupModels.cs:1147 Models\Group\GroupModels.cs:1326
 msgid "group(s) are deleted."
-msgstr "組被刪除。"
+msgstr "組將被刪除。"
 
 #: Models\Group\GroupModels.cs:1142 Models\Group\GroupModels.cs:1321
 msgid "group(s) details are modified."
@@ -2817,7 +2817,7 @@ msgstr "組的細節被修改。"
 #: Scripts\Group\ActiveDirectoryGroupImport.js:90
 #: Views\Group\ActiveDirectoryGroupImport.cshtml:202
 msgid "group(s) has been imported successfully."
-msgstr "組已成功導入。"
+msgstr "群組已成功導入。"
 
 #: Views\Group\ActiveDirectoryGroup.cshtml:108
 msgid "GroupId"
@@ -2857,20 +2857,20 @@ msgstr "已成功添加。"
 
 #: Scripts\Group\Group.js:355
 msgid "has been deleted successfully."
-msgstr "已成功刪除"
+msgstr "已成功刪除。"
 
 #: Scripts\Scheduler\ScheduleListing.js:220
 msgid "has been started successfully."
-msgstr "已經成功啟動"
+msgstr "已成功啟動。"
 
 #: Views\Notification\_UserNotification.cshtml:107
 msgid "has mentioned you in the comment on the"
-msgstr "已經提到你在評論中"
+msgstr "在評論中提到你"
 
 #: Views\Administration\_SiteSettings.cshtml:83
 #: Views\Administration\_SiteSettings.cshtml:136
 msgid "Header Logo"
-msgstr "標題標識"
+msgstr "標頭標誌"
 
 #: Scripts\Comments\Comment.js:1177
 #: Scripts\Scheduler\SchedulerEmailEditor.js:40
@@ -2885,7 +2885,7 @@ msgstr "標題"
 #: Views\ServerConfiguration\Index.cshtml:180
 #: Views\ServerConfiguration\Index.cshtml:271 Views\User\Profile.cshtml:182
 msgid "here"
-msgstr "/ / - 來"
+msgstr "這裡"
 
 #: Scripts\Homepages\Homepages.js:17 Scripts\Homepages\Homepages.js:38
 #: Scripts\Homepages\Homepages.js:1085 Views\Homepages\_PinWidget.cshtml:61
@@ -2898,17 +2898,17 @@ msgstr "主頁已成功添加。"
 
 #: Scripts\Homepages\PinWidget.js:114
 msgid "Homepage has been added successfully. Error while pinning "
-msgstr "主頁已成功添加。固定時出錯"
+msgstr "主頁已成功添加。鎖定時出錯"
 
 #: Scripts\Homepages\Homepages.js:421
 msgid ""
 "Homepage has been added successfully. Error while pinning dashboard to the "
 "homepage."
-msgstr "主頁已成功添加。將儀表板固定到主頁時出錯。"
+msgstr "主頁已成功添加。將儀表板鎖定到主頁時出錯。"
 
 #: Scripts\Homepages\Homepages.js:134
 msgid "Homepage has been deleted successfully."
-msgstr "首頁已成功刪除。"
+msgstr "主頁已成功刪除。"
 
 #: Scripts\Homepages\Homepages.js:349
 msgid "Homepage has been duplicated successfully."
@@ -2916,16 +2916,16 @@ msgstr "主頁已成功複製。"
 
 #: Scripts\Homepages\Homepages.js:349
 msgid "Homepage has been renamed successfully."
-msgstr "主頁已成功重命名。"
+msgstr "主頁已成功更名。"
 
 #: Scripts\Homepages\Homepages.js:339 Scripts\Homepages\Homepages.js:391
 #: Scripts\Homepages\PinWidget.js:94
 msgid "Homepage name already exists."
-msgstr "主頁名稱已存在。"
+msgstr "主頁名稱已經存在。"
 
 #: Views\Homepages\_PinWidget.cshtml:37
 msgid "Homepage1"
-msgstr "主頁"
+msgstr "Homepage1"
 
 #: Views\Homepages\Homepages.cshtml:2 Views\Shared\_Menu.cshtml:35
 #: Views\Shared\_Menu.cshtml:37
@@ -2949,31 +2949,31 @@ msgstr "每小時"
 #: Views\Notification\Notifications.cshtml:236
 #: Views\Notification\_UserNotification.cshtml:263
 msgid "Hours ago"
-msgstr "小時前"
+msgstr "幾個小時前"
 
 #: Views\Administration\DashboardSettings.cshtml:59
 msgid ""
 "If disabled, anonymous users cannot open current public dashboards and "
 "widgets. Click on public "
-msgstr "如果禁用，匿名用戶無法打開當前的公用儀表板和小部件。點擊公開"
+msgstr "如果禁用，匿名用戶無法打開當前的公共儀表板和小部件。點擊公共"
 
 #: Views\Accounts\CodeConfirmation.cshtml:74
 msgid "If it does not arrive"
-msgstr "如果沒有到達"
+msgstr "如果它沒有到達"
 
 #: Views\Items\_RemovePublic.cshtml:38
 msgid "If made private, the "
-msgstr "如果做私人的話"
+msgstr "如果製作成私密的，"
 
 #: Views\Items\_GetEmbedCode.cshtml:56
 msgid ""
 "If your application shares the same authentication as that of the Dashboard "
 "Server, use SSO and select the corresponding authentication provider."
-msgstr "如果應用程序共享與Dashboard Server相同的身份驗證，請使用SSO並選擇相應的身份驗證提供程序。"
+msgstr "如果您的應用程序與儀表板服務器共享相同的身份驗證，請使用SSO並選擇相應的身份驗證提供程序。"
 
 #: Views\Shared\_ScheduleRecipients.cshtml:33
 msgid "Image"
-msgstr "圖"
+msgstr "圖片"
 
 #: Scripts\Comments\Comment.js:792
 msgid "Image File Format not supported"
@@ -2986,11 +2986,11 @@ msgstr "圖片"
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:180
 #: Views\UserManagement\UploadFileFormAction.cshtml:102
 msgid "Import and Activate"
-msgstr "導入並激活"
+msgstr "導入和激活"
 
 #: Views\UserManagement\UploadFileFormAction.cshtml:102
 msgid "Import and activate users from the list below"
-msgstr "從下面的列表導入並激活用戶"
+msgstr "從下面的列表導入和激活用戶"
 
 #: Views\Group\Group.cshtml:243 Views\UserManagement\Index.cshtml:224
 msgid "Import from Active Directory"
@@ -3021,7 +3021,7 @@ msgstr "導入組"
 #: Views\Group\ActiveDirectoryGroupImport.cshtml:238
 #: Views\Group\ActiveDirectoryGroupImport.cshtml:244
 msgid "IMPORT GROUPS"
-msgstr "進口組"
+msgstr "進口團體"
 
 #: Views\Group\Group.cshtml:241
 msgid "Import groups from Active Directory"
@@ -3038,7 +3038,7 @@ msgstr "從列表中導入選定的組"
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:180
 #: Views\UserManagement\DatabaseUserImport.cshtml:206
 msgid "Import the selected users and activate their accounts"
-msgstr "導入所選用戶並激活其帳戶"
+msgstr "導入選定的用戶並激活其帳戶"
 
 #: Views\UserManagement\ImportFromExistingDatabase.cshtml:41
 msgid "Import users"
@@ -3090,7 +3090,7 @@ msgstr "從數據庫導入用戶"
 #: Views\UserManagement\ImportFromExistingDatabase.cshtml:33
 #: Views\UserManagement\ImportFromExistingDatabase.cshtml:342
 msgid "IMPORT USERS FROM DATABASE"
-msgstr "從數據庫導入用戶"
+msgstr "從數據庫中導入用戶"
 
 #: Views\UserManagement\UploadFileFormAction.cshtml:108
 msgid "Import users from the list below"
@@ -3101,13 +3101,13 @@ msgstr "從下面的列表導入用戶"
 msgid ""
 "Importing users from existing database is not available in automatic account "
 "activation type."
-msgstr "從自動帳戶激活類型中，不能從現有數據庫導入用戶。"
+msgstr "從現有數據庫導入用戶在自動帳戶激活類型中不可用。"
 
 #: Views\UserManagement\Index.cshtml:61
 #: Views\UserManagement\ViewProfile.cshtml:173
 #: Views\UserManagement\ViewProfile.cshtml:186
 msgid "Inactive"
-msgstr "非活躍"
+msgstr "待用"
 
 #: Views\Group\AddUsers.cshtml:34
 msgid "Info"
@@ -3120,12 +3120,12 @@ msgstr "信息"
 #: Views\User\_UserNotificationPreference.cshtml:7
 #: Views\User\_UserNotificationPreference.cshtml:44
 msgid "Inherit from global settings"
-msgstr "從全局設置繼承"
+msgstr "繼承全局設置"
 
 #: Views\User\_UserPermissionGrid.cshtml:89
 #: Views\User\_UserPermissionGridForMobile.cshtml:73
 msgid "Inherited from Group"
-msgstr "從集團繼承"
+msgstr "繼承於Group"
 
 #: Views\Administration\_ActiveDirectorySettings.cshtml:590
 #: Views\UserManagement\ImportFromExistingDatabase.cshtml:312
@@ -3150,7 +3150,7 @@ msgstr "發生內部服務器錯誤。請再試一次。"
 
 #: Controllers\Accounts\AccountsController.cs:826
 msgid "Internal server error while updating password. Please try again."
-msgstr "內部服務器錯誤更新密碼。請再試一次。"
+msgstr "更新密碼時內部服務器錯誤。請再試一次。"
 
 #: Controllers\Items\DashboardsController.cs:362
 msgid "Internal server error. Please try again"
@@ -3180,7 +3180,7 @@ msgstr "內部服務器錯誤。請再試一次。"
 msgid ""
 "Internet Explorer 8 and Internet Explorer 11 in Enterprise Mode are not "
 "supported"
-msgstr "企業模式下的Internet Explorer 8和Internet Explorer 11不受支持"
+msgstr "不支持企業模式下的Internet Explorer 8和Internet Explorer 11"
 
 #: Views\Administration\Storage.cshtml:112
 #: Views\ServerConfiguration\_FileStorage.cshtml:23
@@ -3197,11 +3197,11 @@ msgstr "無效的Blob服務端點"
 
 #: Scripts\Administration\Storage.js:66 Scripts\System\SystemSettings.js:895
 msgid "Invalid custom End point"
-msgstr "無效的自訂終點"
+msgstr "自定義終點無效"
 
 #: Views\Administration\_ActiveDirectorySettings.cshtml:92
 msgid "Invalid Distinguished Name"
-msgstr "無效的可分辨名稱"
+msgstr "無效的專有名稱"
 
 #: Scripts\Administration\SystemSettings.js:311
 #: Scripts\User\UserManagement.js:67 Scripts\User\UserManagementProfile.js:40
@@ -3229,11 +3229,11 @@ msgstr "表達式無效"
 #: Scripts\Administration\SystemSettings.js:66
 #: Scripts\Administration\SystemSettings.js:98
 msgid "Invalid file format"
-msgstr "文件格式無效"
+msgstr "無效的文件格式"
 
 #: Scripts\Administration\KerberosAuthentication.js:8
 msgid "Invalid Host Domain name"
-msgstr "主機域名無效"
+msgstr "無效的主機域名"
 
 #: Views\Administration\_ActiveDirectorySettings.cshtml:82
 msgid "Invalid LDAP URL"
@@ -3241,7 +3241,7 @@ msgstr "無效的LDAP網址"
 
 #: Views\Administration\SAMLSettings.cshtml:117
 msgid "Invalid Metadata URI"
-msgstr "元數據URI無效"
+msgstr "無效的元數據URI"
 
 #: Controllers\UserController.cs:221 Models\AccountModel.cs:172
 msgid "Invalid password"
@@ -3271,11 +3271,11 @@ msgstr "無效的用戶名或電子郵件地址"
 #: Scripts\Group\ActiveDirectoryGroupImport.js:68
 #: Scripts\Group\SynchronizeGroups.js:139
 msgid "Invalid Username or Email Address"
-msgstr "用戶名或電子郵件地址無效"
+msgstr "無效的用戶名或電子郵件地址"
 
 #: Views\Items\_RemovePublic.cshtml:47
 msgid "is now private."
-msgstr "現在是私人的"
+msgstr "現在是私人的。"
 
 #: Views\UserManagement\_UserImportSelectedDatabaseSchema.cshtml:48
 msgid "IsActive"
@@ -3287,7 +3287,7 @@ msgstr "活躍 ："
 
 #: Views\UserManagement\_UserImportSelectedDatabaseSchema.cshtml:92
 msgid "IsActive Value : "
-msgstr "精神價值觀"
+msgstr "IsActive價值："
 
 #: Scripts\Accounts\Accounts.js:410
 msgid "It must contain,"
@@ -3304,11 +3304,11 @@ msgstr "項目已成功發布。"
 
 #: Scripts\Scheduler\recurrenceType.js:88
 msgid "January"
-msgstr "二○一二年一月六日"
+msgstr "一月"
 
 #: Scripts\User\UserImportDatabase.js:1101
 msgid "Join type"
-msgstr "加盟類型"
+msgstr "加入類型"
 
 #: Scripts\Scheduler\recurrenceType.js:94
 msgid "July"
@@ -3316,7 +3316,7 @@ msgstr "七月"
 
 #: Scripts\Scheduler\recurrenceType.js:93
 msgid "June"
-msgstr "截至2013年6月30日。"
+msgstr "六月"
 
 #: Views\Notification\Notifications.cshtml:220
 #: Views\Notification\_UserNotification.cshtml:247
@@ -3334,13 +3334,13 @@ msgstr "Kerberos身份驗證設置"
 
 #: Views\Administration\KerberosAuthentication.cshtml:30
 msgid "KERBEROS AUTHENTICATION SETTINGS"
-msgstr "凱伯斯認證設置"
+msgstr "KERBEROS認證設置"
 
 #: Views\Accounts\CodeConfirmation.cshtml:87
 #: Views\Accounts\ForgotPassword.cshtml:105
 #: Views\Accounts\ResetPasswordLinkMessage.cshtml:54
 msgid "Know your password?"
-msgstr "知道您的密碼？"
+msgstr "知道你的密碼？"
 
 #: Views\Administration\_SiteSettings.cshtml:214
 msgid "Language"
@@ -3348,7 +3348,7 @@ msgstr "語言"
 
 #: Scripts\Scheduler\recurrenceType.js:86
 msgid "last"
-msgstr "末"
+msgstr "持續"
 
 #: Views\Items\_ItemsGrid.cshtml:47 Views\Items\_ItemsGrid.cshtml:306
 #: Views\Items\_ItemsList.cshtml:67
@@ -3360,7 +3360,7 @@ msgstr "上一次更改"
 #: Views\UserManagement\_UserAddDialog.cshtml:42
 #: Views\UserManagement\_UserImportSelectedDatabaseSchema.cshtml:47
 msgid "Last name"
-msgstr "姓氏"
+msgstr "姓"
 
 #: Scripts\User\UserImportDatabase.js:754
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:83
@@ -3370,11 +3370,11 @@ msgstr "姓氏"
 #: Views\UserManagement\ViewProfile.cshtml:126
 #: Views\UserManagement\_UserImportSelectedUserList.cshtml:52
 msgid "Last Name"
-msgstr "姓氏"
+msgstr "姓"
 
 #: Views\UserManagement\_UserImportSelectedDatabaseSchema.cshtml:82
 msgid "Last name : "
-msgstr "姓氏"
+msgstr "姓 ："
 
 #: Views\Scheduler\Schedules.cshtml:93 Views\Scheduler\Schedules.cshtml:152
 #: Views\Scheduler\_ScheduleGridForMobile.cshtml:53
@@ -3398,7 +3398,7 @@ msgstr "左桌"
 
 #: Scripts\User\UserImportDatabase.js:1101
 msgid "Left table condition"
-msgstr "左表條件"
+msgstr "左桌狀況"
 
 #: Models\UserManagementModel.cs:2160 Models\UserManagementModel.cs:2193
 #: Models\UserManagementModel.cs:2207 Models\UserManagementModel.cs:2220
@@ -3407,7 +3407,7 @@ msgstr "字母，一個小寫字母，一個數字和一個特殊字符。"
 
 #: Views\UserManagement\_LimitUserCreation.cshtml:7
 msgid "License limit reached"
-msgstr "達到許可限制"
+msgstr "已達到許可限制"
 
 #: Views\Administration\LicenseSettings.cshtml:2
 msgid "License Settings"
@@ -3415,7 +3415,7 @@ msgstr "許可證設置"
 
 #: Views\Administration\LicenseSettings.cshtml:31
 msgid "Licenses currently in use"
-msgstr "目前使用的許可證"
+msgstr "目前正在使用的許可證"
 
 #: Views\Items\_GetLink.cshtml:44
 msgid "Link to Dashboard:"
@@ -3423,7 +3423,7 @@ msgstr "鏈接到儀表板："
 
 #: Views\Items\_GetLink.cshtml:46
 msgid "Link to Widget:"
-msgstr "鏈接到小部件："
+msgstr "鏈接到Widget："
 
 #: Views\Items\_GetLink.cshtml:48
 msgid "Link:"
@@ -3440,13 +3440,13 @@ msgstr "加載預覽"
 
 #: Views\Items\_ItemsList.cshtml:259 Views\Items\_ItemsList.cshtml:467
 msgid "Loading..."
-msgstr "載入中…"
+msgstr "載入中..."
 
 #: Views\Accounts\CodeConfirmation.cshtml:87
 #: Views\Accounts\ForgotPassword.cshtml:105
 #: Views\Accounts\ResetPasswordLinkMessage.cshtml:54
 msgid "Log In"
-msgstr "登入"
+msgstr "登錄"
 
 #: Views\Administration\_SiteSettings.cshtml:67
 #: Views\Administration\_SiteSettings.cshtml:117
@@ -3459,7 +3459,7 @@ msgstr "使用登錄"
 
 #: Scripts\Homepages\Homepages.js:608
 msgid "Log in using a desktop client to add widgets on this homepage."
-msgstr "使用桌面客戶端登錄，在本主頁上添加小部件。"
+msgstr "使用桌面客戶端登錄以在此主頁上添加小部件。"
 
 #: Views\Shared\_Header.cshtml:58 Views\Shared\_Menu.cshtml:68
 #: Views\Shared\_Menu.cshtml:70
@@ -3480,16 +3480,16 @@ msgstr "合乎邏輯"
 
 #: Views\Accounts\Login.cshtml:48
 msgid "Login"
-msgstr "登入"
+msgstr "登錄"
 
 #: Views\Accounts\Login.cshtml:116 Views\Accounts\Login.cshtml:119
 msgid "LOGIN"
-msgstr "登入"
+msgstr "登錄"
 
 #: Views\Administration\KerberosAuthentication.cshtml:37
 #: Views\Administration\KerberosAuthentication.cshtml:39
 msgid "Machine name"
-msgstr "機名"
+msgstr "機器名稱"
 
 #: Views\Administration\NotificationSettings.cshtml:74
 #: Views\User\_UserNotificationPreference.cshtml:30
@@ -3500,7 +3500,7 @@ msgstr "郵件通知"
 #: Views\Items\_ItemsList.cshtml:557 Views\Items\_ItemsList.cshtml:562
 #: Views\Items\_RemovePublic.cshtml:24 Views\Items\_RemovePublic.cshtml:56
 msgid "Make Private"
-msgstr "私人化"
+msgstr "使私人"
 
 #: Views\Items\_shareItemView.cshtml:140
 msgid "Make public"
@@ -3538,7 +3538,7 @@ msgstr "管理權限"
 #: Views\UserManagement\Index.cshtml:83
 #: Views\UserManagement\ViewProfile.cshtml:99
 msgid "Manage Permissions"
-msgstr "管理 權限"
+msgstr "管理權限"
 
 #: Views\Administration\LicenseSettings.cshtml:21
 msgid "Manage the available user licenses"
@@ -3546,7 +3546,7 @@ msgstr "管理可用的用戶許可證"
 
 #: Scripts\Scheduler\recurrenceType.js:90
 msgid "March"
-msgstr "1933年3月19日"
+msgstr "遊行"
 
 #: Scripts\Items\Items.js:348 Views\Items\_ItemsList.cshtml:101
 #: Views\Items\_ItemsList.cshtml:118 Views\Items\_ItemsList.cshtml:392
@@ -3555,11 +3555,11 @@ msgstr "標記為最愛"
 
 #: Views\Administration\DashboardSettings.cshtml:47
 msgid "Mark dashboards and widgets as public"
-msgstr "將儀表板和小部件標記為公開"
+msgstr "將儀表板和小部件標記為公共"
 
 #: Scripts\Scheduler\recurrenceType.js:92
 msgid "May"
-msgstr "3 May. 1999.]"
+msgstr "可能"
 
 #: Views\Administration\SAMLSettings.cshtml:112
 #: Views\Administration\SAMLSettings.cshtml:115
@@ -3573,7 +3573,7 @@ msgstr "Microsoft ADFS"
 #: Views\Notification\Notifications.cshtml:224
 #: Views\Notification\_UserNotification.cshtml:251
 msgid "Minutes ago"
-msgstr "分鐘前"
+msgstr "幾分鐘前"
 
 #: Views\Administration\SAMLSettings.cshtml:154
 #: Views\Administration\SAMLSettings.cshtml:157
@@ -3629,7 +3629,7 @@ msgstr "星期一"
 #: Views\Shared\_RecurrenceType.cshtml:125
 #: Views\Shared\_RecurrenceType.cshtml:144
 msgid "month(s)"
-msgstr "六至十二個月"
+msgstr "一個月（縣）"
 
 #: Scripts\Administration\ScheduleSynchronization.js:234
 #: Scripts\Scheduler\recurrenceType.js:33
@@ -3652,11 +3652,11 @@ msgstr "移動"
 
 #: Models\ItemModel.cs:476
 msgid "Moved from"
-msgstr "從...移動"
+msgstr "從中移出"
 
 #: Models\ItemModel.cs:466
 msgid "Moved to Trash"
-msgstr "移至垃圾桶"
+msgstr "移至垃圾箱"
 
 #: Views\User\UserPermission.cshtml:2
 msgid "My Permissions"
@@ -3665,15 +3665,15 @@ msgstr "我的權限"
 #: Views\User\UserPermission.cshtml:17
 #: Views\User\_UserPermissionGridForMobile.cshtml:89
 msgid "MY PERMISSIONS"
-msgstr "我的許可"
+msgstr "我的權限"
 
 #: Views\User\Profile.cshtml:5 Views\User\UserPermission.cshtml:21
 msgid "My Profile"
-msgstr "我的個人資料"
+msgstr "我的簡歷"
 
 #: Views\User\Profile.cshtml:92
 msgid "MY PROFILE"
-msgstr "我的個人資料"
+msgstr "我的簡歷"
 
 #: Views\User\EditPassword.cshtml:24
 msgid "MY PROFILE - Change Password"
@@ -3731,7 +3731,7 @@ msgstr "名稱"
 
 #: Views\Shared\_SchedulerDialog.cshtml:107
 msgid "Name "
-msgstr "姓名"
+msgstr "名稱"
 
 #: Models\UserManagementModel.cs:2150
 msgid "Name cannot exceed 254 characters"
@@ -3739,21 +3739,21 @@ msgstr "名稱不能超過254個字符"
 
 #: Models\UserManagementModel.cs:2141
 msgid "Name should not be empty"
-msgstr "名稱不應為空"
+msgstr "名稱不能為空"
 
 #: Models\UserManagementModel.cs:2145
 msgid "Name should not contain special characters #%&*+<>?:/&quot;[']\\|@;,"
-msgstr "名稱不應包含特殊字符＃％＆* + <>？：/＆quot; ['] \\ | @"
+msgstr "名稱不應包含特殊字符＃％＆* + <>？：/＆quot; ['] \\ | @ ;,"
 
 #: Views\Shared\_RecurrenceType.cshtml:216
 msgid "Never"
-msgstr "不可以！"
+msgstr "決不"
 
 #: Models\Scheduler\ScheduleManagement.cs:1194
 #: Models\Scheduler\ScheduleManagement.cs:1197
 #: Models\Scheduler\ScheduleManagement.cs:1214
 msgid "Never run"
-msgstr "永不跑"
+msgstr "永遠不要跑"
 
 #: Views\Homepages\_PinWidget.cshtml:69
 msgid "New"
@@ -3784,7 +3784,7 @@ msgstr "新主頁"
 
 #: Views\Homepages\_PinWidget.cshtml:85
 msgid "New homepage name"
-msgstr "新主頁名稱"
+msgstr "新的主頁名稱"
 
 #: Views\Accounts\AccountActivation.cshtml:64
 #: Views\Accounts\ChangePassword.cshtml:58
@@ -3804,7 +3804,7 @@ msgstr "新用戶"
 msgid ""
 "New users could not be added since there are no remaining licenses(s) "
 "available."
-msgstr "新用戶無法添加，因為沒有剩餘的許可證可用。"
+msgstr "由於沒有可用的許可證，因此無法添加新用戶。"
 
 #: Views\Shared\_Comments.cshtml:94 Views\Shared\_WidgetComments.cshtml:61
 msgid "Newest"
@@ -3814,12 +3814,12 @@ msgstr "最新"
 #: Views\Shared\_SchedulerDialog.cshtml:147
 #: Views\UserManagement\ImportFromExistingDatabase.cshtml:40
 msgid "Next"
-msgstr "下一ye"
+msgstr "下一個"
 
 #: Views\Scheduler\Schedules.cshtml:153
 #: Views\Scheduler\_ScheduleGridForMobile.cshtml:57
 msgid "Next Run"
-msgstr "下一個運行"
+msgstr "下一次運行"
 
 #: Views\Administration\ScheduleAzureSynchronization.cshtml:41
 #: Views\Administration\ScheduleDatabaseSynchronization.cshtml:41
@@ -3829,7 +3829,7 @@ msgstr "下一個附表"
 
 #: Views\Scheduler\Schedules.cshtml:101 Views\Scheduler\Schedules.cshtml:179
 msgid "Next Scheduled Run"
-msgstr "下次計劃運行"
+msgstr "下一次計劃運行"
 
 #: Scripts\Core\Server.Core.js:459 Scripts\Core\Server.Core.js:465
 #: Scripts\Dashboards\DashboardViews.js:1009
@@ -3845,7 +3845,7 @@ msgstr "下次計劃運行"
 #: Views\UserManagement\_MultipleUserDeleteDialog.cshtml:23
 #: Views\UserManagement\_SingleUserDeleteDialog.cshtml:23
 msgid "No"
-msgstr "否"
+msgstr "沒有"
 
 #: Views\Dashboards\Dashboards.cshtml:539
 msgid "No categories available to display"
@@ -3854,25 +3854,25 @@ msgstr "沒有可顯示的類別"
 #: Scripts\Comments\Comment.js:605 Scripts\Comments\Comment.js:610
 #: Scripts\Comments\Comment.js:615 Scripts\Comments\Comment.js:907
 msgid "No comments to display"
-msgstr "沒有評論顯示"
+msgstr "沒有要顯示的評論"
 
 #: Scripts\Items\Items.js:840 Scripts\Items\Items.js:849
 msgid "No dashboards available to display"
-msgstr "沒有顯示屏的儀表板"
+msgstr "沒有可用於顯示的儀表板"
 
 #: Scripts\System\SystemSettings.js:1625 Scripts\System\SystemSettings.js:1672
 #: Scripts\System\SystemSettings.js:1726 Scripts\System\SystemSettings.js:1778
 msgid "no database found"
-msgstr "沒有找到數據庫"
+msgstr "找不到數據庫"
 
 #: Scripts\System\SystemSettings.js:1625 Scripts\System\SystemSettings.js:1672
 #: Scripts\System\SystemSettings.js:1726 Scripts\System\SystemSettings.js:1778
 msgid "No database found"
-msgstr "找不到數據庫"
+msgstr "未找到數據庫"
 
 #: Scripts\Items\Items.js:825
 msgid "No datasources available to display"
-msgstr "沒有可顯示的數據源"
+msgstr "沒有數據源可用於顯示"
 
 #: Scripts\User\EditProfile.js:445 Views\User\Profile.cshtml:73
 #: Views\User\Profile.cshtml:178
@@ -3881,24 +3881,24 @@ msgstr "沒有默認主頁"
 
 #: Scripts\System\SystemSettings.js:2279 Scripts\System\SystemSettings.js:2287
 msgid "no dsn found"
-msgstr "沒有找到"
+msgstr "找不到dsn"
 
 #: Scripts\System\SystemSettings.js:2279 Scripts\System\SystemSettings.js:2287
 msgid "No dsn found"
-msgstr "沒有找到dsn"
+msgstr "找不到dsn"
 
 #: Scripts\Items\Items.js:831
 msgid "No favorite dashboards available to display"
-msgstr "沒有最喜歡的儀表板可供顯示"
+msgstr "沒有最喜歡的儀表板可用於顯示"
 
 #: Scripts\User\EditProfile.js:217 Scripts\User\EditProfile.js:247
 #: Scripts\User\UserManagementProfile.js:446
 msgid "No file selected."
-msgstr "未選擇任何文件。"
+msgstr "沒有選擇文件。"
 
 #: Scripts\Dashboards\DashboardViews.js:1114
 msgid "No filters configured."
-msgstr "沒有配置過濾器"
+msgstr "沒有配置過濾器。"
 
 #: Views\Notification\Notifications.cshtml:256
 #: Views\Notification\_UserNotification.cshtml:282
@@ -3908,19 +3908,19 @@ msgstr "找不到更多通知"
 #: Views\Notification\Notifications.cshtml:261
 #: Views\Notification\_UserNotification.cshtml:287
 msgid "No notifications found"
-msgstr "找不到通知"
+msgstr "未找到通知"
 
 #: Scripts\Items\Items.js:837
 msgid "No public dashboards available to display"
-msgstr "沒有公共儀表板可供顯示"
+msgstr "沒有可用的公共儀表板顯示"
 
 #: Scripts\Items\Items.js:846
 msgid "No public widgets available to display"
-msgstr "沒有公開的小部件可供顯示"
+msgstr "沒有公開的小部件可用於顯示"
 
 #: Scripts\Items\Items.js:834
 msgid "No recent dashboards available to display"
-msgstr "沒有最近可以顯示的儀表板"
+msgstr "沒有最近的儀表板可用來顯示"
 
 #: Scripts\Core\Server.Core.js:566
 msgid "No records to display"
@@ -3951,11 +3951,11 @@ msgstr "找不到意見"
 
 #: Views\Shared\_DashboardViews.cshtml:68
 msgid "No views found."
-msgstr "找不到意見"
+msgstr "找不到意見。"
 
 #: Scripts\Items\Items.js:843
 msgid "No widgets available to display"
-msgstr "沒有小部件可供顯示"
+msgstr "沒有可用的小部件可以顯示"
 
 #: Views\Items\_GetLink.cshtml:54
 msgid "Note:"
@@ -3963,7 +3963,7 @@ msgstr "注意："
 
 #: Scripts\Core\Server.Core.js:567
 msgid "NotEqual"
-msgstr "不平等"
+msgstr "NotEqual"
 
 #: Scripts\Administration\NotificationSettings.js:28
 #: Scripts\Administration\NotificationSettings.js:31
@@ -3993,21 +3993,21 @@ msgstr "NOTIFICATIONS"
 
 #: Scripts\Scheduler\recurrenceType.js:98
 msgid "November"
-msgstr "2010年11月30日"
+msgstr "十一月"
 
 #: Scripts\Scheduler\recurrenceType.js:183
 #: Scripts\Scheduler\recurrenceType.js:195
 msgid "Now"
-msgstr "就是現在！"
+msgstr "現在"
 
 #: Views\Shared\_CustomExpressionEditor.cshtml:107
 msgid "Number"
-msgstr "{0}Number{/0}{0}              {/0}{0}.................................{/0}"
+msgstr "數"
 
 #: Scripts\Comments\Comment.js:1196
 #: Scripts\Scheduler\SchedulerEmailEditor.js:59
 msgid "Numbered List"
-msgstr "編號表"
+msgstr "編號列表"
 
 #: Views\Shared\_CustomExpressionEditor.cshtml:88
 msgid "Numbers"
@@ -4028,7 +4028,7 @@ msgstr "發生"
 #: Scripts\Administration\ScheduleSynchronization.js:115
 #: Scripts\Administration\ScheduleSynchronization.js:364
 msgid "Occurs day"
-msgstr "發生當天"
+msgstr "發生一天"
 
 #: Scripts\Administration\ScheduleSynchronization.js:61
 #: Scripts\Administration\ScheduleSynchronization.js:99
@@ -4081,7 +4081,7 @@ msgstr "十月"
 #: Views\Administration\ScheduleSynchronization.cshtml:234
 #: Views\Shared\_RecurrenceType.cshtml:185
 msgid "of"
-msgstr "的["
+msgstr "的"
 
 #: Scripts\Administration\ScheduleSynchronization.js:115
 #: Scripts\Administration\ScheduleSynchronization.js:135
@@ -4097,11 +4097,11 @@ msgstr "的["
 #: Views\Shared\_RecurrenceType.cshtml:121
 #: Views\Shared\_RecurrenceType.cshtml:142
 msgid "of every"
-msgstr "的每一個"
+msgstr "每一個"
 
 #: Scripts\Administration\ScheduleSynchronization.js:364
 msgid "of every "
-msgstr "的每一個"
+msgstr "每一個"
 
 #: Scripts\Core\Server.Core.js:482 Scripts\Core\Server.Core.js:488
 #: Scripts\Dashboards\DashboardViews.js:1032
@@ -4113,7 +4113,7 @@ msgstr "的每一個"
 #: Views\Shared\_DashboardViews.cshtml:105
 #: Views\UserManagement\_LimitUserCreation.cshtml:27
 msgid "OK"
-msgstr "確定"
+msgstr "好"
 
 #: Views\Shared\_Comments.cshtml:95 Views\Shared\_WidgetComments.cshtml:62
 msgid "Oldest"
@@ -4121,18 +4121,18 @@ msgstr "最老的"
 
 #: Views\Shared\_RecurrenceType.cshtml:226
 msgid "On"
-msgstr "走吧！"
+msgstr "上"
 
 #: Scripts\Scheduler\recurrenceType.js:272
 msgid "on "
-msgstr "走吧！"
+msgstr "上"
 
 #: Views\Items\_ItemsList.cshtml:139 Views\Items\_ItemsList.cshtml:144
 #: Views\Items\_ItemsList.cshtml:413 Views\Items\_ItemsList.cshtml:418
 #: Views\Items\_ItemsList.cshtml:512 Views\Items\_ItemsList.cshtml:517
 #: Views\Items\_ItemVersion.cshtml:85 Views\Items\_ItemVersion.cshtml:90
 msgid "Open"
-msgstr "開放"
+msgstr "打開"
 
 #: Views\Items\_ItemsList.cshtml:128 Views\Items\_ItemsList.cshtml:402
 msgid "Open Dashboard in new tab"
@@ -4140,7 +4140,7 @@ msgstr "在新標籤頁中打開儀表板"
 
 #: Views\Items\_ItemsList.cshtml:501
 msgid "Open Widget in new tab"
-msgstr "在新標籤頁中打開小部件"
+msgstr "在新標籤頁中打開小工具"
 
 #: Views\Items\_ItemsGrid.cshtml:116 Views\Items\_ItemsList.cshtml:157
 #: Views\Items\_ItemsList.cshtml:530
@@ -4173,7 +4173,7 @@ msgstr "機構名稱"
 #: Views\Scheduler\Schedules.cshtml:109 Views\Scheduler\Schedules.cshtml:182
 #: Views\Scheduler\_ScheduleGridForMobile.cshtml:61
 msgid "Owner"
-msgstr "業主"
+msgstr "所有者"
 
 #: Views\Dashboards\Dashboards.cshtml:472
 msgid "Owner name"
@@ -4220,7 +4220,7 @@ msgstr "密碼"
 #: Views\Accounts\ForgotPassword.cshtml:85
 #: Views\Accounts\ForgotPassword.cshtml:97
 msgid "Password Assistance"
-msgstr "密碼協助"
+msgstr "密碼幫助"
 
 #: Models\UserManagementModel.cs:2165
 msgid "Password cannot exceed 85 characters"
@@ -4233,7 +4233,7 @@ msgstr "密碼更改不成功。"
 #: Models\UserManagementModel.cs:1218
 #: Controllers\Accounts\AccountsController.cs:282
 msgid "Password has been changed successfully."
-msgstr "密碼已成功更改"
+msgstr "密碼已成功更改。"
 
 #: Controllers\UserController.cs:226
 #: Controllers\Administration\UserManagementController.cs:945
@@ -4259,12 +4259,12 @@ msgstr "密碼不匹配"
 msgid ""
 "Password must be 6 characters including 1 uppercase letter, 1 lowercase "
 "letter, 1 numeric and 1 special character."
-msgstr "密碼必須為6個字符，包括1個大寫字母，1個小寫字母，1個數字和1個特殊字符。"
+msgstr "密碼必須是6個字符，包括1個大寫字母，1個小寫字母，1個數字和1個特殊字符。"
 
 #: Models\UserManagementModel.cs:2160 Models\UserManagementModel.cs:2193
 #: Models\UserManagementModel.cs:2207 Models\UserManagementModel.cs:2220
 msgid "Password must contain at least six characters with one uppercase"
-msgstr "密碼必須至少包含六個大寫字母"
+msgstr "密碼必須至少包含六個字符和一個大寫字母"
 
 #: Scripts\Accounts\Accounts.js:410
 msgid "Password must meet the following requirements."
@@ -4277,7 +4277,7 @@ msgstr "密碼必須符合以下要求。它必須包含，"
 
 #: Models\UserManagementModel.cs:2156
 msgid "Password should not be empty"
-msgstr "密碼不應為空"
+msgstr "密碼不能為空"
 
 #: Controllers\UserController.cs:231
 #: Controllers\Administration\UserManagementController.cs:950
@@ -4295,11 +4295,11 @@ msgstr "密碼不匹配"
 
 #: Views\Shared\_ScheduleRecipients.cshtml:39
 msgid "PDF"
-msgstr "2)           PDF"
+msgstr "PDF"
 
 #: Views\Group\AddUsers.cshtml:33
 msgid "People"
-msgstr "聽啊！"
+msgstr "人"
 
 #: Scripts\Items\ItemPermission.js:311 Scripts\Items\ItemPermission.js:318
 msgid "Permission"
@@ -4320,7 +4320,7 @@ msgstr "權限實體"
 #: Scripts\Permission\GroupPermission.js:147
 #: Scripts\Permission\Permission.js:147
 msgid "Permission Entity already exists"
-msgstr "權限實體已存在"
+msgstr "權限實體已經存在"
 
 #: Scripts\Permission\GroupPermission.js:129
 #: Scripts\Permission\Permission.js:129
@@ -4341,7 +4341,7 @@ msgstr "電話"
 
 #: Views\Homepages\_PinWidget.cshtml:48
 msgid "Pin <span id=\"item-name\"></span> to the Homepage"
-msgstr "將<span id = \“item-name \”> </ span>指向主頁"
+msgstr "將<span id = \“item-name \”> </ span>插入主頁"
 
 #: Views\Homepages\Homepages.cshtml:117
 msgid "Pin Dashboard"
@@ -4350,23 +4350,23 @@ msgstr "Pin儀表板"
 #: Scripts\Homepages\HomepageAddItem.js:380 Scripts\Homepages\Homepages.js:411
 #: Scripts\Homepages\Homepages.js:421
 msgid "Pin Dashboard to the Homepage"
-msgstr "將儀表板固定到主頁"
+msgstr "將儀表板連接到主頁"
 
 #: Views\EmbedFileRender\Dashboard.cshtml:503
 #: Views\EmbedFileRender\Widgets.cshtml:376 Views\FileRender\Index.cshtml:344
 #: Views\FileRender\Widget.cshtml:232
 msgid "Pin Item to the Homepage"
-msgstr "將物品寄到主頁"
+msgstr "將項目鏈接到主頁"
 
 #: Scripts\Homepages\HomepageAddItem.js:212
 #: Scripts\Homepages\HomepageAddItem.js:226
 #: Scripts\Homepages\HomepageAddItem.js:229
 msgid "Pin Widget to the Homepage"
-msgstr "Pin小部件到主頁"
+msgstr "將小部件插入主頁"
 
 #: Scripts\Scheduler\DataChanges.js:2216 Scripts\Scheduler\DataChanges.js:2220
 msgid "Please add a condition"
-msgstr "請添加條件"
+msgstr "請添加一個條件"
 
 #: Scripts\Accounts\Accounts.js:77 Scripts\Accounts\Accounts.js:80
 #: Scripts\Accounts\Accounts.js:124
@@ -4391,18 +4391,18 @@ msgstr "請避免特殊字符"
 
 #: Scripts\System\SystemSettings.js:617
 msgid "Please avoid special characters and Leading spaces"
-msgstr "請避免特殊字符和前導空格"
+msgstr "請避免使用特殊字符和領導空格"
 
 #: Scripts\System\SystemSettings.js:611 Scripts\System\SystemSettings.js:627
 #: Scripts\System\SystemSettings.js:633 Scripts\System\SystemSettings.js:651
 #: Scripts\System\SystemSettings.js:1807 Scripts\System\SystemSettings.js:1917
 #: Scripts\System\SystemSettings.js:2030 Scripts\System\SystemSettings.js:2137
 msgid "Please avoid special characters, Leading and Trailing spaces"
-msgstr "請避免特殊字符，領先和尾隨空間"
+msgstr "請避免使用特殊字符，前導和尾隨空格"
 
 #: Scripts\System\SystemSettings.js:604
 msgid "Please avoid special characters, numbers and white spaces"
-msgstr "請避免使用特殊字符，數字和空格"
+msgstr "請避免特殊字符，數字和空格"
 
 #: Views\ServerConfiguration\_FileStorage.cshtml:3
 msgid ""
@@ -4411,20 +4411,20 @@ msgid ""
 "can be viewed <a target=\"_blank\" href=\"http://help.syncfusion.com/"
 "dashboard-platform/dashboard-server/site-settings/storage-settings\">here</"
 "a>."
-msgstr "請選擇用於存儲儀表板服務器生成的文件的存儲系統。 Dashboard Server生成的文件的完整列表可以查看<a target = \“_ blank \”href = \“http://help.syncfusion.com/dashboard-platform/dashboard-server/site-settings/storage -settings \“>這裡</a>。"
+msgstr "請選擇一個用於存儲Dashboard服務器生成的文件的存儲系統。可以查看Dashboard Server生成的文件的完整列表<a target = \“_ blank \”href = \“http://help.syncfusion.com/dashboard-platform/dashboard-server/site-settings/storage -settings \“>這裡</a>。"
 
 #: Scripts\DataSource\AddDataSource.js:149
 #: Scripts\DataSource\EditDataSource.js:198
 msgid "Please choose a valid SYDS file to upload"
-msgstr "請選擇一個有效的SYDS文件進行上傳"
+msgstr "請選擇一個有效的SYDS文件上傳"
 
 #: Scripts\Widget\AddWidget.js:136 Scripts\Widget\EditWidget.js:191
 msgid "Please choose a valid SYDW file to upload"
-msgstr "請選擇一個有效的SYDW文件進行上傳"
+msgstr "請選擇一個有效的SYDW文件上傳"
 
 #: Scripts\Dashboards\AddDashboard.js:87 Scripts\Dashboards\EditDashboard.js:35
 msgid "Please choose a valid SYDX file to upload"
-msgstr "請選擇一個有效的SYDX文件進行上傳"
+msgstr "請選擇一個有效的SYDX文件上傳"
 
 #: Views\UserManagement\ImportFromExistingDatabase.cshtml:350
 msgid "Please click here to change the account activation type"
@@ -4454,7 +4454,7 @@ msgstr "請點擊此處配置電子郵件設置。"
 msgid ""
 "Please click OK to check the list behind regarding the invalid or duplicate "
 "users."
-msgstr "請點擊“確定”，查看有關無效或重複用戶的列表。"
+msgstr "請點擊確定以查看關於無效或重複用戶的列表。"
 
 #: Scripts\Accounts\Accounts.js:151
 msgid "Please confirm new password"
@@ -4473,22 +4473,22 @@ msgstr "請確認您的新密碼"
 msgid ""
 "Please contact the Active Directory administrator to change your AD account "
 "password"
-msgstr "請聯繫Active Directory管理員更改您的AD帳戶密碼"
+msgstr "請聯繫Active Directory管理員以更改您的AD帳戶密碼"
 
 #: Controllers\Accounts\AccountsController.cs:209
 msgid ""
 "Please contact the Azure Active Directory administrator to change your Azure "
 "AD account password"
-msgstr "請聯繫Azure Active Directory管理員更改您的Azure AD帳戶密碼"
+msgstr "請聯繫Azure Active Directory管理員以更改您的Azure AD帳戶密碼"
 
 #: Views\Dashboards\_AddDashboard.cshtml:74
 msgid "Please create a category to group the dashboard"
-msgstr "請創建一個類別來分組儀表板"
+msgstr "請創建一個類別來將儀表板分組"
 
 #: Scripts\Scheduler\DataChanges.js:242 Scripts\Scheduler\DataChanges.js:284
 #: Scripts\Scheduler\DataChanges.js:1849 Scripts\Scheduler\DataChanges.js:1910
 msgid "Please enter a numeric value"
-msgstr "請輸入數值"
+msgstr "請輸入一個數字值"
 
 #: Scripts\Scheduler\DataChanges.js:950 Scripts\Scheduler\DataChanges.js:1435
 #: Scripts\Scheduler\DataChanges.js:1671
@@ -4511,7 +4511,7 @@ msgstr "請輸入一個值"
 
 #: Scripts\Administration\Storage.js:123 Scripts\System\SystemSettings.js:954
 msgid "Please enter Access key"
-msgstr "請輸入Access鍵"
+msgstr "請輸入訪問鍵"
 
 #: Scripts\System\SystemSettings.js:869 Scripts\System\SystemSettings.js:1699
 msgid "Please enter admin password"
@@ -4527,11 +4527,11 @@ msgstr "請輸入管理員用戶名"
 
 #: Scripts\User\UserImportDatabase.js:189
 msgid "Please enter Admin username"
-msgstr "請輸入管理員名稱"
+msgstr "請輸入管理員用戶名"
 
 #: Views\Administration\SAMLSettings.cshtml:127
 msgid "Please enter Authority URL"
-msgstr "請輸入權限URL"
+msgstr "請輸入管理員網址"
 
 #: Scripts\Administration\Storage.js:120 Scripts\System\SystemSettings.js:951
 msgid "Please enter Blob Service endpoint"
@@ -4539,7 +4539,7 @@ msgstr "請輸入Blob服務端點"
 
 #: Scripts\Administration\Storage.js:129 Scripts\System\SystemSettings.js:960
 msgid "Please enter Blob URL"
-msgstr "請輸入Blob URL"
+msgstr "請輸入Blob網址"
 
 #: Scripts\Category\AddCategory.js:32 Scripts\Category\EditCategory.js:55
 msgid "Please enter category name"
@@ -4547,7 +4547,7 @@ msgstr "請輸入類別名稱"
 
 #: Views\Administration\_ActiveDirectorySettings.cshtml:147
 msgid "Please enter client id"
-msgstr "請輸入客戶端ID"
+msgstr "請輸入客戶ID"
 
 #: Views\Administration\_ActiveDirectorySettings.cshtml:159
 msgid "Please enter client key"
@@ -4560,7 +4560,7 @@ msgstr "請輸入容器名稱"
 #: Scripts\Dashboards\AddDashboard.js:33 Scripts\Dashboards\EditDashboard.js:82
 #: Scripts\Items\ItemActions.js:22 Scripts\Items\ItemActions.js:49
 msgid "Please enter dashboard name"
-msgstr "請輸入儀錶盤名稱"
+msgstr "請輸入儀表板名稱"
 
 #: Scripts\DataSource\AddDataSource.js:44
 #: Scripts\DataSource\EditDataSource.js:46
@@ -4582,11 +4582,11 @@ msgstr "請輸入數據庫密碼"
 
 #: Views\Administration\SAMLSettings.cshtml:137
 msgid "Please enter Designer Client Id"
-msgstr "請輸入Designer Client Id"
+msgstr "請輸入設計器客戶端ID"
 
 #: Views\Administration\_ActiveDirectorySettings.cshtml:91
 msgid "Please enter Distinguished Name"
-msgstr "請輸入可分辨名稱"
+msgstr "請輸入專有名稱"
 
 #: Scripts\System\SystemSettings.js:751 Views\User\Profile.cshtml:142
 #: Views\UserManagement\ViewProfile.cshtml:136
@@ -4601,7 +4601,7 @@ msgstr "請輸入表達式名稱。"
 #: Scripts\Scheduler\CustomExpressionEditor.js:276
 #: Scripts\Scheduler\CustomExpressionEditor.js:477
 msgid "Please enter expression text."
-msgstr "請輸入表達式文本。"
+msgstr "請輸入表達文字。"
 
 #: Scripts\System\SystemSettings.js:745 Scripts\User\UserManagement.js:126
 #: Scripts\User\UserManagementProfile.js:107 Views\User\Profile.cshtml:119
@@ -4614,7 +4614,7 @@ msgstr "請輸入名字"
 #: Views\Group\ViewGroup.cshtml:134 Views\Group\_AddGroup.cshtml:57
 #: Views\UserManagement\_AddUserInGroup.cshtml:22
 msgid "Please enter group name"
-msgstr "請輸入群組名稱"
+msgstr "請輸入組名"
 
 #: Scripts\Homepages\Homepages.js:283 Scripts\Homepages\Homepages.js:318
 #: Scripts\Homepages\PinWidget.js:142 Scripts\Homepages\PinWidget.js:180
@@ -4631,7 +4631,7 @@ msgstr "請輸入姓氏"
 
 #: Views\Administration\_ActiveDirectorySettings.cshtml:81
 msgid "Please enter LDAP URL"
-msgstr "請輸入LDAP URL"
+msgstr "請輸入LDAP網址"
 
 #: Scripts\Administration\KerberosAuthentication.js:38
 msgid "Please enter machine name"
@@ -4646,7 +4646,7 @@ msgstr "請輸入元數據URI"
 #: Views\Administration\ScheduleSynchronization.cshtml:69
 #: Views\Shared\_RecurrenceType.cshtml:35
 msgid "Please enter minimum 10 minutes"
-msgstr "請至少輸入10分鐘"
+msgstr "請輸入最少10分鐘"
 
 #: Scripts\Accounts\Accounts.js:148
 msgid "Please enter new password"
@@ -4676,11 +4676,11 @@ msgstr "請輸入端口號"
 
 #: Scripts\User\UserImportDatabase.js:240
 msgid "Please enter Port number"
-msgstr "請輸入端口號"
+msgstr "請輸入端口號碼"
 
 #: Views\Administration\_ActiveDirectorySettings.cshtml:116
 msgid "Please enter Port Number"
-msgstr "請輸入端口號碼"
+msgstr "請輸入端口號"
 
 #: Scripts\Scheduler\recurrenceType.js:453
 #: Scripts\Scheduler\recurrenceType.js:465
@@ -4689,7 +4689,7 @@ msgstr "請輸入端口號碼"
 #: Scripts\Scheduler\Scheduler.js:434 Scripts\Scheduler\Scheduler.js:447
 #: Scripts\Scheduler\Scheduler.js:470
 msgid "Please enter schedule name"
-msgstr "請輸入計劃名稱"
+msgstr "請輸入時間表名稱"
 
 #: Scripts\Administration\ScheduleSynchronization.js:496
 msgid "Please enter schedule time"
@@ -4749,7 +4749,7 @@ msgstr "請輸入數據庫密碼"
 #: Scripts\Scheduler\DataChanges.js:936 Scripts\Scheduler\DataChanges.js:1412
 #: Scripts\Scheduler\DataChanges.js:1648
 msgid "Please enter the date in \" + dateFormat + \" format."
-msgstr "請輸入日期格式為“+ dateFormat”。"
+msgstr "請以\“+ dateFormat + \”格式輸入日期。"
 
 #: Scripts\Administration\Storage.js:55
 #: Scripts\Administration\SystemSettings.js:303
@@ -4797,7 +4797,7 @@ msgstr "請輸入用戶名或電子郵件地址"
 
 #: Scripts\Administration\Storage.js:130 Scripts\System\SystemSettings.js:961
 msgid "Please enter valid Blob URL"
-msgstr "請輸入有效的Blob URL"
+msgstr "請輸入有效的Blob網址"
 
 #: Scripts\System\SystemSettings.js:659
 msgid "Please enter valid port number"
@@ -4830,7 +4830,7 @@ msgstr "請輸入您的名字"
 #: Scripts\Password\ChangePassword.js:119
 #: Scripts\User\UserManagementProfile.js:215
 msgid "Please enter your new password"
-msgstr "請輸入新密碼"
+msgstr "請輸入您的新密碼"
 
 #: Scripts\Password\ChangePassword.js:116
 msgid "Please enter your old password"
@@ -4842,19 +4842,19 @@ msgstr "請輸入您的用戶名"
 
 #: Scripts\Homepages\PinWidget.js:135
 msgid "Please pin to existing homepage or add a new one."
-msgstr "請固定到現有的主頁或添加一個新的主頁。"
+msgstr "請插入現有主頁或添加一個新的主頁。"
 
 #: Views\Group\ActiveDirectoryGroupImport.cshtml:196
 msgid ""
 "Please search and select the groups from the following list to import into "
 "Dashboard Server"
-msgstr "請搜索並從以下列表中選擇要導入到Dashboard Server的組"
+msgstr "請搜索並從以下列表中選擇組以導入到Dashboard Server"
 
 #: Views\UserManagement\_UserImportSelectedUserList.cshtml:12
 msgid ""
 "Please search and select the users from the following list to import into "
 "Dashboard Server"
-msgstr "請搜索並從以下列表中選擇用戶導入到Dashboard Server"
+msgstr "請搜索並從以下列表中選擇用戶以導入到Dashboard Server"
 
 #: Scripts\Scheduler\DataChanges.js:807
 msgid "Please select a column"
@@ -4876,7 +4876,7 @@ msgstr "請選擇一個數據庫"
 #: Scripts\Scheduler\DataChanges.js:783 Scripts\Scheduler\DataChanges.js:1418
 #: Scripts\Scheduler\DataChanges.js:1654
 msgid "Please select a daterange"
-msgstr "請選擇一個daterange"
+msgstr "請選擇一個日期範圍"
 
 #: Views\Shared\_DataChanges.cshtml:29
 msgid "Please select a widget"
@@ -4948,7 +4948,7 @@ msgstr "請選擇要導入的用戶"
 msgid ""
 "Please upgrade to a newer browser if you are using IE8 or turn off "
 "Enterprise Mode if you are using IE11 in Enterprise Mode."
-msgstr "如果您正在使用IE8，請升級到較新的瀏覽器，或者如果您在企業模式下使用IE11，請關閉企業模式。"
+msgstr "如果您使用的是IE8，請升級到較新的瀏覽器，或者如果您在企業模式下使用IE11，請關閉企業模式。"
 
 #: Views\UserManagement\UploadFileFormAction.cshtml:125
 msgid "Please upload a valid csv file."
@@ -4971,7 +4971,7 @@ msgstr "請上傳小部件文件"
 #: Views\UserManagement\ImportFromExistingDatabase.cshtml:232
 #: Views\UserManagement\ImportFromExistingDatabase.cshtml:235
 msgid "Port"
-msgstr "端口"
+msgstr "港口"
 
 #: Views\ServerConfiguration\Index.cshtml:328
 msgid "Port number"
@@ -5024,7 +5024,7 @@ msgstr "繼續"
 
 #: Views\Shared\_Header.cshtml:56
 msgid "PROFILE"
-msgstr "個人簡歷"
+msgstr "簡介"
 
 #: Scripts\Core\Server.Core.js:534
 msgid "Profile picture has been deleted successfully."
@@ -5036,7 +5036,7 @@ msgstr "個人資料圖片已成功保存。"
 
 #: Views\Items\_MakeItemPublic.cshtml:48
 msgid "Public "
-msgstr "公眾"
+msgstr "上市"
 
 #: Views\Dashboards\Dashboards.cshtml:45 Views\Dashboards\Dashboards.cshtml:354
 msgid "Public Dashboards"
@@ -5048,49 +5048,49 @@ msgstr "公共儀表板"
 msgid ""
 "Public Dashboards disabled by the system administrator. Please contact your "
 "system administrator to enable this."
-msgstr "公共儀表板由系統管理員禁用。請與您的系統管理員聯繫以啟用此功能。"
+msgstr "公用儀表板由系統管理員禁用。請聯繫您的系統管理員以啟用此功能。"
 
 #: Views\Items\_MakeItemPublic.cshtml:91
 msgid ""
 "Public Dashboards disabled in <a href=\"~/administration/dashboard-settings"
 "\">dashboard settings.</a>"
-msgstr "公開信息中心在<a href=\"~/administration/dashboard-settings\">信息中心設置</a>中被禁用。"
+msgstr "公開儀表板在<a href=\"~/administration/dashboard-settings\">儀表板設置</a>中禁用。"
 
 #: Views\Home\PublicDashboardViewDenied.cshtml:64
 msgid ""
 "Public Dashboards/Widgets disabled by the system administrator. Please "
 "contact your system administrator to enable this."
-msgstr "公共儀表板/小部件被系統管理員禁用。請與您的系統管理員聯繫以啟用此功能。"
+msgstr "公共儀表板/窗口小部件由系統管理員禁用。請聯繫您的系統管理員以啟用此功能。"
 
 #: Views\Widgets\Widgets.cshtml:13 Views\Widgets\Widgets.cshtml:92
 msgid "Public Widgets"
-msgstr "公共小部件"
+msgstr "公共Widgets"
 
 #: Views\Items\_MakeItemPublic.cshtml:109
 msgid ""
 "Public Widgets disabled by the system administrator.    Please contact your "
 "system administrator to enable this."
-msgstr "公共小部件由系統管理員禁用。請與您的系統管理員聯繫以啟用此功能。"
+msgstr "公共窗口小部件被系統管理員禁用。請聯繫您的系統管理員以啟用此功能。"
 
 #: Views\Widgets\Widgets.cshtml:126
 msgid ""
 "Public Widgets disabled by the system administrator. Please contact your "
 "system administrator to enable this."
-msgstr "公共小部件由系統管理員禁用。請與您的系統管理員聯繫以啟用此功能。"
+msgstr "公共窗口小部件被系統管理員禁用。請聯繫您的系統管理員以啟用此功能。"
 
 #: Views\Items\_MakeItemPublic.cshtml:96
 msgid ""
 "Public Widgets disabled in <a href=\"~/administration/dashboard-settings"
 "\">dashboard settings.</a>"
-msgstr "公共小部件已在<a href=\"~/administration/dashboard-settings\">信息中心設置</a>中停用。"
+msgstr "公開窗口小部件在<a href=\"~/administration/dashboard-settings\">儀表板設置</a>中被禁用。"
 
 #: Views\Items\_MakeItemPublic.cshtml:43
 msgid "public?"
-msgstr "公眾"
+msgstr "上市？"
 
 #: Views\UserManagement\_UserImportSelectedUserList.cshtml:3
 msgid "Query to pull users :"
-msgstr "查詢拉取用戶："
+msgstr "查詢拉用戶："
 
 #: Scripts\Comments\Comment.js:1184
 #: Scripts\Scheduler\SchedulerEmailEditor.js:47
@@ -5131,11 +5131,11 @@ msgstr "依賴方ID"
 
 #: Views\UserManagement\_LimitUserCreation.cshtml:17
 msgid "remaining license(s)."
-msgstr "剩餘許可證。"
+msgstr "剩餘的許可證。"
 
 #: Views\Administration\LicenseSettings.cshtml:35
 msgid "Remaining licenses available"
-msgstr "剩餘許可證可用"
+msgstr "剩餘的許可證可用"
 
 #: Views\Accounts\Login.cshtml:111
 msgid "Remember me"
@@ -5148,7 +5148,7 @@ msgstr "記住我"
 #: Views\Permission\GroupPermission.cshtml:55
 #: Views\Permission\UserPermission.cshtml:58
 msgid "Remove"
-msgstr "清除"
+msgstr "去掉"
 
 #: Scripts\Items\ItemViewShare.js:154
 msgid "Remove Access"
@@ -5183,16 +5183,16 @@ msgstr "重命名主頁"
 #: Views\Notification\Notifications.cshtml:99
 #: Views\Notification\_UserNotification.cshtml:119
 msgid "replied to"
-msgstr "回復了"
+msgstr "回答"
 
 #: Scripts\Comments\Comment.js:488 Scripts\Comments\Comment.js:1061
 msgid "Replied to"
-msgstr "回復了"
+msgstr "已回复"
 
 #: Views\Notification\Notifications.cshtml:98
 #: Views\Notification\_UserNotification.cshtml:118
 msgid "replied to your comment on the"
-msgstr "回复你的評論"
+msgstr "回復了你對此的評論"
 
 #: Scripts\Comments\Comment.js:171 Scripts\Comments\Comment.js:494
 msgid "replies"
@@ -5206,16 +5206,16 @@ msgstr "回复"
 
 #: Scripts\Comments\Comment.js:470
 msgid "Reply is too long"
-msgstr "回复太長了"
+msgstr "回复太長"
 
 #: Scripts\Comments\Comment.js:465
 msgid "Reply should not be blank"
-msgstr "回覆不應為空"
+msgstr "回復不應該是空白的"
 
 #: Scripts\User\UserManagementProfile.js:280
 #: Views\UserManagement\ViewProfile.cshtml:192
 msgid "Resend Activation Code"
-msgstr "重寄 激活 碼"
+msgstr "重新發送激活碼"
 
 #: Views\Accounts\ResetPasswordLinkMessage.cshtml:3
 msgid "Reset password link"
@@ -5228,11 +5228,11 @@ msgstr "資源"
 
 #: Views\Items\_ItemVersion.cshtml:107
 msgid "Restore"
-msgstr "還原"
+msgstr "恢復"
 
 #: Models\ItemModel.cs:469
 msgid "Restored from Trash"
-msgstr "從垃圾回收"
+msgstr "從垃圾桶中恢復"
 
 #: Views\Administration\_ActiveDirectorySettings.cshtml:596
 #: Views\UserManagement\ImportFromExistingDatabase.cshtml:318
@@ -5241,7 +5241,7 @@ msgstr "右桌"
 
 #: Scripts\User\UserImportDatabase.js:1101
 msgid "Right table condition"
-msgstr "右桌條件"
+msgstr "右表條件"
 
 #: Views\ServerConfiguration\Index.cshtml:238
 msgid "Role Name"
@@ -5254,17 +5254,17 @@ msgstr "回滾到版本"
 #: Views\Scheduler\Schedules.cshtml:191
 #: Views\Scheduler\_ScheduleGridForMobile.cshtml:15
 msgid "Run now"
-msgstr "現在運行"
+msgstr "現在跑步"
 
 #: Scripts\Scheduler\ScheduleListing.js:220
 #: Views\Scheduler\Schedules.cshtml:193
 #: Views\Scheduler\_ScheduleGridForMobile.cshtml:17
 msgid "Run Now"
-msgstr "立即運行"
+msgstr "現在跑步"
 
 #: Views\Items\_MakeItemPublic.cshtml:48
 msgid "s are accessible to anyone with a link to them."
-msgstr "任何有鏈接的人都可以訪問。"
+msgstr "任何有鏈接的人都可以訪問它們。"
 
 #: Scripts\Scheduler\recurrenceType.js:77
 #: Views\Administration\ScheduleAzureSynchronization.cshtml:147
@@ -5313,15 +5313,15 @@ msgstr "保存視圖"
 #: Views\Shared\_SchedulerDialog.cshtml:30
 #: Views\Shared\_SchedulerDialog.cshtml:152
 msgid "Schedule"
-msgstr "附表 [CONVEYANCING AND PROPERTY ORDINANCE - SCHEDULE 3]"
+msgstr "時間表"
 
 #: Scripts\Scheduler\ScheduleListing.js:267
 msgid "Schedule has been deleted successfully."
-msgstr "計劃已成功刪除。"
+msgstr "時間表已成功刪除。"
 
 #: Scripts\Scheduler\scheduleRecipients.js:229
 msgid "Schedule has been updated successfully. "
-msgstr "計劃已成功更新。"
+msgstr "時間表已成功更新。"
 
 #: Scripts\Scheduler\Scheduler.js:62
 msgid "Schedule name already exists"
@@ -5331,7 +5331,7 @@ msgstr "計劃名稱已存在"
 #: Views\Administration\ScheduleDatabaseSynchronization.cshtml:43
 #: Views\Administration\ScheduleSynchronization.cshtml:40
 msgid "Schedule not started."
-msgstr "計劃未開始。"
+msgstr "附表未開始。"
 
 #: Views\Administration\ScheduleSynchronization.cshtml:2
 msgid "Schedule Synchronization"
@@ -5348,11 +5348,11 @@ msgstr "計劃同步設置"
 
 #: Views\Administration\ScheduleSynchronization.cshtml:27
 msgid "Schedule to synchronize users and groups with Active Directory"
-msgstr "使用Active Directory同步用戶和組的計劃"
+msgstr "使用Active Directory同步用戶和組的時間表"
 
 #: Views\Administration\ScheduleAzureSynchronization.cshtml:30
 msgid "Schedule to synchronize users and groups with Azure AD"
-msgstr "使用Azure AD同步用戶和組的計劃"
+msgstr "使用Azure AD同步用戶和組的時間表"
 
 #: Views\Administration\ScheduleDatabaseSynchronization.cshtml:30
 msgid "Schedule to synchronize users and groups with Database"
@@ -5376,7 +5376,7 @@ msgstr "時間表"
 #: Views\User\_UserPermissionGrid.cshtml:12
 #: Views\User\_UserPermissionGrid.cshtml:82
 msgid "Scope"
-msgstr "1.0"
+msgstr "範圍"
 
 #: Views\Administration\_SiteSettings.cshtml:171
 #: Views\Dashboards\Dashboards.cshtml:447
@@ -5405,7 +5405,7 @@ msgstr "1.0"
 #: Views\UserManagement\_UserImportSelectedDatabaseSchema.cshtml:18
 #: Views\Widgets\Widgets.cshtml:178 Views\Widgets\Widgets.cshtml:179
 msgid "Search"
-msgstr "搜尋"
+msgstr "搜索"
 
 #: Views\Group\ActiveDirectoryGroup.cshtml:205
 msgid "Search AD groups"
@@ -5419,7 +5419,7 @@ msgstr "搜索AD用戶"
 msgid ""
 "Search and select the users from the following list to import into Dashboard "
 "Server"
-msgstr "搜索並從以下列表中選擇用戶導入到Dashboard Server"
+msgstr "從以下列表中搜索並選擇用戶以導入Dashboard Server"
 
 #: Views\Group\ActiveDirectoryGroup.cshtml:209
 msgid "Search Azure AD groups"
@@ -5502,21 +5502,21 @@ msgstr "選擇一個數據庫"
 
 #: Views\Homepages\Homepages.cshtml:133
 msgid "Select a homepage to set as default."
-msgstr "選擇要設置為默認的主頁。"
+msgstr "選擇一個首頁設置為默認。"
 
 #: Views\Items\_shareItemView.cshtml:142
 msgid "Select a user or group to share with"
-msgstr "選擇要與之共享的用戶或組"
+msgstr "選擇要共享的用戶或組"
 
 #: Views\Shared\_ScheduleRecipients.cshtml:50
 msgid ""
 "Select a user, group, or type an email address in the external recipient to "
 "schedule"
-msgstr "選擇用戶，組或在外部收件人中鍵入電子郵件地址進行排定"
+msgstr "選擇一個用戶，組，或在外部收件人中輸入電子郵件地址進行安排"
 
 #: Views\Widgets\Widgets.cshtml:193
 msgid "Select a widget to view."
-msgstr "選擇一個小部件以查看。"
+msgstr "選擇一個小部件來查看。"
 
 #: Views\Items\_ItemPermission.cshtml:54
 msgid "Select Access"
@@ -5550,7 +5550,7 @@ msgstr "選擇一個現有的主頁或添加一個新的主頁。"
 
 #: Views\Homepages\_HomepageAddItem.cshtml:107
 msgid "Select an item to preview."
-msgstr "選擇要預覽的項目。"
+msgstr "選擇一個項目進行預覽。"
 
 #: Views\Dashboards\_AddDashboard.cshtml:65
 #: Views\Dashboards\_EditDashboard.cshtml:67 Views\Items\_CopyItem.cshtml:58
@@ -5632,11 +5632,11 @@ msgstr "選擇要與Active Directory同步的組"
 
 #: Views\Group\ActiveDirectoryGroup.cshtml:190
 msgid "Select groups to synchronize with Azure AD"
-msgstr "選擇與Azure AD進行同步的組"
+msgstr "選擇要與Azure AD同步的組"
 
 #: Views\User\Profile.cshtml:187
 msgid "Select Homepage"
-msgstr "選擇首頁"
+msgstr "選擇主頁"
 
 #: Scripts\Scheduler\DataChanges.js:1
 msgid "Select Join Option"
@@ -5684,11 +5684,11 @@ msgstr "選擇目標"
 
 #: Views\Homepages\_PinWidget.cshtml:72 Views\Homepages\_PinWidget.cshtml:73
 msgid "Select the homepage to pin"
-msgstr "選擇要引導的主頁"
+msgstr "選擇要釘住的主頁"
 
 #: Views\Permission\_AddGroupPermission.cshtml:50
 msgid "Select the permission to add to the group"
-msgstr "選擇添加到組的權限"
+msgstr "選擇要添加到組的權限"
 
 #: Views\Permission\_AddUserPermission.cshtml:52
 msgid "Select the permission to add to the user"
@@ -5697,7 +5697,7 @@ msgstr "選擇添加到用戶的權限"
 #: Views\UserManagement\DatabaseUserImport.cshtml:232
 msgid ""
 "Select the users from the following list to import into Dashboard Server"
-msgstr "從以下列表中選擇要導入Dashboard Server的用戶"
+msgstr "從以下列表中選擇用戶以導入Dashboard Server"
 
 #: Views\Administration\_SiteSettings.cshtml:171
 msgid "Select Timezone"
@@ -5718,11 +5718,11 @@ msgstr "選擇用戶與Active Directory同步"
 
 #: Views\UserManagement\SynchronizeUsers.cshtml:189
 msgid "Select Users to synchronize with Azure AD"
-msgstr "選擇用戶與Azure AD進行同步"
+msgstr "選擇用戶與Azure AD同步"
 
 #: Views\UserManagement\SynchronizeDatabaseUsers.cshtml:170
 msgid "Select Users to synchronize with Existing Database"
-msgstr "選擇用戶與現有數據庫同步"
+msgstr "選擇用戶與現有數據庫進行同步"
 
 #: Scripts\Scheduler\DataChanges.js:458 Scripts\Scheduler\DataChanges.js:521
 #: Scripts\Scheduler\DataChanges.js:580 Scripts\Scheduler\DataChanges.js:632
@@ -5757,7 +5757,7 @@ msgstr "發件人名稱"
 
 #: Scripts\Scheduler\recurrenceType.js:96
 msgid "September"
-msgstr "September 2011"
+msgstr "九月"
 
 #: Scripts\Group\Group.js:330 Scripts\Group\Group.js:348
 msgid "Server Group(s)"
@@ -5769,7 +5769,7 @@ msgstr "服務器組和"
 
 #: Views\Error\ConnectionError.cshtml:33
 msgid "Server might be down."
-msgstr "服務器可能會關閉。"
+msgstr "服務器可能已關閉。"
 
 #: Views\Administration\_ActiveDirectorySettings.cshtml:241
 #: Views\Administration\_ActiveDirectorySettings.cshtml:244
@@ -5790,7 +5790,7 @@ msgstr "暫停服務"
 
 #: Scripts\Scheduler\Scheduler.js:615
 msgid "Set a condition for which you need alerts"
-msgstr "設置需要警報的條件"
+msgstr "設置您需要警報的條件"
 
 #: Views\Homepages\Homepages.cshtml:85 Views\Homepages\Homepages.cshtml:195
 msgid "Set as default homepage"
@@ -5822,7 +5822,7 @@ msgstr "設置已成功更新。"
 
 #: Views\Administration\_ActiveDirectorySettings.cshtml:13
 msgid "Settings to authenticate users via Kerberos ticket management system"
-msgstr "通過Kerberos票據管理系統驗證用戶的設置"
+msgstr "通過Kerberos票證管理系統對用戶進行身份驗證的設置"
 
 #: Scripts\Dashboards\DashboardViews.js:403
 #: Scripts\Dashboards\DashboardViews.js:451
@@ -5832,11 +5832,11 @@ msgstr "分享"
 
 #: Scripts\Items\ItemViewShare.js:56 Views\Items\_shareItemView.cshtml:114
 msgid "Share View"
-msgstr "分享視圖"
+msgstr "共享視圖"
 
 #: Views\Items\_shareItemView.cshtml:146
 msgid "Shared with"
-msgstr "與...共享"
+msgstr "和...分享"
 
 #: Views\Administration\_SiteSettings.cshtml:237
 msgid "Show copyright information"
@@ -5852,7 +5852,7 @@ msgstr "顯示家長"
 
 #: Views\Administration\_SiteSettings.cshtml:228
 msgid "Show powered by Syncfusion"
-msgstr "顯示由Syncfusion提供支持"
+msgstr "由Syncfusion提供動力"
 
 #: Views\Items\_GetEmbedCode.cshtml:45
 msgid "Show Saved Views"
@@ -5860,7 +5860,7 @@ msgstr "顯示保存的視圖"
 
 #: Views\Administration\SAMLSettings.cshtml:99
 msgid "SINGLE SIGN-ON SETTINGS"
-msgstr "單一登錄設置"
+msgstr "單點登錄設置"
 
 #: Views\Administration\_AdminMenu.cshtml:19
 msgid "Site"
@@ -5868,7 +5868,7 @@ msgstr "現場"
 
 #: Views\Administration\_SiteSettings.cshtml:15
 msgid "SITE SETTINGS"
-msgstr "站點設置"
+msgstr "網站設置"
 
 #: Views\Administration\_SiteSettings.cshtml:30
 msgid "Site URL"
@@ -5918,11 +5918,11 @@ msgstr "SSO設置"
 msgid ""
 "SSO settings has been updated. The application will be restarted "
 "automatically inorder to apply this changes."
-msgstr "SSO設置已更新。應用程序將自動重新啟動，以應用此更改。"
+msgstr "SSO設置已更新。應用程序將自動重新啟動以應用此更改。"
 
 #: Views\Shared\_RecurrenceType.cshtml:196
 msgid "Starts on"
-msgstr "開始了"
+msgstr "開始"
 
 #: Scripts\Core\Server.Core.js:567
 msgid "StartsWith"
@@ -5950,7 +5950,7 @@ msgstr "串"
 
 #: Scripts\Administration\Storage.js:131 Scripts\System\SystemSettings.js:962
 msgid "Subdomain name should match with the Account name"
-msgstr "子域名應與帳戶名稱匹配"
+msgstr "子域名稱應與帳戶名稱匹配"
 
 #: Scripts\Group\ActiveDirectoryGroupImport.js:71
 #: Scripts\Group\SynchronizeGroups.js:141
@@ -6003,15 +6003,15 @@ msgstr "同步組"
 #: Views\Group\ActiveDirectoryGroup.cshtml:195 Views\Group\Group.cshtml:267
 #: Views\Group\Group.cshtml:290
 msgid "Synchronize groups with Active Directory"
-msgstr "將組與Active Directory同步"
+msgstr "與Active Directory同步組"
 
 #: Views\Group\Group.cshtml:276 Views\Group\Group.cshtml:299
 msgid "Synchronize groups with Azure AD"
-msgstr "與Azure AD同步組"
+msgstr "使用Azure AD同步組"
 
 #: Views\Administration\_ActiveDirectorySettings.cshtml:14
 msgid "Synchronize schedules"
-msgstr "同步日程表"
+msgstr "同步時間表"
 
 #: Views\UserManagement\Index.cshtml:247
 #: Views\UserManagement\SynchronizeDatabaseUsers.cshtml:2
@@ -6021,31 +6021,31 @@ msgstr "同步用戶"
 
 #: Views\Administration\_ActiveDirectorySettings.cshtml:30
 msgid "Synchronize users and groups from database on a regular schedule"
-msgstr "定期從數據庫同步用戶和組"
+msgstr "定期同步數據庫中的用戶和組"
 
 #: Views\UserManagement\Index.cshtml:255 Views\UserManagement\Index.cshtml:288
 msgid "Synchronize users with Active Directory"
-msgstr "將用戶與Active Directory同步"
+msgstr "使用戶與Active Directory同步"
 
 #: Views\UserManagement\Index.cshtml:264 Views\UserManagement\Index.cshtml:294
 msgid "Synchronize users with Azure AD"
-msgstr "與Azure AD同步用戶"
+msgstr "將用戶與Azure AD同步"
 
 #: Views\UserManagement\Index.cshtml:273 Views\UserManagement\Index.cshtml:300
 msgid "Synchronize users with Custom Database"
-msgstr "將用戶與自定義數據庫同步"
+msgstr "使用戶與自定義數據庫同步"
 
 #: Views\UserManagement\SynchronizeDatabaseUsers.cshtml:174
 msgid "Synchronize Users with Exsiting Database"
-msgstr "使用Exsiting數據庫同步用戶"
+msgstr "使用戶與現有數據庫同步"
 
 #: Models\Group\GroupModels.cs:1195
 msgid "Synchronizing groups with active directory has been failed."
-msgstr "同步組與活動目錄已失敗。"
+msgstr "與活動目錄同步組失敗。"
 
 #: Models\Group\GroupModels.cs:1156
 msgid "Synchronizing groups with active directory has been successful."
-msgstr "使活動目錄同步組已成功。"
+msgstr "與活動目錄同步組已成功。"
 
 #: Models\Group\GroupModels.cs:1374
 msgid "Synchronizing groups with azure active directory has been failed."
@@ -6058,23 +6058,23 @@ msgstr "使用azure活動目錄同步組已成功。"
 #: Models\UserManagementModel.cs:938 Models\UserManagementModel.cs:1139
 #: Scripts\User\SynchronizeUsers.js:141
 msgid "Synchronizing users with active directory has been failed."
-msgstr "將用戶與活動目錄同步已失敗。"
+msgstr "使用戶與活動目錄同步失敗。"
 
 #: Models\UserManagementModel.cs:1105
 msgid "Synchronizing users with active directory has been successful."
-msgstr "將用戶與活動目錄同步已成功。"
+msgstr "使用戶與活動目錄同步已成功。"
 
 #: Models\UserManagementModel.cs:904
 msgid "Synchronizing users with azure active directory has been successful."
-msgstr "使用azure活動目錄同步用戶已經成功。"
+msgstr "使用azure活動目錄同步用戶已成功。"
 
 #: Models\UserManagementModel.cs:745 Scripts\User\SynchronizeUsers.js:171
 msgid "Synchronizing users with existing database has been failed."
-msgstr "將用戶與現有數據庫同步已失敗。"
+msgstr "使用戶與現有數據庫同步失敗。"
 
 #: Models\UserManagementModel.cs:710
 msgid "Synchronizing users with existing database has been successful."
-msgstr "將用戶與現有數據庫同步已成功。"
+msgstr "使用戶與現有數據庫同步已取得成功。"
 
 #: Views\Administration\NotificationSettings.cshtml:54
 #: Views\User\_UserNotificationPreference.cshtml:23
@@ -6090,7 +6090,7 @@ msgstr "表名前綴"
 
 #: Views\Shared\_SchedulerDialog.cshtml:86
 msgid "Tabs "
-msgstr "頁面标签"
+msgstr "標籤"
 
 #: Views\Administration\SAMLSettings.cshtml:143
 #: Views\Administration\SAMLSettings.cshtml:146
@@ -6098,7 +6098,7 @@ msgstr "頁面标签"
 #: Views\Group\ActiveDirectoryGroupImport.cshtml:178
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:197
 msgid "Tenant Name"
-msgstr "租客名稱"
+msgstr "租戶名稱"
 
 #: Views\Administration\_ActiveDirectorySettings.cshtml:122
 msgid "Test Active Directory Connection"
@@ -6118,12 +6118,12 @@ msgstr "測試連接成功。"
 
 #: Views\Shared\_CustomExpressionEditor.cshtml:108
 msgid "Text"
-msgstr "text"
+msgstr "文本"
 
 #: Scripts\Scheduler\recurrenceType.js:286
 #: Scripts\Scheduler\recurrenceType.js:306
 msgid "the"
-msgstr "那些董事"
+msgstr "該"
 
 #: Views\Administration\ScheduleAzureSynchronization.cshtml:178
 #: Views\Administration\ScheduleAzureSynchronization.cshtml:212
@@ -6138,7 +6138,7 @@ msgstr "那些董事"
 #: Views\Shared\_RecurrenceType.cshtml:162
 #: Views\Shared\_RecurrenceType.cshtml:173
 msgid "The"
-msgstr "那些董事？"
+msgstr "該"
 
 #: Controllers\Group\GroupController.cs:466
 msgid "The AD settings is not configured"
@@ -6148,13 +6148,13 @@ msgstr "AD設置未配置"
 msgid ""
 "The below table(s) already exists in the selected database. Please change "
 "the prefix or choose some other database."
-msgstr "所選數據庫中已存在下表。請更改前綴或選擇其他數據庫。"
+msgstr "下表（s）已存在於所選數據庫中。請更改前綴或選擇其他數據庫。"
 
 #: Scripts\System\SystemSettings.js:1947 Scripts\System\SystemSettings.js:2059
 msgid ""
 "The below table(s) are already exists in the selected database. Please "
 "change the prefix or choose some other database."
-msgstr "下表已經存在於選定的數據庫中。請更改前綴或選擇其他數據庫。"
+msgstr "所選數據庫中已存在下表。請更改前綴或選擇其他數據庫。"
 
 #: Models\UserManagementModel.cs:876 Models\UserManagementModel.cs:1077
 msgid "The destination URL is not reachable"
@@ -6165,7 +6165,7 @@ msgid ""
 "The homepage is the initial screen that is seen when a dashboard server is "
 "launched. It can either contain individual widgets from other dashboards or "
 "have entire dashboards pinned to it."
-msgstr "主頁是啟動儀表板服務器時看到的初始屏幕。它可以包含來自其他儀表板的各個小部件，也可以將整個儀表板固定在其上。"
+msgstr "主頁是啟動儀表板服務器時看到的初始屏幕。它可以包含來自其他儀表板的單個小部件或將整個儀表板固定到它。"
 
 #: Views\Homepages\Homepages.cshtml:148
 msgid ""
@@ -6173,42 +6173,42 @@ msgid ""
 "launched. It can either contain individual widgets from other dashboards or "
 "have entire dashboards pinned to it. It is possible to create multiple "
 "homepages, but only one can be active."
-msgstr "主頁是啟動儀表板服務器時看到的初始屏幕。它可以包含來自其他儀表板的各個小部件，也可以將整個儀表板固定在其上。可以創建多個主頁，但只有一個可以是活動的。"
+msgstr "主頁是啟動儀表板服務器時看到的初始屏幕。它可以包含來自其他儀表板的單個小部件或將整個儀表板固定到它。可以創建多個主頁，但只能有一個主頁。"
 
 #: Views\Home\CommentNotFound.cshtml:12
 msgid ""
 "The mentioned comment could not be opened as the dashboard or widget has "
 "been removed from the Dashboard Server."
-msgstr "由於儀表板或小部件已從儀表板服務器中刪除，因此無法打開提及的註釋。"
+msgstr "由於儀表板或小部件已從儀表板服務器中刪除，所以無法打開提到的註釋。"
 
 #: Views\Accounts\CodeConfirmation.cshtml:71
 msgid "The reset password link expires in two hours!"
-msgstr "重置密碼鏈接在兩個小時內到期！"
+msgstr "重置密碼鏈接將在兩個小時內過期！"
 
 #: Scripts\Items\ItemActions.js:161
 msgid "There is an error in cloning the dashboard. Please try again later."
-msgstr "克隆儀表板時出現錯誤。請稍後再試。"
+msgstr "克隆儀表板時出錯。請稍後再試。"
 
 #: Scripts\Items\ItemActions.js:126
 msgid "There is an error in copying the dashboard. Please try again later."
-msgstr "複製信息中心時出錯。請稍後再試。"
+msgstr "複製儀表板時出錯。請稍後再試。"
 
 #: Scripts\Items\ItemActions.js:91
 msgid "There is an error in moving the dashboard. Please try again later."
-msgstr "移動儀表板時出現錯誤。請稍後再試。"
+msgstr "移動儀表板時出錯。請稍後再試。"
 
 #: Controllers\Group\GroupController.cs:377
 msgid ""
 "There is an error in updating this group. Please reload the page and try "
 "again"
-msgstr "更新此組時出錯。請刷新頁面，然後再試一次"
+msgstr "更新此群組時出錯。請刷新頁面，然後再試一次"
 
 #: Scripts\User\UserManagement.js:134
 #: Views\Group\ActiveDirectoryGroupImport.cshtml:201
 #: Views\UserManagement\UploadFileFormAction.cshtml:150
 msgid ""
 "There is no data in the uploaded file. Please check and try uploading again."
-msgstr "上傳的文件中沒有數據。請檢查並嘗試重新上傳。"
+msgstr "上傳的文件中沒有數據。請檢查並再次嘗試上傳。"
 
 #: Scripts\Scheduler\recurrenceType.js:84
 msgid "third"
@@ -6218,39 +6218,39 @@ msgstr "第三"
 msgid ""
 "This application requires a database to proceed further. Please choose a "
 "database."
-msgstr "此應用程序需要數據庫進一步。請選擇一個數據庫。"
+msgstr "此應用程序需要數據庫進一步處理。請選擇一個數據庫。"
 
 #: Views\Shared\_SchedulerDialog.cshtml:101
 msgid "This can be enabled if the selected dashboard contains multiple tabs."
-msgstr "如果所選的儀表板包含多個選項卡，則可以啟用此功能"
+msgstr "如果所選儀表板包含多個選項卡，則可以啟用該功能。"
 
 #: Scripts\Comments\Comment.js:583 Scripts\Comments\Comment.js:1035
 msgid "This comment was deleted."
-msgstr "此評論已被刪除。"
+msgstr "此評論已刪除。"
 
 #: Scripts\Scheduler\scheduleRecipients.js:215
 msgid "This condition will be evaluated "
-msgstr "將評估此條件"
+msgstr "這種情況將被評估"
 
 #: Scripts\Homepages\Homepages.js:790
 msgid "This dashboard has been deleted."
-msgstr "此信息中心已被刪除。"
+msgstr "該儀表板已被刪除。"
 
 #: Scripts\Homepages\Homepages.js:824
 msgid "This dashboard has been deleted/updated."
-msgstr "此儀表板已被刪除/更新。"
+msgstr "該儀表板已被刪除/更新。"
 
 #: Views\Items\_GetLink.cshtml:73
 msgid ""
 "This Dashboard has been marked public, so anyone with this link will be able "
 "to view the contents of the Dashboard."
-msgstr "此儀表板已標記為公開，因此任何擁有此鏈接的人都可以查看儀表板的內容。"
+msgstr "該儀表板已被公開標記​​，因此具有此鏈接的任何人都可以查看儀表板的內容。"
 
 #: Views\Items\_GetLink.cshtml:81
 msgid ""
 "This has been marked public, so anyone with this link will be able to view "
 "the contents."
-msgstr "這已被標記為公開，所以任何擁有此鏈接的人都可以查看內容。"
+msgstr "這已被標記為公開，所以具有此鏈接的任何人都將能夠查看內容。"
 
 #: Views\Accounts\AccountActivation.cshtml:56
 msgid "This link is invalid."
@@ -6260,7 +6260,7 @@ msgstr "此鏈接無效。"
 msgid ""
 "This value will determine whether the user can be imported into the "
 "Dashboard Server or removed during synchronization."
-msgstr "此值將確定用戶是否可以導入到儀表板服務器中或在同步期間刪除。"
+msgstr "該值將決定用戶是否可以導入到Dashboard Server中或在同步過程中刪除。"
 
 #: Scripts\Homepages\Homepages.js:686
 msgid "This widget has been deleted."
@@ -6268,19 +6268,19 @@ msgstr "此小工具已被刪除。"
 
 #: Scripts\Homepages\Homepages.js:705
 msgid "This Widget has been deleted."
-msgstr "此小工具已被刪除。"
+msgstr "這個小工具已被刪除。"
 
 #: Views\Items\_GetLink.cshtml:77
 msgid ""
 "This Widget has been marked public, so anyone with this link will be able to "
 "view the contents of the Widget."
-msgstr "這個小部件已被標記為公開，所以有這個鏈接的任何人都可以查看小部件的內容。"
+msgstr "此Widget已被公開標記​​，所以任何擁有此鏈接的人都可以查看Widget的內容。"
 
 #: Views\Administration\NotificationSettings.cshtml:40
 msgid ""
 "This will be the default notification settings. Users can either choose the "
 "default settings or their own notification settings."
-msgstr "這將是默認通知設置。用戶可以選擇默認設置或自己的通知設置。"
+msgstr "這將是默認的通知設置。用戶可以選擇默認設置或自己的通知設置。"
 
 #: Scripts\Scheduler\recurrenceType.js:71
 #: Views\Administration\ScheduleAzureSynchronization.cshtml:139
@@ -6296,7 +6296,7 @@ msgstr "星期四"
 #: Views\Administration\ScheduleDatabaseSynchronization.cshtml:246
 #: Views\Administration\ScheduleSynchronization.cshtml:243
 msgid "Time"
-msgstr "時 間"
+msgstr "時間"
 
 #: Views\Administration\_SiteSettings.cshtml:169
 msgid "Time Zone"
@@ -6304,11 +6304,11 @@ msgstr "時區"
 
 #: Models\ItemModel.cs:476 Models\ItemModel.cs:482 Models\ItemModel.cs:487
 msgid "to"
-msgstr "到"
+msgstr "至"
 
 #: Views\Items\_CopyItem.cshtml:55 Views\Items\_MoveItem.cshtml:45
 msgid "To"
-msgstr "到"
+msgstr "至"
 
 #: Views\ServerConfiguration\Index.cshtml:271
 msgid "to learn how to create a DSN for MySQL database."
@@ -6348,7 +6348,7 @@ msgstr "切換預覽"
 
 #: Views\Administration\LicenseSettings.cshtml:27
 msgid "Total license count"
-msgstr "總許可證數量"
+msgstr "許可證總數"
 
 #: Views\Shared\_DashboardViews.cshtml:93
 msgid "Try again latter"
@@ -6387,15 +6387,15 @@ msgstr "無法刪除儀表板 -"
 
 #: Views\Items\_DeleteItem.cshtml:55
 msgid "Unable to delete the report -"
-msgstr "無法刪除報表 -"
+msgstr "無法刪除報告 -"
 
 #: Views\Items\_MakeItemPublic.cshtml:53
 msgid "Unable to mark this "
-msgstr "無法標記這個"
+msgstr "無法標記此"
 
 #: Scripts\Homepages\HomepageAddItem.js:226 Scripts\Homepages\PinWidget.js:64
 msgid "Unable to pin widget to the homepage. Widget limit exceeded."
-msgstr "無法將小部件固定到主頁。超出了微件限制。"
+msgstr "無法將小部件固定到主頁上。小部件超出限制。"
 
 #: Scripts\Homepages\Homepages.js:199 Scripts\Homepages\Homepages.js:202
 msgid "Unable to remove the default homepage."
@@ -6407,11 +6407,11 @@ msgstr "無法刪除此"
 
 #: Scripts\Dashboards\UpdateDataSource.js:114
 msgid "Unable to update Data Source(s)"
-msgstr "無法更新數據源"
+msgstr "無法更新數據源（s）"
 
 #: Scripts\Comments\DashboardComment.js:175 Scripts\Items\Items.js:364
 msgid "Unable to update favorite"
-msgstr "無法更新收藏"
+msgstr "無法更新收藏夾"
 
 #: Scripts\Dashboards\DashboardViews.js:666
 msgid "Unsaved View"
@@ -6473,7 +6473,7 @@ msgstr "更新數據源"
 #: Views\Dashboards\_UpdateDataSource.cshtml:105
 #: Views\Items\_ItemsGrid.cshtml:194 Views\Items\_ItemsList.cshtml:358
 msgid "Update Data Source(s)"
-msgstr "更新數據源"
+msgstr "更新數據源（s）"
 
 #: Views\Dashboards\_UpdateDataSource.cshtml:48
 msgid "Update data sources connected to the Dashboard -"
@@ -6529,11 +6529,11 @@ msgstr "更新"
 #: Views\Administration\_SiteSettings.cshtml:101
 #: Views\UserManagement\UploadFileFormAction.cshtml:142
 msgid "Upload"
-msgstr "上載"
+msgstr "上傳"
 
 #: Views\UserManagement\UploadFileFormAction.cshtml:142
 msgid "Upload CSV File here"
-msgstr "在此上傳CSV文件"
+msgstr "上傳CSV文件"
 
 #: Scripts\Comments\Comment.js:1214
 msgid "Upload Image"
@@ -6541,7 +6541,7 @@ msgstr "上傳圖片"
 
 #: Views\Administration\_SiteSettings.cshtml:197
 msgid "Use 24-hour format"
-msgstr "使用24小時格式"
+msgstr "使用24小時制"
 
 #: Views\Administration\Storage.cshtml:79
 #: Views\ServerConfiguration\_FileStorage.cshtml:54
@@ -6564,7 +6564,7 @@ msgstr "用戶"
 
 #: Views\Accounts\AccountActivation.cshtml:51
 msgid "User account activation"
-msgstr "用戶 帳戶 激活。"
+msgstr "用戶帳戶激活"
 
 #: Scripts\User\UserManagementProfile.js:289
 msgid "User account has been activated successfully."
@@ -6588,7 +6588,7 @@ msgstr "用戶目錄設置"
 
 #: Scripts\User\UserManagement.js:223
 msgid "User has been added and activated successfully."
-msgstr "用戶已被添加並成功激活。"
+msgstr "用戶已成功添加並激活。"
 
 #: Scripts\User\UserManagement.js:226
 msgid "User has been added successfully."
@@ -6598,15 +6598,15 @@ msgstr "用戶已成功添加。"
 msgid ""
 "User has been created successfully. Activation emails cannot be sent until "
 "the user’s email settings are configured."
-msgstr "用戶已成功創建。在配置用戶的電子郵件設置之前，無法發送激活電子郵件。"
+msgstr "用戶已成功創建。激活電子郵件不能發送，直到用戶的電子郵件設置配置。"
 
 #: Scripts\User\UserManagement.js:803
 msgid "User has been deleted successfully."
-msgstr "用戶已成功刪除"
+msgstr "用戶已成功刪除。"
 
 #: Scripts\User\ActiveDirectoryUserImport.js:95
 msgid "User has been imported and activated successfully."
-msgstr "用戶已被導入並成功激活。"
+msgstr "用戶已成功導入並激活。"
 
 #: Models\AccountModel.cs:177
 msgid "User has been locked"
@@ -6627,7 +6627,7 @@ msgstr "用戶導入不完整。你想繼續嗎？"
 
 #: Views\Shared\_Menu.cshtml:83
 msgid "User Management"
-msgstr "用戶 管理"
+msgstr "用戶管理"
 
 #: Views\UserManagement\ViewProfile.cshtml:112
 msgid "User Name"
@@ -6635,7 +6635,7 @@ msgstr "用戶名"
 
 #: Views\Administration\NotificationSettings.cshtml:2
 msgid "User Notification Preference"
-msgstr "用戶通知偏好"
+msgstr "用戶通知首選項"
 
 #: Views\Permission\UserPermission.cshtml:2
 msgid "User Permissions"
@@ -6651,11 +6651,11 @@ msgstr "用戶資料"
 
 #: Controllers\Administration\UserManagementController.cs:1104
 msgid "User profile has been failed to update"
-msgstr "用戶個人資料未能更新"
+msgstr "用戶配置文件未能更新"
 
 #: Controllers\Administration\UserManagementController.cs:1091
 msgid "User profile has been updated successfully."
-msgstr "用戶配置文件已成功更新。"
+msgstr "用戶個人資料已成功更新。"
 
 #: Controllers\UserController.cs:366
 msgid "User Profile has been updated successfully."
@@ -6681,7 +6681,7 @@ msgstr "用戶設置已成功更新"
 
 #: Scripts\Scheduler\scheduleRecipients.js:75
 msgid "User(s)"
-msgstr "用戶"
+msgstr "用戶（S）"
 
 #: Models\UserManagementModel.cs:693 Models\UserManagementModel.cs:1088
 msgid "user(s) are deleted"
@@ -6693,15 +6693,15 @@ msgstr "用戶被刪除。"
 
 #: Models\UserManagementModel.cs:683 Models\UserManagementModel.cs:1083
 msgid "user(s) details are modified"
-msgstr "用戶的詳細信息被修改"
+msgstr "用戶的細節被修改"
 
 #: Models\UserManagementModel.cs:882
 msgid "user(s) details are modified."
-msgstr "用戶的詳細信息被修改。"
+msgstr "用戶的細節被修改。"
 
 #: Scripts\User\UserManagement.js:755
 msgid "user(s) has been added and activated successfully."
-msgstr "用戶已被添加並成功激活。"
+msgstr "用戶已成功添加並激活。"
 
 #: Scripts\User\UserManagement.js:755
 msgid "user(s) has been added successfully."
@@ -6719,7 +6719,7 @@ msgstr "用戶已成功刪除。"
 #: Scripts\User\ActiveDirectoryUserImport.js:101
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:221
 msgid "User(s) has been imported and activated successfully."
-msgstr "用戶已被導入並成功激活。"
+msgstr "用戶已成功導入並激活。"
 
 #: Scripts\User\UserImportDatabase.js:1415
 msgid "User(s) has been imported successfully."
@@ -6727,11 +6727,11 @@ msgstr "用戶已成功導入。"
 
 #: Views\UserManagement\_AddUserInGroup.cshtml:10
 msgid "user(s) selected"
-msgstr "選擇用戶"
+msgstr "已選擇用戶"
 
 #: Views\UserManagement\_LimitUserCreation.cshtml:17
 msgid "user(s) to import since there are only"
-msgstr "只有使用者才能進口"
+msgstr "只有用戶才能導入"
 
 #: Models\UserManagementModel.cs:688
 msgid "User(s) were not found in the database"
@@ -6779,7 +6779,7 @@ msgstr "用戶名"
 
 #: Views\UserManagement\_UserImportSelectedDatabaseSchema.cshtml:67
 msgid "Username : "
-msgstr "用戶名"
+msgstr "用戶名 ："
 
 #: Models\UserManagementModel.cs:586 Models\UserManagementModel.cs:820
 #: Models\UserManagementModel.cs:1016 Models\UserManagementModel.cs:1094
@@ -6837,22 +6837,22 @@ msgstr "用戶名不能為空"
 
 #: Scripts\Core\Server.Core.js:388
 msgid "Username should not contain special characters"
-msgstr "用戶名不應包含特殊字符"
+msgstr "用戶名不得包含特殊字符"
 
 #: Models\UserManagementModel.cs:2126
 msgid ""
 "Username should not contain special characters #%&*+<>?:/&quot;[']\\|@;,"
-msgstr "用戶名不能包含特殊字符＃％＆* + <>？：/＆quot; ['] \\ | @"
+msgstr "用戶名不得包含特殊字符＃％＆* + <>？：/＆quot; ['] \\ | @ ;,"
 
 #: Scripts\Core\Server.Core.js:385 Scripts\User\UserManagement.js:59
 msgid "Username should not contain white space"
-msgstr "用戶名不應包含空格"
+msgstr "用戶名不得包含空格"
 
 #: Models\UserManagementModel.cs:325
 msgid ""
 "Usernames, Email addresses, Names and Passwords with special characters (, ” "
 "<) will not be displayed in the list below."
-msgstr "用戶名，電子郵件地址，具有特殊字符（“<”）的名稱和密碼將不會顯示在下面的列表中。"
+msgstr "用戶名，電子郵件地址，帶特殊字符的名稱和密碼（，“<）將不會顯示在下面的列表中。"
 
 #: Views\Group\ActiveDirectoryGroup.cshtml:128 Views\Group\AddUsers.cshtml:95
 #: Views\Group\Group.cshtml:147 Views\Items\_ItemPermission.cshtml:73
@@ -6874,7 +6874,7 @@ msgstr "用戶"
 
 #: Views\UserManagement\Index.cshtml:191
 msgid "USERS"
-msgstr "用戶"
+msgstr "USERS"
 
 #: Views\UserManagement\UploadFileFormAction.cshtml:2
 msgid "Users - CSV import"
@@ -6886,7 +6886,7 @@ msgstr "用戶 - 從數據庫導入"
 
 #: Scripts\Group\SynchronizeGroups.js:139
 msgid "Users added"
-msgstr "用戶已添加"
+msgstr "用戶添加"
 
 #: Scripts\Group\ActiveDirectoryGroupImport.js:68
 msgid "Users imported"
@@ -6906,7 +6906,7 @@ msgstr "用戶未同步"
 
 #: Scripts\Group\SynchronizeGroups.js:139
 msgid "Users removed"
-msgstr "已刪除用戶"
+msgstr "用戶已移除"
 
 #: Scripts\Group\SynchronizeGroups.js:139
 msgid "Users Synchronized"
@@ -6914,13 +6914,13 @@ msgstr "用戶同步"
 
 #: Views\Items\_ItemVersion.cshtml:143
 msgid "Version"
-msgstr "版本"
+msgstr "版"
 
 #: Views\Dashboards\_EditDashboard.cshtml:121
 #: Views\DataSources\_EditDataSource.cshtml:85
 #: Views\Widgets\_EditWidget.cshtml:94
 msgid "Version comments"
-msgstr "版本評論"
+msgstr "版本註釋"
 
 #: Views\Items\_ItemVersion.cshtml:11
 msgid "Version history"
@@ -6938,11 +6938,11 @@ msgstr "版本"
 #: Views\Group\Group.cshtml:58 Views\Group\Group.cshtml:65
 #: Views\UserManagement\Index.cshtml:90
 msgid "View"
-msgstr "看"
+msgstr "視圖"
 
 #: Views\Items\_shareItemView.cshtml:198
 msgid "View - Remove Access"
-msgstr "查看 - 刪除訪問"
+msgstr "查看 - 刪除訪問權限"
 
 #: Views\Shared\_Header.cshtml:79
 msgid "View all"
@@ -6994,16 +6994,16 @@ msgstr "查看您可以在儀表板服務器中訪問的資源的權限。"
 
 #: Views\EmbedFileRender\Widgets.cshtml:3 Views\FileRender\Widget.cshtml:5
 msgid "View Widget"
-msgstr "查看小部件"
+msgstr "查看小工具"
 
 #: Views\Items\_ItemsList.cshtml:254 Views\Items\_ItemsList.cshtml:462
 #: Views\Shared\_DashboardViews.cshtml:45
 msgid "Views"
-msgstr "瀏覽次數"
+msgstr "查看"
 
 #: Views\Shared\_DashboardViews.cshtml:58
 msgid "VIEWS"
-msgstr "瀏覽次數"
+msgstr "VIEWS"
 
 #: Scripts\Comments\Comment.js:667 Views\Shared\_Comments.cshtml:87
 msgid "Watch"
@@ -7013,7 +7013,7 @@ msgstr "看"
 msgid ""
 "We are not able to send activation emails because the email settings are not "
 "configured. Update email settings"
-msgstr "由於未配置電子郵件設置，因此無法發送激活電子郵件。更新電子郵件設置"
+msgstr "我們無法發送激活電子郵件，因為未配置電子郵件設置。更新郵件設置"
 
 #: Scripts\launcher\launcher.js:162
 msgid ""
@@ -7021,7 +7021,7 @@ msgid ""
 "refer to this <a href='https://help.syncfusion.com/dashboard-platform/"
 "dashboard-designer/installation'>link</a> on how to open a Dashboard in "
 "Dashboard Designer"
-msgstr "我們無法從IE 9瀏覽器啟動儀表板設計器。請參閱<a href='https://help.syncfusion.com/dashboard-platform/dashboard-designer/installation'>鏈接</a>，了解如何在儀表板設計器中打開儀表板"
+msgstr "我們無法從IE 9瀏覽器啟動儀表板設計器。請參閱此<a href='https://help.syncfusion.com/dashboard-platform/dashboard-designer/installation'>鏈接</a>，了解如何在信息中心設計器中打開信息中心"
 
 #: Scripts\Scheduler\recurrenceType.js:68
 #: Views\Administration\ScheduleAzureSynchronization.cshtml:130
@@ -7037,15 +7037,15 @@ msgstr "星期三"
 #: Views\Administration\ScheduleSynchronization.cshtml:107
 #: Views\Shared\_RecurrenceType.cshtml:69
 msgid "week(s)"
-msgstr "週"
+msgstr "本週（S）"
 
 #: Scripts\Administration\ScheduleSynchronization.js:101
 msgid "week(s) on"
-msgstr "週（週）"
+msgstr "星期"
 
 #: Scripts\Administration\ScheduleSynchronization.js:357
 msgid "week(s) on "
-msgstr "週（週）"
+msgstr "星期"
 
 #: Scripts\Scheduler\recurrenceType.js:45
 msgid "weekday"
@@ -7059,7 +7059,7 @@ msgstr "每週"
 #: Views\Administration\_SiteSettings.cshtml:53
 #: Views\Administration\_SiteSettings.cshtml:56
 msgid "Welcome note"
-msgstr "歡迎光臨"
+msgstr "歡迎注意"
 
 #: Views\ServerConfiguration\Index.cshtml:9
 #: Views\ServerConfiguration\Index.cshtml:69
@@ -7073,31 +7073,31 @@ msgstr "窗口小部件"
 
 #: Views\Widgets\_AddWidget.cshtml:124
 msgid "Widget has been added successfully."
-msgstr "小部件已成功添加。"
+msgstr "Widget已成功添加。"
 
 #: Scripts\Homepages\HomepageAddItem.js:212
 msgid "Widget has been pinned successfully."
-msgstr "Widget已成功固定。"
+msgstr "小部件已成功鎖定。"
 
 #: Views\Widgets\_EditWidget.cshtml:137
 msgid "Widget has been updated successfully."
-msgstr "小工具已成功更新。"
+msgstr "小部件已成功更新。"
 
 #: Views\Homepages\_PinWidget.cshtml:52
 msgid "Widget name"
-msgstr "小工具名稱"
+msgstr "小部件名稱"
 
 #: Views\Widgets\Widgets.cshtml:148
 msgid "Widget Name"
-msgstr "小部件名稱"
+msgstr "窗口小部件名稱"
 
 #: Scripts\Widget\EditWidget.js:154
 msgid "Widget name already exist"
-msgstr "小部件名稱已經存在"
+msgstr "小工具名稱已存在"
 
 #: Scripts\Widget\AddWidget.js:108
 msgid "Widget name already exists"
-msgstr "小部件名稱已經存在"
+msgstr "小工具名稱已存在"
 
 #: Views\Administration\DashboardSettings.cshtml:59
 msgid "widgets"
@@ -7132,7 +7132,7 @@ msgstr "寫一個評論"
 #: Views\Administration\ScheduleSynchronization.cshtml:202
 #: Views\Shared\_RecurrenceType.cshtml:155
 msgid "year(s)"
-msgstr "三至四年"
+msgstr "年份）"
 
 #: Scripts\Administration\ScheduleSynchronization.js:235
 #: Scripts\Scheduler\recurrenceType.js:34
@@ -7146,7 +7146,7 @@ msgstr "每年"
 #: Scripts\Scheduler\recurrenceType.js:298
 #: Scripts\Scheduler\recurrenceType.js:308
 msgid "years on"
-msgstr "幾年了"
+msgstr "多年"
 
 #: Scripts\Core\Server.Core.js:455 Scripts\Dashboards\DashboardViews.js:1005
 #: Views\Group\_DeleteConfirm.cshtml:52 Views\Group\_DeleteGroupUser.cshtml:44
@@ -7168,7 +7168,7 @@ msgstr "昨天"
 
 #: Models\Scheduler\ScheduleManagement.cs:1196
 msgid "Yet to run"
-msgstr "還要跑"
+msgstr "然後運行"
 
 #: Models\AccountModel.cs:204
 msgid "You are not an authorized user"
@@ -7182,37 +7182,37 @@ msgstr "你只能選擇"
 msgid ""
 "You do not have access to create a Data Source. Please check with your "
 "Dashboard Server administrator to obtain access."
-msgstr "您無權創建數據源。請與您的Dashboard Server管理員聯繫以獲取訪問權限。"
+msgstr "您無權創建數據源。請與您的儀表板服務器管理員聯繫以獲得訪問權限。"
 
 #: Controllers\Items\ItemsController.cs:436
 msgid ""
 "You do not have permission to create dashboards in a category. So you could "
 "not clone dashboards in any category"
-msgstr "您沒有權限在類別中創建儀表板。所以您無法克隆任何類別的儀表板"
+msgstr "您無權在類別中創建儀表板。所以你不能克隆任何類別的儀表板"
 
 #: Controllers\Items\ItemsController.cs:432
 msgid ""
 "You do not have permission to create dashboards in a category. So you could "
 "not copy dashboards in any category "
-msgstr "您沒有權限在類別中創建儀表板。所以您無法在任何類別中復制儀表板"
+msgstr "您無權在類別中創建儀表板。所以你不能複制任何類別的儀表板"
 
 #: Controllers\Items\ItemsController.cs:1000
 msgid ""
 "You do not have permission to create dashboards in any category or there is "
 "no category to move."
-msgstr "您沒有權限在任何類別中創建儀表板，或者沒有類別可以移動。"
+msgstr "您無權在任何類別中創建儀表板，也沒有可移動的類別。"
 
 #: Scripts\Homepages\Homepages.js:787
 msgid "You do not have permission to view this dashboard."
-msgstr "您沒有權限查看此信息中心。"
+msgstr "您無權查看此儀表板。"
 
 #: Views\Home\Permissiondenied.cshtml:17
 msgid "You do not have permission to view this page."
-msgstr "您沒有查看此頁面的權限。"
+msgstr "您無權查看此頁面。"
 
 #: Scripts\Homepages\Homepages.js:682
 msgid "You do not have permission to view this widget."
-msgstr "您沒有權限查看此小部件。"
+msgstr "您無權查看此小部件。"
 
 #: Views\Notification\Notifications.cshtml:71
 #: Views\Notification\Notifications.cshtml:81
@@ -7228,18 +7228,18 @@ msgid ""
 "You have not pinned any widget to the homepage yet. Start tracking data from "
 "multiple dashboards. Click pin icon on dashboard widgets to pin widgets to "
 "home screen."
-msgstr "您尚未將任何小部件固定到首頁。開始從多個儀表板跟踪數據。點擊儀表板小部件上的針圖標，將小部件固定到主屏幕。"
+msgstr "您尚未將任何小部件固定到主頁上。開始跟踪來自多個儀表板的數據。點擊儀表板小部件上的圖釘圖標將小部件固定到主屏幕。"
 
 #: Views\Accounts\ForgotPassword.cshtml:87
 msgid ""
 "You have not set an email address in your account, and so we were unable to "
 "send an email to reset your password. Please contact your System "
 "Administrator."
-msgstr "您尚未在帳戶中設置電子郵件地址，因此我們無法發送電子郵件以重置密碼。請聯繫您的系統管理員。"
+msgstr "您尚未在您的帳戶中設置電子郵件地址，因此我們無法發送電子郵件來重置您的密碼。請聯繫您的系統管理員。"
 
 #: Views\Accounts\AccountActivation.cshtml:89
 msgid "You have successfully activated your"
-msgstr "你已經成功地激活了你"
+msgstr "你已經成功激活你的"
 
 #: Views\Homepages\Homepages.cshtml:152
 msgid ""
@@ -7250,7 +7250,7 @@ msgstr "您需要使用桌面客戶端登錄才能創建和配置主頁。"
 #: Views\Notification\Notifications.cshtml:86
 #: Views\Notification\_UserNotification.cshtml:98
 msgid "your comment on the"
-msgstr "你的評論"
+msgstr "你對此的評論"
 
 #: Views\Shared\_RecurrenceType.cshtml:201
 msgid "Your time will be : "

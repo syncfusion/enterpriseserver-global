@@ -580,7 +580,7 @@ msgstr "Agregación"
 #: Views\Shared\_CustomExpressionEditor.cshtml:113
 #: Views\Shared\_SchedulerDialog.cshtml:94
 msgid "All"
-msgstr "Todo"
+msgstr "Todas"
 
 #: Views\Dashboards\Dashboards.cshtml:63 Views\Dashboards\Dashboards.cshtml:259
 #: Views\Dashboards\Dashboards.cshtml:349
@@ -638,7 +638,7 @@ msgstr "Hace una hora"
 #: Scripts\Scheduler\recurrenceType.js:264
 #: Views\Administration\DashboardSettings.cshtml:59
 msgid "and"
-msgstr "AND"
+msgstr "y"
 
 #: Scripts\Scheduler\recurrenceType.js:332
 msgid "and ends after"
@@ -755,7 +755,7 @@ msgstr "Como la configuración del correo electrónico no está configurada, no 
 
 #: Views\Items\_DeleteItem.cshtml:55 Views\Items\_DeleteItem.cshtml:58
 msgid "as it has been scheduled to run at certain times."
-msgstr "ya que ha sido programado para ejecutarse en ciertos momentos."
+msgstr "como se programó para que se ejecute en ciertos momentos."
 
 #: Views\Items\_DeleteItem.cshtml:52
 msgid "as the Category contains dashboards."
@@ -917,7 +917,7 @@ msgstr "CONFIGURACIÓN DE ALMACENAMIENTO BLOB AZURE"
 #: Views\Shared\_SchedulerDialog.cshtml:145
 #: Views\Shared\_SchedulerDialog.cshtml:150
 msgid "Back"
-msgstr "Volver"
+msgstr "Espalda"
 
 #: Views\Administration\_EmailSettings.cshtml:5
 msgid "Basic authentication"
@@ -1016,11 +1016,11 @@ msgstr "No se puede borrar"
 #: Views\Items\_ItemsGrid.cshtml:284 Views\Items\_ItemsList.cshtml:61
 #: Views\Items\_ItemsList.cshtml:111 Views\Items\_ItemsList.cshtml:385
 msgid "Category"
-msgstr "Categoría:"
+msgstr "Categoría"
 
 #: Views\Shared\_SchedulerDialog.cshtml:39
 msgid "Category "
-msgstr "Categoría: "
+msgstr "Categoría "
 
 #: Views\Category\_AddCategory.cshtml:74
 msgid "Category has been added successfully."
@@ -1078,7 +1078,7 @@ msgstr "Comprueba si el valor filtrado cambia."
 #: Scripts\Scheduler\DataChanges.js:1042 Scripts\Scheduler\Scheduler.js:1120
 #: Views\Shared\_DataChanges.cshtml:42
 msgid "Checks whether the filtered value decreases continuously."
-msgstr "Comprueba si el valor filtrado disminuye de forma continua."
+msgstr "Comprueba si el valor filtrado disminuye continuamente."
 
 #: Views\Shared\_DataChanges.cshtml:41
 msgid "Checks whether the filtered value decreases once."
@@ -1118,7 +1118,7 @@ msgstr "Elija Widget"
 #: Scripts\Core\Server.Core.js:570 Scripts\Dashboards\DashboardViews.js:944
 #: Scripts\Dashboards\DashboardViews.js:947
 msgid "Clear"
-msgstr "Limpiar"
+msgstr "Claro"
 
 #: Scripts\Group\EditGroup.js:67 Scripts\Group\EditGroup.js:85
 #: Scripts\Items\ItemPermission.js:35 Scripts\Items\ItemPermission.js:43
@@ -1234,7 +1234,7 @@ msgstr "Clonado desde"
 
 #: Scripts\Homepages\Homepages.js:816
 msgid "close"
-msgstr "Cerrar"
+msgstr "cerca"
 
 #: Views\Category\_AddCategory.cshtml:27 Views\Category\_EditCategory.cshtml:27
 #: Views\Dashboards\_AddDashboard.cshtml:51
@@ -1267,7 +1267,7 @@ msgstr "Cerrar"
 #: Views\UserManagement\_UserAddDialog.cshtml:11
 #: Views\Widgets\_AddWidget.cshtml:57 Views\Widgets\_EditWidget.cshtml:52
 msgid "Close"
-msgstr "Cerrar"
+msgstr "Cerca"
 
 #: Views\Dashboards\Dashboards.cshtml:451
 #: Views\Dashboards\Dashboards.cshtml:498
@@ -1314,7 +1314,7 @@ msgstr "El comentario no debe estar en blanco"
 
 #: Views\Shared\_Comments.cshtml:91 Views\Shared\_WidgetComments.cshtml:58
 msgid "Comment(s)"
-msgstr "Comentarios"
+msgstr "Comentario (s)"
 
 #: Views\Notification\Notifications.cshtml:74
 #: Views\Notification\_UserNotification.cshtml:86
@@ -1327,7 +1327,7 @@ msgstr "Comentarios"
 
 #: Views\Shared\_Comments.cshtml:55
 msgid "COMMENTS"
-msgstr "Comentarios"
+msgstr "COMENTARIOS"
 
 #: Models\Scheduler\ScheduleManagement.cs:1212
 msgid "Completed"
@@ -2138,7 +2138,7 @@ msgstr "Email"
 
 #: Views\UserManagement\_UserImportSelectedDatabaseSchema.cshtml:77
 msgid "E-mail : "
-msgstr "Email "
+msgstr "Email : "
 
 #: Views\ServerConfiguration\_UserAccount.cshtml:61
 #: Views\Shared\_ScheduleRecipients.cshtml:20
@@ -2588,7 +2588,7 @@ msgstr "Almacenamiento de archivos"
 #: Scripts\Core\Server.Core.js:569
 #: Views\Shared\_CustomExpressionEditor.cshtml:94
 msgid "Filter"
-msgstr "Filtro"
+msgstr "Filtrar"
 
 #: Scripts\Core\Server.Core.js:568
 msgid "Filter Value"
@@ -2621,11 +2621,11 @@ msgstr "Nombre de pila"
 #: Views\UserManagement\ViewProfile.cshtml:118
 #: Views\UserManagement\_UserImportSelectedUserList.cshtml:55
 msgid "First Name"
-msgstr "Nombre"
+msgstr "Nombre de pila"
 
 #: Views\UserManagement\_UserImportSelectedDatabaseSchema.cshtml:72
 msgid "First name :"
-msgstr "Nombre"
+msgstr "Nombre de pila :"
 
 #: Views\Administration\KerberosAuthentication.cshtml:49
 #: Views\Administration\Storage.cshtml:46
@@ -2644,7 +2644,7 @@ msgstr "para más detalles."
 
 #: Views\Accounts\Login.cshtml:113
 msgid "Forgot password?"
-msgstr "Se te olvidó tu contraseña"
+msgstr "¿Se te olvidó tu contraseña?"
 
 #: Views\Accounts\CodeConfirmation.cshtml:54
 #: Views\Accounts\ResetPasswordLinkMessage.cshtml:50
@@ -3206,11 +3206,11 @@ msgstr "Nombre Distinguido no válido"
 #: Scripts\Administration\SystemSettings.js:311
 #: Scripts\User\UserManagement.js:67 Scripts\User\UserManagementProfile.js:40
 msgid "Invalid email address"
-msgstr "* La dirección de correo electrónico no es válido"
+msgstr "Dirección de correo electrónico no válida"
 
 #: Models\AccountModel.cs:187 Models\AccountModel.cs:249
 msgid "Invalid Email Address"
-msgstr "* La dirección de correo electrónico no es válido"
+msgstr "Dirección de correo electrónico no válida"
 
 #: Scripts\Scheduler\recurrenceType.js:600
 msgid "Invalid end date"
@@ -3374,7 +3374,7 @@ msgstr "Apellido"
 
 #: Views\UserManagement\_UserImportSelectedDatabaseSchema.cshtml:82
 msgid "Last name : "
-msgstr "Apellido "
+msgstr "Apellido : "
 
 #: Views\Scheduler\Schedules.cshtml:93 Views\Scheduler\Schedules.cshtml:152
 #: Views\Scheduler\_ScheduleGridForMobile.cshtml:53
@@ -3432,7 +3432,7 @@ msgstr "Enlazar:"
 #: Views\Notification\Notifications.cshtml:251
 #: Views\Notification\_UserNotification.cshtml:277
 msgid "LOAD MORE"
-msgstr "Carga más"
+msgstr "CARGA MÁS"
 
 #: Views\Homepages\_HomepageAddItem.cshtml:109
 msgid "Load preview"
@@ -3468,7 +3468,7 @@ msgstr "Cerrar sesión"
 
 #: Views\Shared\_Header.cshtml:59
 msgid "LOG OUT"
-msgstr "Cerrar sesión"
+msgstr "CERRAR SESIÓN"
 
 #: Models\AccountModel.cs:167
 msgid "Logged in successfully"
@@ -3484,7 +3484,7 @@ msgstr "Iniciar sesión"
 
 #: Views\Accounts\Login.cshtml:116 Views\Accounts\Login.cshtml:119
 msgid "LOGIN"
-msgstr "Iniciar sesión"
+msgstr "INICIAR SESIÓN"
 
 #: Views\Administration\KerberosAuthentication.cshtml:37
 #: Views\Administration\KerberosAuthentication.cshtml:39
@@ -4121,7 +4121,7 @@ msgstr "Más antiguo"
 
 #: Views\Shared\_RecurrenceType.cshtml:226
 msgid "On"
-msgstr "en"
+msgstr "En"
 
 #: Scripts\Scheduler\recurrenceType.js:272
 msgid "on "
@@ -4214,7 +4214,7 @@ msgstr "Éxito parcial"
 #: Views\UserManagement\ImportFromExistingDatabase.cshtml:254
 #: Views\UserManagement\UploadFileFormAction.cshtml:68
 msgid "Password"
-msgstr "Clave"
+msgstr "Contraseña"
 
 #: Views\Accounts\ForgotPassword.cshtml:67
 #: Views\Accounts\ForgotPassword.cshtml:85
@@ -4416,7 +4416,7 @@ msgstr "Elija un sistema de almacenamiento para almacenar archivos que genera el
 #: Scripts\DataSource\AddDataSource.js:149
 #: Scripts\DataSource\EditDataSource.js:198
 msgid "Please choose a valid SYDS file to upload"
-msgstr "Por favor, elija un archivo SYDS válido para cargar"
+msgstr "Por favor, elija un archivo válido SYDS para cargar"
 
 #: Scripts\Widget\AddWidget.js:136 Scripts\Widget\EditWidget.js:191
 msgid "Please choose a valid SYDW file to upload"
@@ -5139,7 +5139,7 @@ msgstr "Licencias restantes disponibles"
 
 #: Views\Accounts\Login.cshtml:111
 msgid "Remember me"
-msgstr "Acuérdate de mí"
+msgstr "Recuérdame"
 
 #: Views\Group\EditGroup.cshtml:122 Views\Group\EditGroup.cshtml:126
 #: Views\Items\_ItemPermission.cshtml:122
@@ -5174,7 +5174,7 @@ msgstr "Eliminar público"
 
 #: Views\Homepages\Homepages.cshtml:78
 msgid "Rename"
-msgstr "Renombrar"
+msgstr "Rebautizar"
 
 #: Scripts\Homepages\Homepages.js:348
 msgid "Rename Homepage"
@@ -5295,11 +5295,11 @@ msgstr "sábado"
 #: Views\User\_UserNotificationPreference.cshtml:54
 #: Views\UserManagement\ViewProfile.cshtml:204
 msgid "Save"
-msgstr "Guardar"
+msgstr "Salvar"
 
 #: Views\Group\AddUsers.cshtml:22
 msgid "SAVE"
-msgstr "Guardar"
+msgstr "SALVAR"
 
 #: Scripts\Dashboards\DashboardViews.js:46 Views\Shared\_SaveView.cshtml:30
 msgid "Save View"
@@ -5611,7 +5611,7 @@ msgstr "Seleccionar entidad"
 
 #: Views\Shared\_EmailEditor.cshtml:16
 msgid "Select Fields"
-msgstr "Seleccione Campos"
+msgstr "Seleccionar campos"
 
 #: Views\Shared\_CustomExpressionEditor.cshtml:79
 msgid "Select functions and column settings to form custom expressions."
@@ -5798,7 +5798,7 @@ msgstr "Establecer como página de inicio predeterminada"
 
 #: Views\Shared\_Menu.cshtml:78
 msgid "Settings"
-msgstr "Ajustes"
+msgstr "Configuraciones"
 
 #: Controllers\Administration\AdministrationController.cs:785
 #: Controllers\Administration\AdministrationController.cs:856
@@ -5955,7 +5955,7 @@ msgstr "El nombre del subdominio debe coincidir con el nombre de la cuenta"
 #: Scripts\Group\ActiveDirectoryGroupImport.js:71
 #: Scripts\Group\SynchronizeGroups.js:141
 msgid "Success"
-msgstr "éxito"
+msgstr "Éxito"
 
 #: Scripts\Scheduler\recurrenceType.js:59
 #: Views\Administration\ScheduleAzureSynchronization.cshtml:118
@@ -6179,7 +6179,7 @@ msgstr "La página de inicio es la pantalla inicial que se ve cuando se inicia u
 msgid ""
 "The mentioned comment could not be opened as the dashboard or widget has "
 "been removed from the Dashboard Server."
-msgstr "El comentario mencionado no se pudo abrir ya que el tablero o el widget se han eliminado del servidor del tablero."
+msgstr "El comentario mencionado no se pudo abrir porque el tablero o el widget se han eliminado del servidor del tablero."
 
 #: Views\Accounts\CodeConfirmation.cshtml:71
 msgid "The reset password link expires in two hours!"
@@ -6779,7 +6779,7 @@ msgstr "Nombre de usuario"
 
 #: Views\UserManagement\_UserImportSelectedDatabaseSchema.cshtml:67
 msgid "Username : "
-msgstr "Nombre de usuario "
+msgstr "Nombre de usuario: "
 
 #: Models\UserManagementModel.cs:586 Models\UserManagementModel.cs:820
 #: Models\UserManagementModel.cs:1016 Models\UserManagementModel.cs:1094
