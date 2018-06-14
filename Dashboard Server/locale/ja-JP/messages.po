@@ -31,7 +31,7 @@ msgstr "創造"
 
 #: Scripts\Items\Items.js:250
 msgid " deleted"
-msgstr "削除されました"
+msgstr "削除された"
 
 #: Scripts\Items\Items.js:250
 msgid " has been deleted successfully."
@@ -55,7 +55,7 @@ msgstr "パブリックダッシュボードは"
 
 #: Views\Home\PublicDashboardViewDenied.cshtml:59
 msgid " Public Dashboards/Widgets disabled in "
-msgstr "公開ダッシュボード/ウィジェットは"
+msgstr "公共のダッシュボード/ウィジェットは"
 
 #: Views\Widgets\Widgets.cshtml:116
 msgid " Public Widgets disabled in "
@@ -73,7 +73,7 @@ msgstr "Dashboard Serverでデフォルトのホームページを設定する�
 msgid ""
 " to send account activation emails, or choose Automatic account activation "
 "mode"
-msgstr "アカウントアクティベーションメールを送信する、または自動アカウント有効化モードを選択する"
+msgstr "アカウントのアクティベーションメールを送信するか、[自動アカウント有効化]モードを選択します"
 
 #: Scripts\Homepages\PinWidget.js:67 Scripts\Homepages\PinWidget.js:114
 msgid " to the homepage."
@@ -109,7 +109,7 @@ msgstr "1小文字。"
 #: Scripts\System\SystemSettings.js:783
 #: Scripts\User\UserManagementProfile.js:237
 msgid "1 numeric."
-msgstr "数値"
+msgstr "1の数値。"
 
 #: Scripts\Accounts\Accounts.js:415 Scripts\Password\ChangePassword.js:142
 #: Scripts\System\SystemSettings.js:784
@@ -126,7 +126,7 @@ msgstr "1大文字。"
 #: Scripts\Administration\SystemSettings.js:14
 #: Scripts\Administration\SystemSettings.js:258
 msgid "1:00 PM"
-msgstr "5:38 pm"
+msgstr "午後1:00"
 
 #: Views\Category\_AddCategory.cshtml:50 Views\Category\_EditCategory.cshtml:47
 #: Views\Dashboards\_AddDashboard.cshtml:94
@@ -143,7 +143,7 @@ msgstr "最大1024文字"
 
 #: Views\Administration\_SiteSettings.cshtml:204
 msgid "13.00"
-msgstr "13/13"
+msgstr "13.00"
 
 #: Scripts\Administration\SystemSettings.js:12
 #: Scripts\Administration\SystemSettings.js:256
@@ -192,7 +192,7 @@ msgstr "1週間前"
 
 #: Views\Error\AccessDenied.cshtml:2 Views\Error\AccessDenied.cshtml:11
 msgid "Access Denied"
-msgstr "アクセスが拒否されました。"
+msgstr "アクセスが拒否されました"
 
 #: Views\User\_UserPermissionGridForMobile.cshtml:29
 msgid "access for"
@@ -236,7 +236,7 @@ msgstr "アカウント"
 
 #: Views\Accounts\AccountActivation.cshtml:11
 msgid "Account Activation"
-msgstr "アカウントの稼動"
+msgstr "アカウント開設"
 
 #: Views\Administration\UserSettings.cshtml:32
 msgid "Account Activation Mode"
@@ -302,11 +302,11 @@ msgstr "アクティブ"
 #: Views\Group\ActiveDirectoryGroupImport.cshtml:238
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:170
 msgid "Active Directory"
-msgstr "Active_Directory"
+msgstr "Active Directory"
 
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:256
 msgid "Active Directory "
-msgstr "Active_Directory"
+msgstr "Active Directory"
 
 #: Views\Group\Group.cshtml:324
 msgid "Active Directory group"
@@ -393,7 +393,7 @@ msgstr "カテゴリを追加"
 
 #: Scripts\Comments\Comment.js:208
 msgid "Add Comment"
-msgstr "Add Comment"
+msgstr "コメントを追加"
 
 #: Scripts\Scheduler\DataChanges.js:224 Scripts\Scheduler\DataChanges.js:266
 #: Scripts\Scheduler\DataChanges.js:1831 Scripts\Scheduler\DataChanges.js:1892
@@ -420,12 +420,12 @@ msgstr "外部受信者を追加する"
 
 #: Scripts\Items\Items.js:86
 msgid "Add File"
-msgstr "{0}{/0} {1}Add File{/1}（ファイルの追加）"
+msgstr "ファイルを追加"
 
 #: Scripts\Group\Group.js:43 Scripts\Group\Group.js:49
 #: Views\Group\_AddGroup.cshtml:43
 msgid "Add Group"
-msgstr "品群を追加"
+msgstr "グループを追加"
 
 #: Views\Homepages\Homepages.cshtml:111 Views\Homepages\Homepages.cshtml:112
 #: Views\Homepages\Homepages.cshtml:160 Views\Homepages\Homepages.cshtml:161
@@ -442,13 +442,13 @@ msgstr "新しい表現を追加する"
 
 #: Views\Group\Group.cshtml:228 Views\Group\Group.cshtml:235
 msgid "Add new group"
-msgstr "新規コミュニティの追加"
+msgstr "新しいグループを追加"
 
 #: Views\Group\ActiveDirectoryGroup.cshtml:150
 #: Views\Group\ActiveDirectoryGroup.cshtml:162 Views\Group\Group.cshtml:169
 #: Views\Group\ViewGroup.cshtml:72
 msgid "Add New Group"
-msgstr "新規コミュニティの追加"
+msgstr "新しいグループを追加"
 
 #: Scripts\Homepages\Homepages.js:433
 msgid "Add new Homepage"
@@ -490,17 +490,17 @@ msgstr "選択したユーザーをグループに追加する"
 
 #: Views\Group\EditGroup.cshtml:176
 msgid "Add user"
-msgstr "ユーザーの追加"
+msgstr "ユーザーを追加する"
 
 #: Scripts\User\UserManagement.js:13 Scripts\User\UserManagement.js:231
 #: Scripts\User\UserManagement.js:244
 #: Views\UserManagement\_UserAddDialog.cshtml:8
 msgid "Add User"
-msgstr "ユーザーの追加"
+msgstr "ユーザーを追加する"
 
 #: Views\Group\Group.cshtml:51
 msgid "Add Users"
-msgstr "ユーザーを追加"
+msgstr "ユーザーを追加する"
 
 #: Views\User\UserCSVUpload.cshtml:16
 msgid "Add Users by CSV File Upload"
@@ -521,7 +521,7 @@ msgstr "ウィジェットを追加"
 
 #: Models\ItemModel.cs:472
 msgid "Added"
-msgstr "追加完了"
+msgstr "追加された"
 
 #: Views\Dashboards\Dashboards.cshtml:478
 msgid "Added date"
@@ -536,7 +536,7 @@ msgstr "追加された日付"
 
 #: Views\Group\ActiveDirectoryGroup.cshtml:98
 msgid "ADGroupId"
-msgstr "広告グループ ID"
+msgstr "ADGroupId"
 
 #: Views\Administration\_ActiveDirectorySettings.cshtml:434
 #: Views\UserManagement\ImportFromExistingDatabase.cshtml:190
@@ -551,13 +551,13 @@ msgstr "管理者のパスワード"
 #: Views\Administration\_ActiveDirectorySettings.cshtml:423
 #: Views\UserManagement\ImportFromExistingDatabase.cshtml:181
 msgid "Admin username"
-msgstr "管理のユーザー名"
+msgstr "管理者のユーザー名"
 
 #: Views\Administration\_ActiveDirectorySettings.cshtml:426
 #: Views\ServerConfiguration\Index.cshtml:186
 #: Views\UserManagement\ImportFromExistingDatabase.cshtml:184
 msgid "Admin Username"
-msgstr "管理のユーザー名"
+msgstr "管理者のユーザー名"
 
 #: Views\Administration\Administration.cshtml:2
 #: Views\Administration\SAMLSettings.cshtml:4
@@ -580,7 +580,7 @@ msgstr "集約"
 #: Views\Shared\_CustomExpressionEditor.cshtml:113
 #: Views\Shared\_SchedulerDialog.cshtml:94
 msgid "All"
-msgstr "全部"
+msgstr "すべて"
 
 #: Views\Dashboards\Dashboards.cshtml:63 Views\Dashboards\Dashboards.cshtml:259
 #: Views\Dashboards\Dashboards.cshtml:349
@@ -638,7 +638,7 @@ msgstr "1時間前"
 #: Scripts\Scheduler\recurrenceType.js:264
 #: Views\Administration\DashboardSettings.cshtml:59
 msgid "and"
-msgstr "と"
+msgstr "そして"
 
 #: Scripts\Scheduler\recurrenceType.js:332
 msgid "and ends after"
@@ -680,11 +680,11 @@ msgstr "適用"
 
 #: Scripts\Scheduler\recurrenceType.js:91
 msgid "April"
-msgstr "すでいま"
+msgstr "4月"
 
 #: Views\Items\_DeleteItem.cshtml:20
 msgid "Are you sure you want to delete"
-msgstr "下位項目も削除されます。削除してもよろしいですか？"
+msgstr "消去してもよろしいですか"
 
 #: Scripts\Scheduler\CustomExpressionEditor.js:521
 msgid "Are you sure you want to delete the expression?"
@@ -709,7 +709,7 @@ msgstr "ユーザーを削除してもよろしいですか？"
 #: Views\UserManagement\ViewProfile.cshtml:269
 #: Views\UserManagement\_SingleUserDeleteDialog.cshtml:15
 msgid "Are you sure you want to delete the User?"
-msgstr "このユーザーを削除してもよろしいですか？"
+msgstr "ユーザーを削除してもよろしいですか？"
 
 #: Views\Shared\_DashboardViews.cshtml:91
 msgid "Are you sure you want to delete the view "
@@ -717,20 +717,20 @@ msgstr "ビューを削除してもよろしいですか？"
 
 #: Scripts\Comments\Comment.js:569
 msgid "Are you sure you want to delete this comment?"
-msgstr "本当にコメントを削除してよろしいですか？"
+msgstr "このコメントを削除してもよろしいですか？"
 
 #: Scripts\Homepages\Homepages.js:127
 msgid "Are you sure you want to delete this homepage?"
-msgstr "このローテーションを削除してもよろしいですか？"
+msgstr "このホームページを削除してもよろしいですか？"
 
 #: Scripts\Items\ItemPermission.js:195 Scripts\Items\ItemPermission.js:216
 #: Views\Permission\_DeletePermission.cshtml:15
 msgid "Are you sure you want to delete this permission?"
-msgstr "このローテーションを削除してもよろしいですか？"
+msgstr "この権限を削除してもよろしいですか？"
 
 #: Views\Scheduler\_DeleteSchedule.cshtml:13
 msgid "Are you sure you want to delete this schedule"
-msgstr "このローテーションを削除してもよろしいですか？"
+msgstr "このスケジュールを削除してもよろしいですか？"
 
 #: Views\Group\_DeleteGroupUser.cshtml:34
 msgid "Are you sure you want to delete this user from the group?"
@@ -776,7 +776,7 @@ msgstr "グループを割り当てる"
 
 #: Views\UserManagement\_UserImportSelectedDatabaseSchema.cshtml:43
 msgid "Assign to"
-msgstr "に割り当て"
+msgstr "に割り当てます"
 
 #: Views\Items\_ItemPermission.cshtml:68
 msgid "Assigned Permissions"
@@ -786,7 +786,7 @@ msgstr "割り当てられたアクセス許可"
 #: Scripts\System\SystemSettings.js:780
 #: Scripts\User\UserManagementProfile.js:234
 msgid "at least 6 characters."
-msgstr "少なくとも3文字"
+msgstr "最低6文字。"
 
 #: Scripts\Scheduler\DataChanges.js:486 Scripts\Scheduler\DataChanges.js:489
 #: Scripts\Scheduler\DataChanges.js:2229
@@ -808,12 +808,12 @@ msgstr "認証プロバイダ"
 
 #: Views\Administration\_EmailSettings.cshtml:53
 msgid "Authentication Type"
-msgstr "{0}•{/0} {1} {/1} {0}認証タイプ：{/0}"
+msgstr "認証タイプ"
 
 #: Views\Administration\SAMLSettings.cshtml:123
 #: Views\Administration\SAMLSettings.cshtml:126
 msgid "Authority"
-msgstr "権"
+msgstr "権限"
 
 #: Views\Administration\UserSettings.cshtml:35
 msgid "Automatic"
@@ -825,7 +825,7 @@ msgstr "アクセス可能なアイテムの自動ウォッチのコメント"
 
 #: Views\Administration\NotificationSettings.cshtml:94
 msgid "Autowatch comments of created items"
-msgstr "作成したアイテムのコメントを自動ウォッチ"
+msgstr "作成したアイテムのコメントをオートウォッチ"
 
 #: Views\User\_UserNotificationPreference.cshtml:42
 msgid "Autowatch for comments of accessible items"
@@ -917,11 +917,11 @@ msgstr "AZURE BLOBストレージ設定"
 #: Views\Shared\_SchedulerDialog.cshtml:145
 #: Views\Shared\_SchedulerDialog.cshtml:150
 msgid "Back"
-msgstr "戻る"
+msgstr "バック"
 
 #: Views\Administration\_EmailSettings.cshtml:5
 msgid "Basic authentication"
-msgstr "ベーシック認証"
+msgstr "基本認証"
 
 #: Views\Administration\Storage.cshtml:43
 #: Views\Administration\Storage.cshtml:45
@@ -938,7 +938,7 @@ msgstr "ブロブURL"
 #: Scripts\Comments\Comment.js:1165
 #: Scripts\Scheduler\SchedulerEmailEditor.js:28
 msgid "Bold"
-msgstr "太字"
+msgstr "大胆な"
 
 #: Scripts\Administration\SystemSettings.js:636
 #: Scripts\Administration\SystemSettings.js:639
@@ -1020,7 +1020,7 @@ msgstr "カテゴリー"
 
 #: Views\Shared\_SchedulerDialog.cshtml:39
 msgid "Category "
-msgstr "Category "
+msgstr "カテゴリー"
 
 #: Views\Category\_AddCategory.cshtml:74
 msgid "Category has been added successfully."
@@ -1033,7 +1033,7 @@ msgstr "カテゴリが正常に更新されました。"
 #: Views\Category\_AddCategory.cshtml:36 Views\Category\_EditCategory.cshtml:33
 #: Views\Dashboards\Dashboards.cshtml:466
 msgid "Category Name"
-msgstr "カテゴリ名"
+msgstr "種別名"
 
 #: Scripts\Category\AddCategory.js:83 Scripts\Category\EditCategory.js:104
 msgid "Category name already exists"
@@ -1041,7 +1041,7 @@ msgstr "カテゴリ名は既に存在します"
 
 #: Views\Error\ConnectionError.cshtml:31
 msgid "Causes:"
-msgstr "原因"
+msgstr "原因："
 
 #: Scripts\Homepages\Homepages.js:572
 msgid "Change Layout"
@@ -1054,17 +1054,17 @@ msgstr "パスワードを変更する"
 
 #: Views\User\EditPassword.cshtml:20
 msgid "CHANGE PASSWORD"
-msgstr "パスワードを変更"
+msgstr "パスワードを変更する"
 
 #: Scripts\User\EditProfile.js:142 Scripts\User\EditProfile.js:174
 #: Scripts\User\UserManagementProfile.js:345
 #: Scripts\User\UserManagementProfile.js:373
 msgid "Change Profile picture"
-msgstr "プロフィール画像を変更する"
+msgstr "プロフィール画像を変更"
 
 #: Views\Shared\_ProfilePictureUploadBox.cshtml:8
 msgid "Change Profile Picture"
-msgstr "プロフィール画像を変更する"
+msgstr "プロフィール画像を変更"
 
 #: Views\UserManagement\_UserImportSelectedUserList.cshtml:7
 msgid "Change Query"
@@ -1118,7 +1118,7 @@ msgstr "ウィジェットを選択"
 #: Scripts\Core\Server.Core.js:570 Scripts\Dashboards\DashboardViews.js:944
 #: Scripts\Dashboards\DashboardViews.js:947
 msgid "Clear"
-msgstr "くりあー"
+msgstr "クリア"
 
 #: Scripts\Group\EditGroup.js:67 Scripts\Group\EditGroup.js:85
 #: Scripts\Items\ItemPermission.js:35 Scripts\Items\ItemPermission.js:43
@@ -1132,7 +1132,7 @@ msgstr "くりあー"
 #: Scripts\Scheduler\scheduleRecipients.js:122
 #: Scripts\Scheduler\scheduleRecipients.js:147
 msgid "Clear All"
-msgstr "全てクリア"
+msgstr "すべてクリア"
 
 #: Views\DataSources\DataSources.cshtml:28
 #: Views\Group\ActiveDirectoryGroup.cshtml:211
@@ -1153,11 +1153,11 @@ msgstr "全てクリア"
 #: Views\UserManagement\_UserImportSelectedUserList.cshtml:16
 #: Views\Widgets\Widgets.cshtml:180
 msgid "Clear search"
-msgstr "クリア検索"
+msgstr "検索をクリアする"
 
 #: Views\Accounts\AccountActivation.cshtml:89
 msgid "click"
-msgstr "click"
+msgstr "クリック"
 
 #: Views\ServerConfiguration\Index.cshtml:180
 #: Views\ServerConfiguration\Index.cshtml:271
@@ -1178,7 +1178,7 @@ msgstr "<a href=\"https://help.syncfusion.com/dashboard-platform/dashboard-serve
 
 #: Views\Accounts\CodeConfirmation.cshtml:74
 msgid "click here "
-msgstr "[ ここをクリック ]"
+msgstr "ここをクリック"
 
 #: Views\UserManagement\DatabaseUserImport.cshtml:271
 msgid "Click here to change the account activation type"
@@ -1213,7 +1213,7 @@ msgstr "クリックしてコピーする"
 #: Views\Administration\_ActiveDirectorySettings.cshtml:144
 #: Views\Administration\_ActiveDirectorySettings.cshtml:146
 msgid "Client Id"
-msgstr "client_id"
+msgstr "クライアントID"
 
 #: Views\Administration\_ActiveDirectorySettings.cshtml:153
 msgid "Client Secret Code"
@@ -1222,7 +1222,7 @@ msgstr "クライアントの秘密コード"
 #: Views\Items\_CopyItem.cshtml:79 Views\Items\_ItemsList.cshtml:290
 #: Views\Items\_ItemsList.cshtml:646
 msgid "Clone"
-msgstr "クロン"
+msgstr "クローン"
 
 #: Scripts\Items\ItemActions.js:151
 msgid "Clone Dashboard"
@@ -1272,16 +1272,16 @@ msgstr "閉じる"
 #: Views\Dashboards\Dashboards.cshtml:451
 #: Views\Dashboards\Dashboards.cshtml:498
 msgid "Close search"
-msgstr "検索を閉じる"
+msgstr "クローズ検索"
 
 #: Scripts\Comments\Comment.js:1073 Scripts\Dashboards\DashboardViews.js:135
 #: Views\Dashboards\Dashboards.cshtml:364 Views\Widgets\Widgets.cshtml:102
 msgid "Collapse"
-msgstr "折りたたむ"
+msgstr "崩壊"
 
 #: Scripts\Items\ItemsMobile.js:37 Scripts\Items\ItemsMobile.js:45
 msgid "Collapse All"
-msgstr "全て選択"
+msgstr "すべてを折りたたむ"
 
 #: Views\Group\AddUsers.cshtml:61
 msgid "Color"
@@ -1314,7 +1314,7 @@ msgstr "コメントは空白にしないでください"
 
 #: Views\Shared\_Comments.cshtml:91 Views\Shared\_WidgetComments.cshtml:58
 msgid "Comment(s)"
-msgstr "コメント"
+msgstr "コメント（s）"
 
 #: Views\Notification\Notifications.cshtml:74
 #: Views\Notification\_UserNotification.cshtml:86
@@ -1327,15 +1327,15 @@ msgstr "コメント"
 
 #: Views\Shared\_Comments.cshtml:55
 msgid "COMMENTS"
-msgstr "注釈"
+msgstr "コメント"
 
 #: Models\Scheduler\ScheduleManagement.cs:1212
 msgid "Completed"
-msgstr "コンプリート"
+msgstr "完了しました"
 
 #: Views\Shared\_DataChanges.cshtml:34
 msgid "Condition"
-msgstr "条件"
+msgstr "調子"
 
 #: Views\Shared\_CustomExpressionEditor.cshtml:90
 msgid "Conditional"
@@ -1370,16 +1370,16 @@ msgstr "ダッシュボードサーバーの一般設定を構成する"
 #: Views\ServerConfiguration\Index.cshtml:249
 #: Views\ServerConfiguration\_UserAccount.cshtml:79
 msgid "Confirm password"
-msgstr "パスワード確認"
+msgstr "パスワードを認証する"
 
 #: Views\User\EditPassword.cshtml:55
 #: Views\UserManagement\ViewProfile.cshtml:235
 msgid "Confirm Password"
-msgstr "パスワード確認"
+msgstr "パスワードを認証する"
 
 #: Views\UserManagement\ImportFromExistingDatabase.cshtml:38
 msgid "Connect"
-msgstr "接続"
+msgstr "接続する"
 
 #: Controllers\ServerConfiguration\ServerConfigurationController.cs:313
 msgid "Connected successfully."
@@ -1393,7 +1393,7 @@ msgstr "接続"
 #: Controllers\Administration\AdministrationController.cs:69
 #: Controllers\Administration\AdministrationController.cs:127
 msgid "Connection Failed"
-msgstr "接続に問題"
+msgstr "接続に失敗しました"
 
 #: Views\Administration\Storage.cshtml:100
 #: Views\UserManagement\DatabaseUserImport.cshtml:214
@@ -1408,7 +1408,7 @@ msgstr "コンテナ名"
 
 #: Scripts\Core\Server.Core.js:567
 msgid "Contains"
-msgstr "含む"
+msgstr "含有"
 
 #: Views\Homepages\_HomepageAddItem.cshtml:124
 #: Views\Items\_ItemsList.cshtml:126
@@ -1440,7 +1440,7 @@ msgstr "作成する"
 
 #: Views\Items\_ItemAddOptions.cshtml:8
 msgid "CREATE"
-msgstr "つくる"
+msgstr "CREATE"
 
 #: Scripts\Scheduler\Scheduler.js:650 Views\Shared\_SchedulerDialog.cshtml:33
 msgid "Create a data driven or a time based schedule"
@@ -1448,7 +1448,7 @@ msgstr "データ駆動型または時間ベースのスケジュールを作成
 
 #: Views\Group\Group.cshtml:237
 msgid "Create Group"
-msgstr "グループを作成"
+msgstr "グループを作る"
 
 #: Scripts\Comments\Comment.js:1203
 #: Scripts\Scheduler\SchedulerEmailEditor.js:66
@@ -1462,7 +1462,7 @@ msgstr "スケジュールの作成"
 
 #: Views\UserManagement\Index.cshtml:212
 msgid "Create User"
-msgstr "ユーザーの作成"
+msgstr "ユーザーを作成"
 
 #: Views\User\EditPassword.cshtml:32
 msgid "Current Password"
@@ -1493,7 +1493,7 @@ msgstr "ダッシュボード"
 
 #: Views\Shared\_SchedulerDialog.cshtml:57
 msgid "Dashboard "
-msgstr "ダッシュボード："
+msgstr "ダッシュボード"
 
 #: Views\Dashboards\_AddDashboard.cshtml:141
 msgid "Dashboard has been added successfully."
@@ -1613,7 +1613,7 @@ msgstr "データアラート"
 #: Views\Items\_ItemAddOptions.cshtml:45 Views\Items\_MakeItemPublic.cshtml:5
 #: Views\Items\_RemovePublic.cshtml:4
 msgid "Data Source"
-msgstr "データソース:"
+msgstr "情報元"
 
 #: Views\DataSources\_AddDataSource.cshtml:150
 msgid "Data Source has been added successfully."
@@ -1665,7 +1665,7 @@ msgstr "データベースの作成！"
 
 #: Views\Error\ConnectionError.cshtml:9
 msgid "Database Error"
-msgstr "DatabaseError"
+msgstr "データベースエラー"
 
 #: Views\Administration\_ActiveDirectorySettings.cshtml:289
 #: Views\Administration\_ActiveDirectorySettings.cshtml:292
@@ -1687,11 +1687,11 @@ msgstr "DatabaseError"
 #: Views\UserManagement\ImportFromExistingDatabase.cshtml:261
 #: Views\UserManagement\ImportFromExistingDatabase.cshtml:264
 msgid "Database name"
-msgstr "データベースの名前"
+msgstr "データベース名"
 
 #: Views\ServerConfiguration\Index.cshtml:297
 msgid "Database Name"
-msgstr "データベースの名前"
+msgstr "データベース名"
 
 #: Controllers\ServerConfiguration\ServerConfigurationController.cs:687
 msgid "Database name already exists"
@@ -1711,7 +1711,7 @@ msgstr "データベース名/ユーザー名"
 #: Views\Administration\_ActiveDirectorySettings.cshtml:465
 #: Views\UserManagement\ImportFromExistingDatabase.cshtml:210
 msgid "Database password"
-msgstr "57データベースパスワード"
+msgstr "データベースのパスワード"
 
 #: Views\ServerConfiguration\Index.cshtml:216
 #: Views\ServerConfiguration\Index.cshtml:243
@@ -1748,7 +1748,7 @@ msgstr "データベースの種類"
 
 #: Views\UserManagement\Index.cshtml:333
 msgid "Database User"
-msgstr "データベースのユーザー"
+msgstr "データベースユーザー"
 
 #: Views\UserManagement\DatabaseUserImport.cshtml:2
 msgid "Database User Import"
@@ -1767,7 +1767,7 @@ msgstr "日付"
 
 #: Views\Administration\_SiteSettings.cshtml:175
 msgid "Date format"
-msgstr "日付の表示形式"
+msgstr "日付形式"
 
 #: Scripts\Scheduler\recurrenceType.js:48
 #: Scripts\Scheduler\recurrenceType.js:279
@@ -1786,7 +1786,7 @@ msgstr "日"
 #: Views\Administration\ScheduleSynchronization.cshtml:87
 #: Views\Shared\_RecurrenceType.cshtml:52
 msgid "day(s)"
-msgstr "日間"
+msgstr "日々）"
 
 #: Scripts\Administration\ScheduleSynchronization.js:61
 #: Scripts\Administration\ScheduleSynchronization.js:327
@@ -1797,7 +1797,7 @@ msgstr "日々"
 #: Views\Notification\Notifications.cshtml:38
 #: Views\Notification\_UserNotification.cshtml:52
 msgid "days ago"
-msgstr "日前"
+msgstr "数日前"
 
 #: Views\Administration\_ActiveDirectorySettings.cshtml:90
 msgid "DC=example,DC=com"
@@ -1900,7 +1900,7 @@ msgstr "プロフィール写真を削除する"
 
 #: Views\Scheduler\_DeleteSchedule.cshtml:5
 msgid "Delete Schedule"
-msgstr "スケジュールを削除"
+msgstr "スケジュールを削除する"
 
 #: Views\Group\Group.cshtml:306
 msgid "Delete selected Groups"
@@ -1919,7 +1919,7 @@ msgstr "選択したユーザーを削除する"
 #: Views\UserManagement\_MultipleUserDeleteDialog.cshtml:7
 #: Views\UserManagement\_SingleUserDeleteDialog.cshtml:7
 msgid "Delete User"
-msgstr "ユーザの削除"
+msgstr "ユーザーを削除"
 
 #: Scripts\User\UserManagement.js:616 Scripts\User\UserManagement.js:634
 #: Scripts\User\UserManagement.js:641
@@ -1934,7 +1934,7 @@ msgstr "ビューを削除"
 
 #: Models\ItemModel.cs:463
 msgid "Deleted"
-msgstr "削除されました"
+msgstr "削除済み"
 
 #: Models\AccountModel.cs:197
 msgid "Deleted user"
@@ -1979,7 +1979,7 @@ msgstr "ディレクトリパス"
 #: Views\User\_UserNotificationPreference.cshtml:6
 #: Views\User\_UserNotificationPreference.cshtml:44
 msgid "Disable"
-msgstr "無効"
+msgstr "無効にする"
 
 #: Views\Administration\_SiteSettings.cshtml:167
 msgid "Display"
@@ -2101,7 +2101,7 @@ msgstr "コメントを編集"
 
 #: Scripts\Group\EditGroup.js:108 Views\Group\ViewGroup.cshtml:118
 msgid "Edit Group"
-msgstr "品群を編集"
+msgstr "グループの編集"
 
 #: Views\Homepages\Homepages.cshtml:100
 msgid "Edit Layout"
@@ -2109,7 +2109,7 @@ msgstr "レイアウトの編集"
 
 #: Views\User\Profile.cshtml:200 Views\UserManagement\ViewProfile.cshtml:202
 msgid "Edit Profile"
-msgstr "プロファイルの編集"
+msgstr "プロファイル編集"
 
 #: Views\User\Profile.cshtml:105 Views\UserManagement\ViewProfile.cshtml:106
 msgid "Edit profile picture"
@@ -2118,27 +2118,27 @@ msgstr "プロフィール画像を編集"
 #: Scripts\Administration\ScheduleSynchronization.js:196
 #: Scripts\Administration\ScheduleSynchronization.js:408
 msgid "effective"
-msgstr "有効な"
+msgstr "効果的な"
 
 #: Scripts\Scheduler\recurrenceType.js:329
 #: Scripts\Scheduler\recurrenceType.js:332
 #: Scripts\Scheduler\recurrenceType.js:335
 msgid "effective from"
-msgstr "有効開始日："
+msgstr "から効果的"
 
 #: Views\Administration\UserSettings.cshtml:39
 #: Views\Administration\_AdminMenu.cshtml:31 Views\User\Profile.cshtml:135
 #: Views\User\Profile.cshtml:139 Views\UserManagement\ViewProfile.cshtml:134
 msgid "Email"
-msgstr "メール"
+msgstr "Eメール"
 
 #: Views\UserManagement\_UserImportSelectedDatabaseSchema.cshtml:46
 msgid "E-mail"
-msgstr "メール"
+msgstr "Eメール"
 
 #: Views\UserManagement\_UserImportSelectedDatabaseSchema.cshtml:77
 msgid "E-mail : "
-msgstr "メール"
+msgstr "Eメール ："
 
 #: Views\ServerConfiguration\_UserAccount.cshtml:61
 #: Views\Shared\_ScheduleRecipients.cshtml:20
@@ -2215,7 +2215,7 @@ msgstr "埋め込みコードが更新されました。"
 
 #: Views\Items\_GetEmbedCode.cshtml:24
 msgid "Embed code:"
-msgstr "[EMBED CODE] "
+msgstr "埋め込みコード："
 
 #: Views\Dashboards\_UpdateDataSource.cshtml:74
 msgid "Embedded Data Source"
@@ -2235,7 +2235,7 @@ msgstr "空のホームページ"
 #: Views\User\_UserNotificationPreference.cshtml:5
 #: Views\User\_UserNotificationPreference.cshtml:44
 msgid "Enable"
-msgstr "有効"
+msgstr "有効にする"
 
 #: Views\Administration\ScheduleSynchronization.cshtml:34
 msgid "Enable Active Directory Scheduled Synchronization"
@@ -2264,15 +2264,15 @@ msgstr "SSOを有効にする"
 
 #: Views\Shared\_SchedulerDialog.cshtml:131
 msgid "Enabled"
-msgstr "有効化"
+msgstr "有効"
 
 #: Views\Shared\_RecurrenceType.cshtml:212
 msgid "Ends"
-msgstr "以上"
+msgstr "終わり"
 
 #: Scripts\Core\Server.Core.js:567
 msgid "EndsWith"
-msgstr "終わり"
+msgstr "終わりに"
 
 #: Scripts\Scheduler\Scheduler.js:663
 msgid "Enter the alert message to be added in the scheduled email"
@@ -2288,7 +2288,7 @@ msgstr "あなたの組織名を入力してください"
 
 #: Views\Administration\_SiteSettings.cshtml:37
 msgid "Enter your URL"
-msgstr "3. URL の入力"
+msgstr "あなたのURLを入力してください"
 
 #: Views\Accounts\ForgotPassword.cshtml:68
 msgid ""
@@ -2304,11 +2304,11 @@ msgstr "ユーザー名またはメールアドレスを入力すると、パス
 #: Views\Permission\_AddUserPermission.cshtml:56
 #: Views\User\_UserPermissionGrid.cshtml:80
 msgid "Entity"
-msgstr "エンティティ (Entity)"
+msgstr "エンティティ"
 
 #: Scripts\Core\Server.Core.js:567
 msgid "Equal"
-msgstr "Equal"
+msgstr "等しい"
 
 #: Views\UserManagement\UploadFileFormAction.cshtml:69
 msgid "Error"
@@ -2383,7 +2383,7 @@ msgstr "イベント"
 #: Scripts\Scheduler\recurrenceType.js:298
 #: Scripts\Scheduler\recurrenceType.js:308
 msgid "every"
-msgstr "毎"
+msgstr "すべて"
 
 #: Views\Administration\ScheduleAzureSynchronization.cshtml:67
 #: Views\Administration\ScheduleAzureSynchronization.cshtml:85
@@ -2402,12 +2402,12 @@ msgstr "毎"
 #: Views\Shared\_RecurrenceType.cshtml:65
 #: Views\Shared\_RecurrenceType.cshtml:153
 msgid "Every"
-msgstr "毎"
+msgstr "すべて"
 
 #: Scripts\Scheduler\recurrenceType.js:270
 #: Scripts\Scheduler\recurrenceType.js:322
 msgid "every "
-msgstr "毎"
+msgstr "すべて"
 
 #: Scripts\Scheduler\recurrenceType.js:237
 msgid "every day"
@@ -2419,14 +2419,14 @@ msgstr "毎週"
 
 #: Scripts\Scheduler\recurrenceType.js:243
 msgid "every weekday"
-msgstr "毎週、日"
+msgstr "毎週"
 
 #: Views\Administration\ScheduleAzureSynchronization.cshtml:95
 #: Views\Administration\ScheduleDatabaseSynchronization.cshtml:95
 #: Views\Administration\ScheduleSynchronization.cshtml:92
 #: Views\Shared\_RecurrenceType.cshtml:56
 msgid "Every weekday"
-msgstr "毎週、日"
+msgstr "毎週"
 
 #: Views\Shared\_ScheduleRecipients.cshtml:45
 msgid "Excel"
@@ -2449,17 +2449,17 @@ msgstr "既存のグループ"
 
 #: Views\Dashboards\Dashboards.cshtml:336 Views\Widgets\Widgets.cshtml:89
 msgid "Expand"
-msgstr "展開"
+msgstr "展開する"
 
 #: Scripts\Items\ItemsMobile.js:26 Scripts\Items\ItemsMobile.js:49
 #: Views\Items\_ItemsGridForMobile.cshtml:64
 #: Views\Scheduler\_ScheduleGridForMobile.cshtml:91
 msgid "Expand All"
-msgstr "全展開"
+msgstr "すべて展開"
 
 #: Views\Shared\_CustomExpressionEditor.cshtml:64
 msgid "Expression"
-msgstr "Expression"
+msgstr "式"
 
 #: Scripts\Scheduler\CustomExpressionEditor.js:568
 msgid "Expression deleted"
@@ -2569,7 +2569,7 @@ msgstr "お気に入り"
 
 #: Scripts\Scheduler\recurrenceType.js:89
 msgid "February"
-msgstr "月でい"
+msgstr "2月"
 
 #: Views\Dashboards\_AddDashboard.cshtml:99
 #: Views\Dashboards\_EditDashboard.cshtml:107
@@ -2588,7 +2588,7 @@ msgstr "ファイルストレージ"
 #: Scripts\Core\Server.Core.js:569
 #: Views\Shared\_CustomExpressionEditor.cshtml:94
 msgid "Filter"
-msgstr "フィルター"
+msgstr "フィルタ"
 
 #: Scripts\Core\Server.Core.js:568
 msgid "Filter Value"
@@ -2596,15 +2596,15 @@ msgstr "フィルタ値"
 
 #: Views\Shared\_DashboardViews.cshtml:42
 msgid "Filters"
-msgstr "フィルター"
+msgstr "フィルタ"
 
 #: Scripts\Dashboards\DashboardViews.js:1101
 msgid "FILTERS"
-msgstr "FILTERS"
+msgstr "フィルタ"
 
 #: Scripts\Scheduler\recurrenceType.js:82
 msgid "first"
-msgstr "まず"
+msgstr "最初"
 
 #: Views\ServerConfiguration\_UserAccount.cshtml:53
 #: Views\UserManagement\_UserAddDialog.cshtml:33
@@ -2621,35 +2621,35 @@ msgstr "ファーストネーム"
 #: Views\UserManagement\ViewProfile.cshtml:118
 #: Views\UserManagement\_UserImportSelectedUserList.cshtml:55
 msgid "First Name"
-msgstr "姓"
+msgstr "ファーストネーム"
 
 #: Views\UserManagement\_UserImportSelectedDatabaseSchema.cshtml:72
 msgid "First name :"
-msgstr "名："
+msgstr "ファーストネーム ："
 
 #: Views\Administration\KerberosAuthentication.cshtml:49
 #: Views\Administration\Storage.cshtml:46
 #: Views\Administration\Storage.cshtml:93
 msgid "For example"
-msgstr "例えば:"
+msgstr "例えば"
 
 #: Views\ServerConfiguration\_FileStorage.cshtml:33
 #: Views\ServerConfiguration\_FileStorage.cshtml:64
 msgid "For example "
-msgstr "例えば："
+msgstr "例えば"
 
 #: Views\Administration\_SiteSettings.cshtml:43
 msgid "for more details."
-msgstr "詳細について"
+msgstr "詳細については。"
 
 #: Views\Accounts\Login.cshtml:113
 msgid "Forgot password?"
-msgstr "パスワードを忘れましたか？"
+msgstr "パスワードをお忘れですか？"
 
 #: Views\Accounts\CodeConfirmation.cshtml:54
 #: Views\Accounts\ResetPasswordLinkMessage.cshtml:50
 msgid "Forgot your password?"
-msgstr "パスワードをお忘れ"
+msgstr "パスワードをお忘れですか？"
 
 #: Views\Administration\_ActiveDirectorySettings.cshtml:575
 #: Views\UserManagement\ImportFromExistingDatabase.cshtml:297
@@ -2658,11 +2658,11 @@ msgstr "フォームの関係"
 
 #: Views\Shared\_ScheduleRecipients.cshtml:29
 msgid "Format"
-msgstr "日付形式"
+msgstr "フォーマット"
 
 #: Scripts\Scheduler\recurrenceType.js:85
 msgid "fourth"
-msgstr "第四"
+msgstr "第4"
 
 #: Scripts\Scheduler\recurrenceType.js:74
 #: Views\Administration\ScheduleAzureSynchronization.cshtml:143
@@ -2691,7 +2691,7 @@ msgstr "パブリックアクセスから。内部サーバーエラー。もう
 
 #: Views\Shared\_CustomExpressionEditor.cshtml:84
 msgid "Functions"
-msgstr "関数"
+msgstr "機能"
 
 #: Views\Administration\KerberosAuthentication.cshtml:57
 msgid "Generate and download .bat file"
@@ -2731,11 +2731,11 @@ msgstr "最初のページに移動"
 
 #: Scripts\Core\Server.Core.js:575
 msgid "Go to last page"
-msgstr "最後のページへ"
+msgstr "最後のページに行く"
 
 #: Scripts\Core\Server.Core.js:576
 msgid "Go to next page"
-msgstr "次ページへ"
+msgstr "次のページに進む"
 
 #: Scripts\Core\Server.Core.js:577
 msgid "Go to previous page"
@@ -2769,7 +2769,7 @@ msgstr "グループが正常に更新されました。"
 #: Views\Group\ActiveDirectoryGroupImport.cshtml:72
 #: Views\Group\ActiveDirectoryGroupImport.cshtml:133
 msgid "group id"
-msgstr "グルップID"
+msgstr "グループID"
 
 #: Views\Group\EditGroup.cshtml:154 Views\Group\_AddGroup.cshtml:56
 #: Views\UserManagement\_AddUserInGroup.cshtml:21
@@ -2780,7 +2780,7 @@ msgstr "グループ名"
 #: Scripts\Group\SynchronizeGroups.js:139 Views\Group\AddUsers.cshtml:48
 #: Views\UserManagement\_AddUserInGroup.cshtml:29
 msgid "Group Name"
-msgstr "チャンネルグループ名"
+msgstr "グループ名"
 
 #: Controllers\Group\GroupController.cs:365
 msgid "Group Name already exist"
@@ -2804,7 +2804,7 @@ msgstr "グループ権限"
 
 #: Scripts\Scheduler\scheduleRecipients.js:75
 msgid "Group(s)"
-msgstr "グループ"
+msgstr "グループ（複数可）"
 
 #: Models\Group\GroupModels.cs:1147 Models\Group\GroupModels.cs:1326
 msgid "group(s) are deleted."
@@ -2821,7 +2821,7 @@ msgstr "グループが正常にインポートされました。"
 
 #: Views\Group\ActiveDirectoryGroup.cshtml:108
 msgid "GroupId"
-msgstr "グルップID"
+msgstr "GroupId"
 
 #: Views\Group\ActiveDirectoryGroup.cshtml:177
 #: Views\Group\ActiveDirectoryGroupImport.cshtml:143
@@ -2834,7 +2834,7 @@ msgstr "グルップID"
 #: Views\UserManagement\ViewProfile.cshtml:151
 #: Views\UserManagement\_UserMenu.cshtml:19
 msgid "Groups"
-msgstr "品群"
+msgstr "グループ"
 
 #: Views\Group\Group.cshtml:223
 msgid "GROUPS"
@@ -2847,7 +2847,7 @@ msgstr "グループ"
 #: Views\Notification\_UserNotification.cshtml:95
 #: Views\Notification\_UserNotification.cshtml:115
 msgid "has"
-msgstr "HAS"
+msgstr "持っている"
 
 #: Scripts\Permission\GroupPermission.js:135
 #: Scripts\Permission\GroupPermission.js:136
@@ -2870,7 +2870,7 @@ msgstr "あなたのコメントにコメントしました"
 #: Views\Administration\_SiteSettings.cshtml:83
 #: Views\Administration\_SiteSettings.cshtml:136
 msgid "Header Logo"
-msgstr "ヘッダロゴ"
+msgstr "ヘッダーロゴ"
 
 #: Scripts\Comments\Comment.js:1177
 #: Scripts\Scheduler\SchedulerEmailEditor.js:40
@@ -2885,7 +2885,7 @@ msgstr "見出し"
 #: Views\ServerConfiguration\Index.cshtml:180
 #: Views\ServerConfiguration\Index.cshtml:271 Views\User\Profile.cshtml:182
 msgid "here"
-msgstr "ここ"
+msgstr "ここに"
 
 #: Scripts\Homepages\Homepages.js:17 Scripts\Homepages\Homepages.js:38
 #: Scripts\Homepages\Homepages.js:1085 Views\Homepages\_PinWidget.cshtml:61
@@ -2925,7 +2925,7 @@ msgstr "ホームページ名は既に存在します。"
 
 #: Views\Homepages\_PinWidget.cshtml:37
 msgid "Homepage1"
-msgstr "homepage"
+msgstr "ホームページ1"
 
 #: Views\Homepages\Homepages.cshtml:2 Views\Shared\_Menu.cshtml:35
 #: Views\Shared\_Menu.cshtml:37
@@ -2944,7 +2944,7 @@ msgstr "ホストドメイン名"
 #: Scripts\Administration\ScheduleSynchronization.js:231
 #: Scripts\Scheduler\recurrenceType.js:30
 msgid "Hourly"
-msgstr "時間給制"
+msgstr "毎時"
 
 #: Views\Notification\Notifications.cshtml:236
 #: Views\Notification\_UserNotification.cshtml:263
@@ -2981,7 +2981,7 @@ msgstr "イメージファイル形式はサポートされていません"
 
 #: Views\Administration\_SiteSettings.cshtml:63
 msgid "Images"
-msgstr "画像"
+msgstr "イメージ"
 
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:180
 #: Views\UserManagement\UploadFileFormAction.cshtml:102
@@ -3090,7 +3090,7 @@ msgstr "データベースからユーザーをインポートする"
 #: Views\UserManagement\ImportFromExistingDatabase.cshtml:33
 #: Views\UserManagement\ImportFromExistingDatabase.cshtml:342
 msgid "IMPORT USERS FROM DATABASE"
-msgstr "データベースからユーザーをインポートする"
+msgstr "データベースからのユーザーのインポート"
 
 #: Views\UserManagement\UploadFileFormAction.cshtml:108
 msgid "Import users from the list below"
@@ -3111,11 +3111,11 @@ msgstr "非アクティブ"
 
 #: Views\Group\AddUsers.cshtml:34
 msgid "Info"
-msgstr "状態"
+msgstr "情報"
 
 #: Scripts\launcher\launcher.js:162
 msgid "Information"
-msgstr "すでいま"
+msgstr "情報"
 
 #: Views\User\_UserNotificationPreference.cshtml:7
 #: Views\User\_UserNotificationPreference.cshtml:44
@@ -3229,7 +3229,7 @@ msgstr "無効な式"
 #: Scripts\Administration\SystemSettings.js:66
 #: Scripts\Administration\SystemSettings.js:98
 msgid "Invalid file format"
-msgstr "無効なファイル形式です"
+msgstr "無効なファイル形式"
 
 #: Scripts\Administration\KerberosAuthentication.js:8
 msgid "Invalid Host Domain name"
@@ -3261,7 +3261,7 @@ msgstr "無効なユーザーが存在します"
 
 #: Models\AccountModel.cs:182 Models\AccountModel.cs:240
 msgid "Invalid username"
-msgstr "無効なユーザー名:"
+msgstr "無効なユーザー名"
 
 #: Controllers\Accounts\AccountsController.cs:197
 #: Controllers\Accounts\AccountsController.cs:251
@@ -3283,7 +3283,7 @@ msgstr "アクティブです"
 
 #: Views\UserManagement\_UserImportSelectedDatabaseSchema.cshtml:87
 msgid "IsActive : "
-msgstr "アクティブです"
+msgstr "アクティブです ："
 
 #: Views\UserManagement\_UserImportSelectedDatabaseSchema.cshtml:92
 msgid "IsActive Value : "
@@ -3296,7 +3296,7 @@ msgstr "それは、"
 #: Scripts\Comments\Comment.js:1171
 #: Scripts\Scheduler\SchedulerEmailEditor.js:34
 msgid "Italic"
-msgstr "斜体"
+msgstr "イタリック"
 
 #: Models\ItemModel.cs:866
 msgid "Item has been published successfully."
@@ -3304,7 +3304,7 @@ msgstr "アイテムが正常に公開されました。"
 
 #: Scripts\Scheduler\recurrenceType.js:88
 msgid "January"
-msgstr "でいま"
+msgstr "1月"
 
 #: Scripts\User\UserImportDatabase.js:1101
 msgid "Join type"
@@ -3316,12 +3316,12 @@ msgstr "7月"
 
 #: Scripts\Scheduler\recurrenceType.js:93
 msgid "June"
-msgstr "6月"
+msgstr "六月"
 
 #: Views\Notification\Notifications.cshtml:220
 #: Views\Notification\_UserNotification.cshtml:247
 msgid "Just now"
-msgstr "たった今"
+msgstr "ちょうど今"
 
 #: Views\Administration\KerberosAuthentication.cshtml:2
 #: Views\Administration\_ActiveDirectorySettings.cshtml:13
@@ -3348,12 +3348,12 @@ msgstr "言語"
 
 #: Scripts\Scheduler\recurrenceType.js:86
 msgid "last"
-msgstr "最後"
+msgstr "最終"
 
 #: Views\Items\_ItemsGrid.cshtml:47 Views\Items\_ItemsGrid.cshtml:306
 #: Views\Items\_ItemsList.cshtml:67
 msgid "Last Modified"
-msgstr "最終修正日"
+msgstr "最終更新日"
 
 #: Views\ServerConfiguration\_UserAccount.cshtml:57
 #: Views\User\Profile.cshtml:125 Views\UserManagement\_UserAddDialog.cshtml:40
@@ -3370,16 +3370,16 @@ msgstr "苗字"
 #: Views\UserManagement\ViewProfile.cshtml:126
 #: Views\UserManagement\_UserImportSelectedUserList.cshtml:52
 msgid "Last Name"
-msgstr "名"
+msgstr "苗字"
 
 #: Views\UserManagement\_UserImportSelectedDatabaseSchema.cshtml:82
 msgid "Last name : "
-msgstr "名"
+msgstr "苗字 ："
 
 #: Views\Scheduler\Schedules.cshtml:93 Views\Scheduler\Schedules.cshtml:152
 #: Views\Scheduler\_ScheduleGridForMobile.cshtml:53
 msgid "Last Run"
-msgstr "前回の実行"
+msgstr "最後の実行"
 
 #: Views\Administration\_ActiveDirectorySettings.cshtml:78
 #: Views\Administration\_ActiveDirectorySettings.cshtml:80
@@ -3427,12 +3427,12 @@ msgstr "ウィジェットへのリンク："
 
 #: Views\Items\_GetLink.cshtml:48
 msgid "Link:"
-msgstr "リンク:"
+msgstr "リンク："
 
 #: Views\Notification\Notifications.cshtml:251
 #: Views\Notification\_UserNotification.cshtml:277
 msgid "LOAD MORE"
-msgstr "続きを読む"
+msgstr "もっとLOAD"
 
 #: Views\Homepages\_HomepageAddItem.cshtml:109
 msgid "Load preview"
@@ -3440,7 +3440,7 @@ msgstr "ロードプレビュー"
 
 #: Views\Items\_ItemsList.cshtml:259 Views\Items\_ItemsList.cshtml:467
 msgid "Loading..."
-msgstr "読み込み中..."
+msgstr "読み込んでいます..."
 
 #: Views\Accounts\CodeConfirmation.cshtml:87
 #: Views\Accounts\ForgotPassword.cshtml:105
@@ -3476,7 +3476,7 @@ msgstr "正常にログインしました"
 
 #: Views\Shared\_CustomExpressionEditor.cshtml:91
 msgid "Logical"
-msgstr "論理。"
+msgstr "論理的"
 
 #: Views\Accounts\Login.cshtml:48
 msgid "Login"
@@ -3519,7 +3519,7 @@ msgstr "カスタム式の列を管理する"
 
 #: Views\Administration\_AdminMenu.cshtml:61
 msgid "Manage License"
-msgstr "ライセンスを管理"
+msgstr "ライセンスの管理"
 
 #: Views\Administration\LicenseSettings.cshtml:20
 msgid "MANAGE LICENSES"
@@ -3546,12 +3546,12 @@ msgstr "利用可能なユーザーライセンスを管理する"
 
 #: Scripts\Scheduler\recurrenceType.js:90
 msgid "March"
-msgstr "3月"
+msgstr "行進"
 
 #: Scripts\Items\Items.js:348 Views\Items\_ItemsList.cshtml:101
 #: Views\Items\_ItemsList.cshtml:118 Views\Items\_ItemsList.cshtml:392
 msgid "Mark as favorite"
-msgstr "お気に入りに追加"
+msgstr "お気に入りとしてマークする"
 
 #: Views\Administration\DashboardSettings.cshtml:47
 msgid "Mark dashboards and widgets as public"
@@ -3573,7 +3573,7 @@ msgstr "Microsoft ADFS"
 #: Views\Notification\Notifications.cshtml:224
 #: Views\Notification\_UserNotification.cshtml:251
 msgid "Minutes ago"
-msgstr "分前"
+msgstr "数分前"
 
 #: Views\Administration\SAMLSettings.cshtml:154
 #: Views\Administration\SAMLSettings.cshtml:157
@@ -3604,7 +3604,7 @@ msgstr "変更日"
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:200
 #: Views\UserManagement\DatabaseUserImport.cshtml:218
 msgid "Modify"
-msgstr "修正"
+msgstr "変更"
 
 #: Scripts\Scheduler\recurrenceType.js:62
 #: Views\Administration\ScheduleAzureSynchronization.cshtml:122
@@ -3612,7 +3612,7 @@ msgstr "修正"
 #: Views\Administration\ScheduleSynchronization.cshtml:119
 #: Views\Shared\_RecurrenceType.cshtml:81
 msgid "Monday"
-msgstr "月曜日"
+msgstr "月曜"
 
 #: Scripts\Administration\ScheduleSynchronization.js:115
 #: Scripts\Administration\ScheduleSynchronization.js:135
@@ -3629,12 +3629,12 @@ msgstr "月曜日"
 #: Views\Shared\_RecurrenceType.cshtml:125
 #: Views\Shared\_RecurrenceType.cshtml:144
 msgid "month(s)"
-msgstr "ヶ月"
+msgstr "月"
 
 #: Scripts\Administration\ScheduleSynchronization.js:234
 #: Scripts\Scheduler\recurrenceType.js:33
 msgid "Monthly"
-msgstr "月々"
+msgstr "毎月"
 
 #: Views\Items\_ItemsList.cshtml:274 Views\Items\_ItemsList.cshtml:630
 #: Views\Items\_MoveItem.cshtml:65
@@ -3673,7 +3673,7 @@ msgstr "私のプロフィール"
 
 #: Views\User\Profile.cshtml:92
 msgid "MY PROFILE"
-msgstr "マイプロフィール"
+msgstr "私のプロフィール"
 
 #: Views\User\EditPassword.cshtml:24
 msgid "MY PROFILE - Change Password"
@@ -3727,11 +3727,11 @@ msgstr "MySQL ODBC DSN"
 #: Views\UserManagement\_UserImportSelectedUserList.cshtml:46
 #: Views\Widgets\_AddWidget.cshtml:66 Views\Widgets\_EditWidget.cshtml:61
 msgid "Name"
-msgstr "名前"
+msgstr "名"
 
 #: Views\Shared\_SchedulerDialog.cshtml:107
 msgid "Name "
-msgstr "名前"
+msgstr "名"
 
 #: Models\UserManagementModel.cs:2150
 msgid "Name cannot exceed 254 characters"
@@ -3747,7 +3747,7 @@ msgstr "名前に特殊文字を使用しないでください。＃％＆* + <>
 
 #: Views\Shared\_RecurrenceType.cshtml:216
 msgid "Never"
-msgstr "同期しない"
+msgstr "絶対に"
 
 #: Models\Scheduler\ScheduleManagement.cs:1194
 #: Models\Scheduler\ScheduleManagement.cs:1197
@@ -3757,11 +3757,11 @@ msgstr "実行しない"
 
 #: Views\Homepages\_PinWidget.cshtml:69
 msgid "New"
-msgstr "新しい着信"
+msgstr "新しい"
 
 #: Views\Dashboards\Dashboards.cshtml:545
 msgid "NEW CATEGORY"
-msgstr "新しいカテゴリ:"
+msgstr "新たなカテゴリー"
 
 #: Views\ServerConfiguration\Index.cshtml:129
 #: Views\ServerConfiguration\Index.cshtml:199
@@ -3772,7 +3772,7 @@ msgstr "新しいデータベース"
 
 #: Views\Group\Group.cshtml:229 Views\UserManagement\_AddUserInGroup.cshtml:37
 msgid "New Group"
-msgstr "新しいグループ"
+msgstr "新しい集団"
 
 #: Scripts\Group\Group.js:43
 msgid "New group has been created successfully."
@@ -3798,7 +3798,7 @@ msgstr "新しいパスワード"
 
 #: Views\UserManagement\Index.cshtml:199 Views\UserManagement\Index.cshtml:205
 msgid "New User"
-msgstr "新規ユーザ"
+msgstr "新しいユーザー"
 
 #: Views\UserManagement\_LimitUserCreation.cshtml:20
 msgid ""
@@ -3845,7 +3845,7 @@ msgstr "次のスケジュールされた実行"
 #: Views\UserManagement\_MultipleUserDeleteDialog.cshtml:23
 #: Views\UserManagement\_SingleUserDeleteDialog.cshtml:23
 msgid "No"
-msgstr "No"
+msgstr "いいえ"
 
 #: Views\Dashboards\Dashboards.cshtml:539
 msgid "No categories available to display"
@@ -3933,7 +3933,7 @@ msgstr "表示するレコードがありません"
 #: Scripts\Items\ItemViewShare.js:320 Views\Homepages\_PinWidget.cshtml:34
 #: Views\User\Profile.cshtml:68
 msgid "No Results Found"
-msgstr "検索結果が見つかりません"
+msgstr "結果が見つかりません"
 
 #: Views\Administration\_SiteSettings.cshtml:171
 #: Views\Group\EditGroup.cshtml:178 Views\Items\_ItemPermission.cshtml:57
@@ -3963,7 +3963,7 @@ msgstr "注意："
 
 #: Scripts\Core\Server.Core.js:567
 msgid "NotEqual"
-msgstr "等しくない"
+msgstr "NotEqual"
 
 #: Scripts\Administration\NotificationSettings.js:28
 #: Scripts\Administration\NotificationSettings.js:31
@@ -3989,7 +3989,7 @@ msgstr "通知"
 #: Views\Notification\Notifications.cshtml:208
 #: Views\Notification\Notifications.cshtml:210
 msgid "NOTIFICATIONS"
-msgstr "通知設定"
+msgstr "通知"
 
 #: Scripts\Scheduler\recurrenceType.js:98
 msgid "November"
@@ -4002,7 +4002,7 @@ msgstr "今"
 
 #: Views\Shared\_CustomExpressionEditor.cshtml:107
 msgid "Number"
-msgstr "電話番号"
+msgstr "数"
 
 #: Scripts\Comments\Comment.js:1196
 #: Scripts\Scheduler\SchedulerEmailEditor.js:59
@@ -4011,15 +4011,15 @@ msgstr "番号付きリスト"
 
 #: Views\Shared\_CustomExpressionEditor.cshtml:88
 msgid "Numbers"
-msgstr "数値"
+msgstr "数字"
 
 #: Views\Shared\_RecurrenceType.cshtml:222
 msgid "Occurrences"
-msgstr "事例"
+msgstr "出現数"
 
 #: Scripts\Scheduler\recurrenceType.js:332
 msgid "occurrences."
-msgstr "事例"
+msgstr "出現。"
 
 #: Scripts\Scheduler\recurrenceType.js:229
 msgid "Occurs "
@@ -4081,7 +4081,7 @@ msgstr "10月"
 #: Views\Administration\ScheduleSynchronization.cshtml:234
 #: Views\Shared\_RecurrenceType.cshtml:185
 msgid "of"
-msgstr "of"
+msgstr "の"
 
 #: Scripts\Administration\ScheduleSynchronization.js:115
 #: Scripts\Administration\ScheduleSynchronization.js:135
@@ -4113,7 +4113,7 @@ msgstr "すべての"
 #: Views\Shared\_DashboardViews.cshtml:105
 #: Views\UserManagement\_LimitUserCreation.cshtml:27
 msgid "OK"
-msgstr "OK"
+msgstr "[OK]"
 
 #: Views\Shared\_Comments.cshtml:95 Views\Shared\_WidgetComments.cshtml:62
 msgid "Oldest"
@@ -4125,14 +4125,14 @@ msgstr "に"
 
 #: Scripts\Scheduler\recurrenceType.js:272
 msgid "on "
-msgstr "オン"
+msgstr "に"
 
 #: Views\Items\_ItemsList.cshtml:139 Views\Items\_ItemsList.cshtml:144
 #: Views\Items\_ItemsList.cshtml:413 Views\Items\_ItemsList.cshtml:418
 #: Views\Items\_ItemsList.cshtml:512 Views\Items\_ItemsList.cshtml:517
 #: Views\Items\_ItemVersion.cshtml:85 Views\Items\_ItemVersion.cshtml:90
 msgid "Open"
-msgstr "オープン"
+msgstr "開いた"
 
 #: Views\Items\_ItemsList.cshtml:128 Views\Items\_ItemsList.cshtml:402
 msgid "Open Dashboard in new tab"
@@ -4157,8 +4157,7 @@ msgstr "オプション"
 #: Views\ServerConfiguration\Index.cshtml:91
 #: Views\UserManagement\ImportFromExistingDatabase.cshtml:57
 msgid "Oracle"
-msgstr "Oracle
-"
+msgstr "オラクル"
 
 #: Views\Administration\_ActiveDirectorySettings.cshtml:388
 #: Views\UserManagement\ImportFromExistingDatabase.cshtml:166
@@ -4174,7 +4173,7 @@ msgstr "組織名"
 #: Views\Scheduler\Schedules.cshtml:109 Views\Scheduler\Schedules.cshtml:182
 #: Views\Scheduler\_ScheduleGridForMobile.cshtml:61
 msgid "Owner"
-msgstr "担当者"
+msgstr "オーナー"
 
 #: Views\Dashboards\Dashboards.cshtml:472
 msgid "Owner name"
@@ -4190,7 +4189,7 @@ msgstr "所有者名"
 #: Controllers\Group\GroupController.cs:291 Views\Error\HttpError404.cshtml:2
 #: Views\Error\HttpError404.cshtml:11
 msgid "Page Not Found"
-msgstr "ページが見つかりません。"
+msgstr "ページが見つかりません"
 
 #: Scripts\Group\ActiveDirectoryGroupImport.js:74
 #: Scripts\Group\SynchronizeGroups.js:144
@@ -4300,11 +4299,11 @@ msgstr "PDF"
 
 #: Views\Group\AddUsers.cshtml:33
 msgid "People"
-msgstr "人物"
+msgstr "人"
 
 #: Scripts\Items\ItemPermission.js:311 Scripts\Items\ItemPermission.js:318
 msgid "Permission"
-msgstr "権限"
+msgstr "許可"
 
 #: Views\Items\_ItemPermission.cshtml:139
 msgid "Permission Access"
@@ -4312,7 +4311,7 @@ msgstr "アクセス権のアクセス"
 
 #: Views\Home\Permissiondenied.cshtml:2
 msgid "Permission Denied"
-msgstr "アクセスが拒否されました:"
+msgstr "アクセス拒否"
 
 #: Views\Items\_ItemPermission.cshtml:142
 msgid "Permission Entity"
@@ -4334,7 +4333,7 @@ msgstr "許可が正常に追加されました。"
 
 #: Views\User\_UserPermissionGridForMobile.cshtml:66
 msgid "Permissions"
-msgstr "権限の管理"
+msgstr "アクセス許可"
 
 #: Views\User\Profile.cshtml:148 Views\UserManagement\ViewProfile.cshtml:142
 msgid "Phone"
@@ -4489,7 +4488,7 @@ msgstr "ダッシュボードをグループ化するカテゴリを作成して
 #: Scripts\Scheduler\DataChanges.js:242 Scripts\Scheduler\DataChanges.js:284
 #: Scripts\Scheduler\DataChanges.js:1849 Scripts\Scheduler\DataChanges.js:1910
 msgid "Please enter a numeric value"
-msgstr "数値を入力してください。"
+msgstr "数値を入力してください"
 
 #: Scripts\Scheduler\DataChanges.js:950 Scripts\Scheduler\DataChanges.js:1435
 #: Scripts\Scheduler\DataChanges.js:1671
@@ -4499,11 +4498,11 @@ msgstr "文字列の値を入力してください"
 #: Scripts\Scheduler\scheduleRecipients.js:55
 #: Scripts\System\SystemSettings.js:561 Scripts\User\EditProfile.js:29
 msgid "Please enter a valid email address"
-msgstr "有効なメール アドレスを入力してください"
+msgstr "有効なメールアドレスを入力してください"
 
 #: Views\ServerConfiguration\_UserAccount.cshtml:65
 msgid "Please enter a valid email address."
-msgstr "有効なメール アドレスを入力してください。"
+msgstr "有効なメールアドレスを入力してください。"
 
 #: Scripts\Scheduler\DataChanges.js:942 Scripts\Scheduler\DataChanges.js:1432
 #: Scripts\Scheduler\DataChanges.js:1668
@@ -4762,13 +4761,13 @@ msgstr "\ "+ dateFormat + \"形式で日付を入力してください。"
 #: Scripts\User\UserManagement.js:51 Scripts\User\UserManagementProfile.js:44
 #: Scripts\Widget\AddWidget.js:10 Scripts\Widget\EditWidget.js:12
 msgid "Please enter the name"
-msgstr "名前を入力してください。"
+msgstr "名前を入力してください"
 
 #: Scripts\Accounts\Accounts.js:374 Scripts\Accounts\Accounts.js:385
 #: Scripts\Administration\DatabaseSettings.js:142
 #: Views\Accounts\AccountActivation.cshtml:80
 msgid "Please enter the password"
-msgstr "パスワードを入力してください。"
+msgstr "パスワードを入力してください"
 
 #: Scripts\User\EditProfile.js:41 Scripts\User\UserManagementProfile.js:52
 msgid "Please enter the valid phone number"
@@ -4822,11 +4821,11 @@ msgstr "ウィジェット名を入力してください"
 
 #: Scripts\User\EditProfile.js:95
 msgid "Please enter your email address"
-msgstr "メール アドレスを入力してください"
+msgstr "メールアドレスを入力してください"
 
 #: Scripts\User\EditProfile.js:98
 msgid "Please enter your first name"
-msgstr "名前を入力してください。"
+msgstr "あなたの名前を入力してください"
 
 #: Scripts\Password\ChangePassword.js:119
 #: Scripts\User\UserManagementProfile.js:215
@@ -4839,7 +4838,7 @@ msgstr "古いパスワードを入力してください"
 
 #: Scripts\Administration\DatabaseSettings.js:139
 msgid "Please enter your username"
-msgstr "ユーザー名を入力してください"
+msgstr "あなたのユーザー名を入力してください"
 
 #: Scripts\Homepages\PinWidget.js:135
 msgid "Please pin to existing homepage or add a new one."
@@ -4972,7 +4971,7 @@ msgstr "ウィジェットファイルをアップロードしてください"
 #: Views\UserManagement\ImportFromExistingDatabase.cshtml:232
 #: Views\UserManagement\ImportFromExistingDatabase.cshtml:235
 msgid "Port"
-msgstr "港"
+msgstr "ポート"
 
 #: Views\ServerConfiguration\Index.cshtml:328
 msgid "Port number"
@@ -4981,12 +4980,11 @@ msgstr "ポート番号"
 #: Views\Administration\_ActiveDirectorySettings.cshtml:111
 #: Views\Administration\_ActiveDirectorySettings.cshtml:114
 msgid "Port Number"
-msgstr "
-  ポート番号"
+msgstr "ポート番号"
 
 #: Views\Shared\_Comments.cshtml:73 Views\Shared\_WidgetComments.cshtml:51
 msgid "Post"
-msgstr "Post"
+msgstr "役職"
 
 #: Views\Administration\_ActiveDirectorySettings.cshtml:213
 #: Views\Administration\_ActiveDirectorySettings.cshtml:217
@@ -5007,7 +5005,7 @@ msgstr "プレビューアイテム"
 
 #: Views\Items\_RemovePublic.cshtml:33
 msgid "private?"
-msgstr "民間"
+msgstr "プライベート？"
 
 #: Views\ServerConfiguration\Index.cshtml:380
 #: Views\ServerConfiguration\Index.cshtml:381
@@ -5022,7 +5020,7 @@ msgstr "民間"
 #: Views\ServerConfiguration\_FileStorage.cshtml:77
 #: Views\ServerConfiguration\_UserAccount.cshtml:87
 msgid "Proceed"
-msgstr "次へ進む"
+msgstr "続行する"
 
 #: Views\Shared\_Header.cshtml:56
 msgid "PROFILE"
@@ -5088,7 +5086,7 @@ msgstr "<a href=\"~/administration/dashboard-settings\">ダッシュボードの
 
 #: Views\Items\_MakeItemPublic.cshtml:43
 msgid "public?"
-msgstr "パブリック"
+msgstr "パブリック？"
 
 #: Views\UserManagement\_UserImportSelectedUserList.cshtml:3
 msgid "Query to pull users :"
@@ -5097,7 +5095,7 @@ msgstr "ユーザーを取得するクエリ："
 #: Scripts\Comments\Comment.js:1184
 #: Scripts\Scheduler\SchedulerEmailEditor.js:47
 msgid "Quote"
-msgstr "引用"
+msgstr "見積もり"
 
 #: Views\Dashboards\Dashboards.cshtml:51 Views\Dashboards\Dashboards.cshtml:344
 msgid "Recent Dashboards"
@@ -5185,11 +5183,11 @@ msgstr "ホームページの名前を変更する"
 #: Views\Notification\Notifications.cshtml:99
 #: Views\Notification\_UserNotification.cshtml:119
 msgid "replied to"
-msgstr "返信"
+msgstr "答えた"
 
 #: Scripts\Comments\Comment.js:488 Scripts\Comments\Comment.js:1061
 msgid "Replied to"
-msgstr "返信"
+msgstr "返信先"
 
 #: Views\Notification\Notifications.cshtml:98
 #: Views\Notification\_UserNotification.cshtml:118
@@ -5198,7 +5196,7 @@ msgstr "あなたのコメントに返信しました"
 
 #: Scripts\Comments\Comment.js:171 Scripts\Comments\Comment.js:494
 msgid "replies"
-msgstr "返信数: %s件"
+msgstr "返信"
 
 #: Scripts\Comments\Comment.js:166 Scripts\Comments\Comment.js:407
 #: Scripts\Comments\Comment.js:487 Scripts\Comments\Comment.js:518
@@ -5221,16 +5219,16 @@ msgstr "アクティベーションコードを再送信する"
 
 #: Views\Accounts\ResetPasswordLinkMessage.cshtml:3
 msgid "Reset password link"
-msgstr "パスワード再設定のリンク"
+msgstr "パスワードのリセットリンク"
 
 #: Views\User\_UserPermissionGrid.cshtml:90
 #: Views\User\_UserPermissionGridForMobile.cshtml:79
 msgid "Resources"
-msgstr "関連資料"
+msgstr "リソース"
 
 #: Views\Items\_ItemVersion.cshtml:107
 msgid "Restore"
-msgstr "復元"
+msgstr "リストア"
 
 #: Models\ItemModel.cs:469
 msgid "Restored from Trash"
@@ -5297,11 +5295,11 @@ msgstr "土曜日"
 #: Views\User\_UserNotificationPreference.cshtml:54
 #: Views\UserManagement\ViewProfile.cshtml:204
 msgid "Save"
-msgstr "保存"
+msgstr "セーブ"
 
 #: Views\Group\AddUsers.cshtml:22
 msgid "SAVE"
-msgstr "保存"
+msgstr "セーブ"
 
 #: Scripts\Dashboards\DashboardViews.js:46 Views\Shared\_SaveView.cshtml:30
 msgid "Save View"
@@ -5367,7 +5365,7 @@ msgstr "スケジュール"
 
 #: Views\Scheduler\Schedules.cshtml:242 Views\Shared\_Layout.cshtml:103
 msgid "SCHEDULES"
-msgstr "5 スケジュ​​ール"
+msgstr "スケジュール"
 
 #: Views\Permission\GroupPermission.cshtml:74
 #: Views\Permission\GroupPermission.cshtml:144
@@ -5378,7 +5376,7 @@ msgstr "5 スケジュ​​ール"
 #: Views\User\_UserPermissionGrid.cshtml:12
 #: Views\User\_UserPermissionGrid.cshtml:82
 msgid "Scope"
-msgstr "適用範囲"
+msgstr "範囲"
 
 #: Views\Administration\_SiteSettings.cshtml:171
 #: Views\Dashboards\Dashboards.cshtml:447
@@ -5407,7 +5405,7 @@ msgstr "適用範囲"
 #: Views\UserManagement\_UserImportSelectedDatabaseSchema.cshtml:18
 #: Views\Widgets\Widgets.cshtml:178 Views\Widgets\Widgets.cshtml:179
 msgid "Search"
-msgstr "検索"
+msgstr "サーチ"
 
 #: Views\Group\ActiveDirectoryGroup.cshtml:205
 msgid "Search AD groups"
@@ -5443,12 +5441,12 @@ msgstr "データベーススキーマの検索"
 
 #: Views\Items\_shareItemView.cshtml:175
 msgid "Search Group"
-msgstr "グループを検索"
+msgstr "検索グループ"
 
 #: Views\Group\ActiveDirectoryGroupImport.cshtml:188
 #: Views\Group\Group.cshtml:316
 msgid "Search groups"
-msgstr "検索コミュニティ..."
+msgstr "検索グループ"
 
 #: Views\Group\AddUsers.cshtml:101
 msgid "Search Here"
@@ -5475,11 +5473,11 @@ msgstr "ユーザーを検索"
 #: Views\UserManagement\SynchronizeDatabaseUsers.cshtml:180
 #: Views\UserManagement\_UserImportSelectedUserList.cshtml:15
 msgid "Search users"
-msgstr "ユーザー検索"
+msgstr "ユーザーを検索"
 
 #: Scripts\Scheduler\recurrenceType.js:83
 msgid "second"
-msgstr "秒"
+msgstr "二番目"
 
 #: Views\Dashboards\Dashboards.cshtml:565
 msgid "Select a dashboard to view."
@@ -5514,7 +5512,7 @@ msgstr "共有するユーザーまたはグループを選択する"
 msgid ""
 "Select a user, group, or type an email address in the external recipient to "
 "schedule"
-msgstr "スケジュールする外部受信者のメールアドレスを入力するか、グループを選択するか、ユーザーを選択する"
+msgstr "スケジュールするには、外部受信者のメールアドレスを入力するか、グループを選択するか、ユーザーを選択します。"
 
 #: Views\Widgets\Widgets.cshtml:193
 msgid "Select a widget to view."
@@ -5544,7 +5542,7 @@ msgstr "アクセスモードを選択"
 #: Scripts\Scheduler\scheduleRecipients.js:134
 #: Scripts\Scheduler\scheduleRecipients.js:160
 msgid "Select All"
-msgstr "でいま"
+msgstr "すべて選択"
 
 #: Views\Homepages\_PinWidget.cshtml:50
 msgid "Select an existing homepage or add a new one."
@@ -5559,11 +5557,11 @@ msgstr "プレビューする項目を選択します。"
 #: Views\Items\_MoveItem.cshtml:48 Views\Shared\_SchedulerDialog.cshtml:41
 #: Views\Shared\_SchedulerDialog.cshtml:48
 msgid "Select category"
-msgstr "カテゴリを選択してください："
+msgstr "カテゴリを選んでください"
 
 #: Scripts\Scheduler\Scheduler.js:1217
 msgid "Select Category"
-msgstr "カテゴリーの選択"
+msgstr "カテゴリを選んでください"
 
 #: Scripts\Scheduler\DataChanges.js:221 Scripts\Scheduler\DataChanges.js:238
 #: Scripts\Scheduler\DataChanges.js:263 Scripts\Scheduler\DataChanges.js:281
@@ -5574,7 +5572,7 @@ msgstr "カテゴリーの選択"
 #: Scripts\Scheduler\DataChanges.js:1956 Scripts\Scheduler\DataChanges.js:2000
 #: Scripts\Scheduler\DataChanges.js:2048 Scripts\Scheduler\DataChanges.js:2091
 msgid "Select Column"
-msgstr "Select Column:"
+msgstr "列を選択"
 
 #: Scripts\Scheduler\DataChanges.js:227 Scripts\Scheduler\DataChanges.js:269
 #: Scripts\Scheduler\DataChanges.js:446 Scripts\Scheduler\DataChanges.js:447
@@ -5613,7 +5611,7 @@ msgstr "エンティティの選択"
 
 #: Views\Shared\_EmailEditor.cshtml:16
 msgid "Select Fields"
-msgstr "Select Fields"
+msgstr "フィールドの選択"
 
 #: Views\Shared\_CustomExpressionEditor.cshtml:79
 msgid "Select functions and column settings to form custom expressions."
@@ -5621,7 +5619,7 @@ msgstr "カスタム式を作成するための関数と列の設定を選択し
 
 #: Views\UserManagement\_AddUserInGroup.cshtml:29
 msgid "Select Group"
-msgstr "グループ​を​選択"
+msgstr "グループを選択"
 
 #: Views\Items\_ItemPermission.cshtml:60 Views\Items\_shareItemView.cshtml:126
 #: Views\Shared\_ScheduleRecipients.cshtml:16
@@ -5784,7 +5782,7 @@ msgstr "サーバーが停止している可能性があります。"
 #: Views\UserManagement\ImportFromExistingDatabase.cshtml:223
 #: Views\UserManagement\ImportFromExistingDatabase.cshtml:226
 msgid "Server name"
-msgstr "サーバー名"
+msgstr "サーバーの名前"
 
 #: Scripts\Accounts\Accounts.js:297 Scripts\Accounts\Accounts.js:323
 msgid "Service UnAvailable"
@@ -5830,7 +5828,7 @@ msgstr "Kerberosチケット管理システムを介してユーザーを認証�
 #: Scripts\Dashboards\DashboardViews.js:451
 #: Views\Items\_shareItemView.cshtml:114 Views\Items\_shareItemView.cshtml:130
 msgid "Share"
-msgstr "共有"
+msgstr "シェア"
 
 #: Scripts\Items\ItemViewShare.js:56 Views\Items\_shareItemView.cshtml:114
 msgid "Share View"
@@ -5838,7 +5836,7 @@ msgstr "共有ビュー"
 
 #: Views\Items\_shareItemView.cshtml:146
 msgid "Shared with"
-msgstr "共有"
+msgstr "共有者"
 
 #: Views\Administration\_SiteSettings.cshtml:237
 msgid "Show copyright information"
@@ -5866,7 +5864,7 @@ msgstr "シングルサインオン設定"
 
 #: Views\Administration\_AdminMenu.cshtml:19
 msgid "Site"
-msgstr "部位"
+msgstr "サイト"
 
 #: Views\Administration\_SiteSettings.cshtml:15
 msgid "SITE SETTINGS"
@@ -5874,7 +5872,7 @@ msgstr "サイト設定"
 
 #: Views\Administration\_SiteSettings.cshtml:30
 msgid "Site URL"
-msgstr "サイトの URL"
+msgstr "サイトのURL"
 
 #: Views\Administration\_EmailSettings.cshtml:34
 msgid "SMTP port"
@@ -5909,7 +5907,7 @@ msgstr "SQL認証"
 #: Views\ServerConfiguration\Index.cshtml:88
 #: Views\UserManagement\ImportFromExistingDatabase.cshtml:54
 msgid "SQL Server"
-msgstr "SQL Server"
+msgstr "SQLサーバー"
 
 #: Views\Administration\SAMLSettings.cshtml:29
 #: Views\Administration\SAMLSettings.cshtml:35
@@ -5924,11 +5922,11 @@ msgstr "SSO設定が更新されました。この変更を適用するには、
 
 #: Views\Shared\_RecurrenceType.cshtml:196
 msgid "Starts on"
-msgstr "開始時間:"
+msgstr "始まる"
 
 #: Scripts\Core\Server.Core.js:567
 msgid "StartsWith"
-msgstr "始め"
+msgstr "StartsWith"
 
 #: Scripts\Group\ActiveDirectoryGroupImport.js:68
 #: Scripts\Group\SynchronizeGroups.js:139 Views\Scheduler\Schedules.cshtml:117
@@ -5948,7 +5946,7 @@ msgstr "ストレージ設定"
 
 #: Views\Shared\_CustomExpressionEditor.cshtml:93
 msgid "String"
-msgstr "ひも"
+msgstr "文字列"
 
 #: Scripts\Administration\Storage.js:131 Scripts\System\SystemSettings.js:962
 msgid "Subdomain name should match with the Account name"
@@ -5984,7 +5982,7 @@ msgstr "同期グループ - ステータス"
 #: Views\UserManagement\SynchronizeDatabaseUsers.cshtml:174
 #: Views\UserManagement\SynchronizeUsers.cshtml:192
 msgid "Synchronize"
-msgstr "Synchronize"
+msgstr "同期する"
 
 #: Views\Group\ActiveDirectoryGroup.cshtml:2
 msgid "Synchronize Active Directory Groups"
@@ -6092,7 +6090,7 @@ msgstr "テーブル名接頭辞"
 
 #: Views\Shared\_SchedulerDialog.cshtml:86
 msgid "Tabs "
-msgstr "30"
+msgstr "タブ"
 
 #: Views\Administration\SAMLSettings.cshtml:143
 #: Views\Administration\SAMLSettings.cshtml:146
@@ -6125,7 +6123,7 @@ msgstr "テキスト"
 #: Scripts\Scheduler\recurrenceType.js:286
 #: Scripts\Scheduler\recurrenceType.js:306
 msgid "the"
-msgstr "彼は優秀です"
+msgstr "その"
 
 #: Views\Administration\ScheduleAzureSynchronization.cshtml:178
 #: Views\Administration\ScheduleAzureSynchronization.cshtml:212
@@ -6140,7 +6138,7 @@ msgstr "彼は優秀です"
 #: Views\Shared\_RecurrenceType.cshtml:162
 #: Views\Shared\_RecurrenceType.cshtml:173
 msgid "The"
-msgstr "The"
+msgstr "ザ"
 
 #: Controllers\Group\GroupController.cs:466
 msgid "The AD settings is not configured"
@@ -6214,7 +6212,7 @@ msgstr "アップロードされたファイルにはデータはありません
 
 #: Scripts\Scheduler\recurrenceType.js:84
 msgid "third"
-msgstr "第三"
+msgstr "三番"
 
 #: Views\ServerConfiguration\Index.cshtml:73
 msgid ""
@@ -6252,7 +6250,7 @@ msgstr "このダッシュボードは一般公開とマークされているた
 msgid ""
 "This has been marked public, so anyone with this link will be able to view "
 "the contents."
-msgstr "これは一般公開とマークされているため、このリンクを持つ誰でもコンテンツを見ることができます。"
+msgstr "これは一般公開とマークされているため、このリンクを持つ誰でもコンテンツを閲覧できます。"
 
 #: Views\Accounts\AccountActivation.cshtml:56
 msgid "This link is invalid."
@@ -6302,15 +6300,15 @@ msgstr "時間"
 
 #: Views\Administration\_SiteSettings.cshtml:169
 msgid "Time Zone"
-msgstr "時間帯"
+msgstr "タイムゾーン"
 
 #: Models\ItemModel.cs:476 Models\ItemModel.cs:482 Models\ItemModel.cs:487
 msgid "to"
-msgstr "to"
+msgstr "に"
 
 #: Views\Items\_CopyItem.cshtml:55 Views\Items\_MoveItem.cshtml:45
 msgid "To"
-msgstr "宛先"
+msgstr "に"
 
 #: Views\ServerConfiguration\Index.cshtml:271
 msgid "to learn how to create a DSN for MySQL database."
@@ -6421,7 +6419,7 @@ msgstr "保存されていないビュー"
 
 #: Scripts\Scheduler\recurrenceType.js:335
 msgid "until"
-msgstr "まで"
+msgstr "〜まで"
 
 #: Scripts\Comments\Comment.js:648 Views\Shared\_Comments.cshtml:83
 msgid "Unwatch"
@@ -6457,7 +6455,7 @@ msgstr "Azure AD設定の更新"
 #: Scripts\Category\EditCategory.js:112 Views\Category\_EditCategory.cshtml:24
 #: Views\Category\_EditCategory.cshtml:25
 msgid "Update Category"
-msgstr "カテゴリーを更新"
+msgstr "カテゴリの更新"
 
 #: Scripts\Dashboards\Dashboards.js:7 Views\Dashboards\_EditDashboard.cshtml:52
 #: Views\Dashboards\_EditDashboard.cshtml:173
@@ -6497,7 +6495,7 @@ msgstr "通知設定を更新する"
 #: Scripts\Password\ChangePassword.js:183
 #: Scripts\User\UserManagementProfile.js:611
 msgid "Update Password"
-msgstr "パスワードを更新します"
+msgstr "パスワードの更新"
 
 #: Scripts\User\EditProfile.js:459 Scripts\User\EditProfile.js:465
 #: Scripts\User\UserManagementProfile.js:695
@@ -6524,14 +6522,14 @@ msgstr "ウィジェットを更新"
 
 #: Models\ItemModel.cs:460
 msgid "Updated"
-msgstr "更新しました。"
+msgstr "更新しました"
 
 #: Views\Administration\_SiteSettings.cshtml:71
 #: Views\Administration\_SiteSettings.cshtml:87
 #: Views\Administration\_SiteSettings.cshtml:101
 #: Views\UserManagement\UploadFileFormAction.cshtml:142
 msgid "Upload"
-msgstr "Upload"
+msgstr "アップロード"
 
 #: Views\UserManagement\UploadFileFormAction.cshtml:142
 msgid "Upload CSV File here"
@@ -6539,7 +6537,7 @@ msgstr "CSVファイルをここにアップロードする"
 
 #: Scripts\Comments\Comment.js:1214
 msgid "Upload Image"
-msgstr "画像をアップロードする"
+msgstr "画像をアップロード"
 
 #: Views\Administration\_SiteSettings.cshtml:197
 msgid "Use 24-hour format"
@@ -6617,11 +6615,11 @@ msgstr "ユーザーはロックされています"
 #: Views\UserManagement\SynchronizeDatabaseUsers.cshtml:54
 #: Views\UserManagement\SynchronizeUsers.cshtml:63
 msgid "User id"
-msgstr "ユーザ ID"
+msgstr "ユーザーID"
 
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:154
 msgid "User Id"
-msgstr "ユーザー ID"
+msgstr "ユーザーID"
 
 #: Scripts\User\UserManagement.js:699
 msgid "User import incomplete. Do you want to continue?"
@@ -6629,11 +6627,11 @@ msgstr "ユーザーのインポートが完了していません。続けたい
 
 #: Views\Shared\_Menu.cshtml:83
 msgid "User Management"
-msgstr "10.1.4ユーザー管理"
+msgstr "ユーザー管理"
 
 #: Views\UserManagement\ViewProfile.cshtml:112
 msgid "User Name"
-msgstr "ユーザ名"
+msgstr "ユーザー名"
 
 #: Views\Administration\NotificationSettings.cshtml:2
 msgid "User Notification Preference"
@@ -6641,15 +6639,15 @@ msgstr "ユーザー通知の設定"
 
 #: Views\Permission\UserPermission.cshtml:2
 msgid "User Permissions"
-msgstr "ユーザーの権限"
+msgstr "ユーザー権限"
 
 #: Views\UserManagement\ViewProfile.cshtml:11
 msgid "User Profile"
-msgstr "ユーザープロフィール"
+msgstr "ユーザープロファイル"
 
 #: Views\User\Profile.cshtml:85
 msgid "USER PROFILE"
-msgstr "##user profile"
+msgstr "ユーザープロフィール"
 
 #: Controllers\Administration\UserManagementController.cs:1104
 msgid "User profile has been failed to update"
@@ -6683,7 +6681,7 @@ msgstr "ユーザー設定が正常に更新されました"
 
 #: Scripts\Scheduler\scheduleRecipients.js:75
 msgid "User(s)"
-msgstr "ユーザー"
+msgstr "ユーザー（複数可）"
 
 #: Models\UserManagementModel.cs:693 Models\UserManagementModel.cs:1088
 msgid "user(s) are deleted"
@@ -6781,7 +6779,7 @@ msgstr "ユーザー名"
 
 #: Views\UserManagement\_UserImportSelectedDatabaseSchema.cshtml:67
 msgid "Username : "
-msgstr "ユーザー名"
+msgstr "ユーザー名："
 
 #: Models\UserManagementModel.cs:586 Models\UserManagementModel.cs:820
 #: Models\UserManagementModel.cs:1016 Models\UserManagementModel.cs:1094
@@ -6812,7 +6810,7 @@ msgstr "ユーザー名にスペースが含まれています"
 #: Models\UserManagementModel.cs:1860 Models\UserManagementModel.cs:1994
 #: Models\UserManagementModel.cs:2170
 msgid "Username is Invalid"
-msgstr "ユーザー名が無効です。"
+msgstr "ユーザー名が無効です"
 
 #: Views\Accounts\ForgotPassword.cshtml:72
 msgid "Username or email address"
@@ -6876,7 +6874,7 @@ msgstr "ユーザー"
 
 #: Views\UserManagement\Index.cshtml:191
 msgid "USERS"
-msgstr "ユーザー"
+msgstr "USERS"
 
 #: Views\UserManagement\UploadFileFormAction.cshtml:2
 msgid "Users - CSV import"
@@ -6940,7 +6938,7 @@ msgstr "バージョン"
 #: Views\Group\Group.cshtml:58 Views\Group\Group.cshtml:65
 #: Views\UserManagement\Index.cshtml:90
 msgid "View"
-msgstr "表示"
+msgstr "ビュー"
 
 #: Views\Items\_shareItemView.cshtml:198
 msgid "View - Remove Access"
@@ -6948,7 +6946,7 @@ msgstr "表示 - アクセスを削除"
 
 #: Views\Shared\_Header.cshtml:79
 msgid "View all"
-msgstr "すべてを表示"
+msgstr "すべて見る"
 
 #: Views\EmbedFileRender\Dashboard.cshtml:3 Views\FileRender\Index.cshtml:3
 msgid "View Dashboard"
@@ -6956,7 +6954,7 @@ msgstr "ダッシュボードを表示"
 
 #: Views\Group\EditGroup.cshtml:134 Views\Permission\GroupPermission.cshtml:37
 msgid "View Group"
-msgstr "ViewGroup."
+msgstr "グループの表示"
 
 #: Scripts\Dashboards\DashboardViews.js:306
 msgid "View has been added successfully."
@@ -6982,11 +6980,11 @@ msgstr "私の許可を表示する"
 
 #: Views\Shared\_Header.cshtml:55
 msgid "View my profile"
-msgstr "プロフィールを表示"
+msgstr "プロフィールを見る"
 
 #: Views\Permission\UserPermission.cshtml:38
 msgid "View Profile"
-msgstr "View Profile"
+msgstr "プロフィールを見る"
 
 #: Views\User\UserPermission.cshtml:18
 msgid ""
@@ -7005,7 +7003,7 @@ msgstr "ビュー"
 
 #: Views\Shared\_DashboardViews.cshtml:58
 msgid "VIEWS"
-msgstr "ビュー"
+msgstr "見る"
 
 #: Scripts\Comments\Comment.js:667 Views\Shared\_Comments.cshtml:87
 msgid "Watch"
@@ -7039,7 +7037,7 @@ msgstr "水曜日"
 #: Views\Administration\ScheduleSynchronization.cshtml:107
 #: Views\Shared\_RecurrenceType.cshtml:69
 msgid "week(s)"
-msgstr "週間"
+msgstr "週"
 
 #: Scripts\Administration\ScheduleSynchronization.js:101
 msgid "week(s) on"
@@ -7051,7 +7049,7 @@ msgstr "on week（s）on"
 
 #: Scripts\Scheduler\recurrenceType.js:45
 msgid "weekday"
-msgstr "週日"
+msgstr "平日"
 
 #: Scripts\Administration\ScheduleSynchronization.js:233
 #: Scripts\Scheduler\recurrenceType.js:32
@@ -7103,7 +7101,7 @@ msgstr "ウィジェット名は既に存在します"
 
 #: Views\Administration\DashboardSettings.cshtml:59
 msgid "widgets"
-msgstr "道具"
+msgstr "ウィジェット"
 
 #: Views\Shared\_Menu.cshtml:48 Views\Shared\_Menu.cshtml:50
 #: Views\Widgets\Widgets.cshtml:2 Views\Widgets\Widgets.cshtml:135
@@ -7134,7 +7132,7 @@ msgstr "コメントを書く"
 #: Views\Administration\ScheduleSynchronization.cshtml:202
 #: Views\Shared\_RecurrenceType.cshtml:155
 msgid "year(s)"
-msgstr "35歳"
+msgstr "年"
 
 #: Scripts\Administration\ScheduleSynchronization.js:235
 #: Scripts\Scheduler\recurrenceType.js:34
@@ -7206,15 +7204,15 @@ msgstr "どのカテゴリでもダッシュボードを作成する権限がな
 
 #: Scripts\Homepages\Homepages.js:787
 msgid "You do not have permission to view this dashboard."
-msgstr "このフォーラムを閲覧する権限がありません。"
+msgstr "このダッシュボードを表示する権限がありません。"
 
 #: Views\Home\Permissiondenied.cshtml:17
 msgid "You do not have permission to view this page."
-msgstr "このフォーラムを閲覧する権限がありません。"
+msgstr "このページを表示する権限がありません。"
 
 #: Scripts\Homepages\Homepages.js:682
 msgid "You do not have permission to view this widget."
-msgstr "このフォーラムを閲覧する権限がありません。"
+msgstr "このウィジェットを表示する権限がありません。"
 
 #: Views\Notification\Notifications.cshtml:71
 #: Views\Notification\Notifications.cshtml:81
@@ -7230,7 +7228,7 @@ msgid ""
 "You have not pinned any widget to the homepage yet. Start tracking data from "
 "multiple dashboards. Click pin icon on dashboard widgets to pin widgets to "
 "home screen."
-msgstr "ウィジェットをホームページにまだ固定していません。複数のダッシュボードからデータの追跡を開始する。ウィジェットをホーム画面に固定するには、ダッシュボードウィジェットのピンアイコンをクリックします。"
+msgstr "ウィジェットはホームページにまだ固定されていません。複数のダッシュボードからデータの追跡を開始する。ウィジェットをホーム画面に固定するには、ダッシュボードウィジェットのピンアイコンをクリックします。"
 
 #: Views\Accounts\ForgotPassword.cshtml:87
 msgid ""

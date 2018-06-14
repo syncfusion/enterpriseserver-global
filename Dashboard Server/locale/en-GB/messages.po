@@ -143,12 +143,12 @@ msgstr "1024 characters maximum"
 
 #: Views\Administration\_SiteSettings.cshtml:204
 msgid "13.00"
-msgstr "❤[00:25:05] "
+msgstr "13.00"
 
 #: Scripts\Administration\SystemSettings.js:12
 #: Scripts\Administration\SystemSettings.js:256
 msgid "13:00"
-msgstr "❤[00:25:05] "
+msgstr "13:00"
 
 #: Views\Administration\_SiteSettings.cshtml:77
 msgid "200x44 pixels preferred"
@@ -385,7 +385,7 @@ msgstr "AD Schedule Synchronization"
 #: Views\UserManagement\_UserAddDialog.cshtml:50
 #: Views\Widgets\_AddWidget.cshtml:104
 msgid "Add"
-msgstr "زیادکردن"
+msgstr "Add"
 
 #: Views\Category\_AddCategory.cshtml:26 Views\Category\_AddCategory.cshtml:74
 msgid "Add Category"
@@ -684,7 +684,7 @@ msgstr "April"
 
 #: Views\Items\_DeleteItem.cshtml:20
 msgid "Are you sure you want to delete"
-msgstr "Are you sure you want to delete <</b?"
+msgstr "Are you sure you want to delete"
 
 #: Scripts\Scheduler\CustomExpressionEditor.js:521
 msgid "Are you sure you want to delete the expression?"
@@ -717,20 +717,20 @@ msgstr "Are you sure you want to delete the view "
 
 #: Scripts\Comments\Comment.js:569
 msgid "Are you sure you want to delete this comment?"
-msgstr "Are you sure that you want to delete this VPN?"
+msgstr "Are you sure you want to delete this comment?"
 
 #: Scripts\Homepages\Homepages.js:127
 msgid "Are you sure you want to delete this homepage?"
-msgstr "Are you sure that you want to delete this VPN?"
+msgstr "Are you sure you want to delete this homepage?"
 
 #: Scripts\Items\ItemPermission.js:195 Scripts\Items\ItemPermission.js:216
 #: Views\Permission\_DeletePermission.cshtml:15
 msgid "Are you sure you want to delete this permission?"
-msgstr "Are you sure that you want to delete this VPN?"
+msgstr "Are you sure you want to delete this permission?"
 
 #: Views\Scheduler\_DeleteSchedule.cshtml:13
 msgid "Are you sure you want to delete this schedule"
-msgstr "Are you sure that you want to delete this VPN?"
+msgstr "Are you sure you want to delete this schedule"
 
 #: Views\Group\_DeleteGroupUser.cshtml:34
 msgid "Are you sure you want to delete this user from the group?"
@@ -1016,11 +1016,11 @@ msgstr "Cannot delete"
 #: Views\Items\_ItemsGrid.cshtml:284 Views\Items\_ItemsList.cshtml:61
 #: Views\Items\_ItemsList.cshtml:111 Views\Items\_ItemsList.cshtml:385
 msgid "Category"
-msgstr "Category:"
+msgstr "Category"
 
 #: Views\Shared\_SchedulerDialog.cshtml:39
 msgid "Category "
-msgstr "Category: "
+msgstr "Category "
 
 #: Views\Category\_AddCategory.cshtml:74
 msgid "Category has been added successfully."
@@ -1050,7 +1050,7 @@ msgstr "Change Layout"
 #: Views\Accounts\ChangePassword.cshtml:11 Views\User\EditPassword.cshtml:2
 #: Views\User\Profile.cshtml:97
 msgid "Change Password"
-msgstr "CHANGE PASSWORD"
+msgstr "Change Password"
 
 #: Views\User\EditPassword.cshtml:20
 msgid "CHANGE PASSWORD"
@@ -1132,7 +1132,7 @@ msgstr "Clear"
 #: Scripts\Scheduler\scheduleRecipients.js:122
 #: Scripts\Scheduler\scheduleRecipients.js:147
 msgid "Clear All"
-msgstr "Clear all"
+msgstr "Clear All"
 
 #: Views\DataSources\DataSources.cshtml:28
 #: Views\Group\ActiveDirectoryGroup.cshtml:211
@@ -1234,7 +1234,7 @@ msgstr "Cloned from"
 
 #: Scripts\Homepages\Homepages.js:816
 msgid "close"
-msgstr "Close"
+msgstr "close"
 
 #: Views\Category\_AddCategory.cshtml:27 Views\Category\_EditCategory.cshtml:27
 #: Views\Dashboards\_AddDashboard.cshtml:51
@@ -1285,7 +1285,7 @@ msgstr "Collapse All"
 
 #: Views\Group\AddUsers.cshtml:61
 msgid "Color"
-msgstr "Colour"
+msgstr "Color"
 
 #: Views\Shared\_CustomExpressionEditor.cshtml:103
 msgid "Column Settings"
@@ -1314,7 +1314,7 @@ msgstr "Comment should not be blank"
 
 #: Views\Shared\_Comments.cshtml:91 Views\Shared\_WidgetComments.cshtml:58
 msgid "Comment(s)"
-msgstr "Comments"
+msgstr "Comment(s)"
 
 #: Views\Notification\Notifications.cshtml:74
 #: Views\Notification\_UserNotification.cshtml:86
@@ -1327,7 +1327,7 @@ msgstr "Comments"
 
 #: Views\Shared\_Comments.cshtml:55
 msgid "COMMENTS"
-msgstr "comments"
+msgstr "COMMENTS"
 
 #: Models\Scheduler\ScheduleManagement.cs:1212
 msgid "Completed"
@@ -1370,12 +1370,12 @@ msgstr "Configure General Settings of the Dashboard Server"
 #: Views\ServerConfiguration\Index.cshtml:249
 #: Views\ServerConfiguration\_UserAccount.cshtml:79
 msgid "Confirm password"
-msgstr "CONFIRM PASSWORD"
+msgstr "Confirm password"
 
 #: Views\User\EditPassword.cshtml:55
 #: Views\UserManagement\ViewProfile.cshtml:235
 msgid "Confirm Password"
-msgstr "CONFIRM PASSWORD"
+msgstr "Confirm Password"
 
 #: Views\UserManagement\ImportFromExistingDatabase.cshtml:38
 msgid "Connect"
@@ -1428,7 +1428,7 @@ msgstr "Copied from"
 #: Views\Items\_CopyItem.cshtml:75 Views\Items\_ItemsList.cshtml:282
 #: Views\Items\_ItemsList.cshtml:638
 msgid "Copy"
-msgstr "Copy:"
+msgstr "Copy"
 
 #: Scripts\Items\ItemActions.js:116
 msgid "Copy Dashboard"
@@ -1440,7 +1440,7 @@ msgstr "Create"
 
 #: Views\Items\_ItemAddOptions.cshtml:8
 msgid "CREATE"
-msgstr "Create"
+msgstr "CREATE"
 
 #: Scripts\Scheduler\Scheduler.js:650 Views\Shared\_SchedulerDialog.cshtml:33
 msgid "Create a data driven or a time based schedule"
@@ -1576,7 +1576,7 @@ msgstr "Dashboard with the same name already exists"
 
 #: Views\Scheduler\Schedules.cshtml:151
 msgid "Dashboard:"
-msgstr "dashboard"
+msgstr "Dashboard:"
 
 #: Views\Administration\DashboardSettings.cshtml:59
 msgid "dashboards"
@@ -1772,7 +1772,7 @@ msgstr "Date format"
 #: Scripts\Scheduler\recurrenceType.js:48
 #: Scripts\Scheduler\recurrenceType.js:279
 msgid "day"
-msgstr "Day"
+msgstr "day"
 
 #: Views\Administration\ScheduleAzureSynchronization.cshtml:162
 #: Views\Administration\ScheduleDatabaseSynchronization.cshtml:162
@@ -1786,7 +1786,7 @@ msgstr "Day"
 #: Views\Administration\ScheduleSynchronization.cshtml:87
 #: Views\Shared\_RecurrenceType.cshtml:52
 msgid "day(s)"
-msgstr "2 days"
+msgstr "day(s)"
 
 #: Scripts\Administration\ScheduleSynchronization.js:61
 #: Scripts\Administration\ScheduleSynchronization.js:327
@@ -1825,7 +1825,7 @@ msgstr "Default homepage has been removed successfully."
 
 #: Views\Administration\NotificationSettings.cshtml:37
 msgid "Default Settings"
-msgstr "default settings"
+msgstr "Default Settings"
 
 #: Scripts\Comments\Comment.js:166 Scripts\Comments\Comment.js:487
 #: Scripts\Comments\Comment.js:1057 Scripts\Dashboards\DashboardViews.js:391
@@ -1837,7 +1837,7 @@ msgstr "default settings"
 #: Views\Scheduler\Schedules.cshtml:228 Views\Scheduler\Schedules.cshtml:229
 #: Views\Scheduler\Schedules.cshtml:231 Views\UserManagement\Index.cshtml:96
 msgid "Delete"
-msgstr "سڕینەوە"
+msgstr "Delete"
 
 #: Scripts\Core\Server.Core.js:545
 msgid "Delete Avatar"
@@ -2093,7 +2093,7 @@ msgstr "Duplicated Username or Email Address"
 #: Views\Scheduler\Schedules.cshtml:220
 #: Views\User\_UserNotificationPreference.cshtml:52
 msgid "Edit"
-msgstr "Editghghg"
+msgstr "Edit"
 
 #: Scripts\Comments\Comment.js:369
 msgid "Edit Comment"
@@ -2138,14 +2138,14 @@ msgstr "E-mail"
 
 #: Views\UserManagement\_UserImportSelectedDatabaseSchema.cshtml:77
 msgid "E-mail : "
-msgstr "email "
+msgstr "E-mail : "
 
 #: Views\ServerConfiguration\_UserAccount.cshtml:61
 #: Views\Shared\_ScheduleRecipients.cshtml:20
 #: Views\UserManagement\_UserAddDialog.cshtml:26
 #: Views\UserManagement\_UserAddDialog.cshtml:28
 msgid "Email address"
-msgstr "Email address:"
+msgstr "Email address"
 
 #: Scripts\User\UserImportDatabase.js:755 Views\Group\EditGroup.cshtml:63
 #: Views\Group\EditGroup.cshtml:117 Views\Group\ViewGroup.cshtml:56
@@ -2162,7 +2162,7 @@ msgstr "Email address:"
 #: Views\UserManagement\UploadFileFormAction.cshtml:66
 #: Views\UserManagement\_UserImportSelectedUserList.cshtml:58
 msgid "Email Address"
-msgstr "Email address:"
+msgstr "Email Address"
 
 #: Controllers\UserController.cs:317 Models\UserManagementModel.cs:600
 #: Models\UserManagementModel.cs:699 Models\UserManagementModel.cs:829
@@ -2565,7 +2565,7 @@ msgstr "Favorite Dashboards"
 
 #: Views\Dashboards\Dashboards.cshtml:32 Views\Dashboards\Dashboards.cshtml:403
 msgid "Favorites"
-msgstr "Favourites"
+msgstr "Favorites"
 
 #: Scripts\Scheduler\recurrenceType.js:89
 msgid "February"
@@ -2625,7 +2625,7 @@ msgstr "First Name"
 
 #: Views\UserManagement\_UserImportSelectedDatabaseSchema.cshtml:72
 msgid "First name :"
-msgstr "First Name"
+msgstr "First name :"
 
 #: Views\Administration\KerberosAuthentication.cshtml:49
 #: Views\Administration\Storage.cshtml:46
@@ -2949,7 +2949,7 @@ msgstr "Hourly"
 #: Views\Notification\Notifications.cshtml:236
 #: Views\Notification\_UserNotification.cshtml:263
 msgid "Hours ago"
-msgstr "hours ago"
+msgstr "Hours ago"
 
 #: Views\Administration\DashboardSettings.cshtml:59
 msgid ""
@@ -2981,7 +2981,7 @@ msgstr "Image File Format not supported"
 
 #: Views\Administration\_SiteSettings.cshtml:63
 msgid "Images"
-msgstr "{0}{/0}{1}CHHAYA CHITRA{/1}"
+msgstr "Images"
 
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:180
 #: Views\UserManagement\UploadFileFormAction.cshtml:102
@@ -3115,7 +3115,7 @@ msgstr "Info"
 
 #: Scripts\launcher\launcher.js:162
 msgid "Information"
-msgstr "information"
+msgstr "Information"
 
 #: Views\User\_UserNotificationPreference.cshtml:7
 #: Views\User\_UserNotificationPreference.cshtml:44
@@ -3158,7 +3158,7 @@ msgstr "Internal server error. Please try again"
 
 #: Models\Group\GroupModels.cs:1106 Models\Group\GroupModels.cs:1285
 msgid "Internal server error. Please try again later."
-msgstr "Server Error: Please try again later."
+msgstr "Internal server error. Please try again later."
 
 #: Models\ItemModel.cs:728 Models\ItemModel.cs:897 Models\ItemModel.cs:1774
 #: Controllers\Accounts\AccountsController.cs:241
@@ -3229,7 +3229,7 @@ msgstr "Invalid expression"
 #: Scripts\Administration\SystemSettings.js:66
 #: Scripts\Administration\SystemSettings.js:98
 msgid "Invalid file format"
-msgstr "Invalid file format."
+msgstr "Invalid file format"
 
 #: Scripts\Administration\KerberosAuthentication.js:8
 msgid "Invalid Host Domain name"
@@ -3261,7 +3261,7 @@ msgstr "invalid user(s) exists "
 
 #: Models\AccountModel.cs:182 Models\AccountModel.cs:240
 msgid "Invalid username"
-msgstr "Invalid username."
+msgstr "Invalid username"
 
 #: Controllers\Accounts\AccountsController.cs:197
 #: Controllers\Accounts\AccountsController.cs:251
@@ -3374,7 +3374,7 @@ msgstr "Last Name"
 
 #: Views\UserManagement\_UserImportSelectedDatabaseSchema.cshtml:82
 msgid "Last name : "
-msgstr "Last Name "
+msgstr "Last name : "
 
 #: Views\Scheduler\Schedules.cshtml:93 Views\Scheduler\Schedules.cshtml:152
 #: Views\Scheduler\_ScheduleGridForMobile.cshtml:53
@@ -3432,7 +3432,7 @@ msgstr "Link:"
 #: Views\Notification\Notifications.cshtml:251
 #: Views\Notification\_UserNotification.cshtml:277
 msgid "LOAD MORE"
-msgstr "Load more ..."
+msgstr "LOAD MORE"
 
 #: Views\Homepages\_HomepageAddItem.cshtml:109
 msgid "Load preview"
@@ -3446,8 +3446,7 @@ msgstr "Loading..."
 #: Views\Accounts\ForgotPassword.cshtml:105
 #: Views\Accounts\ResetPasswordLinkMessage.cshtml:54
 msgid "Log In"
-msgstr "Log In
-"
+msgstr "Log In"
 
 #: Views\Administration\_SiteSettings.cshtml:67
 #: Views\Administration\_SiteSettings.cshtml:117
@@ -3465,11 +3464,11 @@ msgstr "Log in using a desktop client to add widgets on this homepage."
 #: Views\Shared\_Header.cshtml:58 Views\Shared\_Menu.cshtml:68
 #: Views\Shared\_Menu.cshtml:70
 msgid "Log Out"
-msgstr "Logout"
+msgstr "Log Out"
 
 #: Views\Shared\_Header.cshtml:59
 msgid "LOG OUT"
-msgstr "Logout"
+msgstr "LOG OUT"
 
 #: Models\AccountModel.cs:167
 msgid "Logged in successfully"
@@ -3481,7 +3480,7 @@ msgstr "Logical"
 
 #: Views\Accounts\Login.cshtml:48
 msgid "Login"
-msgstr "Login "
+msgstr "Login"
 
 #: Views\Accounts\Login.cshtml:116 Views\Accounts\Login.cshtml:119
 msgid "LOGIN"
@@ -3574,7 +3573,7 @@ msgstr "Microsoft ADFS"
 #: Views\Notification\Notifications.cshtml:224
 #: Views\Notification\_UserNotification.cshtml:251
 msgid "Minutes ago"
-msgstr "minutes ago"
+msgstr "Minutes ago"
 
 #: Views\Administration\SAMLSettings.cshtml:154
 #: Views\Administration\SAMLSettings.cshtml:157
@@ -3674,7 +3673,7 @@ msgstr "My Profile"
 
 #: Views\User\Profile.cshtml:92
 msgid "MY PROFILE"
-msgstr "my profile"
+msgstr "MY PROFILE"
 
 #: Views\User\EditPassword.cshtml:24
 msgid "MY PROFILE - Change Password"
@@ -3795,7 +3794,7 @@ msgstr "New password"
 #: Views\User\EditPassword.cshtml:44
 #: Views\UserManagement\ViewProfile.cshtml:223
 msgid "New Password"
-msgstr "New password"
+msgstr "New Password"
 
 #: Views\UserManagement\Index.cshtml:199 Views\UserManagement\Index.cshtml:205
 msgid "New User"
@@ -3970,11 +3969,11 @@ msgstr "NotEqual"
 #: Scripts\Administration\NotificationSettings.js:31
 #: Views\User\_UserNotificationPreference.cshtml:15
 msgid "Notification Settings"
-msgstr "Notification settings"
+msgstr "Notification Settings"
 
 #: Views\Administration\NotificationSettings.cshtml:24
 msgid "NOTIFICATION SETTINGS"
-msgstr "Notification settings"
+msgstr "NOTIFICATION SETTINGS"
 
 #: Scripts\User\UserNotificationSettings.js:41
 msgid "Notification settings has been updated successfully."
@@ -3990,7 +3989,7 @@ msgstr "Notifications"
 #: Views\Notification\Notifications.cshtml:208
 #: Views\Notification\Notifications.cshtml:210
 msgid "NOTIFICATIONS"
-msgstr "Notifications"
+msgstr "NOTIFICATIONS"
 
 #: Scripts\Scheduler\recurrenceType.js:98
 msgid "November"
@@ -4215,7 +4214,7 @@ msgstr "Partial Success"
 #: Views\UserManagement\ImportFromExistingDatabase.cshtml:254
 #: Views\UserManagement\UploadFileFormAction.cshtml:68
 msgid "Password"
-msgstr "Password "
+msgstr "Password"
 
 #: Views\Accounts\ForgotPassword.cshtml:67
 #: Views\Accounts\ForgotPassword.cshtml:85
@@ -4768,7 +4767,7 @@ msgstr "Please enter the name"
 #: Scripts\Administration\DatabaseSettings.js:142
 #: Views\Accounts\AccountActivation.cshtml:80
 msgid "Please enter the password"
-msgstr "Please enter the password."
+msgstr "Please enter the password"
 
 #: Scripts\User\EditProfile.js:41 Scripts\User\UserManagementProfile.js:52
 msgid "Please enter the valid phone number"
@@ -5006,7 +5005,7 @@ msgstr "Preview Item"
 
 #: Views\Items\_RemovePublic.cshtml:33
 msgid "private?"
-msgstr "Private"
+msgstr "private?"
 
 #: Views\ServerConfiguration\Index.cshtml:380
 #: Views\ServerConfiguration\Index.cshtml:381
@@ -5025,7 +5024,7 @@ msgstr "Proceed"
 
 #: Views\Shared\_Header.cshtml:56
 msgid "PROFILE"
-msgstr "profile:"
+msgstr "PROFILE"
 
 #: Scripts\Core\Server.Core.js:534
 msgid "Profile picture has been deleted successfully."
@@ -5087,7 +5086,7 @@ msgstr "Public Widgets disabled in <a href=\"~/administration/dashboard-settings
 
 #: Views\Items\_MakeItemPublic.cshtml:43
 msgid "public?"
-msgstr "Public"
+msgstr "public?"
 
 #: Views\UserManagement\_UserImportSelectedUserList.cshtml:3
 msgid "Query to pull users :"
@@ -5149,7 +5148,7 @@ msgstr "Remember me"
 #: Views\Permission\GroupPermission.cshtml:55
 #: Views\Permission\UserPermission.cshtml:58
 msgid "Remove"
-msgstr "سرینەوە"
+msgstr "Remove"
 
 #: Scripts\Items\ItemViewShare.js:154
 msgid "Remove Access"
@@ -5300,7 +5299,7 @@ msgstr "Save"
 
 #: Views\Group\AddUsers.cshtml:22
 msgid "SAVE"
-msgstr "Save"
+msgstr "SAVE"
 
 #: Scripts\Dashboards\DashboardViews.js:46 Views\Shared\_SaveView.cshtml:30
 msgid "Save View"
@@ -5956,7 +5955,7 @@ msgstr "Subdomain name should match with the Account name"
 #: Scripts\Group\ActiveDirectoryGroupImport.js:71
 #: Scripts\Group\SynchronizeGroups.js:141
 msgid "Success"
-msgstr "Success!"
+msgstr "Success"
 
 #: Scripts\Scheduler\recurrenceType.js:59
 #: Views\Administration\ScheduleAzureSynchronization.cshtml:118
@@ -5972,7 +5971,7 @@ msgstr "Supported Browsers:"
 
 #: Views\Administration\_ActiveDirectorySettings.cshtml:15
 msgid "Synchronization"
-msgstr "Synchronisation"
+msgstr "Synchronization"
 
 #: Scripts\Group\SynchronizeGroups.js:139
 msgid "Synchronization Group - Status"
@@ -6124,7 +6123,7 @@ msgstr "Text"
 #: Scripts\Scheduler\recurrenceType.js:286
 #: Scripts\Scheduler\recurrenceType.js:306
 msgid "the"
-msgstr "Tyto"
+msgstr "the"
 
 #: Views\Administration\ScheduleAzureSynchronization.cshtml:178
 #: Views\Administration\ScheduleAzureSynchronization.cshtml:212
@@ -6139,7 +6138,7 @@ msgstr "Tyto"
 #: Views\Shared\_RecurrenceType.cshtml:162
 #: Views\Shared\_RecurrenceType.cshtml:173
 msgid "The"
-msgstr "Tyto"
+msgstr "The"
 
 #: Controllers\Group\GroupController.cs:466
 msgid "The AD settings is not configured"
@@ -6289,7 +6288,7 @@ msgstr "This will be the default notification settings. Users can either choose 
 #: Views\Administration\ScheduleSynchronization.cshtml:136
 #: Views\Shared\_RecurrenceType.cshtml:98
 msgid "Thursday"
-msgstr "Thur"
+msgstr "Thursday"
 
 #: Scripts\Scheduler\recurrenceType.js:183
 #: Scripts\Scheduler\recurrenceType.js:195
@@ -6301,7 +6300,7 @@ msgstr "Time"
 
 #: Views\Administration\_SiteSettings.cshtml:169
 msgid "Time Zone"
-msgstr "Timezone"
+msgstr "Time Zone"
 
 #: Models\ItemModel.cs:476 Models\ItemModel.cs:482 Models\ItemModel.cs:487
 msgid "to"
@@ -6632,7 +6631,7 @@ msgstr "User Management"
 
 #: Views\UserManagement\ViewProfile.cshtml:112
 msgid "User Name"
-msgstr "username"
+msgstr "User Name"
 
 #: Views\Administration\NotificationSettings.cshtml:2
 msgid "User Notification Preference"
@@ -6780,7 +6779,7 @@ msgstr "Username"
 
 #: Views\UserManagement\_UserImportSelectedDatabaseSchema.cshtml:67
 msgid "Username : "
-msgstr "username "
+msgstr "Username : "
 
 #: Models\UserManagementModel.cs:586 Models\UserManagementModel.cs:820
 #: Models\UserManagementModel.cs:1016 Models\UserManagementModel.cs:1094
@@ -6985,7 +6984,7 @@ msgstr "View my profile"
 
 #: Views\Permission\UserPermission.cshtml:38
 msgid "View Profile"
-msgstr "View profile"
+msgstr "View Profile"
 
 #: Views\User\UserPermission.cshtml:18
 msgid ""
@@ -7065,7 +7064,7 @@ msgstr "Welcome note"
 #: Views\ServerConfiguration\Index.cshtml:9
 #: Views\ServerConfiguration\Index.cshtml:69
 msgid "Welcome to "
-msgstr "Welcome to ^1 "
+msgstr "Welcome to "
 
 #: Views\Items\_ItemAddOptions.cshtml:36 Views\Widgets\_AddWidget.cshtml:85
 #: Views\Widgets\_EditWidget.cshtml:80
