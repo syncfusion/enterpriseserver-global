@@ -2,7 +2,23 @@
 
 Create your own culture texts for the Syncfusion Dashboard Server and add it in the application anytime.
 
-To make Syncfusion Dashboard Server use a different culture perform the following steps:
+To make Syncfusion Dashboard Server use a different culture perform any one method from the below.
+
+##Method 1: Editing localization values
+
+You can directly edit the localization message in that `default.po` file. 
+
+1. Go to the locale folder  `~Installed Location~/Dashboard Server/DashboardServer.Web/locale` and open the `default.po`.
+
+2. You can see `msgid` and `msgstr` words. `msgid` is the source language values (E.g. English) and `msgstr` is localization message. You can put your correspond `msgid` words local culture value to inside double quote of `msgstr`.
+
+    ![Open Google Translator Kit](images/edit-msgstr-values.png)
+
+3. Create you language tag folder inside locale folder (E.g. Folder name `en-ES`) and save edited default.po file into newly created folder named as `messages.po`.
+
+    ![Open Google Translator Kit](images/locale-folder.png)
+
+##Method 2: Using Google Translator Kit
 
 1. Open [Google Translator Kit](https://translate.google.com/toolkit). Click on Upload button.
 
