@@ -2,7 +2,7 @@
 
 Localized message files can be edited and changed for any specific texts.
 
-> Read [How to add new localization](/Dashboard Server/How-to-add-new-localizations.md) to know how to upload `default.po` and translate to a desired language before editing it.
+> Read [How to add new localization](How-to-add-new-localizations.md) to know how to upload `default.po` and translate to a desired language before editing it.
 
 ##Method 1: Editing localization values
 
