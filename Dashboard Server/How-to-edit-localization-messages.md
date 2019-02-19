@@ -8,11 +8,13 @@ Localized message files can be edited and changed for any specific texts.
 
 You can directly edit the localization message in that `messages.po` file. 
 
-1. Go to the locale folder  `~Installed Location~/Dashboard Server/DashboardServer.Web/locale` and open the `messages.po` file inside that language tag folder.
+1. Go to the locale folder  `~Installed Location~/Dashboard Server/DashboardServer.Web/locale` and open the `messages.po` file inside the corresponding language tag folder.
 
-2. You can see `msgid` and `msgstr` words. `msgid` is the source language values (E.g. English) and `msgstr` is converted localization message. You can edit `msgstr` value  for your text and save it.
+2. Find the `msgid` for which you want to edit the localization message, and replace the localization message inside the double quote of `msgstr` field as below
 
-Refresh the page in the Dashboard Server to see the updated messages.
+    ![Edit msgstr value](images/edit-msgstr-values.png)
+
+Localization will be updated on next page refresh.
 
 ##Method 2: Using Google Translator kit
 
