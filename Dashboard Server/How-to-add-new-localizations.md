@@ -1,10 +1,10 @@
-#Adding new localizations
+# Adding new localizations
 
 Create your own culture texts for the Syncfusion Dashboard Server and add it in the application anytime.
 
 To make Syncfusion Dashboard Server use a different culture perform any one method from the below.
 
-##Method 1: Editing localization values
+## Method 1: Editing localization values
 
 In the default.po file, for every message/text, we have two fields `msgid`, `msgstr`. The `msgid` holds the actual message. The `msgstr` holds the localized value of that message. If you want to show the localized value in your application, you can add the localization message in the corresponding `msgstr` field.
 
@@ -20,7 +20,7 @@ To add the localization message, please follow the steps below
 
     ![Save locale file](images/locale-folder.png)
 
-##Method 2: Using Google Translator Kit
+## Method 2: Using Google Translator Kit
 
 1. Open [Google Translator Kit](https://translate.google.com/toolkit). Click on Upload button.
 
