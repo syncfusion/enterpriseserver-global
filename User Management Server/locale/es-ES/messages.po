@@ -1,20 +1,19 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2019-01-18 17:17+0530\n"
+"POT-Creation-Date: 2019-05-09 18:43+05:30\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.8\n"
+"X-Generator: Poedit 2.2.1\n"
 "PO-Revision-Date: \n"
 "Language-Team: \n"
 "Last-Translator: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Language: en_US\n"
 
-#: D:\DSv3.2\ums
-#: locli\src\Syncfusion.Server.API\Models\UserManagementModel.cs:1624
-#: Models\UserManagementModel\UserManagementModel.cs:1417
+#: D:\task\release\chnge-tnt-nme\ums\src\Syncfusion.Server.API\Models\UserManagementModel.cs:1613
+#: Models\UserManagementModel\UserManagementModel.cs:1419
 msgid " characters"
 msgstr " caracteres"
 
@@ -51,8 +50,8 @@ msgid ""
 "mode."
 msgstr " para enviar correos electrónicos de activación de cuenta, o elegir el modo de activación automática de cuenta."
 
-#: Scripts\Application\ViewApplication.js:655
-#: Scripts\Application\ViewApplication.js:704
+#: Scripts\Application\ViewApplication.js:662
+#: Scripts\Application\ViewApplication.js:711
 msgid " user(s) successfully."
 msgstr " usuario (s) con éxito."
 
@@ -102,7 +101,7 @@ msgstr "200x44 píxeles preferidos"
 #: Views\Administration\_SiteSettings.cshtml:91
 #: Views\Administration\_SiteSettings.cshtml:106
 msgid "40x40 pixels preferred"
-msgstr "Se prefieren 40x40 píxeles"
+msgstr "40x40 píxeles preferidos"
 
 #: Views\ServerConfiguration\Index.cshtml:167
 #: Views\ServerConfiguration\Index.cshtml:237
@@ -115,7 +114,7 @@ msgstr "Máximo de 7 caracteres"
 msgid "70 characters maximum"
 msgstr "Máximo de 70 caracteres"
 
-#: Views\Administration\AuthenticationSettings.cshtml:256
+#: Views\Administration\AuthenticationSettings.cshtml:258
 msgid "A dedicated instance of the Azure AD service"
 msgstr "Una instancia dedicada del servicio de Azure AD"
 
@@ -128,23 +127,23 @@ msgstr "Hace un minuto"
 msgid "A month ago"
 msgstr "Hace un mes"
 
-#: Views\Administration\AuthenticationSettings.cshtml:245
+#: Views\Administration\AuthenticationSettings.cshtml:247
 msgid ""
 "A unique identifier, used to register the Standalone Report Designer into AD "
 "FS"
 msgstr "Un identificador único, utilizado para registrar el Diseñador de informes independiente en AD FS"
 
-#: Views\Administration\AuthenticationSettings.cshtml:265
+#: Views\Administration\AuthenticationSettings.cshtml:267
 msgid ""
 "A unique identifier, used to register the Syncfusion Dashboards Mobile app "
 "into AD FS"
 msgstr "Un identificador único, utilizado para registrar la aplicación móvil de Syncfusion Dashboards en AD FS"
 
-#: Views\Administration\AuthenticationSettings.cshtml:274
+#: Views\Administration\AuthenticationSettings.cshtml:276
 msgid "A URI that identifies the relying party to the security token service"
-msgstr "Un URI que identifica a la parte que confía en el servicio de token de seguridad"
+msgstr "Un URI que identifica al usuario de confianza en el servicio de token de seguridad"
 
-#: Views\Administration\AuthenticationSettings.cshtml:225
+#: Views\Administration\AuthenticationSettings.cshtml:227
 msgid "A URI that will be used to obtain the wsFederation metadata"
 msgstr "Un URI que se usará para obtener los metadatos de wsFederation"
 
@@ -163,7 +162,7 @@ msgid "Access Denied"
 msgstr "Acceso denegado"
 
 #: Scripts\Accounts\Login.js:262 Scripts\Accounts\Login.js:269
-#: Views\Accounts\Login.cshtml:36 Views\Authorization\Login.cshtml:37
+#: Views\Accounts\Login.cshtml:36 Views\Authorization\Login.cshtml:44
 msgid "Access is denied"
 msgstr "Acceso denegado"
 
@@ -199,7 +198,7 @@ msgstr "Modo de activación de cuenta"
 msgid "Account name"
 msgstr "Nombre de la cuenta"
 
-#: Controllers\Accounts\AccountsController.cs:340
+#: Controllers\Accounts\AccountsController.cs:341
 msgid "Account not yet activated. Please contact the system administrator."
 msgstr "Cuenta aún no activada. Por favor, póngase en contacto con el administrador del sistema."
 
@@ -213,8 +212,8 @@ msgstr "Cuentas"
 
 #: Scripts\Application\ViewApplicationAdmin.js:352
 #: Views\Application\Index.cshtml:207
-#: Views\Application\ViewApplication.cshtml:64
-#: Views\Application\ViewApplication.cshtml:67
+#: Views\Application\ViewApplication.cshtml:70
+#: Views\Application\ViewApplication.cshtml:73
 msgid "Actions"
 msgstr "Comportamiento"
 
@@ -226,18 +225,18 @@ msgstr "Activar usuario"
 msgid "Activate User"
 msgstr "Activar usuario"
 
-#: Scripts\User\UserManagementProfile.js:195
-#: Scripts\User\UserManagementProfile.js:220
+#: Scripts\User\UserManagementProfile.js:199
+#: Scripts\User\UserManagementProfile.js:224
 msgid ""
 "Activation code has been generated successfully. As email settings are not "
 "configured we are not able to send activation email to the user."
-msgstr "El código de activación se ha generado con éxito. Como las configuraciones de correo electrónico no están configuradas, no podemos enviar correos electrónicos de activación al usuario."
+msgstr "El código de activación se ha generado con éxito. Como la configuración del correo electrónico no está configurada, no podemos enviar correos electrónicos de activación al usuario."
 
-#: Scripts\User\UserManagementProfile.js:220
+#: Scripts\User\UserManagementProfile.js:224
 msgid "Activation code has been resent successfully."
 msgstr "El código de activación ha sido reenviado exitosamente."
 
-#: Scripts\User\UserManagementProfile.js:195
+#: Scripts\User\UserManagementProfile.js:199
 msgid "Activation code has been sent successfully."
 msgstr "El código de activación ha sido enviado con éxito."
 
@@ -246,10 +245,10 @@ msgid ""
 "Activation emails cannot be sent until the email settings are configured. "
 "You can select Automatic Activation to activate the user without configuring "
 "email settings."
-msgstr "Los correos electrónicos de activación no se pueden enviar hasta que la configuración del correo electrónico esté configurada. Puede seleccionar Activación automática para activar el usuario sin configurar los ajustes de correo electrónico."
+msgstr "Los correos electrónicos de activación no se pueden enviar hasta que la configuración del correo electrónico esté configurada. Puede seleccionar Activación automática para activar al usuario sin configurar los ajustes de correo electrónico."
 
-#: Scripts\User\UserManagementProfile.js:199
-#: Scripts\User\UserManagementProfile.js:201 Views\Application\Index.cshtml:49
+#: Scripts\User\UserManagementProfile.js:203
+#: Scripts\User\UserManagementProfile.js:205 Views\Application\Index.cshtml:49
 #: Views\UserManagement\Index.cshtml:61
 #: Views\UserManagement\ViewProfile.cshtml:176
 #: Views\UserManagement\ViewProfile.cshtml:181
@@ -261,7 +260,8 @@ msgstr "Activo"
 #: Views\Group\ActiveDirectoryGroupImport.cshtml:238 Views\Home\Index.cshtml:78
 #: Views\Home\Index.cshtml:100 Views\Home\Index.cshtml:148
 #: Views\Home\Index.cshtml:159
-#: Views\ServerConfiguration\DataMigration.cshtml:72
+#: Views\ServerConfiguration\DataMigration.cshtml:97
+#: Views\ServerConfiguration\DataMigration.cshtml:132
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:152
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:238
 msgid "Active Directory"
@@ -310,7 +310,7 @@ msgstr "Sincronización de Active Directory"
 
 #: Views\Administration\ScheduleSynchronization.cshtml:27
 msgid "ACTIVE DIRECTORY SYNCHRONIZATION SCHEDULE"
-msgstr "PROGRAMA DE SINCRONIZACIÓN DEL DIRECTORIO ACTIVO"
+msgstr "DIRECTORIO ACTIVO DE LA SINCRONIZACIÓN DEL PROGRAMA"
 
 #: Views\UserManagement\Index.cshtml:341
 msgid "Active Directory user"
@@ -340,7 +340,7 @@ msgstr "Agregar administradores"
 
 #: Views\Application\Index.cshtml:231
 msgid "Add application"
-msgstr "Agregar aplicacion"
+msgstr "Añadir aplicación"
 
 #: Scripts\Application\AddApplication.js:419
 #: Scripts\Application\AddApplication.js:439 Views\Home\Index.cshtml:188
@@ -424,7 +424,7 @@ msgstr "Nombre de usuario administrador"
 msgid "Administration"
 msgstr "Administración"
 
-#: Views\Application\ViewApplication.cshtml:170
+#: Views\Application\ViewApplication.cshtml:176
 msgid "Administrators"
 msgstr "Administradores"
 
@@ -435,7 +435,6 @@ msgstr "Administradores"
 msgid "All the tables will have this prefix."
 msgstr "Todas las tablas tendrán este prefijo."
 
-#: Views\Application\_ApplicationGroups.cshtml:27
 #: Views\Application\_ApplicationUsers.cshtml:27
 msgid "All users have access to the application"
 msgstr "Todos los usuarios tienen acceso a la aplicación."
@@ -491,16 +490,10 @@ msgstr "Acceso a la aplicación"
 
 #: Scripts\Application\ApplicationGroups.js:417
 #: Scripts\Application\ApplicationGroups.js:420
-#: Scripts\Application\ViewApplication.js:656
-#: Scripts\Application\ViewApplication.js:659
+#: Scripts\Application\ViewApplication.js:663
+#: Scripts\Application\ViewApplication.js:666
 msgid "Application Access Granted"
 msgstr "Acceso a la aplicación otorgado"
-
-#: Views\Application\_ApplicationGroups.cshtml:8
-msgid ""
-"Application access has been enabled for all users. Please disable this "
-"setting to grant/revoke access for specific groups."
-msgstr "El acceso a la aplicación ha sido habilitado para todos los usuarios. Desactive esta configuración para otorgar / revocar el acceso a grupos específicos."
 
 #: Views\Application\_ApplicationUsers.cshtml:9
 msgid ""
@@ -510,8 +503,8 @@ msgstr "El acceso a la aplicación ha sido habilitado para todos los usuarios. D
 
 #: Scripts\Application\ApplicationGroups.js:446
 #: Scripts\Application\ApplicationGroups.js:449
-#: Scripts\Application\ViewApplication.js:705
-#: Scripts\Application\ViewApplication.js:708
+#: Scripts\Application\ViewApplication.js:712
+#: Scripts\Application\ViewApplication.js:715
 msgid "Application Access Revoked"
 msgstr "Acceso a la aplicación revocado"
 
@@ -584,7 +577,7 @@ msgstr "tipo de aplicacion"
 #: Views\Application\_AddApplicationDialog.cshtml:52
 #: Views\Application\_ApplicationDetail.cshtml:24
 msgid "Application URL"
-msgstr "URL de aplicación"
+msgstr "URL de la aplicación"
 
 #: Scripts\Application\AddApplication.js:172
 #: Scripts\Application\AddApplication.js:225
@@ -614,11 +607,11 @@ msgstr "Lista de aplicaciones"
 msgid "Apply"
 msgstr "Aplicar"
 
-#: Views\ServerConfiguration\DataMigration.cshtml:147
+#: Views\ServerConfiguration\DataMigration.cshtml:189
 msgid "Apply to all Email Duplicate(s)"
 msgstr "Aplicar a todos los correos duplicados"
 
-#: Views\ServerConfiguration\DataMigration.cshtml:175
+#: Views\ServerConfiguration\DataMigration.cshtml:217
 msgid "Apply to all Username Duplicate(s)"
 msgstr "Aplicar a todos los nombres de usuario duplicados"
 
@@ -632,11 +625,11 @@ msgstr "¿Estás seguro de que quieres eliminar el grupo?"
 
 #: Views\Group\_MultipleGroupDeleteDialog.cshtml:15
 msgid "Are you sure you want to delete the group(s)?"
-msgstr "¿Estás seguro de que quieres eliminar el (los) grupo (s)?"
+msgstr "¿Estás seguro de que deseas eliminar el (los) grupo (s)?"
 
-#: Scripts\User\EditProfile.js:165 Scripts\User\UserManagementProfile.js:296
+#: Scripts\User\EditProfile.js:168 Scripts\User\UserManagementProfile.js:300
 msgid "Are you sure you want to delete the profile picture?"
-msgstr "¿Estás seguro de que quieres eliminar la foto de perfil?"
+msgstr "¿Estás seguro de que quieres borrar la foto de perfil?"
 
 #: Views\UserManagement\_MultipleUserDeleteDialog.cshtml:15
 msgid "Are you sure you want to delete the user(s)?"
@@ -655,7 +648,7 @@ msgstr "¿Estás seguro de que quieres eliminar a este usuario del grupo?"
 msgid "Are you sure you want to enable the application"
 msgstr "¿Estás seguro de que quieres habilitar la aplicación?"
 
-#: Views\Application\_ApplicationGroups.cshtml:98
+#: Views\Application\_ApplicationGroups.cshtml:80
 msgid "Are you sure you want to revoke access for the selected group(s)?"
 msgstr "¿Está seguro de que desea revocar el acceso para los grupos seleccionados?"
 
@@ -674,7 +667,7 @@ msgstr "¿Está seguro de que desea revocar el acceso administrativo para los us
 msgid ""
 "As email settings are not configured, we will not be able to send an email "
 "to reset your password."
-msgstr "Como las configuraciones de correo electrónico no están configuradas, no podremos enviar un correo electrónico para restablecer su contraseña."
+msgstr "Como la configuración del correo electrónico no está configurada, no podremos enviar un correo electrónico para restablecer su contraseña."
 
 #: Views\UserManagement\Index.cshtml:322
 msgid "Assign a group to selected users"
@@ -689,9 +682,8 @@ msgstr "Asignar grupo"
 msgid "Assign to"
 msgstr "Asignar a"
 
-#: D:\DSv3.2\ums
-#: locli\src\Syncfusion.Server.API\Models\UserManagementModel.cs:1624
-#: Models\UserManagementModel\UserManagementModel.cs:1417
+#: D:\task\release\chnge-tnt-nme\ums\src\Syncfusion.Server.API\Models\UserManagementModel.cs:1613
+#: Models\UserManagementModel\UserManagementModel.cs:1419
 #: Scripts\Password\PasswordPolicy.js:124
 msgid "At least "
 msgstr "Al menos "
@@ -705,7 +697,7 @@ msgstr "Autenticar y guardar"
 msgid "Authentication"
 msgstr "Autenticación"
 
-#: Views\Administration\AuthenticationSettings.cshtml:167
+#: Views\Administration\AuthenticationSettings.cshtml:169
 msgid "AUTHENTICATION SETTINGS"
 msgstr "AJUSTES DE AUTENTICACIÓN"
 
@@ -713,8 +705,8 @@ msgstr "AJUSTES DE AUTENTICACIÓN"
 msgid "Authentication type"
 msgstr "Tipo de autenticación"
 
-#: Views\Administration\AuthenticationSettings.cshtml:229
-#: Views\Administration\AuthenticationSettings.cshtml:232
+#: Views\Administration\AuthenticationSettings.cshtml:231
+#: Views\Administration\AuthenticationSettings.cshtml:234
 msgid "Authority"
 msgstr "Autoridad"
 
@@ -725,7 +717,8 @@ msgstr "Automático"
 #: Views\Administration\_ActiveDirectorySettings.cshtml:181
 #: Views\Home\Index.cshtml:81 Views\Home\Index.cshtml:103
 #: Views\Home\Index.cshtml:149 Views\Home\Index.cshtml:160
-#: Views\ServerConfiguration\DataMigration.cshtml:83
+#: Views\ServerConfiguration\DataMigration.cshtml:108
+#: Views\ServerConfiguration\DataMigration.cshtml:144
 msgid "Azure Active Directory"
 msgstr "Active Directory de Azure"
 
@@ -761,7 +754,7 @@ msgstr "Los grupos de Azure AD se han eliminado correctamente."
 msgid "Azure AD schedule synchronization"
 msgstr "Sincronización de programación de Azure AD"
 
-#: Views\Administration\AuthenticationSettings.cshtml:201
+#: Views\Administration\AuthenticationSettings.cshtml:203
 msgid "Azure AD SSO"
 msgstr "Azure AD SSO"
 
@@ -805,7 +798,7 @@ msgstr "Autenticación básica"
 msgid ""
 "Beware. Any script or application using this client secret needs to be "
 "updated."
-msgstr "Tener cuidado. Cualquier script o aplicación que utilice este secreto de cliente debe actualizarse."
+msgstr "Tener cuidado. Cualquier script o aplicación que use este secreto cliente debe actualizarse."
 
 #: Views\Administration\Storage.cshtml:43
 #: Views\Administration\Storage.cshtml:45
@@ -817,7 +810,7 @@ msgstr "Punto final de servicio de blob"
 #: Views\Administration\Storage.cshtml:92
 #: Views\ServerConfiguration\_FileStorage.cshtml:63
 msgid "Blob URL"
-msgstr "URL blob"
+msgstr "Blob URL"
 
 #: Scripts\Administration\SystemSettings.js:624
 #: Scripts\Administration\SystemSettings.js:627
@@ -829,17 +822,17 @@ msgstr "URL blob"
 msgid "Browse file path"
 msgstr "Buscar ruta de archivo"
 
-#: Views\Administration\AuthenticationSettings.cshtml:346
+#: Views\Administration\AuthenticationSettings.cshtml:348
 msgid "Browse File Path"
-msgstr "Explorar la ruta del archivo"
+msgstr "Examinar la ruta del archivo"
 
-#: Scripts\User\EditProfile.js:187
+#: Scripts\User\EditProfile.js:190
 msgid "Browse image path"
 msgstr "Navegar por la ruta de la imagen"
 
-#: Views\Administration\AuthenticationSettings.cshtml:190
-#: Views\Administration\AuthenticationSettings.cshtml:280
-#: Views\Administration\AuthenticationSettings.cshtml:384
+#: Views\Administration\AuthenticationSettings.cshtml:192
+#: Views\Administration\AuthenticationSettings.cshtml:282
+#: Views\Administration\AuthenticationSettings.cshtml:386
 #: Views\Administration\KerberosAuthentication.cshtml:56
 #: Views\Administration\NotificationSettings.cshtml:94
 #: Views\Administration\ScheduleAzureSynchronization.cshtml:256
@@ -855,7 +848,7 @@ msgstr "Navegar por la ruta de la imagen"
 #: Views\Administration\_SiteSettings.cshtml:245
 #: Views\Application\_AddApplicationDialog.cshtml:92
 #: Views\Application\_ApplicationAdministrators.cshtml:59
-#: Views\Application\_ApplicationGroups.cshtml:78
+#: Views\Application\_ApplicationGroups.cshtml:60
 #: Views\Application\_ApplicationUsers.cshtml:77
 #: Views\Group\_AddGroup.cshtml:77 Views\Shared\_ActivationType.cshtml:17
 #: Views\Shared\_PasswordPolicy.cshtml:61
@@ -873,7 +866,7 @@ msgstr "Cancelar"
 msgid "Change password"
 msgstr "Cambia la contraseña"
 
-#: Scripts\User\UserManagementProfile.js:519
+#: Scripts\User\UserManagementProfile.js:523
 #: Views\Accounts\ChangePassword.cshtml:22 Views\User\EditPassword.cshtml:5
 #: Views\UserManagement\ViewProfile.cshtml:3
 msgid "Change Password"
@@ -887,9 +880,9 @@ msgstr "CAMBIA LA CONTRASEÑA"
 msgid "Change profile picture"
 msgstr "Cambiar foto de perfil"
 
-#: Scripts\User\EditProfile.js:130 Scripts\User\EditProfile.js:156
-#: Scripts\User\UserManagementProfile.js:259
-#: Scripts\User\UserManagementProfile.js:287
+#: Scripts\User\EditProfile.js:133 Scripts\User\EditProfile.js:159
+#: Scripts\User\UserManagementProfile.js:263
+#: Scripts\User\UserManagementProfile.js:291
 #: Views\Shared\_ProfilePictureUploadBox.cshtml:8
 msgid "Change Profile Picture"
 msgstr "Cambiar foto de perfil"
@@ -917,8 +910,8 @@ msgstr "Borrar token existente de Google Suite"
 #: Views\Application\Index.cshtml:242
 #: Views\Application\_ApplicationAdministrators.cshtml:12
 #: Views\Application\_ApplicationAdministrators.cshtml:48
-#: Views\Application\_ApplicationGroups.cshtml:20
-#: Views\Application\_ApplicationGroups.cshtml:67
+#: Views\Application\_ApplicationGroups.cshtml:11
+#: Views\Application\_ApplicationGroups.cshtml:49
 #: Views\Application\_ApplicationUsers.cshtml:21
 #: Views\Application\_ApplicationUsers.cshtml:66
 #: Views\Group\ActiveDirectoryGroup.cshtml:211
@@ -927,7 +920,7 @@ msgstr "Borrar token existente de Google Suite"
 #: Views\Group\GoogleSuiteGroupImport.cshtml:143 Views\Group\Group.cshtml:340
 #: Views\Group\ViewGroup.cshtml:148
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:189
-#: Views\UserManagement\DatabaseUserImport.cshtml:195
+#: Views\UserManagement\DatabaseUserImport.cshtml:192
 #: Views\UserManagement\GoogleSuiteUserImport.cshtml:147
 #: Views\UserManagement\Index.cshtml:331
 #: Views\UserManagement\SynchronizeDatabaseUsers.cshtml:167
@@ -959,20 +952,12 @@ msgstr "Hacer clic "
 msgid "click here "
 msgstr "haga clic aquí "
 
-#: Views\UserManagement\DatabaseUserImport.cshtml:242
-msgid "Click here to change the account activation type."
-msgstr "Haga clic aquí para cambiar el tipo de activación de la cuenta."
-
-#: Views\UserManagement\DatabaseUserImport.cshtml:267
+#: Views\UserManagement\DatabaseUserImport.cshtml:236
 msgid "Click here to configure the database settings."
 msgstr "Haga clic aquí para configurar los ajustes de la base de datos."
 
-#: Views\UserManagement\DatabaseUserImport.cshtml:246
-msgid "Click here to configure the email settings."
-msgstr "Haga clic aquí para configurar los ajustes de correo electrónico."
-
-#: Views\ServerConfiguration\DataMigration.cshtml:143
-#: Views\ServerConfiguration\DataMigration.cshtml:171
+#: Views\ServerConfiguration\DataMigration.cshtml:185
+#: Views\ServerConfiguration\DataMigration.cshtml:213
 msgid "Client"
 msgstr "Cliente"
 
@@ -982,8 +967,8 @@ msgstr "Cliente"
 msgid "Client id"
 msgstr "Identificación del cliente"
 
-#: Views\Administration\AuthenticationSettings.cshtml:363
-#: Views\Administration\AuthenticationSettings.cshtml:366
+#: Views\Administration\AuthenticationSettings.cshtml:365
+#: Views\Administration\AuthenticationSettings.cshtml:368
 msgid "Client Id"
 msgstr "Identificación del cliente"
 
@@ -992,8 +977,8 @@ msgstr "Identificación del cliente"
 msgid "Client secret"
 msgstr "Secreto del cliente"
 
-#: Views\Administration\AuthenticationSettings.cshtml:135
-#: Views\Administration\AuthenticationSettings.cshtml:371
+#: Views\Administration\AuthenticationSettings.cshtml:137
+#: Views\Administration\AuthenticationSettings.cshtml:373
 msgid "Client Secret"
 msgstr "Secreto del cliente"
 
@@ -1001,17 +986,17 @@ msgstr "Secreto del cliente"
 msgid "Client secret code"
 msgstr "Código secreto del cliente"
 
-#: Scripts\Application\ViewApplication.js:756
+#: Scripts\Application\ViewApplication.js:763
 msgid "Client secret generated successfully."
 msgstr "Secreto del cliente generado con éxito."
 
-#: Scripts\System\DataMigration.js:272
+#: Scripts\System\DataMigration.js:281
 msgid "Client user will be ignored."
 msgstr "El usuario cliente será ignorado."
 
-#: Scripts\System\DataMigration.js:257
+#: Scripts\System\DataMigration.js:266
 msgid "Client user will replace UMS user."
-msgstr "Usuario cliente reemplazará usuario UMS."
+msgstr "El usuario cliente reemplazará al usuario de UMS."
 
 #: Scripts\Application\AddApplication.js:280
 #: Scripts\Application\AddApplication.js:304
@@ -1019,7 +1004,7 @@ msgstr "Usuario cliente reemplazará usuario UMS."
 #: Scripts\Application\AddApplication.js:571
 #: Scripts\Application\AddApplication.js:578
 #: Scripts\Application\AddApplication.js:604
-#: Scripts\Application\ViewApplication.js:744
+#: Scripts\Application\ViewApplication.js:751
 #: Scripts\User\UserManagement.js:671
 #: Views\Application\_AddApplicationDialog.cshtml:19
 #: Views\Group\_AddGroup.cshtml:46 Views\Shared\_Layout.cshtml:121
@@ -1044,9 +1029,9 @@ msgstr "Configuración para la gestión de cuentas de usuario en el UMS."
 
 #: Views\Administration\_EmailSettings.cshtml:17
 msgid "Configuration for sending emails from the UMS"
-msgstr "Configuración para el envío de correos electrónicos desde el UMS."
+msgstr "Configuración para el envío de correos electrónicos desde la UMS."
 
-#: Views\Administration\AuthenticationSettings.cshtml:168
+#: Views\Administration\AuthenticationSettings.cshtml:170
 msgid "Configuration for setting Authentication"
 msgstr "Configuración para configurar la autenticación."
 
@@ -1082,7 +1067,7 @@ msgstr "La conexión falló"
 msgid "Connection string"
 msgstr "Cadena de conexión"
 
-#: Views\UserManagement\DatabaseUserImport.cshtml:185
+#: Views\UserManagement\DatabaseUserImport.cshtml:182
 msgid "Connection string :"
 msgstr "Cadena de conexión :"
 
@@ -1096,15 +1081,15 @@ msgstr "Nombre del contenedor"
 msgid "Contains"
 msgstr "Contiene"
 
-#: Scripts\Application\ViewApplication.js:773
-#: Scripts\Application\ViewApplication.js:774
-#: Scripts\Application\ViewApplication.js:784
-#: Scripts\Application\ViewApplication.js:785
+#: Scripts\Application\ViewApplication.js:780
+#: Scripts\Application\ViewApplication.js:781
+#: Scripts\Application\ViewApplication.js:791
+#: Scripts\Application\ViewApplication.js:792
 msgid "Copied"
 msgstr "Copiado"
 
-#: Scripts\Application\ViewApplication.js:776
-#: Scripts\Application\ViewApplication.js:787
+#: Scripts\Application\ViewApplication.js:783
+#: Scripts\Application\ViewApplication.js:794
 #: Views\Application\_ApplicationDetail.cshtml:41
 #: Views\Application\_ApplicationDetail.cshtml:50
 msgid "Copy to clipboard"
@@ -1300,14 +1285,14 @@ msgstr "Eliminar grupos"
 msgid "Delete Groups"
 msgstr "Eliminar grupos"
 
-#: Scripts\User\EditProfile.js:137 Scripts\User\UserManagementProfile.js:268
+#: Scripts\User\EditProfile.js:140 Scripts\User\UserManagementProfile.js:272
 #: Views\Application\_AddApplicationDialog.cshtml:78
 #: Views\User\Profile.cshtml:89 Views\UserManagement\ViewProfile.cshtml:111
 msgid "Delete profile picture"
 msgstr "Borrar foto de perfil"
 
-#: Scripts\Core\Server.Core.js:528 Scripts\User\EditProfile.js:165
-#: Scripts\User\UserManagementProfile.js:296
+#: Scripts\Core\Server.Core.js:528 Scripts\User\EditProfile.js:168
+#: Scripts\User\UserManagementProfile.js:300
 msgid "Delete Profile Picture"
 msgstr "Eliminar imagen de perfil"
 
@@ -1340,7 +1325,7 @@ msgstr "Eliminar usuario (s)"
 msgid "Deleted user."
 msgstr "Usuario eliminado."
 
-#: Views\Application\ViewApplication.cshtml:120
+#: Views\Application\ViewApplication.cshtml:126
 #: Views\Group\ActiveDirectoryGroupImport.cshtml:69
 #: Views\Group\AddUsers.cshtml:74 Views\Group\EditGroup.cshtml:158
 #: Views\Group\GoogleSuiteGroupImport.cshtml:59 Views\Group\Group.cshtml:130
@@ -1350,12 +1335,12 @@ msgstr "Usuario eliminado."
 msgid "Description"
 msgstr "Descripción"
 
-#: Views\Administration\AuthenticationSettings.cshtml:239
-#: Views\Administration\AuthenticationSettings.cshtml:242
+#: Views\Administration\AuthenticationSettings.cshtml:241
+#: Views\Administration\AuthenticationSettings.cshtml:244
 msgid "Designer Client Id"
 msgstr "ID de cliente de diseñador"
 
-#: Views\ServerConfiguration\DataMigration.cshtml:127
+#: Views\ServerConfiguration\DataMigration.cshtml:169
 msgid ""
 "Detected (<span id=\"duplicate-user-count\"></span>) User duplicate(s) "
 "during data migration."
@@ -1414,7 +1399,7 @@ msgstr "Descargar plantilla de muestra"
 msgid "Download template"
 msgstr "Descargar plantilla"
 
-#: Models\Group\GroupModels.cs:1199 Models\Group\GroupModels.cs:1381
+#: Models\Group\GroupModels.cs:1005 Models\Group\GroupModels.cs:1187
 msgid "duplicate group(s) exists."
 msgstr "existe grupo (s) duplicado"
 
@@ -1434,7 +1419,7 @@ msgstr "Se encuentran datos duplicados o inválidos. Por favor, cambie los datos
 msgid ""
 "Duplicate or invalid data is found. Please change the data accordingly and "
 "re-upload the file."
-msgstr "Se encuentran datos duplicados o inválidos. Cambie los datos en consecuencia y vuelva a cargar el archivo."
+msgstr "Se encuentran datos duplicados o inválidos. Por favor, cambie los datos en consecuencia y vuelva a cargar el archivo."
 
 #: Views\ServerConfiguration\Index.cshtml:411
 msgid "Duplicate table(s)"
@@ -1445,15 +1430,15 @@ msgid "Duplicate Table(s)"
 msgstr "Tabla (s) duplicada (s)"
 
 #: Models\UserManagementModel\ActiveDirectoryUserManagementModel.cs:246
-#: Models\UserManagementModel\AzureUserManagementModel.cs:352
+#: Models\UserManagementModel\AzureUserManagementModel.cs:369
 #: Models\UserManagementModel\UserManagementModel.cs:625
 #: Scripts\User\ActiveDirectoryUserImport.js:92
 #: Scripts\User\GoogleSuiteUserImport.js:82
 #: Scripts\User\UserImportDatabase.js:1400
 msgid "duplicate user(s) exists."
-msgstr "existe usuario (s) duplicado."
+msgstr "existe usuario (s) duplicado"
 
-#: Scripts\System\DataMigration.js:341
+#: Scripts\System\DataMigration.js:350
 msgid "Duplicate Username."
 msgstr "Nombre de usuario duplicado."
 
@@ -1478,7 +1463,7 @@ msgstr "Editar aplicación"
 msgid "Edit Application"
 msgstr "Editar aplicación"
 
-#: Scripts\System\DataMigration.js:267
+#: Scripts\System\DataMigration.js:276
 msgid "Edit client"
 msgstr "Editar cliente"
 
@@ -1499,7 +1484,7 @@ msgstr "Editar perfil"
 msgid "Edit profile picture"
 msgstr "Editar foto de perfíl"
 
-#: Scripts\System\DataMigration.js:265
+#: Scripts\System\DataMigration.js:274
 msgid "Edit UMS"
 msgstr "Editar UMS"
 
@@ -1509,7 +1494,7 @@ msgid "effective"
 msgstr "eficaz"
 
 #: Views\Administration\_AdminMenu.cshtml:25
-#: Views\ServerConfiguration\DataMigration.cshtml:61
+#: Views\ServerConfiguration\DataMigration.cshtml:62
 #: Views\Shared\_ActivationType.cshtml:10 Views\User\Profile.cshtml:116
 #: Views\UserManagement\ViewProfile.cshtml:138
 #: Views\UserManagement\_UserImportSelectedDatabaseSchema.cshtml:46
@@ -1531,12 +1516,12 @@ msgstr "Dirección de correo electrónico"
 
 #: Scripts\Application\ViewApplicationAdmin.js:176
 #: Scripts\Application\ViewApplicationAdmin.js:344
-#: Views\Application\ViewApplication.cshtml:61
-#: Views\Application\ViewApplication.cshtml:80 Views\Group\EditGroup.cshtml:117
+#: Views\Application\ViewApplication.cshtml:64
+#: Views\Application\ViewApplication.cshtml:86 Views\Group\EditGroup.cshtml:117
 #: Views\Group\ViewGroup.cshtml:56 Views\Group\ViewGroup.cshtml:91
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:134
-#: Views\UserManagement\DatabaseUserImport.cshtml:62
-#: Views\UserManagement\DatabaseUserImport.cshtml:144
+#: Views\UserManagement\DatabaseUserImport.cshtml:59
+#: Views\UserManagement\DatabaseUserImport.cshtml:141
 #: Views\UserManagement\GoogleSuiteUserImport.cshtml:109
 #: Views\UserManagement\Index.cshtml:70 Views\UserManagement\Index.cshtml:151
 #: Views\UserManagement\SynchronizeDatabaseUsers.cshtml:41
@@ -1550,47 +1535,47 @@ msgid "Email Address"
 msgstr "Dirección de correo electrónico"
 
 #: Models\UserManagementModel\ActiveDirectoryUserManagementModel.cs:161
-#: Models\UserManagementModel\AzureUserManagementModel.cs:108
-#: Models\UserManagementModel\AzureUserManagementModel.cs:268
+#: Models\UserManagementModel\AzureUserManagementModel.cs:124
+#: Models\UserManagementModel\AzureUserManagementModel.cs:285
 #: Models\UserManagementModel\GoogleSuiteUserManagementModel.cs:131
 #: Models\UserManagementModel\UserManagementModel.cs:527
-#: Models\UserManagementModel\UserManagementModel.cs:1140
+#: Models\UserManagementModel\UserManagementModel.cs:1141
 msgid "Email address already exists in the list."
 msgstr "La dirección de correo electrónico ya existe en la lista."
 
 #: Controllers\UserController.cs:295
 #: Controllers\Administration\UserManagementController.cs:1022
 #: Models\UserManagementModel\ActiveDirectoryUserManagementModel.cs:157
-#: Models\UserManagementModel\AzureUserManagementModel.cs:104
-#: Models\UserManagementModel\AzureUserManagementModel.cs:264
+#: Models\UserManagementModel\AzureUserManagementModel.cs:120
+#: Models\UserManagementModel\AzureUserManagementModel.cs:281
 #: Models\UserManagementModel\GoogleSuiteUserManagementModel.cs:127
 #: Models\UserManagementModel\UserManagementModel.cs:523
 #: Models\UserManagementModel\UserManagementModel.cs:625
-#: Models\UserManagementModel\UserManagementModel.cs:1136
-#: Models\UserManagementModel\UserManagementModel.cs:1331
-#: Models\UserManagementModel\UserManagementModel.cs:1729
+#: Models\UserManagementModel\UserManagementModel.cs:1137
+#: Models\UserManagementModel\UserManagementModel.cs:1333
+#: Models\UserManagementModel\UserManagementModel.cs:1731
 #: Scripts\User\UserManagement.js:239
 msgid "Email address already exists."
 msgstr "La dirección de correo ya existe."
 
 #: Models\UserManagementModel\ActiveDirectoryUserManagementModel.cs:153
 #: Models\UserManagementModel\UserManagementModel.cs:519
-#: Models\UserManagementModel\UserManagementModel.cs:1257
+#: Models\UserManagementModel\UserManagementModel.cs:1259
 msgid "Email address cannot exceed 254 characters."
 msgstr "La dirección de correo electrónico no puede exceder los 254 caracteres."
 
 #: Models\UserManagementModel\ActiveDirectoryUserManagementModel.cs:148
-#: Models\UserManagementModel\AzureUserManagementModel.cs:100
-#: Models\UserManagementModel\AzureUserManagementModel.cs:260
+#: Models\UserManagementModel\AzureUserManagementModel.cs:116
+#: Models\UserManagementModel\AzureUserManagementModel.cs:277
 #: Models\UserManagementModel\GoogleSuiteUserManagementModel.cs:123
 #: Models\UserManagementModel\UserManagementModel.cs:514
-#: Models\UserManagementModel\UserManagementModel.cs:1132
-#: Models\UserManagementModel\UserManagementModel.cs:1296
-#: Models\UserManagementModel\UserManagementModel.cs:1725
+#: Models\UserManagementModel\UserManagementModel.cs:1133
+#: Models\UserManagementModel\UserManagementModel.cs:1298
+#: Models\UserManagementModel\UserManagementModel.cs:1727
 msgid "Email address is invalid."
 msgstr "Dirección de correo electrónico es inválida."
 
-#: Controllers\Accounts\AccountsController.cs:814
+#: Controllers\Accounts\AccountsController.cs:802
 #: Views\Accounts\CodeConfirmation.cshtml:60
 msgid "Email resent successfully."
 msgstr "Correo electrónico reenviado con éxito."
@@ -1635,7 +1620,7 @@ msgstr "Habilitar la sincronización programada de la base de datos"
 msgid "Enable G Suite Scheduled Synchronization"
 msgstr "Habilitar la sincronización programada de G Suite"
 
-#: Views\Administration\AuthenticationSettings.cshtml:300
+#: Views\Administration\AuthenticationSettings.cshtml:302
 msgid "Enable G Suite SSO"
 msgstr "Habilitar G Suite SSO"
 
@@ -1644,11 +1629,11 @@ msgstr "Habilitar G Suite SSO"
 msgid "Enable SSL"
 msgstr "Habilitar SSL"
 
-#: Views\Administration\AuthenticationSettings.cshtml:209
+#: Views\Administration\AuthenticationSettings.cshtml:211
 msgid "Enable SSO"
 msgstr "Habilitar SSO"
 
-#: Views\Administration\AuthenticationSettings.cshtml:183
+#: Views\Administration\AuthenticationSettings.cshtml:185
 msgid "Enable Windows Authentication"
 msgstr "Habilitar la autenticación de Windows"
 
@@ -1661,7 +1646,7 @@ msgstr "Habilitado"
 msgid ""
 "Enabling this will give access to all users in this Active Directory while "
 "the user logs in or during the scheduled run. Click"
-msgstr "Habilitar esto dará acceso a todos los usuarios en este Active Directory mientras el usuario inicia sesión o durante la ejecución programada. Hacer clic"
+msgstr "Al habilitar esto, se dará acceso a todos los usuarios en este Active Directory mientras el usuario inicia sesión o durante la ejecución programada. Hacer clic"
 
 #: Views\Administration\_ActiveDirectorySettings.cshtml:10
 msgid ""
@@ -1701,8 +1686,8 @@ msgid ""
 "your password."
 msgstr "Ingrese su nombre de usuario o dirección de correo electrónico y le enviaremos un enlace para restablecer su contraseña."
 
-#: Views\Administration\AuthenticationSettings.cshtml:323
-#: Views\Administration\AuthenticationSettings.cshtml:326
+#: Views\Administration\AuthenticationSettings.cshtml:325
+#: Views\Administration\AuthenticationSettings.cshtml:328
 msgid "Entity Id"
 msgstr "Identificación de la entidad"
 
@@ -1741,7 +1726,7 @@ msgstr "Error al eliminar la aplicación."
 msgid "Error while enabling the application."
 msgstr "Error al habilitar la aplicación."
 
-#: Scripts\Application\ViewApplication.js:760
+#: Scripts\Application\ViewApplication.js:767
 msgid "Error while generating client secret."
 msgstr "Error al generar el secreto del cliente."
 
@@ -1749,7 +1734,7 @@ msgstr "Error al generar el secreto del cliente."
 msgid "Error while granting access to groups."
 msgstr "Error al otorgar acceso a grupos."
 
-#: Scripts\Application\ViewApplication.js:658
+#: Scripts\Application\ViewApplication.js:665
 msgid "Error while granting access to users."
 msgstr "Error al conceder acceso a los usuarios."
 
@@ -1761,7 +1746,7 @@ msgstr "Error al otorgar acceso administrativo a los usuarios."
 msgid "Error while revoking access to groups."
 msgstr "Error al revocar el acceso a grupos."
 
-#: Scripts\Application\ViewApplication.js:707
+#: Scripts\Application\ViewApplication.js:714
 msgid "Error while revoking access to users."
 msgstr "Error al revocar el acceso a los usuarios."
 
@@ -1788,8 +1773,8 @@ msgstr "Error al actualizar la configuración de notificaciones."
 #: Scripts\Administration\SystemSettings.js:288
 #: Scripts\Administration\SystemSettings.js:695
 #: Scripts\User\UserImportDatabase.js:678
-#: Views\Administration\AuthenticationSettings.cshtml:49
-#: Views\Administration\AuthenticationSettings.cshtml:61
+#: Views\Administration\AuthenticationSettings.cshtml:51
+#: Views\Administration\AuthenticationSettings.cshtml:63
 #: Views\Administration\_ActiveDirectorySettings.cshtml:24
 msgid "Error while updating settings."
 msgstr "Error al actualizar la configuración."
@@ -1820,8 +1805,8 @@ msgstr "Cada"
 msgid "Every weekday"
 msgstr "Todos los dias de la semana"
 
-#: Views\Administration\AuthenticationSettings.cshtml:225
-#: Views\Administration\AuthenticationSettings.cshtml:235
+#: Views\Administration\AuthenticationSettings.cshtml:227
+#: Views\Administration\AuthenticationSettings.cshtml:237
 msgid "Example"
 msgstr "Ejemplo"
 
@@ -1860,7 +1845,7 @@ msgstr "Error al eliminar usuario (s), inténtalo de nuevo más tarde."
 msgid "Failed to delete user, please try again later."
 msgstr "Error al eliminar el usuario, inténtalo de nuevo más tarde."
 
-#: Scripts\User\EditProfile.js:156 Scripts\User\UserManagementProfile.js:287
+#: Scripts\User\EditProfile.js:159 Scripts\User\UserManagementProfile.js:291
 msgid "Failed to update the profile picture, try again later."
 msgstr "Error al actualizar la imagen de perfil, inténtalo de nuevo más tarde."
 
@@ -1890,8 +1875,8 @@ msgid "First name"
 msgstr "Nombre de pila"
 
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:133
-#: Views\UserManagement\DatabaseUserImport.cshtml:59
-#: Views\UserManagement\DatabaseUserImport.cshtml:128
+#: Views\UserManagement\DatabaseUserImport.cshtml:56
+#: Views\UserManagement\DatabaseUserImport.cshtml:125
 #: Views\UserManagement\GoogleSuiteUserImport.cshtml:108
 msgid "First Name"
 msgstr "Nombre de pila"
@@ -1913,14 +1898,14 @@ msgstr "Por ejemplo "
 msgid "for more details."
 msgstr "para más detalles."
 
-#: Views\ServerConfiguration\DataMigration.cshtml:128
+#: Views\ServerConfiguration\DataMigration.cshtml:170
 msgid ""
 "For more information on how to resolve user duplicate conflict(s) click "
 msgstr "Para obtener más información sobre cómo resolver conflictos duplicados de usuarios, haga clic en "
 
 #: Views\ServerConfiguration\Index.cshtml:76
 msgid "For testing purpose, select Embedded SQL CE."
-msgstr "Para fines de prueba, seleccione Embedded SQL CE."
+msgstr "Para propósitos de prueba, seleccione Embedded SQL CE."
 
 #: Views\Shared\_LoginForm.cshtml:58
 msgid "Forgot password?"
@@ -1942,9 +1927,8 @@ msgstr "Relación de forma"
 msgid "Friday"
 msgstr "viernes"
 
-#: Views\UserManagement\DatabaseUserImport.cshtml:172
-#: Views\UserManagement\DatabaseUserImport.cshtml:234
-#: Views\UserManagement\DatabaseUserImport.cshtml:261
+#: Views\UserManagement\DatabaseUserImport.cshtml:169
+#: Views\UserManagement\DatabaseUserImport.cshtml:230
 msgid "From database"
 msgstr "De la base de datos"
 
@@ -1969,24 +1953,24 @@ msgstr "G Suite Group Import"
 
 #: Views\Group\GoogleSuiteGroupImport.cshtml:2
 msgid "G Suite Groups import"
-msgstr "Importación de Grupos G Suite"
+msgstr "Importación de G Suite Groups"
 
 #: Views\Administration\_ActiveDirectorySettings.cshtml:65
 msgid "G Suite schedule synchronization"
 msgstr "Sincronización de horarios de G Suite"
 
-#: Views\Administration\AuthenticationSettings.cshtml:291
+#: Views\Administration\AuthenticationSettings.cshtml:293
 msgid "G Suite SSO"
 msgstr "G Suite SSO"
 
-#: Views\Administration\AuthenticationSettings.cshtml:58
+#: Views\Administration\AuthenticationSettings.cshtml:60
 msgid ""
 "G Suite SSO has been \" + ($scope.gsuiteSsoSettings.IsEnabled ? \"enabled"
 "\" : \"disabled\") + \" successfully."
 msgstr "G Suite SSO ha sido \ "+ ($ scope.gsuiteSsoSettings.IsEnabled? \" Enabled \ ": \" disabled \ ") + \" correctamente."
 
-#: Views\Administration\AuthenticationSettings.cshtml:58
-#: Views\Administration\AuthenticationSettings.cshtml:61
+#: Views\Administration\AuthenticationSettings.cshtml:60
+#: Views\Administration\AuthenticationSettings.cshtml:63
 msgid "G Suite SSO Settings"
 msgstr "Configuración de G Suite SSO"
 
@@ -1999,7 +1983,7 @@ msgstr "Sincronización de G Suite"
 
 #: Views\Administration\ScheduleGoogleSuiteSynchronization.cshtml:28
 msgid "G SUITE SYNCHRONIZATION SCHEDULE"
-msgstr "PROGRAMA DE SINCRONIZACIÓN DE LA SUITE"
+msgstr "G PLAN DE SINCRONIZACIÓN DE LA SUITE"
 
 #: Views\UserManagement\Index.cshtml:353
 msgid "G Suite user"
@@ -2014,7 +1998,7 @@ msgstr "G Suite User Import"
 msgid "G Suite users import"
 msgstr "Importación de usuarios de G Suite"
 
-#: Views\Application\ViewApplication.cshtml:158
+#: Views\Application\ViewApplication.cshtml:164
 msgid "General"
 msgstr "General"
 
@@ -2054,8 +2038,8 @@ msgstr "Buena noches,"
 msgid "Good Morning,"
 msgstr "Buenos días,"
 
-#: Views\Administration\AuthenticationSettings.cshtml:355
-#: Views\Administration\AuthenticationSettings.cshtml:358
+#: Views\Administration\AuthenticationSettings.cshtml:357
+#: Views\Administration\AuthenticationSettings.cshtml:360
 #: Views\Administration\_ActiveDirectorySettings.cshtml:679
 msgid "Google Apps Domain"
 msgstr "Dominio de Google Apps"
@@ -2069,19 +2053,18 @@ msgid "Google Apps Domain Name :"
 msgstr "Nombre de dominio de Google Apps:"
 
 #: Views\Application\_ApplicationAdministrators.cshtml:58
-#: Views\Application\_ApplicationGroups.cshtml:27
-#: Views\Application\_ApplicationGroups.cshtml:77
+#: Views\Application\_ApplicationGroups.cshtml:59
 #: Views\Application\_ApplicationUsers.cshtml:27
 #: Views\Application\_ApplicationUsers.cshtml:31
 #: Views\Application\_ApplicationUsers.cshtml:76
 msgid "Grant access"
 msgstr "Autorizará el acceso"
 
-#: Views\Application\_ApplicationGroups.cshtml:31
+#: Views\Application\_ApplicationGroups.cshtml:16
 msgid "Grant Access"
 msgstr "Autorizará el acceso"
 
-#: Views\Application\_ApplicationGroups.cshtml:53
+#: Views\Application\_ApplicationGroups.cshtml:35
 msgid "Grant Access to Groups"
 msgstr "Otorgar acceso a grupos"
 
@@ -2098,7 +2081,7 @@ msgid "Grant Administrator Access to users"
 msgstr "Otorgar acceso de administrador a los usuarios"
 
 #: Scripts\Application\ApplicationGroups.js:416
-#: Scripts\Application\ViewApplication.js:655
+#: Scripts\Application\ViewApplication.js:662
 msgid "Granted access to "
 msgstr "Acceso concedido a "
 
@@ -2141,25 +2124,29 @@ msgstr "Nombre del grupo"
 msgid "Group name already exists"
 msgstr "El nombre del grupo ya existe"
 
+#: D:\task\release\chnge-tnt-nme\ums\src\Syncfusion.Server.API\Models\GroupsModel.cs:539
+#: D:\task\release\chnge-tnt-nme\ums\src\Syncfusion.Server.API\Models\GroupsModel.cs:765
 #: Controllers\Administration\UserManagementController.cs:745
-#: Controllers\Group\GroupController.cs:414 Models\Group\GroupModels.cs:741
-#: Models\Group\GroupModels.cs:932 Models\Group\GroupModels.cs:1122
-#: Models\Group\GroupModels.cs:1199 Models\Group\GroupModels.cs:1304
-#: Models\Group\GroupModels.cs:1381 Scripts\Group\Group.js:59
+#: Controllers\Group\GroupController.cs:414 Models\Group\GroupModels.cs:544
+#: Models\Group\GroupModels.cs:736 Models\Group\GroupModels.cs:928
+#: Models\Group\GroupModels.cs:1005 Models\Group\GroupModels.cs:1110
+#: Models\Group\GroupModels.cs:1187 Scripts\Group\Group.js:59
 #: Scripts\User\UserManagement.js:371
 msgid "Group name already exists."
 msgstr "El nombre del grupo ya existe."
 
-#: Models\Group\GroupModels.cs:720 Models\Group\GroupModels.cs:911
-#: Models\Group\GroupModels.cs:1110 Models\Group\GroupModels.cs:1292
+#: D:\task\release\chnge-tnt-nme\ums\src\Syncfusion.Server.API\Models\GroupsModel.cs:518
+#: D:\task\release\chnge-tnt-nme\ums\src\Syncfusion.Server.API\Models\GroupsModel.cs:754
+#: Models\Group\GroupModels.cs:523 Models\Group\GroupModels.cs:715
+#: Models\Group\GroupModels.cs:916 Models\Group\GroupModels.cs:1098
 msgid "Group name should not be empty."
 msgstr "El nombre del grupo no debe estar vacío."
 
-#: Models\Group\GroupModels.cs:1193 Models\Group\GroupModels.cs:1375
+#: Models\Group\GroupModels.cs:999 Models\Group\GroupModels.cs:1181
 msgid "group(s) are deleted."
 msgstr "Se eliminan los grupos."
 
-#: Models\Group\GroupModels.cs:1188 Models\Group\GroupModels.cs:1370
+#: Models\Group\GroupModels.cs:994 Models\Group\GroupModels.cs:1176
 msgid "group(s) details are modified."
 msgstr "Se modifican los detalles de los grupos."
 
@@ -2175,7 +2162,7 @@ msgstr "Grupo (s) ha sido importado con éxito."
 msgid "GroupId"
 msgstr "Identificación del grupo"
 
-#: Views\Application\ViewApplication.cshtml:164
+#: Views\Application\ViewApplication.cshtml:170
 #: Views\Group\ActiveDirectoryGroup.cshtml:177
 #: Views\Group\ActiveDirectoryGroupImport.cshtml:143
 #: Views\Group\ActiveDirectoryGroupImport.cshtml:232
@@ -2200,11 +2187,15 @@ msgstr "Los grupos"
 msgid "Header logo"
 msgstr "El logotipo de cabecera"
 
+#: D:\task\release\chnge-tnt-nme\ums\src\Syncfusion.Server.API\Models\UserModel.cs:2288
+#: D:\task\release\chnge-tnt-nme\ums\src\Syncfusion.Server.API\Models\UserModel.cs:2289
+#: D:\task\release\chnge-tnt-nme\ums\src\Syncfusion.Server.API\Models\UserModel.cs:2428
+#: D:\task\release\chnge-tnt-nme\ums\src\Syncfusion.Server.API\Models\UserModel.cs:2429
 #: Controllers\Administration\UserManagementController.cs:700
 #: Views\Accounts\AccountActivation.cshtml:96
 #: Views\Administration\_SiteSettings.cshtml:43
 #: Views\Administration\_SiteSettings.cshtml:218
-#: Views\ServerConfiguration\DataMigration.cshtml:128
+#: Views\ServerConfiguration\DataMigration.cshtml:170
 #: Views\ServerConfiguration\Index.cshtml:194
 #: Views\ServerConfiguration\Index.cshtml:285
 msgid "here"
@@ -2253,8 +2244,8 @@ msgstr "Icono"
 msgid "If it does not arrive"
 msgstr "Si no llega"
 
-#: Scripts\System\DataMigration.js:263
-#: Views\ServerConfiguration\DataMigration.cshtml:176
+#: Scripts\System\DataMigration.js:272
+#: Views\ServerConfiguration\DataMigration.cshtml:218
 msgid "Ignore client"
 msgstr "Ignorar al cliente"
 
@@ -2333,12 +2324,12 @@ msgid "Import the selected groups from the list"
 msgstr "Importar los grupos seleccionados de la lista."
 
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:162
-#: Views\UserManagement\DatabaseUserImport.cshtml:177
+#: Views\UserManagement\DatabaseUserImport.cshtml:174
 #: Views\UserManagement\GoogleSuiteUserImport.cshtml:131
 msgid "Import the selected users and activate their accounts"
 msgstr "Importa los usuarios seleccionados y activa sus cuentas."
 
-#: Views\UserManagement\DatabaseUserImport.cshtml:177
+#: Views\UserManagement\DatabaseUserImport.cshtml:174
 #: Views\UserManagement\UploadFileFormAction.cshtml:107
 msgid "Import users"
 msgstr "Importar usuarios"
@@ -2351,9 +2342,8 @@ msgstr "Importar Usuarios"
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:157
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:238
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:242
-#: Views\UserManagement\DatabaseUserImport.cshtml:172
-#: Views\UserManagement\DatabaseUserImport.cshtml:234
-#: Views\UserManagement\DatabaseUserImport.cshtml:261
+#: Views\UserManagement\DatabaseUserImport.cshtml:169
+#: Views\UserManagement\DatabaseUserImport.cshtml:230
 #: Views\UserManagement\GoogleSuiteUserImport.cshtml:127
 #: Views\UserManagement\GoogleSuiteUserImport.cshtml:194
 msgid "IMPORT USERS"
@@ -2381,7 +2371,8 @@ msgstr "Importar usuarios desde CSV"
 msgid "Import Users from CSV"
 msgstr "Importar usuarios desde CSV"
 
-#: Views\ServerConfiguration\DataMigration.cshtml:94
+#: Views\ServerConfiguration\DataMigration.cshtml:119
+#: Views\ServerConfiguration\DataMigration.cshtml:156
 #: Views\UserManagement\Index.cshtml:230
 msgid "Import users from Database"
 msgstr "Importar usuarios desde la base de datos"
@@ -2404,12 +2395,6 @@ msgstr "Importar usuarios de la lista de abajo"
 #: Views\Administration\_ActiveDirectorySettings.cshtml:710
 msgid "Import Users While Login"
 msgstr "Importar usuarios al iniciar sesión"
-
-#: Views\UserManagement\DatabaseUserImport.cshtml:241
-msgid ""
-"Importing users from existing database is not available in automatic account "
-"activation type."
-msgstr "La importación de usuarios de la base de datos existente no está disponible en el tipo de activación automática de la cuenta."
 
 #: Views\Application\Index.cshtml:51 Views\UserManagement\Index.cshtml:63
 #: Views\UserManagement\ViewProfile.cshtml:177
@@ -2434,19 +2419,19 @@ msgstr "Unir internamente"
 msgid "Internal Server Error"
 msgstr "error de servidor interno"
 
-#: Controllers\Accounts\AccountsController.cs:995
+#: Controllers\Accounts\AccountsController.cs:983
 msgid "Internal server error while updating password. Please try again."
 msgstr "Error interno del servidor al actualizar la contraseña. Inténtalo de nuevo."
 
-#: Models\Group\GroupModels.cs:1154 Models\Group\GroupModels.cs:1336
+#: Models\Group\GroupModels.cs:960 Models\Group\GroupModels.cs:1142
 msgid "Internal server error. Please try again later."
 msgstr "Error de servidor interno. Por favor, inténtelo de nuevo más tarde."
 
-#: Controllers\Accounts\AccountsController.cs:114
-#: Controllers\Accounts\AccountsController.cs:389
-#: Controllers\Accounts\AccountsController.cs:827
-#: Controllers\Accounts\AccountsController.cs:834
-#: Controllers\Accounts\AccountsController.cs:1006
+#: Controllers\Accounts\AccountsController.cs:115
+#: Controllers\Accounts\AccountsController.cs:390
+#: Controllers\Accounts\AccountsController.cs:815
+#: Controllers\Accounts\AccountsController.cs:822
+#: Controllers\Accounts\AccountsController.cs:994
 #: Scripts\User\UserImportDatabase.js:1414 Scripts\User\UserManagement.js:818
 msgid "Internal server error. Please try again."
 msgstr "Error de servidor interno. Inténtalo de nuevo."
@@ -2457,11 +2442,11 @@ msgstr "Credenciales de aplicación inválidas."
 
 #: Controllers\ServerConfiguration\ServerConfigurationController.cs:1646
 msgid "Invalid application details."
-msgstr "Detalles de aplicación inválidos"
+msgstr "Detalles de la aplicación no válidos."
 
 #: Scripts\Administration\Storage.js:177
 msgid "Invalid Azure Blob storage!"
-msgstr "¡Invalid Azure Blob storage!"
+msgstr "Almacenamiento inválido de Azure Blob!"
 
 #: Views\Administration\Storage.cshtml:112
 msgid "Invalid Azure Blob storage."
@@ -2481,7 +2466,7 @@ msgstr "Nombre distinguido no válido."
 
 #: Models\AccountModel.cs:178 Models\AccountModel.cs:240
 #: Scripts\Administration\SystemSettings.js:317
-#: Scripts\User\UserManagement.js:72 Scripts\User\UserManagementProfile.js:35
+#: Scripts\User\UserManagement.js:72 Scripts\User\UserManagementProfile.js:39
 msgid "Invalid email address."
 msgstr "Dirección de correo electrónico no válida."
 
@@ -2503,12 +2488,12 @@ msgstr "Nombre de dominio de host no válido."
 msgid "Invalid LDAP URL."
 msgstr "URL de LDAP no válida."
 
-#: Controllers\Accounts\AccountsController.cs:789
-#: Controllers\Accounts\AccountsController.cs:1000
+#: Controllers\Accounts\AccountsController.cs:777
+#: Controllers\Accounts\AccountsController.cs:988
 msgid "Invalid link"
 msgstr "Enlace inválido"
 
-#: Views\Administration\AuthenticationSettings.cshtml:223
+#: Views\Administration\AuthenticationSettings.cshtml:225
 msgid "Invalid Metadata URI"
 msgstr "URI de metadatos no válido"
 
@@ -2517,7 +2502,7 @@ msgid "Invalid password."
 msgstr "Contraseña invalida."
 
 #: Models\UserManagementModel\ActiveDirectoryUserManagementModel.cs:252
-#: Models\UserManagementModel\AzureUserManagementModel.cs:358
+#: Models\UserManagementModel\AzureUserManagementModel.cs:375
 #: Models\UserManagementModel\UserManagementModel.cs:631
 msgid "invalid user(s) exists."
 msgstr "usuario (s) inválido existe"
@@ -2533,8 +2518,8 @@ msgstr "Usuario invalido."
 msgid "Invalid username or email address"
 msgstr "Nombre de usuario o dirección de correo electrónico no válido"
 
-#: Controllers\Accounts\AccountsController.cs:336
-#: Controllers\Accounts\AccountsController.cs:399
+#: Controllers\Accounts\AccountsController.cs:337
+#: Controllers\Accounts\AccountsController.cs:400
 msgid "Invalid username or email address."
 msgstr "Nombre de usuario o dirección de correo electrónico no válido."
 
@@ -2572,15 +2557,18 @@ msgstr "Tipo de unión"
 msgid "Just now"
 msgstr "Justo ahora"
 
-#: Scripts\System\DataMigration.js:269
-#: Views\ServerConfiguration\DataMigration.cshtml:177
+#: Scripts\System\DataMigration.js:278
+#: Views\ServerConfiguration\DataMigration.cshtml:137
+#: Views\ServerConfiguration\DataMigration.cshtml:149
+#: Views\ServerConfiguration\DataMigration.cshtml:161
+#: Views\ServerConfiguration\DataMigration.cshtml:219
 msgid "Keep both"
 msgstr "Mantén ambos"
 
 #: Views\Administration\KerberosAuthentication.cshtml:2
 #: Views\Administration\_ActiveDirectorySettings.cshtml:42
 msgid "Kerberos Authentication"
-msgstr "Autentificación kerberos"
+msgstr "Autenticación Kerberos"
 
 #: Scripts\Administration\KerberosAuthentication.js:83
 msgid "Kerberos Authentication Settings"
@@ -2613,8 +2601,8 @@ msgid "Last name"
 msgstr "Apellido"
 
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:132
-#: Views\UserManagement\DatabaseUserImport.cshtml:56
-#: Views\UserManagement\DatabaseUserImport.cshtml:136
+#: Views\UserManagement\DatabaseUserImport.cshtml:53
+#: Views\UserManagement\DatabaseUserImport.cshtml:133
 #: Views\UserManagement\GoogleSuiteUserImport.cshtml:107
 msgid "Last Name"
 msgstr "Apellido"
@@ -2717,10 +2705,10 @@ msgstr "GESTIONAR LICENCIAS"
 
 #: Views\Administration\LicenseSettings.cshtml:21
 msgid "Manage the available user licenses"
-msgstr "Gestiona las licencias de usuario disponibles."
+msgstr "Gestionar las licencias de usuario disponibles."
 
-#: Views\Administration\AuthenticationSettings.cshtml:218
-#: Views\Administration\AuthenticationSettings.cshtml:221
+#: Views\Administration\AuthenticationSettings.cshtml:220
+#: Views\Administration\AuthenticationSettings.cshtml:223
 msgid "Metadata URI"
 msgstr "URI de metadatos"
 
@@ -2737,8 +2725,8 @@ msgstr "Longitud mínima"
 msgid "Minutes ago"
 msgstr "Hace minutos"
 
-#: Views\Administration\AuthenticationSettings.cshtml:260
-#: Views\Administration\AuthenticationSettings.cshtml:263
+#: Views\Administration\AuthenticationSettings.cshtml:262
+#: Views\Administration\AuthenticationSettings.cshtml:265
 msgid "Mobile App Client Id"
 msgstr "ID de cliente de la aplicación móvil"
 
@@ -2757,7 +2745,7 @@ msgstr "No móviles"
 #: Views\Group\GoogleSuiteGroupImport.cshtml:137
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:174
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:182
-#: Views\UserManagement\DatabaseUserImport.cshtml:189
+#: Views\UserManagement\DatabaseUserImport.cshtml:186
 #: Views\UserManagement\GoogleSuiteUserImport.cshtml:141
 msgid "Modify"
 msgstr "Modificar"
@@ -2813,9 +2801,9 @@ msgstr "MySQL ODBC DSN"
 
 #: Scripts\Application\ViewApplicationAdmin.js:166
 #: Scripts\Application\ViewApplicationAdmin.js:335
-#: Views\Application\ViewApplication.cshtml:58
-#: Views\Application\ViewApplication.cshtml:77
-#: Views\Application\ViewApplication.cshtml:117
+#: Views\Application\ViewApplication.cshtml:61
+#: Views\Application\ViewApplication.cshtml:83
+#: Views\Application\ViewApplication.cshtml:123
 #: Views\Group\ActiveDirectoryGroup.cshtml:27
 #: Views\Group\ActiveDirectoryGroupImport.cshtml:66
 #: Views\Group\EditGroup.cshtml:114 Views\Group\EditGroup.cshtml:151
@@ -2826,7 +2814,7 @@ msgstr "MySQL ODBC DSN"
 #: Views\Group\_AddGroup.cshtml:53
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:59
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:130
-#: Views\UserManagement\DatabaseUserImport.cshtml:50
+#: Views\UserManagement\DatabaseUserImport.cshtml:47
 #: Views\UserManagement\GoogleSuiteUserImport.cshtml:44
 #: Views\UserManagement\GoogleSuiteUserImport.cshtml:105
 #: Views\UserManagement\Index.cshtml:67 Views\UserManagement\Index.cshtml:142
@@ -2842,15 +2830,15 @@ msgstr "MySQL ODBC DSN"
 msgid "Name"
 msgstr "Nombre"
 
-#: Models\UserManagementModel\UserManagementModel.cs:1271
+#: Models\UserManagementModel\UserManagementModel.cs:1273
 msgid "Name cannot exceed 254 characters."
 msgstr "El nombre no puede exceder los 254 caracteres."
 
-#: Models\UserManagementModel\UserManagementModel.cs:1262
+#: Models\UserManagementModel\UserManagementModel.cs:1264
 msgid "Name should not be empty."
 msgstr "El nombre no debe estar vacío."
 
-#: Models\UserManagementModel\UserManagementModel.cs:1266
+#: Models\UserManagementModel\UserManagementModel.cs:1268
 msgid "Name should not contain special characters #%&*+<>?:/&quot;[']\\|@;,"
 msgstr "El nombre no debe contener caracteres especiales #% & * + <>?: / & Quot; ['] \\ | @ ;,"
 
@@ -2884,7 +2872,7 @@ msgstr "Nuevo usuario"
 msgid ""
 "New users could not be added since there are no remaining licenses(s) "
 "available."
-msgstr "No se pudieron agregar nuevos usuarios porque no hay licencias disponibles."
+msgstr "No se pudieron agregar nuevos usuarios ya que no hay licencias disponibles."
 
 #: Views\Administration\_ActiveDirectorySettings.cshtml:661
 msgid "Next"
@@ -2899,7 +2887,7 @@ msgstr "Siguiente horario"
 
 #: Scripts\Core\Server.Core.js:456 Scripts\Core\Server.Core.js:462
 #: Views\Application\_ApplicationAdministrators.cshtml:83
-#: Views\Application\_ApplicationGroups.cshtml:103
+#: Views\Application\_ApplicationGroups.cshtml:85
 #: Views\Application\_ApplicationUsers.cshtml:102
 #: Views\Application\_EnableOrDisableApplicationDialog.cshtml:21
 #: Views\Application\_EnableOrDisableApplicationDialog.cshtml:48
@@ -2920,7 +2908,7 @@ msgstr "No se ha encontrado ninguna base de datos"
 msgid "No DSN found"
 msgstr "No se encontró DSN"
 
-#: Scripts\User\EditProfile.js:225 Scripts\User\UserManagementProfile.js:357
+#: Scripts\User\EditProfile.js:228 Scripts\User\UserManagementProfile.js:361
 msgid "No file selected."
 msgstr "Ningún archivo seleccionado."
 
@@ -2952,7 +2940,7 @@ msgstr "resultados no encontrados"
 msgid "No users found."
 msgstr "No se encontraron usuarios."
 
-#: Views\Application\ViewApplication.cshtml:123
+#: Views\Application\ViewApplication.cshtml:129
 msgid "No. of Users"
 msgstr "No. de Usuarios"
 
@@ -3073,9 +3061,8 @@ msgstr "de cada "
 msgid "OK"
 msgstr "DE ACUERDO"
 
-#: D:\DSv3.2\ums
-#: locli\src\Syncfusion.Server.API\Models\UserManagementModel.cs:1625
-#: Models\UserManagementModel\UserManagementModel.cs:1418
+#: D:\task\release\chnge-tnt-nme\ums\src\Syncfusion.Server.API\Models\UserManagementModel.cs:1614
+#: Models\UserManagementModel\UserManagementModel.cs:1420
 msgid "One Lowercase"
 msgstr "Una minúscula"
 
@@ -3083,9 +3070,8 @@ msgstr "Una minúscula"
 msgid "One lowercase."
 msgstr "Una minúscula."
 
-#: D:\DSv3.2\ums
-#: locli\src\Syncfusion.Server.API\Models\UserManagementModel.cs:1627
-#: Models\UserManagementModel\UserManagementModel.cs:1420
+#: D:\task\release\chnge-tnt-nme\ums\src\Syncfusion.Server.API\Models\UserManagementModel.cs:1616
+#: Models\UserManagementModel\UserManagementModel.cs:1422
 msgid "One Number"
 msgstr "Un número"
 
@@ -3097,15 +3083,13 @@ msgstr "Un numérico."
 msgid "One special character."
 msgstr "Un personaje especial."
 
-#: D:\DSv3.2\ums
-#: locli\src\Syncfusion.Server.API\Models\UserManagementModel.cs:1628
-#: Models\UserManagementModel\UserManagementModel.cs:1421
+#: D:\task\release\chnge-tnt-nme\ums\src\Syncfusion.Server.API\Models\UserManagementModel.cs:1617
+#: Models\UserManagementModel\UserManagementModel.cs:1423
 msgid "One Specialcharacter"
 msgstr "Un caracter especial"
 
-#: D:\DSv3.2\ums
-#: locli\src\Syncfusion.Server.API\Models\UserManagementModel.cs:1626
-#: Models\UserManagementModel\UserManagementModel.cs:1419
+#: D:\task\release\chnge-tnt-nme\ums\src\Syncfusion.Server.API\Models\UserManagementModel.cs:1615
+#: Models\UserManagementModel\UserManagementModel.cs:1421
 msgid "One Uppercase"
 msgstr "Un caso superior"
 
@@ -3128,7 +3112,7 @@ msgstr "Oracle ODBC DSN"
 msgid "Organization name"
 msgstr "Nombre de la Organización"
 
-#: Views\ServerConfiguration\DataMigration.cshtml:57
+#: Views\ServerConfiguration\DataMigration.cshtml:58
 msgid "Overwrite"
 msgstr "Exagerar"
 
@@ -3168,7 +3152,7 @@ msgstr "Contraseña"
 msgid "Password Assistance"
 msgstr "Ayuda con contraseña"
 
-#: Models\UserManagementModel\UserManagementModel.cs:1286
+#: Models\UserManagementModel\UserManagementModel.cs:1288
 msgid "Password cannot exceed 85 characters."
 msgstr "La contraseña no puede exceder los 85 caracteres."
 
@@ -3176,7 +3160,7 @@ msgstr "La contraseña no puede exceder los 85 caracteres."
 msgid "Password change unsuccessful."
 msgstr "Cambio de contraseña sin éxito."
 
-#: Controllers\Accounts\AccountsController.cs:430
+#: Controllers\Accounts\AccountsController.cs:431
 #: Controllers\Authorization\AuthorizationController.cs:93
 #: Models\UserManagementModel\UserManagementModel.cs:696
 msgid "Password has been changed successfully."
@@ -3185,7 +3169,7 @@ msgstr "La contraseña ha sido cambiada con éxito."
 #: Controllers\UserController.cs:204
 #: Controllers\Administration\UserManagementController.cs:934
 #: Scripts\Password\ChangePassword.js:107
-#: Scripts\User\UserManagementProfile.js:516
+#: Scripts\User\UserManagementProfile.js:520
 msgid "Password has been updated successfully."
 msgstr "La contraseña se ha actualizado correctamente."
 
@@ -3198,11 +3182,10 @@ msgstr "Ayudante de contraseña"
 msgid ""
 "Password must be 6 characters including 1 uppercase letter, 1 lowercase "
 "letter, 1 numeric and 1 special character."
-msgstr "La contraseña debe tener 6 caracteres, incluyendo 1 letra mayúscula, 1 letra minúscula, 1 carácter numérico y 1 especial."
+msgstr "La contraseña debe tener 6 caracteres, incluida 1 letra mayúscula, 1 letra minúscula, 1 carácter numérico y 1 carácter especial."
 
-#: D:\DSv3.2\ums
-#: locli\src\Syncfusion.Server.API\Models\UserManagementModel.cs:1624
-#: Models\UserManagementModel\UserManagementModel.cs:1417
+#: D:\task\release\chnge-tnt-nme\ums\src\Syncfusion.Server.API\Models\UserManagementModel.cs:1613
+#: Models\UserManagementModel\UserManagementModel.cs:1419
 #: Scripts\Password\PasswordPolicy.js:123
 msgid "Password must meet the following requirements:"
 msgstr "La contraseña debe cumplir los siguientes requisitos:"
@@ -3220,7 +3203,7 @@ msgstr "Política de contraseñas"
 msgid "Password Settings"
 msgstr "Configuraciones de contraseña"
 
-#: Models\UserManagementModel\UserManagementModel.cs:1277
+#: Models\UserManagementModel\UserManagementModel.cs:1279
 msgid "Password should not be empty."
 msgstr "La contraseña no debe estar vacía."
 
@@ -3237,9 +3220,9 @@ msgstr "Contraseñas no coincidentes"
 #: Scripts\Password\ChangePassword.js:20 Scripts\Password\ChangePassword.js:67
 #: Scripts\System\SystemSettings.js:714 Scripts\System\SystemSettings.js:819
 #: Scripts\User\AccountActivation.js:8 Scripts\User\UserManagement.js:147
-#: Scripts\User\UserManagement.js:159 Scripts\User\UserManagementProfile.js:113
-#: Scripts\User\UserManagementProfile.js:156
-#: Scripts\User\UserManagementProfile.js:495
+#: Scripts\User\UserManagement.js:159 Scripts\User\UserManagementProfile.js:117
+#: Scripts\User\UserManagementProfile.js:160
+#: Scripts\User\UserManagementProfile.js:499
 msgid "Passwords mismatch."
 msgstr "Las contraseñas no coinciden."
 
@@ -3284,7 +3267,7 @@ msgstr "Por favor, evite los caracteres especiales (\\\ "\\;)"
 msgid ""
 "Please avoid special characters (\\\"\\;) and leading spaces and trailing "
 "spaces."
-msgstr "Evite los caracteres especiales (\\\ "\\;) y los espacios iniciales y finales."
+msgstr "Evite los caracteres especiales (\\\ "\\;) y los espacios iniciales y los espacios finales."
 
 #: Scripts\System\SystemSettings.js:581 Scripts\System\SystemSettings.js:1782
 #: Scripts\System\SystemSettings.js:1892 Scripts\System\SystemSettings.js:2005
@@ -3301,10 +3284,10 @@ msgstr "Por favor, evite los caracteres especiales, números y espacios en blanc
 #: Scripts\Accounts\Login.js:75 Scripts\Administration\SystemSettings.js:313
 #: Scripts\Application\AddApplication.js:125 Scripts\Group\EditGroup.js:4
 #: Scripts\System\SystemSettings.js:566 Scripts\System\SystemSettings.js:615
-#: Scripts\System\SystemSettings.js:704 Scripts\User\EditProfile.js:28
+#: Scripts\System\SystemSettings.js:704 Scripts\User\EditProfile.js:32
 #: Scripts\User\UserManagement.js:60 Scripts\User\UserManagement.js:76
 #: Scripts\User\UserManagement.js:82 Scripts\User\UserManagement.js:514
-#: Scripts\User\UserManagementProfile.js:43
+#: Scripts\User\UserManagementProfile.js:47
 msgid "Please avoid special characters."
 msgstr "Por favor, evite los caracteres especiales."
 
@@ -3339,14 +3322,14 @@ msgstr "Haga clic aquí para configurar los ajustes de Active Directory de Azure
 msgid "Please click here to configure the Azure Active Directory settings."
 msgstr "Haga clic aquí para configurar los ajustes de Active Directory de Azure."
 
-#: Scripts\User\UserManagementProfile.js:195
-#: Scripts\User\UserManagementProfile.js:220
+#: Scripts\User\UserManagementProfile.js:199
+#: Scripts\User\UserManagementProfile.js:224
 msgid "Please click here to configure the email settings."
 msgstr "Haga clic aquí para configurar los ajustes de correo electrónico."
 
-#: Models\Group\GroupModels.cs:1218 Models\Group\GroupModels.cs:1400
+#: Models\Group\GroupModels.cs:1024 Models\Group\GroupModels.cs:1206
 #: Models\UserManagementModel\ActiveDirectoryUserManagementModel.cs:275
-#: Models\UserManagementModel\AzureUserManagementModel.cs:381
+#: Models\UserManagementModel\AzureUserManagementModel.cs:398
 #: Models\UserManagementModel\UserManagementModel.cs:655
 #: Scripts\User\ActiveDirectoryUserImport.js:95
 #: Scripts\User\GoogleSuiteUserImport.js:85
@@ -3357,30 +3340,30 @@ msgstr "Haga clic en Aceptar para consultar la lista de usuarios no válidos o d
 
 #: Scripts\Accounts\Login.js:102
 msgid "Please confirm new password."
-msgstr "Por favor confirme la nueva contraseña."
+msgstr "Por favor, confirme la nueva contraseña."
 
 #: Scripts\System\SystemSettings.js:713 Scripts\System\SystemSettings.js:818
 msgid "Please confirm password."
 msgstr "Por favor confirme la contraseña."
 
 #: Scripts\Password\ChangePassword.js:66 Scripts\User\UserManagement.js:146
-#: Scripts\User\UserManagementProfile.js:155
+#: Scripts\User\UserManagementProfile.js:159
 msgid "Please confirm your new password."
 msgstr "Por favor confirme su nueva contraseña."
 
-#: Controllers\Accounts\AccountsController.cs:344
+#: Controllers\Accounts\AccountsController.cs:345
 msgid ""
 "Please contact the Active Directory administrator to change your AD account "
 "password."
 msgstr "Póngase en contacto con el administrador de Active Directory para cambiar la contraseña de su cuenta de AD."
 
-#: Controllers\Accounts\AccountsController.cs:348
+#: Controllers\Accounts\AccountsController.cs:349
 msgid ""
 "Please contact the Azure Active Directory administrator to change your Azure "
 "AD account password."
 msgstr "Póngase en contacto con el administrador de Azure Active Directory para cambiar la contraseña de su cuenta de Azure AD."
 
-#: Scripts\System\SystemSettings.js:562 Scripts\User\EditProfile.js:24
+#: Scripts\System\SystemSettings.js:562 Scripts\User\EditProfile.js:28
 #: Views\ServerConfiguration\_UserAccount.cshtml:70
 msgid "Please enter a valid email address."
 msgstr "Por favor, introduce una dirección de correo electrónico válida."
@@ -3399,17 +3382,17 @@ msgstr "Por favor, introduzca la contraseña de administrador."
 msgid "Please enter admin username."
 msgstr "Por favor ingrese el nombre de usuario del administrador."
 
-#: Views\Administration\AuthenticationSettings.cshtml:233
+#: Views\Administration\AuthenticationSettings.cshtml:235
 msgid "Please enter Authority URL"
 msgstr "Por favor ingrese la URL de la Autoridad"
 
 #: Scripts\Administration\Storage.js:120
 msgid "Please enter blob service endpoint."
-msgstr "Por favor ingrese el punto final del servicio blob."
+msgstr "Por favor ingrese el punto final del servicio de blob."
 
 #: Scripts\System\SystemSettings.js:891
 msgid "Please enter Blob service endpoint."
-msgstr "Por favor ingrese el punto final de servicio de Blob."
+msgstr "Por favor ingrese el punto final del servicio de Blob."
 
 #: Scripts\Administration\Storage.js:129 Scripts\System\SystemSettings.js:900
 msgid "Please enter Blob URL."
@@ -3442,7 +3425,7 @@ msgstr "Por favor ingrese el nombre de la base de datos."
 msgid "Please enter database password."
 msgstr "Por favor, introduzca la contraseña de la base de datos."
 
-#: Views\Administration\AuthenticationSettings.cshtml:243
+#: Views\Administration\AuthenticationSettings.cshtml:245
 msgid "Please enter Designer Client Id"
 msgstr "Por favor ingrese el ID del cliente diseñador"
 
@@ -3458,7 +3441,7 @@ msgstr "Por favor, introduzca la dirección de correo electrónico"
 msgid "Please enter email address."
 msgstr "Por favor, introduzca la dirección de correo electrónico."
 
-#: Views\Administration\AuthenticationSettings.cshtml:327
+#: Views\Administration\AuthenticationSettings.cshtml:329
 msgid "Please enter Entity Id"
 msgstr "Por favor ingrese la identificación de la entidad"
 
@@ -3467,7 +3450,7 @@ msgid "Please enter first name"
 msgstr "Por favor ingrese su nombre"
 
 #: Scripts\System\SystemSettings.js:701 Scripts\User\UserManagement.js:140
-#: Scripts\User\UserManagementProfile.js:101
+#: Scripts\User\UserManagementProfile.js:105
 msgid "Please enter first name."
 msgstr "Por favor ingrese el primer nombre"
 
@@ -3495,7 +3478,7 @@ msgstr "Por favor ingrese el nombre del grupo."
 
 #: Scripts\Administration\KerberosAuthentication.js:41
 msgid "Please enter host domain name."
-msgstr "Por favor, introduzca el nombre de dominio del host."
+msgstr "Por favor ingrese el nombre de dominio del host."
 
 #: Views\User\Profile.cshtml:111 Views\UserManagement\ViewProfile.cshtml:133
 msgid "Please enter last name"
@@ -3509,7 +3492,7 @@ msgstr "Por favor, introduzca la URL de LDAP."
 msgid "Please enter machine name."
 msgstr "Por favor, introduzca el nombre de la máquina."
 
-#: Views\Administration\AuthenticationSettings.cshtml:222
+#: Views\Administration\AuthenticationSettings.cshtml:224
 msgid "Please enter Metadata URI"
 msgstr "Por favor ingrese URI de metadatos"
 
@@ -3569,7 +3552,7 @@ msgstr "Por favor ingrese el puerto SMTP."
 msgid "Please enter SMTP server."
 msgstr "Por favor, introduzca el servidor SMTP."
 
-#: Views\Administration\AuthenticationSettings.cshtml:318
+#: Views\Administration\AuthenticationSettings.cshtml:320
 msgid "Please enter SSO URL"
 msgstr "Por favor ingrese la URL de SSO"
 
@@ -3577,7 +3560,7 @@ msgstr "Por favor ingrese la URL de SSO"
 msgid "Please enter storage account name."
 msgstr "Por favor ingrese el nombre de la cuenta de almacenamiento."
 
-#: Views\Administration\AuthenticationSettings.cshtml:253
+#: Views\Administration\AuthenticationSettings.cshtml:255
 msgid "Please enter Tenant Name"
 msgstr "Por favor ingrese el nombre del inquilino"
 
@@ -3608,9 +3591,9 @@ msgstr "Por favor ingrese el nombre"
 #: Scripts\Administration\Storage.js:55
 #: Scripts\Administration\SystemSettings.js:309
 #: Scripts\Application\AddApplication.js:121 Scripts\Group\EditGroup.js:8
-#: Scripts\System\SystemSettings.js:550 Scripts\User\EditProfile.js:32
+#: Scripts\System\SystemSettings.js:550 Scripts\User\EditProfile.js:36
 #: Scripts\User\UserImportDatabase.js:38 Scripts\User\UserManagement.js:56
-#: Scripts\User\UserManagementProfile.js:39
+#: Scripts\User\UserManagementProfile.js:43
 msgid "Please enter the name."
 msgstr "Por favor ingrese el nombre"
 
@@ -3634,7 +3617,7 @@ msgstr "Por favor, introduzca el nombre de la aplicación válida."
 msgid "Please enter the valid application URL."
 msgstr "Por favor, introduzca la URL de la aplicación válida."
 
-#: Scripts\User\EditProfile.js:36 Scripts\User\UserManagementProfile.js:47
+#: Scripts\User\EditProfile.js:40 Scripts\User\UserManagementProfile.js:51
 msgid "Please enter the valid phone number."
 msgstr "Por favor ingrese el número de teléfono válido."
 
@@ -3651,7 +3634,7 @@ msgid "Please enter username or email address."
 msgstr "Por favor ingrese su nombre de usuario o dirección de correo electrónico."
 
 #: Scripts\Administration\SystemSettings.js:428
-#: Scripts\System\DataMigration.js:383 Scripts\System\SystemSettings.js:698
+#: Scripts\System\DataMigration.js:392 Scripts\System\SystemSettings.js:698
 #: Scripts\System\SystemSettings.js:994 Scripts\System\SystemSettings.js:1059
 #: Scripts\System\SystemSettings.js:1192 Scripts\User\UserImportDatabase.js:89
 #: Scripts\User\UserImportDatabase.js:135
@@ -3668,7 +3651,7 @@ msgstr "Por favor, introduzca una URL de Blob válida."
 msgid "Please enter valid port number."
 msgstr "Por favor, introduzca un número de puerto válido."
 
-#: Views\Administration\AuthenticationSettings.cshtml:254
+#: Views\Administration\AuthenticationSettings.cshtml:256
 msgid "Please enter valid URL"
 msgstr "Por favor ingrese una URL válida"
 
@@ -3679,16 +3662,16 @@ msgstr "Por favor ingrese una URL válida"
 msgid "Please enter valid URL."
 msgstr "Por favor, introduzca una URL válida."
 
-#: Scripts\User\EditProfile.js:84
+#: Scripts\User\EditProfile.js:87
 msgid "Please enter your email address."
 msgstr "Por favor, introduzca su dirección de correo electrónico."
 
-#: Scripts\User\EditProfile.js:87
+#: Scripts\User\EditProfile.js:90
 msgid "Please enter your first name."
 msgstr "Por favor, introduzca su nombre de pila."
 
 #: Scripts\Password\ChangePassword.js:63 Scripts\User\UserManagement.js:143
-#: Scripts\User\UserManagementProfile.js:152
+#: Scripts\User\UserManagementProfile.js:156
 msgid "Please enter your new password."
 msgstr "Por favor ingrese su nueva contraseña."
 
@@ -3754,7 +3737,7 @@ msgstr "Por favor seleccione DSN."
 #: Views\Group\ActiveDirectoryGroupImport.cshtml:204
 #: Views\Group\GoogleSuiteGroupImport.cshtml:158
 msgid "Please select group(s) to import."
-msgstr "Por favor seleccione el grupo (s) para importar."
+msgstr "Por favor, seleccione el grupo (s) para importar."
 
 #: Scripts\User\UserImportDatabase.js:361
 #: Scripts\User\UserImportDatabase.js:443
@@ -3771,7 +3754,7 @@ msgstr "Por favor seleccione Oracle ODBC DSN."
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:205
 #: Views\UserManagement\GoogleSuiteUserImport.cshtml:163
 msgid "Please select user(s) to import"
-msgstr "Por favor seleccione usuario (s) para importar"
+msgstr "Seleccione usuario (s) para importar"
 
 #: Scripts\User\ImportusersfromCSV.js:81
 msgid "Please upload a valid csv file."
@@ -3804,7 +3787,7 @@ msgstr "PostgreSQL"
 msgid "Powered by"
 msgstr "Energizado por"
 
-#: Views\ServerConfiguration\DataMigration.cshtml:190
+#: Views\ServerConfiguration\DataMigration.cshtml:232
 #: Views\ServerConfiguration\Index.cshtml:394
 #: Views\ServerConfiguration\Index.cshtml:395
 #: Views\ServerConfiguration\Index.cshtml:396
@@ -3828,13 +3811,13 @@ msgstr "PERFIL"
 msgid "Profile picture has been deleted successfully."
 msgstr "La imagen de perfil se ha eliminado correctamente."
 
-#: Scripts\User\EditProfile.js:130 Scripts\User\UserManagementProfile.js:259
+#: Scripts\User\EditProfile.js:133 Scripts\User\UserManagementProfile.js:263
 msgid "Profile picture has been saved successfully."
-msgstr "La imagen de perfil se ha guardado con éxito."
+msgstr "La imagen de perfil se ha guardado correctamente."
 
 #: Views\UserManagement\_UserImportSelectedUserList.cshtml:3
 msgid "Query to pull users :"
-msgstr "Consulta para sacar usuarios:"
+msgstr "Consulta para atraer usuarios:"
 
 #: Views\Home\Index.cshtml:244
 msgid "Recent Users"
@@ -3861,22 +3844,22 @@ msgstr "Usuarios recientes"
 #: Views\Administration\ScheduleSynchronization.cshtml:154
 #: Views\Administration\ScheduleSynchronization.cshtml:194
 msgid "Recurs"
-msgstr "Recurrentes"
+msgstr "Se repite"
 
 #: Views\Application\_ApplicationDetail.cshtml:51
 msgid "Regenerate client secret"
 msgstr "Regenerar el secreto del cliente"
 
-#: Scripts\Application\ViewApplication.js:756
-#: Scripts\Application\ViewApplication.js:760
+#: Scripts\Application\ViewApplication.js:763
+#: Scripts\Application\ViewApplication.js:767
 #: Views\Application\_RegenerateAccessToken.cshtml:6
 msgid "Regenerate Client Secret"
 msgstr "Regenerar el secreto del cliente"
 
-#: Views\Administration\AuthenticationSettings.cshtml:269
-#: Views\Administration\AuthenticationSettings.cshtml:272
+#: Views\Administration\AuthenticationSettings.cshtml:271
+#: Views\Administration\AuthenticationSettings.cshtml:274
 msgid "Relying Party ID"
-msgstr "Identificación de la fiesta de confianza"
+msgstr "Confiando en la identificación del partido"
 
 #: Views\UserManagement\_LimitUserCreation.cshtml:17
 msgid "remaining license(s)."
@@ -3898,11 +3881,11 @@ msgstr "retirar"
 msgid "Remove Administartor"
 msgstr "Eliminar Administartor"
 
-#: Views\Administration\AuthenticationSettings.cshtml:339
+#: Views\Administration\AuthenticationSettings.cshtml:341
 msgid "Remove certificate"
 msgstr "Quitar certificado"
 
-#: Scripts\User\UserManagementProfile.js:194
+#: Scripts\User\UserManagementProfile.js:198
 #: Views\UserManagement\ViewProfile.cshtml:193
 msgid "Resend activation code"
 msgstr "Reenviar código de activación"
@@ -3915,7 +3898,7 @@ msgstr "Restablecer enlace de contraseña"
 msgid "Restrict"
 msgstr "Restringir"
 
-#: Views\Application\_ApplicationGroups.cshtml:37
+#: Views\Application\_ApplicationGroups.cshtml:20
 #: Views\Application\_ApplicationUsers.cshtml:37
 msgid "Revoke access"
 msgstr "Revocar el acceso"
@@ -3934,16 +3917,16 @@ msgstr "Revocar acceso de administrador"
 msgid "Revoke Administrator(s) Access"
 msgstr "Revocar acceso de administrador (es)"
 
-#: Views\Application\_ApplicationGroups.cshtml:90
+#: Views\Application\_ApplicationGroups.cshtml:72
 msgid "Revoke Group(s) Access"
-msgstr "Revocar acceso de grupo (s)"
+msgstr "Revocar acceso a grupo (s)"
 
 #: Views\Application\_ApplicationUsers.cshtml:89
 msgid "Revoke User(s) Access"
 msgstr "Revocar acceso de usuario (s)"
 
 #: Scripts\Application\ApplicationGroups.js:445
-#: Scripts\Application\ViewApplication.js:704
+#: Scripts\Application\ViewApplication.js:711
 msgid "Revoked access for "
 msgstr "Acceso revocado para "
 
@@ -3970,9 +3953,9 @@ msgstr "Nombre de rol"
 msgid "Saturday"
 msgstr "sábado"
 
-#: Views\Administration\AuthenticationSettings.cshtml:192
-#: Views\Administration\AuthenticationSettings.cshtml:281
-#: Views\Administration\AuthenticationSettings.cshtml:385
+#: Views\Administration\AuthenticationSettings.cshtml:194
+#: Views\Administration\AuthenticationSettings.cshtml:283
+#: Views\Administration\AuthenticationSettings.cshtml:387
 #: Views\Administration\NotificationSettings.cshtml:95
 #: Views\Administration\ScheduleAzureSynchronization.cshtml:257
 #: Views\Administration\ScheduleDatabaseSynchronization.cshtml:252
@@ -4039,8 +4022,8 @@ msgstr "Programa para sincronizar usuarios y grupos con G Suite"
 #: Views\Application\Index.cshtml:243
 #: Views\Application\_ApplicationAdministrators.cshtml:13
 #: Views\Application\_ApplicationAdministrators.cshtml:49
-#: Views\Application\_ApplicationGroups.cshtml:21
-#: Views\Application\_ApplicationGroups.cshtml:68
+#: Views\Application\_ApplicationGroups.cshtml:12
+#: Views\Application\_ApplicationGroups.cshtml:50
 #: Views\Application\_ApplicationUsers.cshtml:22
 #: Views\Application\_ApplicationUsers.cshtml:67
 #: Views\Group\ActiveDirectoryGroup.cshtml:212
@@ -4048,7 +4031,7 @@ msgstr "Programa para sincronizar usuarios y grupos con G Suite"
 #: Views\Group\GoogleSuiteGroup.cshtml:188
 #: Views\Group\GoogleSuiteGroupImport.cshtml:144 Views\Group\Group.cshtml:341
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:190
-#: Views\UserManagement\DatabaseUserImport.cshtml:196
+#: Views\UserManagement\DatabaseUserImport.cshtml:193
 #: Views\UserManagement\GoogleSuiteUserImport.cshtml:148
 #: Views\UserManagement\Index.cshtml:332
 #: Views\UserManagement\SynchronizeDatabaseUsers.cshtml:168
@@ -4096,8 +4079,8 @@ msgstr "Buscar grupos de G Suite"
 msgid "Search G Suite users"
 msgstr "Buscar usuarios de G Suite"
 
-#: Views\Application\_ApplicationGroups.cshtml:19
-#: Views\Application\_ApplicationGroups.cshtml:66
+#: Views\Application\_ApplicationGroups.cshtml:10
+#: Views\Application\_ApplicationGroups.cshtml:48
 #: Views\Group\ActiveDirectoryGroupImport.cshtml:188
 #: Views\Group\GoogleSuiteGroupImport.cshtml:142 Views\Group\Group.cshtml:339
 msgid "Search groups"
@@ -4116,7 +4099,7 @@ msgstr "Buscar usuario"
 #: Views\Group\EditGroup.cshtml:183 Views\Group\EditGroup.cshtml:185
 #: Views\Group\ViewGroup.cshtml:147 Views\Group\ViewGroup.cshtml:149
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:188
-#: Views\UserManagement\DatabaseUserImport.cshtml:194
+#: Views\UserManagement\DatabaseUserImport.cshtml:191
 #: Views\UserManagement\GoogleSuiteUserImport.cshtml:146
 #: Views\UserManagement\Index.cshtml:330
 #: Views\UserManagement\SynchronizeDatabaseUsers.cshtml:165
@@ -4187,13 +4170,13 @@ msgstr "Seleccione el tipo de recurrencia"
 
 #: Views\Administration\_ActiveDirectorySettings.cshtml:740
 msgid "Select relation"
-msgstr "Relación selecta"
+msgstr "Seleccionar relacion"
 
-#: Views\Application\_ApplicationGroups.cshtml:60
+#: Views\Application\_ApplicationGroups.cshtml:42
 msgid "Select the groups who would be granted application access."
 msgstr "Seleccione los grupos a los que se concederá acceso a la aplicación."
 
-#: Views\UserManagement\DatabaseUserImport.cshtml:203
+#: Views\UserManagement\DatabaseUserImport.cshtml:200
 msgid ""
 "Select the users from the following list to import into User Management "
 "Server"
@@ -4279,7 +4262,7 @@ msgstr "Servicio no disponible"
 msgid "Set Password"
 msgstr "Configurar la clave"
 
-#: Views\ServerConfiguration\DataMigration.cshtml:56
+#: Views\ServerConfiguration\DataMigration.cshtml:57
 #: Views\Shared\_Menu.cshtml:66
 msgid "Settings"
 msgstr "Ajustes"
@@ -4311,9 +4294,8 @@ msgstr "Los ajustes se han actualizado con éxito."
 msgid "Settings to authenticate users via kerberos ticket management system"
 msgstr "Configuraciones para autenticar usuarios a través del sistema de gestión de tickets kerberos."
 
-#: D:\DSv3.2\ums
-#: locli\src\Syncfusion.Server.API\Models\UserManagementModel.cs:1629
-#: Models\UserManagementModel\UserManagementModel.cs:1422
+#: D:\task\release\chnge-tnt-nme\ums\src\Syncfusion.Server.API\Models\UserManagementModel.cs:1618
+#: Models\UserManagementModel\UserManagementModel.cs:1424
 msgid "Should not contain part of name, user name or email address."
 msgstr "No debe contener parte del nombre, nombre de usuario o dirección de correo electrónico."
 
@@ -4373,23 +4355,23 @@ msgstr "Autenticación SQL"
 msgid "SQL Server"
 msgstr "servidor SQL"
 
-#: Views\ServerConfiguration\DataMigration.cshtml:105
+#: Views\ServerConfiguration\DataMigration.cshtml:73
 msgid "SSO"
 msgstr "SSO"
 
-#: Views\Administration\AuthenticationSettings.cshtml:43
-#: Views\Administration\AuthenticationSettings.cshtml:49
+#: Views\Administration\AuthenticationSettings.cshtml:45
+#: Views\Administration\AuthenticationSettings.cshtml:51
 msgid "SSO Settings"
 msgstr "Configuración de SSO"
 
-#: Views\Administration\AuthenticationSettings.cshtml:42
+#: Views\Administration\AuthenticationSettings.cshtml:44
 msgid ""
 "SSO settings has been updated. The application will be restarted "
 "automatically inorder to apply this changes."
 msgstr "La configuración de SSO se ha actualizado. La aplicación se reiniciará automáticamente para aplicar estos cambios."
 
-#: Views\Administration\AuthenticationSettings.cshtml:314
-#: Views\Administration\AuthenticationSettings.cshtml:317
+#: Views\Administration\AuthenticationSettings.cshtml:316
+#: Views\Administration\AuthenticationSettings.cshtml:319
 msgid "SSO URL"
 msgstr "URL de SSO"
 
@@ -4401,8 +4383,9 @@ msgstr "Comienza con"
 #: Scripts\Group\GoogleSuiteGroupImport.js:63
 #: Scripts\Group\SynchronizeGoogleSuiteGroups.js:139
 #: Scripts\Group\SynchronizeGroups.js:139 Views\Application\Index.cshtml:69
-#: Views\Application\Index.cshtml:195 Views\UserManagement\Index.cshtml:73
-#: Views\UserManagement\Index.cshtml:158
+#: Views\Application\Index.cshtml:195
+#: Views\Application\ViewApplication.cshtml:67
+#: Views\UserManagement\Index.cshtml:73 Views\UserManagement\Index.cshtml:158
 #: Views\UserManagement\ViewProfile.cshtml:169
 msgid "Status"
 msgstr "Estado"
@@ -4528,19 +4511,19 @@ msgstr "Sincronizar usuarios con la base de datos existente"
 msgid "Synchronize users with G Suite"
 msgstr "Sincronizar usuarios con G Suite"
 
-#: Models\Group\GroupModels.cs:1202
+#: Models\Group\GroupModels.cs:1008
 msgid "Synchronizing groups with Active Directory has been successful."
 msgstr "La sincronización de grupos con Active Directory ha sido exitosa."
 
-#: Models\Group\GroupModels.cs:1241
+#: Models\Group\GroupModels.cs:1047
 msgid "Synchronizing groups with Active Directory has failed."
 msgstr "La sincronización de grupos con Active Directory ha fallado."
 
-#: Models\Group\GroupModels.cs:1423
+#: Models\Group\GroupModels.cs:1229
 msgid "Synchronizing groups with Azure Active Directory has been failed."
 msgstr "La sincronización de grupos con Azure Active Directory ha fallado."
 
-#: Models\Group\GroupModels.cs:1384
+#: Models\Group\GroupModels.cs:1190
 msgid "Synchronizing groups with Azure Active Directory has been successful."
 msgstr "La sincronización de grupos con Azure Active Directory ha sido exitosa."
 
@@ -4549,7 +4532,7 @@ msgid "Synchronizing users with active directory has been failed."
 msgstr "La sincronización de usuarios con Active Directory ha fallado."
 
 #: Models\UserManagementModel\ActiveDirectoryUserManagementModel.cs:291
-#: Models\UserManagementModel\AzureUserManagementModel.cs:397
+#: Models\UserManagementModel\AzureUserManagementModel.cs:414
 msgid "Synchronizing users with Active Directory has been failed."
 msgstr "La sincronización de usuarios con Active Directory ha fallado."
 
@@ -4557,7 +4540,7 @@ msgstr "La sincronización de usuarios con Active Directory ha fallado."
 msgid "Synchronizing users with active directory has been successful."
 msgstr "La sincronización de usuarios con Active Directory ha sido exitosa."
 
-#: Models\UserManagementModel\AzureUserManagementModel.cs:363
+#: Models\UserManagementModel\AzureUserManagementModel.cs:380
 msgid "Synchronizing users with azure active directory has been successful."
 msgstr "La sincronización de usuarios con el directorio activo de Azure ha sido exitosa."
 
@@ -4590,8 +4573,8 @@ msgstr "Prefijo de nombre de tabla"
 msgid "Tenant name"
 msgstr "Nombre del inquilino"
 
-#: Views\Administration\AuthenticationSettings.cshtml:249
-#: Views\Administration\AuthenticationSettings.cshtml:252
+#: Views\Administration\AuthenticationSettings.cshtml:251
+#: Views\Administration\AuthenticationSettings.cshtml:254
 msgid "Tenant Name"
 msgstr "Nombre del inquilino"
 
@@ -4644,7 +4627,7 @@ msgstr "La configuración de AD no está configurada."
 msgid ""
 "The below table(s) already exists in the selected database. Please change "
 "the prefix or choose some other database."
-msgstr "La siguiente tabla (s) ya existe en la base de datos seleccionada. Por favor cambie el prefijo o elija alguna otra base de datos."
+msgstr "Las tablas a continuación ya existen en la base de datos seleccionada. Por favor cambie el prefijo o elija alguna otra base de datos."
 
 #: Scripts\System\SystemSettings.js:1922 Scripts\System\SystemSettings.js:2034
 msgid ""
@@ -4653,11 +4636,11 @@ msgid ""
 msgstr "Las siguientes tablas ya existen en la base de datos seleccionada. Por favor cambie el prefijo o elija alguna otra base de datos."
 
 #: Models\UserManagementModel\ActiveDirectoryUserManagementModel.cs:218
-#: Models\UserManagementModel\AzureUserManagementModel.cs:324
+#: Models\UserManagementModel\AzureUserManagementModel.cs:341
 msgid "The destination URL is not reachable."
 msgstr "La URL de destino no es accesible."
 
-#: Views\Application\_ApplicationGroups.cshtml:14
+#: Views\Application\_ApplicationGroups.cshtml:6
 msgid "The following groups have access to the application."
 msgstr "Los siguientes grupos tienen acceso a la aplicación."
 
@@ -4669,7 +4652,7 @@ msgstr "Los siguientes usuarios tienen acceso a la aplicación."
 msgid "The following users have administrative access to the application."
 msgstr "Los siguientes usuarios tienen acceso administrativo a la aplicación."
 
-#: Views\Application\ViewApplication.cshtml:188
+#: Views\Application\ViewApplication.cshtml:194
 msgid "The requested application details are not found."
 msgstr "Los detalles de la aplicación solicitada no se encuentran."
 
@@ -4677,7 +4660,7 @@ msgstr "Los detalles de la aplicación solicitada no se encuentran."
 msgid "The reset password link expires in two hours!"
 msgstr "¡El enlace para restablecer la contraseña caduca en dos horas!"
 
-#: Views\Administration\AuthenticationSettings.cshtml:235
+#: Views\Administration\AuthenticationSettings.cshtml:237
 msgid "The URL to the authority that issues the authorization token"
 msgstr "La URL a la autoridad que emite el token de autorización."
 
@@ -4709,11 +4692,11 @@ msgstr "Esta no es una base de datos MySQL válida DSN. Por favor, seleccione un
 msgid "This is not a valid Oracle dataBase DSN. Please select a valid DSN."
 msgstr "Esto no es un DSN de base de datos de Oracle válido. Por favor, seleccione un DSN válido."
 
-#: Controllers\Accounts\AccountsController.cs:102
+#: Controllers\Accounts\AccountsController.cs:103
 msgid "This link has expired."
 msgstr "Este enlace ha caducado."
 
-#: Controllers\Accounts\AccountsController.cs:108
+#: Controllers\Accounts\AccountsController.cs:109
 #: Views\Accounts\AccountActivation.cshtml:61
 msgid "This link is invalid."
 msgstr "Este enlace no es válido."
@@ -4751,7 +4734,7 @@ msgid "Time"
 msgstr "Hora"
 
 #: Views\Administration\_SiteSettings.cshtml:169
-#: Views\ServerConfiguration\DataMigration.cshtml:116
+#: Views\ServerConfiguration\DataMigration.cshtml:84
 msgid "Time zone"
 msgstr "Zona horaria"
 
@@ -4783,9 +4766,16 @@ msgid ""
 "settings or change the account activation mode as automatic activation."
 msgstr "Para enviar un correo electrónico de activación de cuenta al usuario, configure los ajustes de correo electrónico o cambie el modo de activación de cuenta como activación automática."
 
+#: D:\task\release\chnge-tnt-nme\ums\src\Syncfusion.Server.API\Models\UserModel.cs:2288
+#: D:\task\release\chnge-tnt-nme\ums\src\Syncfusion.Server.API\Models\UserModel.cs:2428
+msgid ""
+"to send account activation emails, or choose Automatic account activation "
+"mode"
+msgstr "para enviar correos electrónicos de activación de cuenta, o elija el modo de activación automática de cuenta"
+
 #: Controllers\Administration\AdministrationController.cs:154
 msgid "Token have been cleared successfully."
-msgstr "El token se ha eliminado correctamente."
+msgstr "Los tokens se han eliminado correctamente."
 
 #: Views\Administration\LicenseSettings.cshtml:27
 msgid "Total license count"
@@ -4805,8 +4795,8 @@ msgstr "martes"
 msgid "Type"
 msgstr "Tipo"
 
-#: Views\ServerConfiguration\DataMigration.cshtml:140
-#: Views\ServerConfiguration\DataMigration.cshtml:168
+#: Views\ServerConfiguration\DataMigration.cshtml:182
+#: Views\ServerConfiguration\DataMigration.cshtml:210
 msgid "UMS"
 msgstr "UMS"
 
@@ -4815,7 +4805,7 @@ msgid ""
 "UMS needs to be hosted in IIS with a valid SSL certificate assigned. Click"
 msgstr "UMS debe estar alojado en IIS con un certificado SSL válido asignado. Hacer clic"
 
-#: Scripts\System\DataMigration.js:254
+#: Scripts\System\DataMigration.js:263
 msgid "UMS user will be mapped to client."
 msgstr "El usuario de UMS será asignado al cliente."
 
@@ -4823,7 +4813,7 @@ msgstr "El usuario de UMS será asignado al cliente."
 msgid "Unable to retrieve the recently logged in users."
 msgstr "No se pueden recuperar los usuarios que han iniciado sesión recientemente."
 
-#: Scripts\User\UserManagementProfile.js:520
+#: Scripts\User\UserManagementProfile.js:524
 #: Views\Administration\Storage.cshtml:109
 #: Views\Application\_AddApplicationDialog.cshtml:91
 #: Views\UserManagement\ViewProfile.cshtml:4
@@ -4840,7 +4830,7 @@ msgstr "Actualizar la configuración de Active Directory"
 msgid "Update Azure AD configuration settings"
 msgstr "Actualizar la configuración de Azure AD"
 
-#: Views\UserManagement\DatabaseUserImport.cshtml:189
+#: Views\UserManagement\DatabaseUserImport.cshtml:186
 msgid "Update database configuration settings"
 msgstr "Actualizar la configuración de la base de datos"
 
@@ -4855,12 +4845,12 @@ msgid "Update Notification Settings"
 msgstr "Actualizar configuración de notificación"
 
 #: Scripts\Password\ChangePassword.js:107
-#: Scripts\User\UserManagementProfile.js:516
+#: Scripts\User\UserManagementProfile.js:520
 msgid "Update Password"
 msgstr "Actualiza contraseña"
 
-#: Scripts\User\EditProfile.js:412 Scripts\User\EditProfile.js:418
-#: Scripts\User\UserManagementProfile.js:605
+#: Scripts\User\EditProfile.js:415 Scripts\User\EditProfile.js:421
+#: Scripts\User\UserManagementProfile.js:609
 msgid "Update Profile"
 msgstr "Actualización del perfil"
 
@@ -4868,7 +4858,7 @@ msgstr "Actualización del perfil"
 msgid "Update the storage settings here"
 msgstr "Actualiza la configuración de almacenamiento aquí"
 
-#: Views\Administration\AuthenticationSettings.cshtml:347
+#: Views\Administration\AuthenticationSettings.cshtml:349
 #: Views\Administration\_SiteSettings.cshtml:71
 #: Views\Administration\_SiteSettings.cshtml:87
 #: Views\Administration\_SiteSettings.cshtml:101
@@ -4893,8 +4883,11 @@ msgstr "Las URL deben ser únicas"
 msgid "Use 24-hour format"
 msgstr "Usar el formato de 24 horas"
 
-#: Scripts\System\DataMigration.js:251
-#: Views\ServerConfiguration\DataMigration.cshtml:149
+#: Scripts\System\DataMigration.js:260
+#: Views\ServerConfiguration\DataMigration.cshtml:136
+#: Views\ServerConfiguration\DataMigration.cshtml:148
+#: Views\ServerConfiguration\DataMigration.cshtml:160
+#: Views\ServerConfiguration\DataMigration.cshtml:191
 msgid "Use client"
 msgstr "Usar cliente"
 
@@ -4908,8 +4901,11 @@ msgstr "Usar HTTP"
 msgid "Use HTTPS (Recommended)"
 msgstr "Usar HTTPS (Recomendado)"
 
-#: Scripts\System\DataMigration.js:249
-#: Views\ServerConfiguration\DataMigration.cshtml:148
+#: Scripts\System\DataMigration.js:258
+#: Views\ServerConfiguration\DataMigration.cshtml:135
+#: Views\ServerConfiguration\DataMigration.cshtml:147
+#: Views\ServerConfiguration\DataMigration.cshtml:159
+#: Views\ServerConfiguration\DataMigration.cshtml:190
 msgid "Use UMS"
 msgstr "Utilizar UMS"
 
@@ -4917,7 +4913,7 @@ msgstr "Utilizar UMS"
 msgid "User account activation"
 msgstr "Activación de cuenta de usuario"
 
-#: Scripts\User\UserManagementProfile.js:203
+#: Scripts\User\UserManagementProfile.js:207
 msgid "User account has been activated successfully."
 msgstr "La cuenta de usuario se ha activado con éxito."
 
@@ -4931,7 +4927,7 @@ msgstr "Directorio de usuarios"
 
 #: Views\Administration\ScheduleGoogleSuiteSynchronization.cshtml:24
 msgid "User Directory settings"
-msgstr "Configuraciones del directorio de usuarios"
+msgstr "Configuraciones de directorio de usuario"
 
 #: Scripts\Administration\SystemSettings.js:285
 #: Scripts\Administration\SystemSettings.js:288
@@ -5003,7 +4999,7 @@ msgstr "Nombre de usuario"
 
 #: Views\Administration\NotificationSettings.cshtml:2
 msgid "User Notification Preference"
-msgstr "Preferencia de notificación al usuario"
+msgstr "Preferencia de notificación de usuario"
 
 #: Views\UserManagement\ViewProfile.cshtml:14
 msgid "User Profile"
@@ -5037,13 +5033,13 @@ msgid "User settings have been updated successfully."
 msgstr "La configuración del usuario se ha actualizado con éxito."
 
 #: Models\UserManagementModel\ActiveDirectoryUserManagementModel.cs:240
-#: Models\UserManagementModel\AzureUserManagementModel.cs:346
+#: Models\UserManagementModel\AzureUserManagementModel.cs:363
 #: Models\UserManagementModel\UserManagementModel.cs:619
 msgid "user(s) are deleted."
 msgstr "usuario (s) se eliminan."
 
 #: Models\UserManagementModel\ActiveDirectoryUserManagementModel.cs:235
-#: Models\UserManagementModel\AzureUserManagementModel.cs:341
+#: Models\UserManagementModel\AzureUserManagementModel.cs:358
 #: Models\UserManagementModel\UserManagementModel.cs:609
 msgid "user(s) details are modified."
 msgstr "Se modifican los detalles de los usuarios."
@@ -5115,8 +5111,8 @@ msgstr "Usuario (s) no se encontraron en la base de datos."
 #: Views\User\Profile.cshtml:94
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:62
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:131
-#: Views\UserManagement\DatabaseUserImport.cshtml:53
-#: Views\UserManagement\DatabaseUserImport.cshtml:120
+#: Views\UserManagement\DatabaseUserImport.cshtml:50
+#: Views\UserManagement\DatabaseUserImport.cshtml:117
 #: Views\UserManagement\GoogleSuiteUserImport.cshtml:47
 #: Views\UserManagement\GoogleSuiteUserImport.cshtml:106
 #: Views\UserManagement\SynchronizeDatabaseUsers.cshtml:38
@@ -5137,23 +5133,22 @@ msgstr "Nombre de usuario"
 msgid "Username :"
 msgstr "Nombre de usuario:"
 
-#: D:\DSv3.2\ums
-#: locli\src\Syncfusion.Server.WindowsAuthentication\Controllers\AccountController.cs:75
-#: locli\src\Syncfusion.Server.WindowsAuthentication\Controllers\AccountController.cs:157
+#: D:\task\release\chnge-tnt-nme\ums\src\Syncfusion.Server.WindowsAuthentication\Controllers\AccountController.cs:75
+#: D:\task\release\chnge-tnt-nme\ums\src\Syncfusion.Server.WindowsAuthentication\Controllers\AccountController.cs:157
 #: Models\UserManagementModel\ActiveDirectoryUserManagementModel.cs:143
 #: Models\UserManagementModel\ActiveDirectoryUserManagementModel.cs:246
-#: Models\UserManagementModel\AzureUserManagementModel.cs:95
-#: Models\UserManagementModel\AzureUserManagementModel.cs:255
+#: Models\UserManagementModel\AzureUserManagementModel.cs:111
+#: Models\UserManagementModel\AzureUserManagementModel.cs:272
 #: Models\UserManagementModel\GoogleSuiteUserManagementModel.cs:118
 #: Models\UserManagementModel\UserManagementModel.cs:509
-#: Models\UserManagementModel\UserManagementModel.cs:1127
-#: Models\UserManagementModel\UserManagementModel.cs:1330
-#: Models\UserManagementModel\UserManagementModel.cs:1720
+#: Models\UserManagementModel\UserManagementModel.cs:1128
+#: Models\UserManagementModel\UserManagementModel.cs:1332
+#: Models\UserManagementModel\UserManagementModel.cs:1722
 #: Scripts\User\UserManagement.js:224
 msgid "Username already exists."
 msgstr "Nombre de usuario ya existe."
 
-#: Models\UserManagementModel\UserManagementModel.cs:1252
+#: Models\UserManagementModel\UserManagementModel.cs:1254
 msgid "Username cannot exceed 95 characters."
 msgstr "El nombre de usuario no puede exceder los 95 caracteres."
 
@@ -5167,13 +5162,13 @@ msgid "Username contains space."
 msgstr "El nombre de usuario contiene espacio."
 
 #: Models\UserManagementModel\ActiveDirectoryUserManagementModel.cs:139
-#: Models\UserManagementModel\AzureUserManagementModel.cs:91
-#: Models\UserManagementModel\AzureUserManagementModel.cs:251
+#: Models\UserManagementModel\AzureUserManagementModel.cs:107
+#: Models\UserManagementModel\AzureUserManagementModel.cs:268
 #: Models\UserManagementModel\GoogleSuiteUserManagementModel.cs:114
 #: Models\UserManagementModel\UserManagementModel.cs:505
-#: Models\UserManagementModel\UserManagementModel.cs:1123
-#: Models\UserManagementModel\UserManagementModel.cs:1291
-#: Models\UserManagementModel\UserManagementModel.cs:1716
+#: Models\UserManagementModel\UserManagementModel.cs:1124
+#: Models\UserManagementModel\UserManagementModel.cs:1293
+#: Models\UserManagementModel\UserManagementModel.cs:1718
 msgid "Username is invalid."
 msgstr "Nombre de usuario invalido."
 
@@ -5190,25 +5185,25 @@ msgstr "El nombre de usuario o la dirección de correo electrónico ya existen o
 msgid "Username or Email address already exists or repeated."
 msgstr "El nombre de usuario o la dirección de correo electrónico ya existen o se repiten."
 
-#: Models\UserManagementModel\AzureUserManagementModel.cs:352
+#: Models\UserManagementModel\AzureUserManagementModel.cs:369
 msgid "Username or Email address already exists."
 msgstr "Nombre de usuario o dirección de correo electrónico ya existe."
 
 #: Models\UserManagementModel\ActiveDirectoryUserManagementModel.cs:252
-#: Models\UserManagementModel\AzureUserManagementModel.cs:358
+#: Models\UserManagementModel\AzureUserManagementModel.cs:375
 #: Models\UserManagementModel\UserManagementModel.cs:631
 msgid "Username or Email address is invalid."
 msgstr "El nombre de usuario o la dirección de correo electrónico no son válidos."
 
-#: Controllers\Accounts\AccountsController.cs:230
+#: Controllers\Accounts\AccountsController.cs:231
 msgid "Username or email already exists."
 msgstr "El nombre de usuario o correo electrónico ya existe."
 
-#: Models\UserManagementModel\AzureUserManagementModel.cs:86
+#: Models\UserManagementModel\AzureUserManagementModel.cs:102
 #: Models\UserManagementModel\GoogleSuiteUserManagementModel.cs:109
-#: Models\UserManagementModel\UserManagementModel.cs:1118
-#: Models\UserManagementModel\UserManagementModel.cs:1243
-#: Models\UserManagementModel\UserManagementModel.cs:1711
+#: Models\UserManagementModel\UserManagementModel.cs:1119
+#: Models\UserManagementModel\UserManagementModel.cs:1245
+#: Models\UserManagementModel\UserManagementModel.cs:1713
 msgid "Username should not be empty."
 msgstr "El nombre de usuario no debe estar vacío."
 
@@ -5216,7 +5211,7 @@ msgstr "El nombre de usuario no debe estar vacío."
 msgid "Username should not contain special characters"
 msgstr "El nombre de usuario no debe contener caracteres especiales"
 
-#: Models\UserManagementModel\UserManagementModel.cs:1247
+#: Models\UserManagementModel\UserManagementModel.cs:1249
 msgid ""
 "Username should not contain special characters #%&*+<>?:/&quot;[']\\|@;,"
 msgstr "El nombre de usuario no debe contener caracteres especiales #% & * + <>?: / & Quot; ['] \\ | @ ;,"
@@ -5235,22 +5230,20 @@ msgid ""
 "<) will not be displayed in the list below."
 msgstr "Los nombres de usuario, direcciones de correo electrónico, nombres y contraseñas con caracteres especiales (, "<) no se mostrarán en la lista a continuación."
 
-#: D:\DSv3.2\ums
-#: locli\src\Syncfusion.Server.API\Models\UserManagementModel.cs:220
+#: D:\task\release\chnge-tnt-nme\ums\src\Syncfusion.Server.API\Models\UserManagementModel.cs:201
 msgid ""
 "Usernames, Email addresses, Names and Passwords with special characters (, "
 "”) will not be displayed in the list"
 msgstr "Los nombres de usuario, direcciones de correo electrónico, nombres y contraseñas con caracteres especiales (, ") no se mostrarán en la lista"
 
-#: Views\Application\ViewApplication.cshtml:161
+#: Views\Application\ViewApplication.cshtml:167
 #: Views\Group\ActiveDirectoryGroup.cshtml:128
 #: Views\Group\GoogleSuiteGroup.cshtml:119 Views\Group\Group.cshtml:142
 #: Views\Home\Index.cshtml:54
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:146
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:232
-#: Views\UserManagement\DatabaseUserImport.cshtml:167
-#: Views\UserManagement\DatabaseUserImport.cshtml:230
-#: Views\UserManagement\DatabaseUserImport.cshtml:257
+#: Views\UserManagement\DatabaseUserImport.cshtml:164
+#: Views\UserManagement\DatabaseUserImport.cshtml:226
 #: Views\UserManagement\GoogleSuiteUserImport.cshtml:122
 #: Views\UserManagement\GoogleSuiteUserImport.cshtml:190
 #: Views\UserManagement\SynchronizeDatabaseUsers.cshtml:150
@@ -5342,6 +5335,13 @@ msgid ""
 "configured. Update email settings"
 msgstr "No podemos enviar correos electrónicos de activación porque la configuración del correo electrónico no está configurada. Actualizar la configuración del correo electrónico"
 
+#: D:\task\release\chnge-tnt-nme\ums\src\Syncfusion.Server.API\Models\UserModel.cs:2287
+#: D:\task\release\chnge-tnt-nme\ums\src\Syncfusion.Server.API\Models\UserModel.cs:2427
+msgid ""
+"We are not able to send activation emails because the email settings are not "
+"configured.Update email settings"
+msgstr "No podemos enviar correos electrónicos de activación porque la configuración del correo electrónico no está configurada. Actualice la configuración del correo electrónico"
+
 #: Controllers\OAuthController.cs:104 Controllers\OAuthController.cs:130
 #: Controllers\Authorization\AuthorizationController.cs:509
 msgid "We are unable to process your request."
@@ -5351,7 +5351,7 @@ msgstr "No podemos procesar tu solicitud."
 msgid ""
 "We couldn't setup this directory since G Suite API was not configured "
 "properly and try Authenticate and Save."
-msgstr "No pudimos configurar este directorio debido a que la API de G Suite no se configuró correctamente y tratar de autenticar y guardar."
+msgstr "No pudimos configurar este directorio debido a que la API de G Suite no se configuró correctamente e intente autenticar y guardar."
 
 #: Views\Administration\ScheduleAzureSynchronization.cshtml:129
 #: Views\Administration\ScheduleDatabaseSynchronization.cshtml:125
@@ -5384,7 +5384,7 @@ msgstr "Semanal"
 msgid "Welcome note"
 msgstr "Nota de bienvenida"
 
-#: Views\ServerConfiguration\DataMigration.cshtml:14
+#: Views\ServerConfiguration\DataMigration.cshtml:15
 #: Views\ServerConfiguration\Index.cshtml:10
 #: Views\ServerConfiguration\Index.cshtml:69
 msgid "Welcome to"
@@ -5400,7 +5400,7 @@ msgstr "Windows Active Directory"
 msgid "Windows authentication"
 msgstr "Autenticación de Windows"
 
-#: Views\Administration\AuthenticationSettings.cshtml:176
+#: Views\Administration\AuthenticationSettings.cshtml:178
 #: Views\Shared\_ExternalAuthentication.cshtml:21
 msgid "Windows Authentication"
 msgstr "Autenticación de Windows"
@@ -5408,13 +5408,13 @@ msgstr "Autenticación de Windows"
 #: Scripts\Administration\AuthenticationSettings.js:17
 #: Scripts\Administration\AuthenticationSettings.js:19
 msgid "Windows Authentication Settings"
-msgstr "Configuración de autenticación de Windows"
+msgstr "Configuraciones de autenticación de Windows"
 
 #: Controllers\Administration\AdministrationController.cs:1095
 msgid "Windows Authentication Settings has been updated successfully"
 msgstr "La configuración de autenticación de Windows se ha actualizado correctamente"
 
-#: Views\Administration\AuthenticationSettings.cshtml:332
+#: Views\Administration\AuthenticationSettings.cshtml:334
 msgid "X.509 Certificate"
 msgstr "Certificado X.509"
 
@@ -5438,7 +5438,7 @@ msgstr "años después"
 
 #: Scripts\Core\Server.Core.js:452
 #: Views\Application\_ApplicationAdministrators.cshtml:82
-#: Views\Application\_ApplicationGroups.cshtml:102
+#: Views\Application\_ApplicationGroups.cshtml:84
 #: Views\Application\_ApplicationUsers.cshtml:101
 #: Views\Application\_EnableOrDisableApplicationDialog.cshtml:20
 #: Views\Application\_EnableOrDisableApplicationDialog.cshtml:47

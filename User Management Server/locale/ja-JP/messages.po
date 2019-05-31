@@ -1,20 +1,19 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2019-01-18 17:17+0530\n"
+"POT-Creation-Date: 2019-05-09 18:43+05:30\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.8\n"
+"X-Generator: Poedit 2.2.1\n"
 "PO-Revision-Date: \n"
 "Language-Team: \n"
 "Last-Translator: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Language: en_US\n"
 
-#: D:\DSv3.2\ums
-#: locli\src\Syncfusion.Server.API\Models\UserManagementModel.cs:1624
-#: Models\UserManagementModel\UserManagementModel.cs:1417
+#: D:\task\release\chnge-tnt-nme\ums\src\Syncfusion.Server.API\Models\UserManagementModel.cs:1613
+#: Models\UserManagementModel\UserManagementModel.cs:1419
 msgid " characters"
 msgstr "キャラクター"
 
@@ -43,7 +42,7 @@ msgstr "数か月前"
 
 #: Views\Administration\_SiteSettings.cshtml:218
 msgid " to learn how to add new localizations in User Management Server."
-msgstr "User Management Serverに新しい地域対応を追加する方法を学ぶため。"
+msgstr "User Management Serverに新しいローカライゼーションを追加する方法を学ぶため。"
 
 #: Controllers\Administration\UserManagementController.cs:700
 msgid ""
@@ -51,8 +50,8 @@ msgid ""
 "mode."
 msgstr "アカウントのアクティベーションメールを送信するか、自動アカウントアクティベーションモードを選択します。"
 
-#: Scripts\Application\ViewApplication.js:655
-#: Scripts\Application\ViewApplication.js:704
+#: Scripts\Application\ViewApplication.js:662
+#: Scripts\Application\ViewApplication.js:711
 msgid " user(s) successfully."
 msgstr "ユーザー。"
 
@@ -64,7 +63,7 @@ msgstr "数年前"
 msgid ""
 "*Allowed file types are .png, .jpg, and .jpeg. Maximum file size is 20MB. "
 "Recommended resolution is 200x200 pixels."
-msgstr "*使用できるファイルの種類は、.png、.jpg、および.jpegです。最大ファイルサイズは20MBです。推奨解像度は200 x 200ピクセルです。"
+msgstr "*許可されているファイルタイプは、.png、.jpg、および.jpegです。最大ファイルサイズは20MBです。推奨解像度は200 x 200ピクセルです。"
 
 #: Scripts\Core\Server.Core.js:567
 msgid "{0} of {1} pages ({2} items)"
@@ -115,7 +114,7 @@ msgstr "最大7文字"
 msgid "70 characters maximum"
 msgstr "最大70文字"
 
-#: Views\Administration\AuthenticationSettings.cshtml:256
+#: Views\Administration\AuthenticationSettings.cshtml:258
 msgid "A dedicated instance of the Azure AD service"
 msgstr "Azure ADサービスの専用インスタンス"
 
@@ -128,23 +127,23 @@ msgstr "1分前"
 msgid "A month ago"
 msgstr "一ヶ月前"
 
-#: Views\Administration\AuthenticationSettings.cshtml:245
+#: Views\Administration\AuthenticationSettings.cshtml:247
 msgid ""
 "A unique identifier, used to register the Standalone Report Designer into AD "
 "FS"
 msgstr "Standalone Report DesignerをAD FSに登録するために使用される一意の識別子"
 
-#: Views\Administration\AuthenticationSettings.cshtml:265
+#: Views\Administration\AuthenticationSettings.cshtml:267
 msgid ""
 "A unique identifier, used to register the Syncfusion Dashboards Mobile app "
 "into AD FS"
 msgstr "Syncfusion Dashboards MobileアプリをAD FSに登録するために使用される一意の識別子"
 
-#: Views\Administration\AuthenticationSettings.cshtml:274
+#: Views\Administration\AuthenticationSettings.cshtml:276
 msgid "A URI that identifies the relying party to the security token service"
 msgstr "セキュリティトークンサービスの利用者を識別するURI"
 
-#: Views\Administration\AuthenticationSettings.cshtml:225
+#: Views\Administration\AuthenticationSettings.cshtml:227
 msgid "A URI that will be used to obtain the wsFederation metadata"
 msgstr "wsFederationメタデータを取得するために使用されるURI"
 
@@ -163,7 +162,7 @@ msgid "Access Denied"
 msgstr "アクセスが拒否されました"
 
 #: Scripts\Accounts\Login.js:262 Scripts\Accounts\Login.js:269
-#: Views\Accounts\Login.cshtml:36 Views\Authorization\Login.cshtml:37
+#: Views\Accounts\Login.cshtml:36 Views\Authorization\Login.cshtml:44
 msgid "Access is denied"
 msgstr "アクセスが拒否されました"
 
@@ -199,7 +198,7 @@ msgstr "アカウント有効化モード"
 msgid "Account name"
 msgstr "アカウント名"
 
-#: Controllers\Accounts\AccountsController.cs:340
+#: Controllers\Accounts\AccountsController.cs:341
 msgid "Account not yet activated. Please contact the system administrator."
 msgstr "アカウントはまだ有効になっていません。システム管理者に連絡してください。"
 
@@ -213,8 +212,8 @@ msgstr "アカウント"
 
 #: Scripts\Application\ViewApplicationAdmin.js:352
 #: Views\Application\Index.cshtml:207
-#: Views\Application\ViewApplication.cshtml:64
-#: Views\Application\ViewApplication.cshtml:67
+#: Views\Application\ViewApplication.cshtml:70
+#: Views\Application\ViewApplication.cshtml:73
 msgid "Actions"
 msgstr "行動"
 
@@ -226,18 +225,18 @@ msgstr "ユーザーを有効にする"
 msgid "Activate User"
 msgstr "ユーザーを有効にする"
 
-#: Scripts\User\UserManagementProfile.js:195
-#: Scripts\User\UserManagementProfile.js:220
+#: Scripts\User\UserManagementProfile.js:199
+#: Scripts\User\UserManagementProfile.js:224
 msgid ""
 "Activation code has been generated successfully. As email settings are not "
 "configured we are not able to send activation email to the user."
-msgstr "アクティベーションコードは正常に生成されました。電子メール設定が構成されていないため、有効化電子メールをユーザーに送信することはできません。"
+msgstr "アクティベーションコードは正常に生成されました。 Eメール設定が構成されていないため、アクティベーションEメールをユーザーに送信することはできません。"
 
-#: Scripts\User\UserManagementProfile.js:220
+#: Scripts\User\UserManagementProfile.js:224
 msgid "Activation code has been resent successfully."
 msgstr "アクティベーションコードは正常に再送信されました。"
 
-#: Scripts\User\UserManagementProfile.js:195
+#: Scripts\User\UserManagementProfile.js:199
 msgid "Activation code has been sent successfully."
 msgstr "アクティベーションコードは正常に送信されました。"
 
@@ -246,10 +245,10 @@ msgid ""
 "Activation emails cannot be sent until the email settings are configured. "
 "You can select Automatic Activation to activate the user without configuring "
 "email settings."
-msgstr "アクティベーションEメールは、Eメール設定が構成されるまで送信できません。電子メールの設定を行わずにユーザーを有効にするには、自動有効化を選択します。"
+msgstr "アクティベーションEメールは、Eメール設定が構成されるまで送信できません。自動アクティベーションを選択すると、Eメール設定を構成せずにユーザーをアクティブにすることができます。"
 
-#: Scripts\User\UserManagementProfile.js:199
-#: Scripts\User\UserManagementProfile.js:201 Views\Application\Index.cshtml:49
+#: Scripts\User\UserManagementProfile.js:203
+#: Scripts\User\UserManagementProfile.js:205 Views\Application\Index.cshtml:49
 #: Views\UserManagement\Index.cshtml:61
 #: Views\UserManagement\ViewProfile.cshtml:176
 #: Views\UserManagement\ViewProfile.cshtml:181
@@ -261,7 +260,8 @@ msgstr "アクティブ"
 #: Views\Group\ActiveDirectoryGroupImport.cshtml:238 Views\Home\Index.cshtml:78
 #: Views\Home\Index.cshtml:100 Views\Home\Index.cshtml:148
 #: Views\Home\Index.cshtml:159
-#: Views\ServerConfiguration\DataMigration.cshtml:72
+#: Views\ServerConfiguration\DataMigration.cshtml:97
+#: Views\ServerConfiguration\DataMigration.cshtml:132
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:152
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:238
 msgid "Active Directory"
@@ -306,7 +306,7 @@ msgstr "Active Directoryとの同期"
 
 #: Scripts\User\SynchronizeUsers.js:128 Scripts\User\SynchronizeUsers.js:140
 msgid "Active Directory Synchronization"
-msgstr "Active Directoryとの同期"
+msgstr "Active Directoryの同期"
 
 #: Views\Administration\ScheduleSynchronization.cshtml:27
 msgid "ACTIVE DIRECTORY SYNCHRONIZATION SCHEDULE"
@@ -424,7 +424,7 @@ msgstr "管理者のユーザー名"
 msgid "Administration"
 msgstr "管理"
 
-#: Views\Application\ViewApplication.cshtml:170
+#: Views\Application\ViewApplication.cshtml:176
 msgid "Administrators"
 msgstr "管理者"
 
@@ -435,7 +435,6 @@ msgstr "管理者"
 msgid "All the tables will have this prefix."
 msgstr "すべてのテーブルにこの接頭辞が付きます。"
 
-#: Views\Application\_ApplicationGroups.cshtml:27
 #: Views\Application\_ApplicationUsers.cshtml:27
 msgid "All users have access to the application"
 msgstr "すべてのユーザーがアプリケーションにアクセスできます"
@@ -456,7 +455,7 @@ msgstr "通知を許可または制限します。"
 msgid ""
 "Allowed file types are .png, .jpg, and .jpeg. Maximum file size is 20MB. "
 "Recommended resolution is 200x200 pixels."
-msgstr "許可されているファイルタイプは、.png、.jpg、および.jpegです。最大ファイルサイズは20MBです。推奨解像度は200 x 200ピクセルです。"
+msgstr "許可されているファイルの種類は、.png、.jpg、および.jpegです。最大ファイルサイズは20MBです。推奨解像度は200 x 200ピクセルです。"
 
 #: Views\Accounts\CodeConfirmation.cshtml:67
 msgid ""
@@ -491,29 +490,23 @@ msgstr "アプリケーションアクセス"
 
 #: Scripts\Application\ApplicationGroups.js:417
 #: Scripts\Application\ApplicationGroups.js:420
-#: Scripts\Application\ViewApplication.js:656
-#: Scripts\Application\ViewApplication.js:659
+#: Scripts\Application\ViewApplication.js:663
+#: Scripts\Application\ViewApplication.js:666
 msgid "Application Access Granted"
 msgstr "付与されたアプリケーションアクセス"
-
-#: Views\Application\_ApplicationGroups.cshtml:8
-msgid ""
-"Application access has been enabled for all users. Please disable this "
-"setting to grant/revoke access for specific groups."
-msgstr "アプリケーションアクセスはすべてのユーザーに対して有効になっています。特定のグループへのアクセスを許可または取り消すには、この設定を無効にしてください。"
 
 #: Views\Application\_ApplicationUsers.cshtml:9
 msgid ""
 "Application access has been enabled for all users. Please disable this "
 "setting to grant/revoke access for specific users."
-msgstr "アプリケーションアクセスはすべてのユーザーに対して有効になっています。特定のユーザーにアクセスを許可または取り消すには、この設定を無効にしてください。"
+msgstr "アプリケーションアクセスはすべてのユーザーに対して有効になっています。特定のユーザーにアクセス権を付与または取り消すには、この設定を無効にしてください。"
 
 #: Scripts\Application\ApplicationGroups.js:446
 #: Scripts\Application\ApplicationGroups.js:449
-#: Scripts\Application\ViewApplication.js:705
-#: Scripts\Application\ViewApplication.js:708
+#: Scripts\Application\ViewApplication.js:712
+#: Scripts\Application\ViewApplication.js:715
 msgid "Application Access Revoked"
-msgstr "取り消されたアプリケーションアクセス"
+msgstr "失効したアプリケーションアクセス"
 
 #: Scripts\Application\AddApplication.js:419
 msgid "Application added successfully."
@@ -589,7 +582,7 @@ msgstr "申し込みURL"
 #: Scripts\Application\AddApplication.js:172
 #: Scripts\Application\AddApplication.js:225
 msgid "Application URL should be less than 255 characters."
-msgstr "アプリケーションURLは255文字未満にする必要があります。"
+msgstr "アプリケーションURLは255文字以下にしてください。"
 
 #: Scripts\Application\AddApplication.js:392
 #: Scripts\Application\AddApplication.js:474
@@ -614,11 +607,11 @@ msgstr "アプリケーション一覧"
 msgid "Apply"
 msgstr "適用する"
 
-#: Views\ServerConfiguration\DataMigration.cshtml:147
+#: Views\ServerConfiguration\DataMigration.cshtml:189
 msgid "Apply to all Email Duplicate(s)"
 msgstr "すべての電子メールの重複に適用"
 
-#: Views\ServerConfiguration\DataMigration.cshtml:175
+#: Views\ServerConfiguration\DataMigration.cshtml:217
 msgid "Apply to all Username Duplicate(s)"
 msgstr "重複するすべてのユーザー名に適用"
 
@@ -634,7 +627,7 @@ msgstr "グループを削除してよろしいですか？"
 msgid "Are you sure you want to delete the group(s)?"
 msgstr "グループを削除してよろしいですか？"
 
-#: Scripts\User\EditProfile.js:165 Scripts\User\UserManagementProfile.js:296
+#: Scripts\User\EditProfile.js:168 Scripts\User\UserManagementProfile.js:300
 msgid "Are you sure you want to delete the profile picture?"
 msgstr "プロフィール写真を削除してもよろしいですか？"
 
@@ -655,13 +648,13 @@ msgstr "このユーザーをグループから削除してよろしいですか
 msgid "Are you sure you want to enable the application"
 msgstr "アプリケーションを有効にしてよろしいですか？"
 
-#: Views\Application\_ApplicationGroups.cshtml:98
+#: Views\Application\_ApplicationGroups.cshtml:80
 msgid "Are you sure you want to revoke access for the selected group(s)?"
-msgstr "選択したグループのアクセスを取り消しますか？"
+msgstr "選択したグループのアクセスを取り消してよろしいですか？"
 
 #: Views\Application\_ApplicationUsers.cshtml:97
 msgid "Are you sure you want to revoke access for the selected user(s)?"
-msgstr "選択したユーザーのアクセスを取り消しますか？"
+msgstr "選択したユーザーのアクセスを取り消してよろしいですか？"
 
 #: Views\Application\_ApplicationAdministrators.cshtml:78
 msgid ""
@@ -689,9 +682,8 @@ msgstr "グループ割り当て"
 msgid "Assign to"
 msgstr "割りあてる"
 
-#: D:\DSv3.2\ums
-#: locli\src\Syncfusion.Server.API\Models\UserManagementModel.cs:1624
-#: Models\UserManagementModel\UserManagementModel.cs:1417
+#: D:\task\release\chnge-tnt-nme\ums\src\Syncfusion.Server.API\Models\UserManagementModel.cs:1613
+#: Models\UserManagementModel\UserManagementModel.cs:1419
 #: Scripts\Password\PasswordPolicy.js:124
 msgid "At least "
 msgstr "少なくとも"
@@ -705,7 +697,7 @@ msgstr "認証して保存"
 msgid "Authentication"
 msgstr "認証"
 
-#: Views\Administration\AuthenticationSettings.cshtml:167
+#: Views\Administration\AuthenticationSettings.cshtml:169
 msgid "AUTHENTICATION SETTINGS"
 msgstr "認証設定"
 
@@ -713,8 +705,8 @@ msgstr "認証設定"
 msgid "Authentication type"
 msgstr "認証タイプ"
 
-#: Views\Administration\AuthenticationSettings.cshtml:229
-#: Views\Administration\AuthenticationSettings.cshtml:232
+#: Views\Administration\AuthenticationSettings.cshtml:231
+#: Views\Administration\AuthenticationSettings.cshtml:234
 msgid "Authority"
 msgstr "権限"
 
@@ -725,7 +717,8 @@ msgstr "自動"
 #: Views\Administration\_ActiveDirectorySettings.cshtml:181
 #: Views\Home\Index.cshtml:81 Views\Home\Index.cshtml:103
 #: Views\Home\Index.cshtml:149 Views\Home\Index.cshtml:160
-#: Views\ServerConfiguration\DataMigration.cshtml:83
+#: Views\ServerConfiguration\DataMigration.cshtml:108
+#: Views\ServerConfiguration\DataMigration.cshtml:144
 msgid "Azure Active Directory"
 msgstr "Azure Active Directory"
 
@@ -761,7 +754,7 @@ msgstr "Azure ADグループが正常に削除されました。"
 msgid "Azure AD schedule synchronization"
 msgstr "Azure ADのスケジュール同期"
 
-#: Views\Administration\AuthenticationSettings.cshtml:201
+#: Views\Administration\AuthenticationSettings.cshtml:203
 msgid "Azure AD SSO"
 msgstr "Azure AD SSO"
 
@@ -829,17 +822,17 @@ msgstr "ブロブURL"
 msgid "Browse file path"
 msgstr "ファイルパスを参照"
 
-#: Views\Administration\AuthenticationSettings.cshtml:346
+#: Views\Administration\AuthenticationSettings.cshtml:348
 msgid "Browse File Path"
 msgstr "ファイルパスの参照"
 
-#: Scripts\User\EditProfile.js:187
+#: Scripts\User\EditProfile.js:190
 msgid "Browse image path"
 msgstr "画像パスを参照"
 
-#: Views\Administration\AuthenticationSettings.cshtml:190
-#: Views\Administration\AuthenticationSettings.cshtml:280
-#: Views\Administration\AuthenticationSettings.cshtml:384
+#: Views\Administration\AuthenticationSettings.cshtml:192
+#: Views\Administration\AuthenticationSettings.cshtml:282
+#: Views\Administration\AuthenticationSettings.cshtml:386
 #: Views\Administration\KerberosAuthentication.cshtml:56
 #: Views\Administration\NotificationSettings.cshtml:94
 #: Views\Administration\ScheduleAzureSynchronization.cshtml:256
@@ -855,7 +848,7 @@ msgstr "画像パスを参照"
 #: Views\Administration\_SiteSettings.cshtml:245
 #: Views\Application\_AddApplicationDialog.cshtml:92
 #: Views\Application\_ApplicationAdministrators.cshtml:59
-#: Views\Application\_ApplicationGroups.cshtml:78
+#: Views\Application\_ApplicationGroups.cshtml:60
 #: Views\Application\_ApplicationUsers.cshtml:77
 #: Views\Group\_AddGroup.cshtml:77 Views\Shared\_ActivationType.cshtml:17
 #: Views\Shared\_PasswordPolicy.cshtml:61
@@ -873,7 +866,7 @@ msgstr "キャンセル"
 msgid "Change password"
 msgstr "パスワードを変更する"
 
-#: Scripts\User\UserManagementProfile.js:519
+#: Scripts\User\UserManagementProfile.js:523
 #: Views\Accounts\ChangePassword.cshtml:22 Views\User\EditPassword.cshtml:5
 #: Views\UserManagement\ViewProfile.cshtml:3
 msgid "Change Password"
@@ -887,9 +880,9 @@ msgstr "パスワードを変更する"
 msgid "Change profile picture"
 msgstr "プロフィール画像を変更"
 
-#: Scripts\User\EditProfile.js:130 Scripts\User\EditProfile.js:156
-#: Scripts\User\UserManagementProfile.js:259
-#: Scripts\User\UserManagementProfile.js:287
+#: Scripts\User\EditProfile.js:133 Scripts\User\EditProfile.js:159
+#: Scripts\User\UserManagementProfile.js:263
+#: Scripts\User\UserManagementProfile.js:291
 #: Views\Shared\_ProfilePictureUploadBox.cshtml:8
 msgid "Change Profile Picture"
 msgstr "プロフィール画像を変更"
@@ -917,8 +910,8 @@ msgstr "既存のGoogle Suiteトークンを消去する"
 #: Views\Application\Index.cshtml:242
 #: Views\Application\_ApplicationAdministrators.cshtml:12
 #: Views\Application\_ApplicationAdministrators.cshtml:48
-#: Views\Application\_ApplicationGroups.cshtml:20
-#: Views\Application\_ApplicationGroups.cshtml:67
+#: Views\Application\_ApplicationGroups.cshtml:11
+#: Views\Application\_ApplicationGroups.cshtml:49
 #: Views\Application\_ApplicationUsers.cshtml:21
 #: Views\Application\_ApplicationUsers.cshtml:66
 #: Views\Group\ActiveDirectoryGroup.cshtml:211
@@ -927,7 +920,7 @@ msgstr "既存のGoogle Suiteトークンを消去する"
 #: Views\Group\GoogleSuiteGroupImport.cshtml:143 Views\Group\Group.cshtml:340
 #: Views\Group\ViewGroup.cshtml:148
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:189
-#: Views\UserManagement\DatabaseUserImport.cshtml:195
+#: Views\UserManagement\DatabaseUserImport.cshtml:192
 #: Views\UserManagement\GoogleSuiteUserImport.cshtml:147
 #: Views\UserManagement\Index.cshtml:331
 #: Views\UserManagement\SynchronizeDatabaseUsers.cshtml:167
@@ -959,20 +952,12 @@ msgstr "クリック"
 msgid "click here "
 msgstr "ここをクリック"
 
-#: Views\UserManagement\DatabaseUserImport.cshtml:242
-msgid "Click here to change the account activation type."
-msgstr "アカウントのアクティベーションタイプを変更するには、ここをクリックしてください。"
-
-#: Views\UserManagement\DatabaseUserImport.cshtml:267
+#: Views\UserManagement\DatabaseUserImport.cshtml:236
 msgid "Click here to configure the database settings."
 msgstr "データベース設定を構成するには、ここをクリックしてください。"
 
-#: Views\UserManagement\DatabaseUserImport.cshtml:246
-msgid "Click here to configure the email settings."
-msgstr "ここをクリックしてEメール設定を構成します。"
-
-#: Views\ServerConfiguration\DataMigration.cshtml:143
-#: Views\ServerConfiguration\DataMigration.cshtml:171
+#: Views\ServerConfiguration\DataMigration.cshtml:185
+#: Views\ServerConfiguration\DataMigration.cshtml:213
 msgid "Client"
 msgstr "クライアント"
 
@@ -982,8 +967,8 @@ msgstr "クライアント"
 msgid "Client id"
 msgstr "クライアントID"
 
-#: Views\Administration\AuthenticationSettings.cshtml:363
-#: Views\Administration\AuthenticationSettings.cshtml:366
+#: Views\Administration\AuthenticationSettings.cshtml:365
+#: Views\Administration\AuthenticationSettings.cshtml:368
 msgid "Client Id"
 msgstr "クライアントID"
 
@@ -992,8 +977,8 @@ msgstr "クライアントID"
 msgid "Client secret"
 msgstr "クライアントシークレット"
 
-#: Views\Administration\AuthenticationSettings.cshtml:135
-#: Views\Administration\AuthenticationSettings.cshtml:371
+#: Views\Administration\AuthenticationSettings.cshtml:137
+#: Views\Administration\AuthenticationSettings.cshtml:373
 msgid "Client Secret"
 msgstr "クライアントシークレット"
 
@@ -1001,15 +986,15 @@ msgstr "クライアントシークレット"
 msgid "Client secret code"
 msgstr "クライアントシークレットコード"
 
-#: Scripts\Application\ViewApplication.js:756
+#: Scripts\Application\ViewApplication.js:763
 msgid "Client secret generated successfully."
 msgstr "クライアントシークレットが正常に生成されました。"
 
-#: Scripts\System\DataMigration.js:272
+#: Scripts\System\DataMigration.js:281
 msgid "Client user will be ignored."
 msgstr "クライアントユーザーは無視されます。"
 
-#: Scripts\System\DataMigration.js:257
+#: Scripts\System\DataMigration.js:266
 msgid "Client user will replace UMS user."
 msgstr "クライアントユーザーはUMSユーザーを置き換えます。"
 
@@ -1019,7 +1004,7 @@ msgstr "クライアントユーザーはUMSユーザーを置き換えます。
 #: Scripts\Application\AddApplication.js:571
 #: Scripts\Application\AddApplication.js:578
 #: Scripts\Application\AddApplication.js:604
-#: Scripts\Application\ViewApplication.js:744
+#: Scripts\Application\ViewApplication.js:751
 #: Scripts\User\UserManagement.js:671
 #: Views\Application\_AddApplicationDialog.cshtml:19
 #: Views\Group\_AddGroup.cshtml:46 Views\Shared\_Layout.cshtml:121
@@ -1046,7 +1031,7 @@ msgstr "UMSでユーザーアカウントを管理するための設定"
 msgid "Configuration for sending emails from the UMS"
 msgstr "UMSから電子メールを送信するための設定"
 
-#: Views\Administration\AuthenticationSettings.cshtml:168
+#: Views\Administration\AuthenticationSettings.cshtml:170
 msgid "Configuration for setting Authentication"
 msgstr "認証設定のための設定"
 
@@ -1082,7 +1067,7 @@ msgstr "接続に失敗しました"
 msgid "Connection string"
 msgstr "接続文字列"
 
-#: Views\UserManagement\DatabaseUserImport.cshtml:185
+#: Views\UserManagement\DatabaseUserImport.cshtml:182
 msgid "Connection string :"
 msgstr "接続文字列："
 
@@ -1096,15 +1081,15 @@ msgstr "コンテナ名"
 msgid "Contains"
 msgstr "含む"
 
-#: Scripts\Application\ViewApplication.js:773
-#: Scripts\Application\ViewApplication.js:774
-#: Scripts\Application\ViewApplication.js:784
-#: Scripts\Application\ViewApplication.js:785
+#: Scripts\Application\ViewApplication.js:780
+#: Scripts\Application\ViewApplication.js:781
+#: Scripts\Application\ViewApplication.js:791
+#: Scripts\Application\ViewApplication.js:792
 msgid "Copied"
 msgstr "コピーしました"
 
-#: Scripts\Application\ViewApplication.js:776
-#: Scripts\Application\ViewApplication.js:787
+#: Scripts\Application\ViewApplication.js:783
+#: Scripts\Application\ViewApplication.js:794
 #: Views\Application\_ApplicationDetail.cshtml:41
 #: Views\Application\_ApplicationDetail.cshtml:50
 msgid "Copy to clipboard"
@@ -1298,16 +1283,16 @@ msgstr "グループを削除する"
 #: Scripts\Group\Group.js:355 Scripts\Group\Group.js:377
 #: Views\Group\Group.cshtml:190
 msgid "Delete Groups"
-msgstr "グループを削除"
+msgstr "グループを削除する"
 
-#: Scripts\User\EditProfile.js:137 Scripts\User\UserManagementProfile.js:268
+#: Scripts\User\EditProfile.js:140 Scripts\User\UserManagementProfile.js:272
 #: Views\Application\_AddApplicationDialog.cshtml:78
 #: Views\User\Profile.cshtml:89 Views\UserManagement\ViewProfile.cshtml:111
 msgid "Delete profile picture"
-msgstr "プロフィール写真を削除する"
+msgstr "プロフィール写真を削除"
 
-#: Scripts\Core\Server.Core.js:528 Scripts\User\EditProfile.js:165
-#: Scripts\User\UserManagementProfile.js:296
+#: Scripts\Core\Server.Core.js:528 Scripts\User\EditProfile.js:168
+#: Scripts\User\UserManagementProfile.js:300
 msgid "Delete Profile Picture"
 msgstr "プロフィール写真を削除"
 
@@ -1340,7 +1325,7 @@ msgstr "ユーザーを削除"
 msgid "Deleted user."
 msgstr "削除されたユーザー。"
 
-#: Views\Application\ViewApplication.cshtml:120
+#: Views\Application\ViewApplication.cshtml:126
 #: Views\Group\ActiveDirectoryGroupImport.cshtml:69
 #: Views\Group\AddUsers.cshtml:74 Views\Group\EditGroup.cshtml:158
 #: Views\Group\GoogleSuiteGroupImport.cshtml:59 Views\Group\Group.cshtml:130
@@ -1350,12 +1335,12 @@ msgstr "削除されたユーザー。"
 msgid "Description"
 msgstr "説明"
 
-#: Views\Administration\AuthenticationSettings.cshtml:239
-#: Views\Administration\AuthenticationSettings.cshtml:242
+#: Views\Administration\AuthenticationSettings.cshtml:241
+#: Views\Administration\AuthenticationSettings.cshtml:244
 msgid "Designer Client Id"
 msgstr "デザイナークライアントID"
 
-#: Views\ServerConfiguration\DataMigration.cshtml:127
+#: Views\ServerConfiguration\DataMigration.cshtml:169
 msgid ""
 "Detected (<span id=\"duplicate-user-count\"></span>) User duplicate(s) "
 "during data migration."
@@ -1397,7 +1382,7 @@ msgstr "識別名"
 
 #: Views\Shared\_PasswordPolicy.cshtml:50
 msgid "Does not contain part of name, user name, or email address"
-msgstr "名前、ユーザー名、または電子メールアドレスの一部を含まない"
+msgstr "名前、ユーザー名、またはEメールアドレスの一部を含まない"
 
 #: Views\Administration\KerberosAuthentication.cshtml:31
 msgid ""
@@ -1414,7 +1399,7 @@ msgstr "サンプルテンプレートをダウンロードする"
 msgid "Download template"
 msgstr "ダウンロードテンプレート"
 
-#: Models\Group\GroupModels.cs:1199 Models\Group\GroupModels.cs:1381
+#: Models\Group\GroupModels.cs:1005 Models\Group\GroupModels.cs:1187
 msgid "duplicate group(s) exists."
 msgstr "重複したグループが存在します。"
 
@@ -1445,7 +1430,7 @@ msgid "Duplicate Table(s)"
 msgstr "表が重複しています"
 
 #: Models\UserManagementModel\ActiveDirectoryUserManagementModel.cs:246
-#: Models\UserManagementModel\AzureUserManagementModel.cs:352
+#: Models\UserManagementModel\AzureUserManagementModel.cs:369
 #: Models\UserManagementModel\UserManagementModel.cs:625
 #: Scripts\User\ActiveDirectoryUserImport.js:92
 #: Scripts\User\GoogleSuiteUserImport.js:82
@@ -1453,7 +1438,7 @@ msgstr "表が重複しています"
 msgid "duplicate user(s) exists."
 msgstr "重複したユーザーが存在します。"
 
-#: Scripts\System\DataMigration.js:341
+#: Scripts\System\DataMigration.js:350
 msgid "Duplicate Username."
 msgstr "ユーザー名が重複しています。"
 
@@ -1462,7 +1447,7 @@ msgstr "ユーザー名が重複しています。"
 #: Scripts\Group\SynchronizeGoogleSuiteGroups.js:139
 #: Scripts\Group\SynchronizeGroups.js:139
 msgid "Duplicated username or email address"
-msgstr "ユーザー名またはメールアドレスが重複しています"
+msgstr "重複したユーザー名またはメールアドレス"
 
 #: Views\Application\Index.cshtml:81
 #: Views\User\_UserNotificationPreference.cshtml:40
@@ -1478,7 +1463,7 @@ msgstr "アプリケーションを編集"
 msgid "Edit Application"
 msgstr "アプリケーションを編集"
 
-#: Scripts\System\DataMigration.js:267
+#: Scripts\System\DataMigration.js:276
 msgid "Edit client"
 msgstr "クライアントを編集"
 
@@ -1499,7 +1484,7 @@ msgstr "プロファイル編集"
 msgid "Edit profile picture"
 msgstr "プロフィール写真を編集する"
 
-#: Scripts\System\DataMigration.js:265
+#: Scripts\System\DataMigration.js:274
 msgid "Edit UMS"
 msgstr "UMSを編集"
 
@@ -1509,7 +1494,7 @@ msgid "effective"
 msgstr "効果的"
 
 #: Views\Administration\_AdminMenu.cshtml:25
-#: Views\ServerConfiguration\DataMigration.cshtml:61
+#: Views\ServerConfiguration\DataMigration.cshtml:62
 #: Views\Shared\_ActivationType.cshtml:10 Views\User\Profile.cshtml:116
 #: Views\UserManagement\ViewProfile.cshtml:138
 #: Views\UserManagement\_UserImportSelectedDatabaseSchema.cshtml:46
@@ -1531,12 +1516,12 @@ msgstr "電子メールアドレス"
 
 #: Scripts\Application\ViewApplicationAdmin.js:176
 #: Scripts\Application\ViewApplicationAdmin.js:344
-#: Views\Application\ViewApplication.cshtml:61
-#: Views\Application\ViewApplication.cshtml:80 Views\Group\EditGroup.cshtml:117
+#: Views\Application\ViewApplication.cshtml:64
+#: Views\Application\ViewApplication.cshtml:86 Views\Group\EditGroup.cshtml:117
 #: Views\Group\ViewGroup.cshtml:56 Views\Group\ViewGroup.cshtml:91
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:134
-#: Views\UserManagement\DatabaseUserImport.cshtml:62
-#: Views\UserManagement\DatabaseUserImport.cshtml:144
+#: Views\UserManagement\DatabaseUserImport.cshtml:59
+#: Views\UserManagement\DatabaseUserImport.cshtml:141
 #: Views\UserManagement\GoogleSuiteUserImport.cshtml:109
 #: Views\UserManagement\Index.cshtml:70 Views\UserManagement\Index.cshtml:151
 #: Views\UserManagement\SynchronizeDatabaseUsers.cshtml:41
@@ -1550,47 +1535,47 @@ msgid "Email Address"
 msgstr "電子メールアドレス"
 
 #: Models\UserManagementModel\ActiveDirectoryUserManagementModel.cs:161
-#: Models\UserManagementModel\AzureUserManagementModel.cs:108
-#: Models\UserManagementModel\AzureUserManagementModel.cs:268
+#: Models\UserManagementModel\AzureUserManagementModel.cs:124
+#: Models\UserManagementModel\AzureUserManagementModel.cs:285
 #: Models\UserManagementModel\GoogleSuiteUserManagementModel.cs:131
 #: Models\UserManagementModel\UserManagementModel.cs:527
-#: Models\UserManagementModel\UserManagementModel.cs:1140
+#: Models\UserManagementModel\UserManagementModel.cs:1141
 msgid "Email address already exists in the list."
-msgstr "メールアドレスは既にリストに存在します。"
+msgstr "メールアドレスはすでにリストに存在します。"
 
 #: Controllers\UserController.cs:295
 #: Controllers\Administration\UserManagementController.cs:1022
 #: Models\UserManagementModel\ActiveDirectoryUserManagementModel.cs:157
-#: Models\UserManagementModel\AzureUserManagementModel.cs:104
-#: Models\UserManagementModel\AzureUserManagementModel.cs:264
+#: Models\UserManagementModel\AzureUserManagementModel.cs:120
+#: Models\UserManagementModel\AzureUserManagementModel.cs:281
 #: Models\UserManagementModel\GoogleSuiteUserManagementModel.cs:127
 #: Models\UserManagementModel\UserManagementModel.cs:523
 #: Models\UserManagementModel\UserManagementModel.cs:625
-#: Models\UserManagementModel\UserManagementModel.cs:1136
-#: Models\UserManagementModel\UserManagementModel.cs:1331
-#: Models\UserManagementModel\UserManagementModel.cs:1729
+#: Models\UserManagementModel\UserManagementModel.cs:1137
+#: Models\UserManagementModel\UserManagementModel.cs:1333
+#: Models\UserManagementModel\UserManagementModel.cs:1731
 #: Scripts\User\UserManagement.js:239
 msgid "Email address already exists."
 msgstr "メールアドレスはすでに存在します。"
 
 #: Models\UserManagementModel\ActiveDirectoryUserManagementModel.cs:153
 #: Models\UserManagementModel\UserManagementModel.cs:519
-#: Models\UserManagementModel\UserManagementModel.cs:1257
+#: Models\UserManagementModel\UserManagementModel.cs:1259
 msgid "Email address cannot exceed 254 characters."
 msgstr "メールアドレスは254文字を超えることはできません。"
 
 #: Models\UserManagementModel\ActiveDirectoryUserManagementModel.cs:148
-#: Models\UserManagementModel\AzureUserManagementModel.cs:100
-#: Models\UserManagementModel\AzureUserManagementModel.cs:260
+#: Models\UserManagementModel\AzureUserManagementModel.cs:116
+#: Models\UserManagementModel\AzureUserManagementModel.cs:277
 #: Models\UserManagementModel\GoogleSuiteUserManagementModel.cs:123
 #: Models\UserManagementModel\UserManagementModel.cs:514
-#: Models\UserManagementModel\UserManagementModel.cs:1132
-#: Models\UserManagementModel\UserManagementModel.cs:1296
-#: Models\UserManagementModel\UserManagementModel.cs:1725
+#: Models\UserManagementModel\UserManagementModel.cs:1133
+#: Models\UserManagementModel\UserManagementModel.cs:1298
+#: Models\UserManagementModel\UserManagementModel.cs:1727
 msgid "Email address is invalid."
 msgstr "メールアドレスが無効です。"
 
-#: Controllers\Accounts\AccountsController.cs:814
+#: Controllers\Accounts\AccountsController.cs:802
 #: Views\Accounts\CodeConfirmation.cshtml:60
 msgid "Email resent successfully."
 msgstr "電子メールは正常に再送信されました。"
@@ -1635,7 +1620,7 @@ msgstr "データベーススケジュール同期を有効にする"
 msgid "Enable G Suite Scheduled Synchronization"
 msgstr "G Suiteスケジュール同期を有効にする"
 
-#: Views\Administration\AuthenticationSettings.cshtml:300
+#: Views\Administration\AuthenticationSettings.cshtml:302
 msgid "Enable G Suite SSO"
 msgstr "G Suite SSOを有効にする"
 
@@ -1644,11 +1629,11 @@ msgstr "G Suite SSOを有効にする"
 msgid "Enable SSL"
 msgstr "SSLを有効にする"
 
-#: Views\Administration\AuthenticationSettings.cshtml:209
+#: Views\Administration\AuthenticationSettings.cshtml:211
 msgid "Enable SSO"
 msgstr "SSOを有効にする"
 
-#: Views\Administration\AuthenticationSettings.cshtml:183
+#: Views\Administration\AuthenticationSettings.cshtml:185
 msgid "Enable Windows Authentication"
 msgstr "Windows認証を有効にする"
 
@@ -1693,7 +1678,7 @@ msgstr "組織名を入力してください"
 
 #: Views\Administration\_SiteSettings.cshtml:37
 msgid "Enter your URL"
-msgstr "あなたのURLを入力してください"
+msgstr "URLを入力してください"
 
 #: Views\Accounts\ForgotPassword.cshtml:70
 msgid ""
@@ -1701,8 +1686,8 @@ msgid ""
 "your password."
 msgstr "ユーザー名またはEメールアドレスを入力してください。パスワードをリセットするためのリンクが送信されます。"
 
-#: Views\Administration\AuthenticationSettings.cshtml:323
-#: Views\Administration\AuthenticationSettings.cshtml:326
+#: Views\Administration\AuthenticationSettings.cshtml:325
+#: Views\Administration\AuthenticationSettings.cshtml:328
 msgid "Entity Id"
 msgstr "エンティティID"
 
@@ -1741,7 +1726,7 @@ msgstr "アプリケーションの削除中にエラーが発生しました。
 msgid "Error while enabling the application."
 msgstr "アプリケーションの有効化中にエラーが発生しました。"
 
-#: Scripts\Application\ViewApplication.js:760
+#: Scripts\Application\ViewApplication.js:767
 msgid "Error while generating client secret."
 msgstr "クライアントシークレットの生成中にエラーが発生しました。"
 
@@ -1749,7 +1734,7 @@ msgstr "クライアントシークレットの生成中にエラーが発生し
 msgid "Error while granting access to groups."
 msgstr "グループへのアクセス許可中にエラーが発生しました。"
 
-#: Scripts\Application\ViewApplication.js:658
+#: Scripts\Application\ViewApplication.js:665
 msgid "Error while granting access to users."
 msgstr "ユーザーにアクセスを許可中にエラーが発生しました。"
 
@@ -1761,7 +1746,7 @@ msgstr "ユーザーに管理アクセスを許可中にエラーが発生しま
 msgid "Error while revoking access to groups."
 msgstr "グループへのアクセスを取り消し中にエラーが発生しました。"
 
-#: Scripts\Application\ViewApplication.js:707
+#: Scripts\Application\ViewApplication.js:714
 msgid "Error while revoking access to users."
 msgstr "ユーザーへのアクセスを取り消し中にエラーが発生しました。"
 
@@ -1788,8 +1773,8 @@ msgstr "通知設定を更新中にエラーが発生しました。"
 #: Scripts\Administration\SystemSettings.js:288
 #: Scripts\Administration\SystemSettings.js:695
 #: Scripts\User\UserImportDatabase.js:678
-#: Views\Administration\AuthenticationSettings.cshtml:49
-#: Views\Administration\AuthenticationSettings.cshtml:61
+#: Views\Administration\AuthenticationSettings.cshtml:51
+#: Views\Administration\AuthenticationSettings.cshtml:63
 #: Views\Administration\_ActiveDirectorySettings.cshtml:24
 msgid "Error while updating settings."
 msgstr "設定の更新中にエラーが発生しました。"
@@ -1820,8 +1805,8 @@ msgstr "すべての"
 msgid "Every weekday"
 msgstr "平日"
 
-#: Views\Administration\AuthenticationSettings.cshtml:225
-#: Views\Administration\AuthenticationSettings.cshtml:235
+#: Views\Administration\AuthenticationSettings.cshtml:227
+#: Views\Administration\AuthenticationSettings.cshtml:237
 msgid "Example"
 msgstr "例"
 
@@ -1860,7 +1845,7 @@ msgstr "ユーザーを削除できませんでした。しばらくしてから
 msgid "Failed to delete user, please try again later."
 msgstr "ユーザーを削除できませんでした。しばらくしてからもう一度お試しください。"
 
-#: Scripts\User\EditProfile.js:156 Scripts\User\UserManagementProfile.js:287
+#: Scripts\User\EditProfile.js:159 Scripts\User\UserManagementProfile.js:291
 msgid "Failed to update the profile picture, try again later."
 msgstr "プロフィール写真を更新できませんでした。しばらくしてからもう一度お試しください。"
 
@@ -1875,7 +1860,7 @@ msgstr "フィルタ"
 
 #: Scripts\Core\Server.Core.js:562
 msgid "Filter Value"
-msgstr "フィルタ値"
+msgstr "フィルター値"
 
 #: Views\ServerConfiguration\_UserAccount.cshtml:58
 #: Views\User\Profile.cshtml:100
@@ -1890,8 +1875,8 @@ msgid "First name"
 msgstr "ファーストネーム"
 
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:133
-#: Views\UserManagement\DatabaseUserImport.cshtml:59
-#: Views\UserManagement\DatabaseUserImport.cshtml:128
+#: Views\UserManagement\DatabaseUserImport.cshtml:56
+#: Views\UserManagement\DatabaseUserImport.cshtml:125
 #: Views\UserManagement\GoogleSuiteUserImport.cshtml:108
 msgid "First Name"
 msgstr "ファーストネーム"
@@ -1913,7 +1898,7 @@ msgstr "例えば"
 msgid "for more details."
 msgstr "詳細については。"
 
-#: Views\ServerConfiguration\DataMigration.cshtml:128
+#: Views\ServerConfiguration\DataMigration.cshtml:170
 msgid ""
 "For more information on how to resolve user duplicate conflict(s) click "
 msgstr "ユーザーの重複した競合を解決する方法の詳細については、をクリックしてください。"
@@ -1942,9 +1927,8 @@ msgstr "フォーム関係"
 msgid "Friday"
 msgstr "金曜日"
 
-#: Views\UserManagement\DatabaseUserImport.cshtml:172
-#: Views\UserManagement\DatabaseUserImport.cshtml:234
-#: Views\UserManagement\DatabaseUserImport.cshtml:261
+#: Views\UserManagement\DatabaseUserImport.cshtml:169
+#: Views\UserManagement\DatabaseUserImport.cshtml:230
 msgid "From database"
 msgstr "データベースから"
 
@@ -1975,18 +1959,18 @@ msgstr "Gスイートグループのインポート"
 msgid "G Suite schedule synchronization"
 msgstr "G Suiteスケジュール同期"
 
-#: Views\Administration\AuthenticationSettings.cshtml:291
+#: Views\Administration\AuthenticationSettings.cshtml:293
 msgid "G Suite SSO"
 msgstr "GスイートSSO"
 
-#: Views\Administration\AuthenticationSettings.cshtml:58
+#: Views\Administration\AuthenticationSettings.cshtml:60
 msgid ""
 "G Suite SSO has been \" + ($scope.gsuiteSsoSettings.IsEnabled ? \"enabled"
 "\" : \"disabled\") + \" successfully."
-msgstr "G Suite SSOは成功しました（$ scope.gsuiteSsoSettings.IsEnabled？\ "有効\"：\ "無効\"）。"
+msgstr "G Suite SSOは成功しました（$ scope.gsuiteSsoSettings.IsEnabled？\ "enabled \"：\ "disabled"）。"
 
-#: Views\Administration\AuthenticationSettings.cshtml:58
-#: Views\Administration\AuthenticationSettings.cshtml:61
+#: Views\Administration\AuthenticationSettings.cshtml:60
+#: Views\Administration\AuthenticationSettings.cshtml:63
 msgid "G Suite SSO Settings"
 msgstr "G Suite SSO設定"
 
@@ -2014,7 +1998,7 @@ msgstr "G Suiteユーザーインポート"
 msgid "G Suite users import"
 msgstr "G Suiteユーザーのインポート"
 
-#: Views\Application\ViewApplication.cshtml:158
+#: Views\Application\ViewApplication.cshtml:164
 msgid "General"
 msgstr "全般"
 
@@ -2054,8 +2038,8 @@ msgstr "こんばんは、"
 msgid "Good Morning,"
 msgstr "おはようございます、"
 
-#: Views\Administration\AuthenticationSettings.cshtml:355
-#: Views\Administration\AuthenticationSettings.cshtml:358
+#: Views\Administration\AuthenticationSettings.cshtml:357
+#: Views\Administration\AuthenticationSettings.cshtml:360
 #: Views\Administration\_ActiveDirectorySettings.cshtml:679
 msgid "Google Apps Domain"
 msgstr "Google Appsドメイン"
@@ -2069,19 +2053,18 @@ msgid "Google Apps Domain Name :"
 msgstr "Google Appsドメイン名："
 
 #: Views\Application\_ApplicationAdministrators.cshtml:58
-#: Views\Application\_ApplicationGroups.cshtml:27
-#: Views\Application\_ApplicationGroups.cshtml:77
+#: Views\Application\_ApplicationGroups.cshtml:59
 #: Views\Application\_ApplicationUsers.cshtml:27
 #: Views\Application\_ApplicationUsers.cshtml:31
 #: Views\Application\_ApplicationUsers.cshtml:76
 msgid "Grant access"
 msgstr "アクセス許可"
 
-#: Views\Application\_ApplicationGroups.cshtml:31
+#: Views\Application\_ApplicationGroups.cshtml:16
 msgid "Grant Access"
 msgstr "アクセス許可"
 
-#: Views\Application\_ApplicationGroups.cshtml:53
+#: Views\Application\_ApplicationGroups.cshtml:35
 msgid "Grant Access to Groups"
 msgstr "グループへのアクセス許可"
 
@@ -2098,7 +2081,7 @@ msgid "Grant Administrator Access to users"
 msgstr "ユーザーに管理者アクセス権を付与する"
 
 #: Scripts\Application\ApplicationGroups.js:416
-#: Scripts\Application\ViewApplication.js:655
+#: Scripts\Application\ViewApplication.js:662
 msgid "Granted access to "
 msgstr "へのアクセスを許可"
 
@@ -2141,25 +2124,29 @@ msgstr "グループ名"
 msgid "Group name already exists"
 msgstr "グループ名は既に存在します"
 
+#: D:\task\release\chnge-tnt-nme\ums\src\Syncfusion.Server.API\Models\GroupsModel.cs:539
+#: D:\task\release\chnge-tnt-nme\ums\src\Syncfusion.Server.API\Models\GroupsModel.cs:765
 #: Controllers\Administration\UserManagementController.cs:745
-#: Controllers\Group\GroupController.cs:414 Models\Group\GroupModels.cs:741
-#: Models\Group\GroupModels.cs:932 Models\Group\GroupModels.cs:1122
-#: Models\Group\GroupModels.cs:1199 Models\Group\GroupModels.cs:1304
-#: Models\Group\GroupModels.cs:1381 Scripts\Group\Group.js:59
+#: Controllers\Group\GroupController.cs:414 Models\Group\GroupModels.cs:544
+#: Models\Group\GroupModels.cs:736 Models\Group\GroupModels.cs:928
+#: Models\Group\GroupModels.cs:1005 Models\Group\GroupModels.cs:1110
+#: Models\Group\GroupModels.cs:1187 Scripts\Group\Group.js:59
 #: Scripts\User\UserManagement.js:371
 msgid "Group name already exists."
 msgstr "グループ名は既に存在します。"
 
-#: Models\Group\GroupModels.cs:720 Models\Group\GroupModels.cs:911
-#: Models\Group\GroupModels.cs:1110 Models\Group\GroupModels.cs:1292
+#: D:\task\release\chnge-tnt-nme\ums\src\Syncfusion.Server.API\Models\GroupsModel.cs:518
+#: D:\task\release\chnge-tnt-nme\ums\src\Syncfusion.Server.API\Models\GroupsModel.cs:754
+#: Models\Group\GroupModels.cs:523 Models\Group\GroupModels.cs:715
+#: Models\Group\GroupModels.cs:916 Models\Group\GroupModels.cs:1098
 msgid "Group name should not be empty."
 msgstr "グループ名は空にしないでください。"
 
-#: Models\Group\GroupModels.cs:1193 Models\Group\GroupModels.cs:1375
+#: Models\Group\GroupModels.cs:999 Models\Group\GroupModels.cs:1181
 msgid "group(s) are deleted."
 msgstr "グループが削除されます。"
 
-#: Models\Group\GroupModels.cs:1188 Models\Group\GroupModels.cs:1370
+#: Models\Group\GroupModels.cs:994 Models\Group\GroupModels.cs:1176
 msgid "group(s) details are modified."
 msgstr "グループの詳細が変更されました。"
 
@@ -2175,7 +2162,7 @@ msgstr "グループが正常にインポートされました。"
 msgid "GroupId"
 msgstr "GroupId"
 
-#: Views\Application\ViewApplication.cshtml:164
+#: Views\Application\ViewApplication.cshtml:170
 #: Views\Group\ActiveDirectoryGroup.cshtml:177
 #: Views\Group\ActiveDirectoryGroupImport.cshtml:143
 #: Views\Group\ActiveDirectoryGroupImport.cshtml:232
@@ -2200,11 +2187,15 @@ msgstr "グループ"
 msgid "Header logo"
 msgstr "ヘッダーロゴ"
 
+#: D:\task\release\chnge-tnt-nme\ums\src\Syncfusion.Server.API\Models\UserModel.cs:2288
+#: D:\task\release\chnge-tnt-nme\ums\src\Syncfusion.Server.API\Models\UserModel.cs:2289
+#: D:\task\release\chnge-tnt-nme\ums\src\Syncfusion.Server.API\Models\UserModel.cs:2428
+#: D:\task\release\chnge-tnt-nme\ums\src\Syncfusion.Server.API\Models\UserModel.cs:2429
 #: Controllers\Administration\UserManagementController.cs:700
 #: Views\Accounts\AccountActivation.cshtml:96
 #: Views\Administration\_SiteSettings.cshtml:43
 #: Views\Administration\_SiteSettings.cshtml:218
-#: Views\ServerConfiguration\DataMigration.cshtml:128
+#: Views\ServerConfiguration\DataMigration.cshtml:170
 #: Views\ServerConfiguration\Index.cshtml:194
 #: Views\ServerConfiguration\Index.cshtml:285
 msgid "here"
@@ -2253,8 +2244,8 @@ msgstr "アイコン"
 msgid "If it does not arrive"
 msgstr "届かない場合"
 
-#: Scripts\System\DataMigration.js:263
-#: Views\ServerConfiguration\DataMigration.cshtml:176
+#: Scripts\System\DataMigration.js:272
+#: Views\ServerConfiguration\DataMigration.cshtml:218
 msgid "Ignore client"
 msgstr "クライアントを無視"
 
@@ -2270,7 +2261,7 @@ msgstr "インポートと有効化"
 
 #: Views\UserManagement\UploadFileFormAction.cshtml:101
 msgid "Import and activate users from the list below"
-msgstr "以下のリストからユーザーをインポートしてアクティブにします"
+msgstr "以下のリストからユーザーをインポートして有効にします"
 
 #: Views\Group\Group.cshtml:242 Views\UserManagement\Index.cshtml:219
 msgid "Import from Active Directory"
@@ -2333,12 +2324,12 @@ msgid "Import the selected groups from the list"
 msgstr "リストから選択したグループをインポートする"
 
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:162
-#: Views\UserManagement\DatabaseUserImport.cshtml:177
+#: Views\UserManagement\DatabaseUserImport.cshtml:174
 #: Views\UserManagement\GoogleSuiteUserImport.cshtml:131
 msgid "Import the selected users and activate their accounts"
 msgstr "選択したユーザーをインポートしてアカウントを有効にします"
 
-#: Views\UserManagement\DatabaseUserImport.cshtml:177
+#: Views\UserManagement\DatabaseUserImport.cshtml:174
 #: Views\UserManagement\UploadFileFormAction.cshtml:107
 msgid "Import users"
 msgstr "ユーザーをインポートする"
@@ -2351,9 +2342,8 @@ msgstr "ユーザーをインポートする"
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:157
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:238
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:242
-#: Views\UserManagement\DatabaseUserImport.cshtml:172
-#: Views\UserManagement\DatabaseUserImport.cshtml:234
-#: Views\UserManagement\DatabaseUserImport.cshtml:261
+#: Views\UserManagement\DatabaseUserImport.cshtml:169
+#: Views\UserManagement\DatabaseUserImport.cshtml:230
 #: Views\UserManagement\GoogleSuiteUserImport.cshtml:127
 #: Views\UserManagement\GoogleSuiteUserImport.cshtml:194
 msgid "IMPORT USERS"
@@ -2381,7 +2371,8 @@ msgstr "CSVからユーザーをインポートする"
 msgid "Import Users from CSV"
 msgstr "CSVからユーザーをインポートする"
 
-#: Views\ServerConfiguration\DataMigration.cshtml:94
+#: Views\ServerConfiguration\DataMigration.cshtml:119
+#: Views\ServerConfiguration\DataMigration.cshtml:156
 #: Views\UserManagement\Index.cshtml:230
 msgid "Import users from Database"
 msgstr "データベースからユーザーをインポートする"
@@ -2397,19 +2388,13 @@ msgstr "G Suiteからユーザーをインポートする"
 
 #: Views\UserManagement\UploadFileFormAction.cshtml:107
 msgid "Import users from the list below"
-msgstr "以下のリストからユーザーをインポートする"
+msgstr "以下のリストからユーザーをインポートします"
 
 #: Views\Administration\_ActiveDirectorySettings.cshtml:151
 #: Views\Administration\_ActiveDirectorySettings.cshtml:221
 #: Views\Administration\_ActiveDirectorySettings.cshtml:710
 msgid "Import Users While Login"
 msgstr "ログイン中にユーザーをインポートする"
-
-#: Views\UserManagement\DatabaseUserImport.cshtml:241
-msgid ""
-"Importing users from existing database is not available in automatic account "
-"activation type."
-msgstr "既存のデータベースからのユーザーのインポートは、自動アカウント有効化タイプでは利用できません。"
 
 #: Views\Application\Index.cshtml:51 Views\UserManagement\Index.cshtml:63
 #: Views\UserManagement\ViewProfile.cshtml:177
@@ -2434,19 +2419,19 @@ msgstr "内部結合"
 msgid "Internal Server Error"
 msgstr "内部サーバーエラー"
 
-#: Controllers\Accounts\AccountsController.cs:995
+#: Controllers\Accounts\AccountsController.cs:983
 msgid "Internal server error while updating password. Please try again."
 msgstr "パスワードの更新中に内部サーバーエラーが発生しました。もう一度やり直してください。"
 
-#: Models\Group\GroupModels.cs:1154 Models\Group\GroupModels.cs:1336
+#: Models\Group\GroupModels.cs:960 Models\Group\GroupModels.cs:1142
 msgid "Internal server error. Please try again later."
 msgstr "内部サーバーエラー。後でもう一度やり直してください。"
 
-#: Controllers\Accounts\AccountsController.cs:114
-#: Controllers\Accounts\AccountsController.cs:389
-#: Controllers\Accounts\AccountsController.cs:827
-#: Controllers\Accounts\AccountsController.cs:834
-#: Controllers\Accounts\AccountsController.cs:1006
+#: Controllers\Accounts\AccountsController.cs:115
+#: Controllers\Accounts\AccountsController.cs:390
+#: Controllers\Accounts\AccountsController.cs:815
+#: Controllers\Accounts\AccountsController.cs:822
+#: Controllers\Accounts\AccountsController.cs:994
 #: Scripts\User\UserImportDatabase.js:1414 Scripts\User\UserManagement.js:818
 msgid "Internal server error. Please try again."
 msgstr "内部サーバーエラー。もう一度やり直してください。"
@@ -2481,7 +2466,7 @@ msgstr "識別名が無効です。"
 
 #: Models\AccountModel.cs:178 Models\AccountModel.cs:240
 #: Scripts\Administration\SystemSettings.js:317
-#: Scripts\User\UserManagement.js:72 Scripts\User\UserManagementProfile.js:35
+#: Scripts\User\UserManagement.js:72 Scripts\User\UserManagementProfile.js:39
 msgid "Invalid email address."
 msgstr "無効な電子メールアドレス。"
 
@@ -2501,14 +2486,14 @@ msgstr "ホストドメイン名が無効です。"
 
 #: Views\Administration\_ActiveDirectorySettings.cshtml:111
 msgid "Invalid LDAP URL."
-msgstr "LDAP URLが無効です。"
+msgstr "無効なLDAP URL"
 
-#: Controllers\Accounts\AccountsController.cs:789
-#: Controllers\Accounts\AccountsController.cs:1000
+#: Controllers\Accounts\AccountsController.cs:777
+#: Controllers\Accounts\AccountsController.cs:988
 msgid "Invalid link"
 msgstr "無効なリンク"
 
-#: Views\Administration\AuthenticationSettings.cshtml:223
+#: Views\Administration\AuthenticationSettings.cshtml:225
 msgid "Invalid Metadata URI"
 msgstr "無効なメタデータURI"
 
@@ -2517,7 +2502,7 @@ msgid "Invalid password."
 msgstr "無効なパスワード。"
 
 #: Models\UserManagementModel\ActiveDirectoryUserManagementModel.cs:252
-#: Models\UserManagementModel\AzureUserManagementModel.cs:358
+#: Models\UserManagementModel\AzureUserManagementModel.cs:375
 #: Models\UserManagementModel\UserManagementModel.cs:631
 msgid "invalid user(s) exists."
 msgstr "無効なユーザーが存在します。"
@@ -2533,8 +2518,8 @@ msgstr "無効なユーザー。"
 msgid "Invalid username or email address"
 msgstr "無効なユーザー名またはメールアドレス"
 
-#: Controllers\Accounts\AccountsController.cs:336
-#: Controllers\Accounts\AccountsController.cs:399
+#: Controllers\Accounts\AccountsController.cs:337
+#: Controllers\Accounts\AccountsController.cs:400
 msgid "Invalid username or email address."
 msgstr "ユーザー名またはメールアドレスが無効です。"
 
@@ -2572,8 +2557,11 @@ msgstr "結合タイプ"
 msgid "Just now"
 msgstr "ちょうど今"
 
-#: Scripts\System\DataMigration.js:269
-#: Views\ServerConfiguration\DataMigration.cshtml:177
+#: Scripts\System\DataMigration.js:278
+#: Views\ServerConfiguration\DataMigration.cshtml:137
+#: Views\ServerConfiguration\DataMigration.cshtml:149
+#: Views\ServerConfiguration\DataMigration.cshtml:161
+#: Views\ServerConfiguration\DataMigration.cshtml:219
 msgid "Keep both"
 msgstr "両方とも"
 
@@ -2613,8 +2601,8 @@ msgid "Last name"
 msgstr "苗字"
 
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:132
-#: Views\UserManagement\DatabaseUserImport.cshtml:56
-#: Views\UserManagement\DatabaseUserImport.cshtml:136
+#: Views\UserManagement\DatabaseUserImport.cshtml:53
+#: Views\UserManagement\DatabaseUserImport.cshtml:133
 #: Views\UserManagement\GoogleSuiteUserImport.cshtml:107
 msgid "Last Name"
 msgstr "苗字"
@@ -2719,8 +2707,8 @@ msgstr "ライセンス管理"
 msgid "Manage the available user licenses"
 msgstr "利用可能なユーザーライセンスを管理する"
 
-#: Views\Administration\AuthenticationSettings.cshtml:218
-#: Views\Administration\AuthenticationSettings.cshtml:221
+#: Views\Administration\AuthenticationSettings.cshtml:220
+#: Views\Administration\AuthenticationSettings.cshtml:223
 msgid "Metadata URI"
 msgstr "メタデータURI"
 
@@ -2737,8 +2725,8 @@ msgstr "最小長"
 msgid "Minutes ago"
 msgstr "数分前"
 
-#: Views\Administration\AuthenticationSettings.cshtml:260
-#: Views\Administration\AuthenticationSettings.cshtml:263
+#: Views\Administration\AuthenticationSettings.cshtml:262
+#: Views\Administration\AuthenticationSettings.cshtml:265
 msgid "Mobile App Client Id"
 msgstr "モバイルアプリクライアントID"
 
@@ -2757,10 +2745,10 @@ msgstr "携帯電話番号"
 #: Views\Group\GoogleSuiteGroupImport.cshtml:137
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:174
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:182
-#: Views\UserManagement\DatabaseUserImport.cshtml:189
+#: Views\UserManagement\DatabaseUserImport.cshtml:186
 #: Views\UserManagement\GoogleSuiteUserImport.cshtml:141
 msgid "Modify"
-msgstr "修正します"
+msgstr "修正する"
 
 #: Views\Administration\ScheduleAzureSynchronization.cshtml:121
 #: Views\Administration\ScheduleDatabaseSynchronization.cshtml:117
@@ -2813,9 +2801,9 @@ msgstr "MySQL ODBC DSN"
 
 #: Scripts\Application\ViewApplicationAdmin.js:166
 #: Scripts\Application\ViewApplicationAdmin.js:335
-#: Views\Application\ViewApplication.cshtml:58
-#: Views\Application\ViewApplication.cshtml:77
-#: Views\Application\ViewApplication.cshtml:117
+#: Views\Application\ViewApplication.cshtml:61
+#: Views\Application\ViewApplication.cshtml:83
+#: Views\Application\ViewApplication.cshtml:123
 #: Views\Group\ActiveDirectoryGroup.cshtml:27
 #: Views\Group\ActiveDirectoryGroupImport.cshtml:66
 #: Views\Group\EditGroup.cshtml:114 Views\Group\EditGroup.cshtml:151
@@ -2826,7 +2814,7 @@ msgstr "MySQL ODBC DSN"
 #: Views\Group\_AddGroup.cshtml:53
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:59
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:130
-#: Views\UserManagement\DatabaseUserImport.cshtml:50
+#: Views\UserManagement\DatabaseUserImport.cshtml:47
 #: Views\UserManagement\GoogleSuiteUserImport.cshtml:44
 #: Views\UserManagement\GoogleSuiteUserImport.cshtml:105
 #: Views\UserManagement\Index.cshtml:67 Views\UserManagement\Index.cshtml:142
@@ -2842,15 +2830,15 @@ msgstr "MySQL ODBC DSN"
 msgid "Name"
 msgstr "名"
 
-#: Models\UserManagementModel\UserManagementModel.cs:1271
+#: Models\UserManagementModel\UserManagementModel.cs:1273
 msgid "Name cannot exceed 254 characters."
 msgstr "名前は254文字を超えることはできません。"
 
-#: Models\UserManagementModel\UserManagementModel.cs:1262
+#: Models\UserManagementModel\UserManagementModel.cs:1264
 msgid "Name should not be empty."
 msgstr "名前は空にしないでください。"
 
-#: Models\UserManagementModel\UserManagementModel.cs:1266
+#: Models\UserManagementModel\UserManagementModel.cs:1268
 msgid "Name should not contain special characters #%&*+<>?:/&quot;[']\\|@;,"
 msgstr "名前に特殊文字を使用しないでください。＃％＆* + <>？：/＆quot; ['] \\ | @ ;、"
 
@@ -2899,7 +2887,7 @@ msgstr "次のスケジュール"
 
 #: Scripts\Core\Server.Core.js:456 Scripts\Core\Server.Core.js:462
 #: Views\Application\_ApplicationAdministrators.cshtml:83
-#: Views\Application\_ApplicationGroups.cshtml:103
+#: Views\Application\_ApplicationGroups.cshtml:85
 #: Views\Application\_ApplicationUsers.cshtml:102
 #: Views\Application\_EnableOrDisableApplicationDialog.cshtml:21
 #: Views\Application\_EnableOrDisableApplicationDialog.cshtml:48
@@ -2920,7 +2908,7 @@ msgstr "データベースが見つかりません"
 msgid "No DSN found"
 msgstr "DSNが見つかりません"
 
-#: Scripts\User\EditProfile.js:225 Scripts\User\UserManagementProfile.js:357
+#: Scripts\User\EditProfile.js:228 Scripts\User\UserManagementProfile.js:361
 msgid "No file selected."
 msgstr "ファイルが選択されていません。"
 
@@ -2952,7 +2940,7 @@ msgstr "結果が一致しません"
 msgid "No users found."
 msgstr "ユーザが見つかりませんでした。"
 
-#: Views\Application\ViewApplication.cshtml:123
+#: Views\Application\ViewApplication.cshtml:129
 msgid "No. of Users"
 msgstr "ユーザー数"
 
@@ -3073,9 +3061,8 @@ msgstr "すべての"
 msgid "OK"
 msgstr "OK"
 
-#: D:\DSv3.2\ums
-#: locli\src\Syncfusion.Server.API\Models\UserManagementModel.cs:1625
-#: Models\UserManagementModel\UserManagementModel.cs:1418
+#: D:\task\release\chnge-tnt-nme\ums\src\Syncfusion.Server.API\Models\UserManagementModel.cs:1614
+#: Models\UserManagementModel\UserManagementModel.cs:1420
 msgid "One Lowercase"
 msgstr "1つの小文字"
 
@@ -3083,9 +3070,8 @@ msgstr "1つの小文字"
 msgid "One lowercase."
 msgstr "1つの小文字"
 
-#: D:\DSv3.2\ums
-#: locli\src\Syncfusion.Server.API\Models\UserManagementModel.cs:1627
-#: Models\UserManagementModel\UserManagementModel.cs:1420
+#: D:\task\release\chnge-tnt-nme\ums\src\Syncfusion.Server.API\Models\UserManagementModel.cs:1616
+#: Models\UserManagementModel\UserManagementModel.cs:1422
 msgid "One Number"
 msgstr "ワンナンバー"
 
@@ -3097,15 +3083,13 @@ msgstr "1つの数値"
 msgid "One special character."
 msgstr "1つの特殊文字"
 
-#: D:\DSv3.2\ums
-#: locli\src\Syncfusion.Server.API\Models\UserManagementModel.cs:1628
-#: Models\UserManagementModel\UserManagementModel.cs:1421
+#: D:\task\release\chnge-tnt-nme\ums\src\Syncfusion.Server.API\Models\UserManagementModel.cs:1617
+#: Models\UserManagementModel\UserManagementModel.cs:1423
 msgid "One Specialcharacter"
 msgstr "1つの特別な文字"
 
-#: D:\DSv3.2\ums
-#: locli\src\Syncfusion.Server.API\Models\UserManagementModel.cs:1626
-#: Models\UserManagementModel\UserManagementModel.cs:1419
+#: D:\task\release\chnge-tnt-nme\ums\src\Syncfusion.Server.API\Models\UserManagementModel.cs:1615
+#: Models\UserManagementModel\UserManagementModel.cs:1421
 msgid "One Uppercase"
 msgstr "1つの大文字"
 
@@ -3128,7 +3112,7 @@ msgstr "Oracle ODBC DSN"
 msgid "Organization name"
 msgstr "組織名"
 
-#: Views\ServerConfiguration\DataMigration.cshtml:57
+#: Views\ServerConfiguration\DataMigration.cshtml:58
 msgid "Overwrite"
 msgstr "上書きする"
 
@@ -3168,15 +3152,15 @@ msgstr "パスワード"
 msgid "Password Assistance"
 msgstr "パスワードアシスタンス"
 
-#: Models\UserManagementModel\UserManagementModel.cs:1286
+#: Models\UserManagementModel\UserManagementModel.cs:1288
 msgid "Password cannot exceed 85 characters."
 msgstr "パスワードは最大85文字です。"
 
 #: Models\UserManagementModel\UserManagementModel.cs:701
 msgid "Password change unsuccessful."
-msgstr "パスワード変更が失敗しました。"
+msgstr "パスワード変更に失敗しました。"
 
-#: Controllers\Accounts\AccountsController.cs:430
+#: Controllers\Accounts\AccountsController.cs:431
 #: Controllers\Authorization\AuthorizationController.cs:93
 #: Models\UserManagementModel\UserManagementModel.cs:696
 msgid "Password has been changed successfully."
@@ -3185,7 +3169,7 @@ msgstr "パスワードは正常に変更されました。"
 #: Controllers\UserController.cs:204
 #: Controllers\Administration\UserManagementController.cs:934
 #: Scripts\Password\ChangePassword.js:107
-#: Scripts\User\UserManagementProfile.js:516
+#: Scripts\User\UserManagementProfile.js:520
 msgid "Password has been updated successfully."
 msgstr "パスワードは正常に更新されました。"
 
@@ -3200,9 +3184,8 @@ msgid ""
 "letter, 1 numeric and 1 special character."
 msgstr "パスワードは、大文字1文字、小文字1文字、数字1文字、特殊文字1文字を含む6文字でなければなりません。"
 
-#: D:\DSv3.2\ums
-#: locli\src\Syncfusion.Server.API\Models\UserManagementModel.cs:1624
-#: Models\UserManagementModel\UserManagementModel.cs:1417
+#: D:\task\release\chnge-tnt-nme\ums\src\Syncfusion.Server.API\Models\UserManagementModel.cs:1613
+#: Models\UserManagementModel\UserManagementModel.cs:1419
 #: Scripts\Password\PasswordPolicy.js:123
 msgid "Password must meet the following requirements:"
 msgstr "パスワードは以下の要件を満たす必要があります。"
@@ -3220,7 +3203,7 @@ msgstr "パスワードポリシー"
 msgid "Password Settings"
 msgstr "パスワード設定"
 
-#: Models\UserManagementModel\UserManagementModel.cs:1277
+#: Models\UserManagementModel\UserManagementModel.cs:1279
 msgid "Password should not be empty."
 msgstr "パスワードは空にしないでください。"
 
@@ -3237,9 +3220,9 @@ msgstr "パスワードが一致しません"
 #: Scripts\Password\ChangePassword.js:20 Scripts\Password\ChangePassword.js:67
 #: Scripts\System\SystemSettings.js:714 Scripts\System\SystemSettings.js:819
 #: Scripts\User\AccountActivation.js:8 Scripts\User\UserManagement.js:147
-#: Scripts\User\UserManagement.js:159 Scripts\User\UserManagementProfile.js:113
-#: Scripts\User\UserManagementProfile.js:156
-#: Scripts\User\UserManagementProfile.js:495
+#: Scripts\User\UserManagement.js:159 Scripts\User\UserManagementProfile.js:117
+#: Scripts\User\UserManagementProfile.js:160
+#: Scripts\User\UserManagementProfile.js:499
 msgid "Passwords mismatch."
 msgstr "パスワードが一致しません。"
 
@@ -3301,10 +3284,10 @@ msgstr "特殊文字、数字、スペースは避けてください。"
 #: Scripts\Accounts\Login.js:75 Scripts\Administration\SystemSettings.js:313
 #: Scripts\Application\AddApplication.js:125 Scripts\Group\EditGroup.js:4
 #: Scripts\System\SystemSettings.js:566 Scripts\System\SystemSettings.js:615
-#: Scripts\System\SystemSettings.js:704 Scripts\User\EditProfile.js:28
+#: Scripts\System\SystemSettings.js:704 Scripts\User\EditProfile.js:32
 #: Scripts\User\UserManagement.js:60 Scripts\User\UserManagement.js:76
 #: Scripts\User\UserManagement.js:82 Scripts\User\UserManagement.js:514
-#: Scripts\User\UserManagementProfile.js:43
+#: Scripts\User\UserManagementProfile.js:47
 msgid "Please avoid special characters."
 msgstr "特殊文字は避けてください。"
 
@@ -3316,7 +3299,7 @@ msgstr "特殊文字は避けてください。前後のスペース"
 msgid ""
 "Please choose a storage system for storing files the UMS generates. A "
 "complete list of the files generated by the UMS can be viewed"
-msgstr "UMSが生成するファイルを保存するためのストレージシステムを選択してください。 UMSによって生成されたファイルの完全なリストは見ることができます"
+msgstr "UMSが生成するファイルを保存するための保存システムを選択してください。 UMSによって生成されたファイルの完全なリストは見ることができます"
 
 #: Views\Group\GoogleSuiteGroupImport.cshtml:195
 #: Views\UserManagement\GoogleSuiteUserImport.cshtml:200
@@ -3339,14 +3322,14 @@ msgstr "Azure Active Directoryの設定を構成するには、ここをクリ�
 msgid "Please click here to configure the Azure Active Directory settings."
 msgstr "Azure Active Directoryの設定を構成するには、ここをクリックしてください。"
 
-#: Scripts\User\UserManagementProfile.js:195
-#: Scripts\User\UserManagementProfile.js:220
+#: Scripts\User\UserManagementProfile.js:199
+#: Scripts\User\UserManagementProfile.js:224
 msgid "Please click here to configure the email settings."
 msgstr "Eメール設定を構成するには、ここをクリックしてください。"
 
-#: Models\Group\GroupModels.cs:1218 Models\Group\GroupModels.cs:1400
+#: Models\Group\GroupModels.cs:1024 Models\Group\GroupModels.cs:1206
 #: Models\UserManagementModel\ActiveDirectoryUserManagementModel.cs:275
-#: Models\UserManagementModel\AzureUserManagementModel.cs:381
+#: Models\UserManagementModel\AzureUserManagementModel.cs:398
 #: Models\UserManagementModel\UserManagementModel.cs:655
 #: Scripts\User\ActiveDirectoryUserImport.js:95
 #: Scripts\User\GoogleSuiteUserImport.js:85
@@ -3364,23 +3347,23 @@ msgid "Please confirm password."
 msgstr "パスワードを確認してください。"
 
 #: Scripts\Password\ChangePassword.js:66 Scripts\User\UserManagement.js:146
-#: Scripts\User\UserManagementProfile.js:155
+#: Scripts\User\UserManagementProfile.js:159
 msgid "Please confirm your new password."
 msgstr "新しいパスワードを確認してください。"
 
-#: Controllers\Accounts\AccountsController.cs:344
+#: Controllers\Accounts\AccountsController.cs:345
 msgid ""
 "Please contact the Active Directory administrator to change your AD account "
 "password."
 msgstr "Active Directory管理者に連絡して、ADアカウントのパスワードを変更してください。"
 
-#: Controllers\Accounts\AccountsController.cs:348
+#: Controllers\Accounts\AccountsController.cs:349
 msgid ""
 "Please contact the Azure Active Directory administrator to change your Azure "
 "AD account password."
 msgstr "Azure ADアカウントのパスワードを変更するには、Azure Active Directory管理者に連絡してください。"
 
-#: Scripts\System\SystemSettings.js:562 Scripts\User\EditProfile.js:24
+#: Scripts\System\SystemSettings.js:562 Scripts\User\EditProfile.js:28
 #: Views\ServerConfiguration\_UserAccount.cshtml:70
 msgid "Please enter a valid email address."
 msgstr "有効なメールアドレスを入力してください。"
@@ -3399,7 +3382,7 @@ msgstr "管理者パスワードを入力してください。"
 msgid "Please enter admin username."
 msgstr "管理者のユーザー名を入力してください。"
 
-#: Views\Administration\AuthenticationSettings.cshtml:233
+#: Views\Administration\AuthenticationSettings.cshtml:235
 msgid "Please enter Authority URL"
 msgstr "機関のURLを入力してください"
 
@@ -3442,7 +3425,7 @@ msgstr "データベース名を入力してください。"
 msgid "Please enter database password."
 msgstr "データベースのパスワードを入力してください。"
 
-#: Views\Administration\AuthenticationSettings.cshtml:243
+#: Views\Administration\AuthenticationSettings.cshtml:245
 msgid "Please enter Designer Client Id"
 msgstr "デザイナーのクライアントIDを入力してください"
 
@@ -3458,7 +3441,7 @@ msgstr "メールアドレスを入力してください"
 msgid "Please enter email address."
 msgstr "メールアドレスを入力してください。"
 
-#: Views\Administration\AuthenticationSettings.cshtml:327
+#: Views\Administration\AuthenticationSettings.cshtml:329
 msgid "Please enter Entity Id"
 msgstr "エンティティIDを入力してください"
 
@@ -3467,7 +3450,7 @@ msgid "Please enter first name"
 msgstr "名を入力してください"
 
 #: Scripts\System\SystemSettings.js:701 Scripts\User\UserManagement.js:140
-#: Scripts\User\UserManagementProfile.js:101
+#: Scripts\User\UserManagementProfile.js:105
 msgid "Please enter first name."
 msgstr "名を入力してください。"
 
@@ -3503,13 +3486,13 @@ msgstr "姓を入力してください"
 
 #: Views\Administration\_ActiveDirectorySettings.cshtml:110
 msgid "Please enter LDAP URL."
-msgstr "LDAP URLを入力してください。"
+msgstr "LDAPのURLを入力してください。"
 
 #: Scripts\Administration\KerberosAuthentication.js:38
 msgid "Please enter machine name."
-msgstr "機械名を入力してください。"
+msgstr "マシン名を入力してください。"
 
-#: Views\Administration\AuthenticationSettings.cshtml:222
+#: Views\Administration\AuthenticationSettings.cshtml:224
 msgid "Please enter Metadata URI"
 msgstr "メタデータURIを入力してください"
 
@@ -3569,7 +3552,7 @@ msgstr "SMTPポートを入力してください。"
 msgid "Please enter SMTP server."
 msgstr "SMTPサーバーを入力してください。"
 
-#: Views\Administration\AuthenticationSettings.cshtml:318
+#: Views\Administration\AuthenticationSettings.cshtml:320
 msgid "Please enter SSO URL"
 msgstr "SSOのURLを入力してください"
 
@@ -3577,7 +3560,7 @@ msgstr "SSOのURLを入力してください"
 msgid "Please enter storage account name."
 msgstr "ストレージアカウント名を入力してください。"
 
-#: Views\Administration\AuthenticationSettings.cshtml:253
+#: Views\Administration\AuthenticationSettings.cshtml:255
 msgid "Please enter Tenant Name"
 msgstr "テナント名を入力してください"
 
@@ -3608,9 +3591,9 @@ msgstr "名前を入力してください"
 #: Scripts\Administration\Storage.js:55
 #: Scripts\Administration\SystemSettings.js:309
 #: Scripts\Application\AddApplication.js:121 Scripts\Group\EditGroup.js:8
-#: Scripts\System\SystemSettings.js:550 Scripts\User\EditProfile.js:32
+#: Scripts\System\SystemSettings.js:550 Scripts\User\EditProfile.js:36
 #: Scripts\User\UserImportDatabase.js:38 Scripts\User\UserManagement.js:56
-#: Scripts\User\UserManagementProfile.js:39
+#: Scripts\User\UserManagementProfile.js:43
 msgid "Please enter the name."
 msgstr "名前を入力してください。"
 
@@ -3634,7 +3617,7 @@ msgstr "有効なアプリケーション名を入力してください。"
 msgid "Please enter the valid application URL."
 msgstr "有効なアプリケーションURLを入力してください。"
 
-#: Scripts\User\EditProfile.js:36 Scripts\User\UserManagementProfile.js:47
+#: Scripts\User\EditProfile.js:40 Scripts\User\UserManagementProfile.js:51
 msgid "Please enter the valid phone number."
 msgstr "有効な電話番号を入力してください。"
 
@@ -3651,7 +3634,7 @@ msgid "Please enter username or email address."
 msgstr "ユーザー名またはメールアドレスを入力してください。"
 
 #: Scripts\Administration\SystemSettings.js:428
-#: Scripts\System\DataMigration.js:383 Scripts\System\SystemSettings.js:698
+#: Scripts\System\DataMigration.js:392 Scripts\System\SystemSettings.js:698
 #: Scripts\System\SystemSettings.js:994 Scripts\System\SystemSettings.js:1059
 #: Scripts\System\SystemSettings.js:1192 Scripts\User\UserImportDatabase.js:89
 #: Scripts\User\UserImportDatabase.js:135
@@ -3668,7 +3651,7 @@ msgstr "有効なBLOB URLを入力してください。"
 msgid "Please enter valid port number."
 msgstr "有効なポート番号を入力してください。"
 
-#: Views\Administration\AuthenticationSettings.cshtml:254
+#: Views\Administration\AuthenticationSettings.cshtml:256
 msgid "Please enter valid URL"
 msgstr "有効なURLを入力してください"
 
@@ -3679,16 +3662,16 @@ msgstr "有効なURLを入力してください"
 msgid "Please enter valid URL."
 msgstr "有効なURLを入力してください。"
 
-#: Scripts\User\EditProfile.js:84
+#: Scripts\User\EditProfile.js:87
 msgid "Please enter your email address."
 msgstr "メールアドレスを入力してください。"
 
-#: Scripts\User\EditProfile.js:87
+#: Scripts\User\EditProfile.js:90
 msgid "Please enter your first name."
 msgstr "あなたの名を入力してください。"
 
 #: Scripts\Password\ChangePassword.js:63 Scripts\User\UserManagement.js:143
-#: Scripts\User\UserManagementProfile.js:152
+#: Scripts\User\UserManagementProfile.js:156
 msgid "Please enter your new password."
 msgstr "新しいパスワードを入力してください。"
 
@@ -3804,7 +3787,7 @@ msgstr "PostgreSQL"
 msgid "Powered by"
 msgstr "搭載"
 
-#: Views\ServerConfiguration\DataMigration.cshtml:190
+#: Views\ServerConfiguration\DataMigration.cshtml:232
 #: Views\ServerConfiguration\Index.cshtml:394
 #: Views\ServerConfiguration\Index.cshtml:395
 #: Views\ServerConfiguration\Index.cshtml:396
@@ -3828,7 +3811,7 @@ msgstr "プロフィール"
 msgid "Profile picture has been deleted successfully."
 msgstr "プロフィール写真は正常に削除されました。"
 
-#: Scripts\User\EditProfile.js:130 Scripts\User\UserManagementProfile.js:259
+#: Scripts\User\EditProfile.js:133 Scripts\User\UserManagementProfile.js:263
 msgid "Profile picture has been saved successfully."
 msgstr "プロフィール写真は正常に保存されました。"
 
@@ -3867,14 +3850,14 @@ msgstr "繰り返します"
 msgid "Regenerate client secret"
 msgstr "クライアントシークレットを再生成"
 
-#: Scripts\Application\ViewApplication.js:756
-#: Scripts\Application\ViewApplication.js:760
+#: Scripts\Application\ViewApplication.js:763
+#: Scripts\Application\ViewApplication.js:767
 #: Views\Application\_RegenerateAccessToken.cshtml:6
 msgid "Regenerate Client Secret"
 msgstr "クライアントシークレットを再生成"
 
-#: Views\Administration\AuthenticationSettings.cshtml:269
-#: Views\Administration\AuthenticationSettings.cshtml:272
+#: Views\Administration\AuthenticationSettings.cshtml:271
+#: Views\Administration\AuthenticationSettings.cshtml:274
 msgid "Relying Party ID"
 msgstr "証明書利用者ID"
 
@@ -3898,11 +3881,11 @@ msgstr "削除する"
 msgid "Remove Administartor"
 msgstr "アドミニストレータを削除"
 
-#: Views\Administration\AuthenticationSettings.cshtml:339
+#: Views\Administration\AuthenticationSettings.cshtml:341
 msgid "Remove certificate"
 msgstr "証明書を削除する"
 
-#: Scripts\User\UserManagementProfile.js:194
+#: Scripts\User\UserManagementProfile.js:198
 #: Views\UserManagement\ViewProfile.cshtml:193
 msgid "Resend activation code"
 msgstr "アクティベーションコードを再送信"
@@ -3915,7 +3898,7 @@ msgstr "パスワードリンクをリセット"
 msgid "Restrict"
 msgstr "制限する"
 
-#: Views\Application\_ApplicationGroups.cshtml:37
+#: Views\Application\_ApplicationGroups.cshtml:20
 #: Views\Application\_ApplicationUsers.cshtml:37
 msgid "Revoke access"
 msgstr "アクセス権を取り消す"
@@ -3934,7 +3917,7 @@ msgstr "管理者アクセス権を取り消す"
 msgid "Revoke Administrator(s) Access"
 msgstr "管理者アクセスを取り消す"
 
-#: Views\Application\_ApplicationGroups.cshtml:90
+#: Views\Application\_ApplicationGroups.cshtml:72
 msgid "Revoke Group(s) Access"
 msgstr "グループアクセスを取り消す"
 
@@ -3943,7 +3926,7 @@ msgid "Revoke User(s) Access"
 msgstr "ユーザーアクセスを取り消す"
 
 #: Scripts\Application\ApplicationGroups.js:445
-#: Scripts\Application\ViewApplication.js:704
+#: Scripts\Application\ViewApplication.js:711
 msgid "Revoked access for "
 msgstr "のアクセスを無効にしました"
 
@@ -3970,9 +3953,9 @@ msgstr "ロール名"
 msgid "Saturday"
 msgstr "土曜日"
 
-#: Views\Administration\AuthenticationSettings.cshtml:192
-#: Views\Administration\AuthenticationSettings.cshtml:281
-#: Views\Administration\AuthenticationSettings.cshtml:385
+#: Views\Administration\AuthenticationSettings.cshtml:194
+#: Views\Administration\AuthenticationSettings.cshtml:283
+#: Views\Administration\AuthenticationSettings.cshtml:387
 #: Views\Administration\NotificationSettings.cshtml:95
 #: Views\Administration\ScheduleAzureSynchronization.cshtml:257
 #: Views\Administration\ScheduleDatabaseSynchronization.cshtml:252
@@ -4003,7 +3986,7 @@ msgstr "保存する"
 #: Views\Administration\ScheduleGoogleSuiteSynchronization.cshtml:41
 #: Views\Administration\ScheduleSynchronization.cshtml:40
 msgid "Schedule not started."
-msgstr "スケジュールが開始されていません。"
+msgstr "スケジュールは開始されていません。"
 
 #: Views\Administration\ScheduleSynchronization.cshtml:2
 msgid "Schedule Synchronization"
@@ -4029,7 +4012,7 @@ msgstr "ユーザーとグループをAzure ADと同期するようにスケジ�
 
 #: Views\Administration\ScheduleDatabaseSynchronization.cshtml:27
 msgid "Schedule to synchronize users and groups with Database"
-msgstr "ユーザーとグループをデータベースと同期するようにスケジュールします。"
+msgstr "ユーザーとグループをデータベースと同期するようにスケジュールする"
 
 #: Views\Administration\ScheduleGoogleSuiteSynchronization.cshtml:29
 msgid "Schedule to synchronize users and groups with G Suite"
@@ -4039,8 +4022,8 @@ msgstr "ユーザーとグループをG Suiteと同期するようにスケジ�
 #: Views\Application\Index.cshtml:243
 #: Views\Application\_ApplicationAdministrators.cshtml:13
 #: Views\Application\_ApplicationAdministrators.cshtml:49
-#: Views\Application\_ApplicationGroups.cshtml:21
-#: Views\Application\_ApplicationGroups.cshtml:68
+#: Views\Application\_ApplicationGroups.cshtml:12
+#: Views\Application\_ApplicationGroups.cshtml:50
 #: Views\Application\_ApplicationUsers.cshtml:22
 #: Views\Application\_ApplicationUsers.cshtml:67
 #: Views\Group\ActiveDirectoryGroup.cshtml:212
@@ -4048,7 +4031,7 @@ msgstr "ユーザーとグループをG Suiteと同期するようにスケジ�
 #: Views\Group\GoogleSuiteGroup.cshtml:188
 #: Views\Group\GoogleSuiteGroupImport.cshtml:144 Views\Group\Group.cshtml:341
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:190
-#: Views\UserManagement\DatabaseUserImport.cshtml:196
+#: Views\UserManagement\DatabaseUserImport.cshtml:193
 #: Views\UserManagement\GoogleSuiteUserImport.cshtml:148
 #: Views\UserManagement\Index.cshtml:332
 #: Views\UserManagement\SynchronizeDatabaseUsers.cshtml:168
@@ -4096,8 +4079,8 @@ msgstr "G Suiteグループを検索"
 msgid "Search G Suite users"
 msgstr "G Suiteユーザーを検索"
 
-#: Views\Application\_ApplicationGroups.cshtml:19
-#: Views\Application\_ApplicationGroups.cshtml:66
+#: Views\Application\_ApplicationGroups.cshtml:10
+#: Views\Application\_ApplicationGroups.cshtml:48
 #: Views\Group\ActiveDirectoryGroupImport.cshtml:188
 #: Views\Group\GoogleSuiteGroupImport.cshtml:142 Views\Group\Group.cshtml:339
 msgid "Search groups"
@@ -4116,7 +4099,7 @@ msgstr "ユーザーを検索"
 #: Views\Group\EditGroup.cshtml:183 Views\Group\EditGroup.cshtml:185
 #: Views\Group\ViewGroup.cshtml:147 Views\Group\ViewGroup.cshtml:149
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:188
-#: Views\UserManagement\DatabaseUserImport.cshtml:194
+#: Views\UserManagement\DatabaseUserImport.cshtml:191
 #: Views\UserManagement\GoogleSuiteUserImport.cshtml:146
 #: Views\UserManagement\Index.cshtml:330
 #: Views\UserManagement\SynchronizeDatabaseUsers.cshtml:165
@@ -4176,24 +4159,24 @@ msgstr "MySQL ODBC DSNを選択してください"
 #: Views\Administration\_ActiveDirectorySettings.cshtml:493
 #: Views\ServerConfiguration\Index.cshtml:184
 msgid "Select Oracle ODBC DSN"
-msgstr "Oracle ODBC DSNを選択します。"
+msgstr "Oracle ODBC DSNを選択します"
 
 #: Views\Administration\ScheduleAzureSynchronization.cshtml:56
 #: Views\Administration\ScheduleDatabaseSynchronization.cshtml:52
 #: Views\Administration\ScheduleGoogleSuiteSynchronization.cshtml:54
 #: Views\Administration\ScheduleSynchronization.cshtml:53
 msgid "Select Recurrence Type"
-msgstr "繰り返しの種類を選択"
+msgstr "繰り返しタイプを選択"
 
 #: Views\Administration\_ActiveDirectorySettings.cshtml:740
 msgid "Select relation"
 msgstr "関係を選択"
 
-#: Views\Application\_ApplicationGroups.cshtml:60
+#: Views\Application\_ApplicationGroups.cshtml:42
 msgid "Select the groups who would be granted application access."
 msgstr "アプリケーションアクセスを許可されるグループを選択してください。"
 
-#: Views\UserManagement\DatabaseUserImport.cshtml:203
+#: Views\UserManagement\DatabaseUserImport.cshtml:200
 msgid ""
 "Select the users from the following list to import into User Management "
 "Server"
@@ -4279,7 +4262,7 @@ msgstr "サービスは利用できません"
 msgid "Set Password"
 msgstr "パスワードを設定してください"
 
-#: Views\ServerConfiguration\DataMigration.cshtml:56
+#: Views\ServerConfiguration\DataMigration.cshtml:57
 #: Views\Shared\_Menu.cshtml:66
 msgid "Settings"
 msgstr "設定"
@@ -4311,11 +4294,10 @@ msgstr "設定は正常に更新されました。"
 msgid "Settings to authenticate users via kerberos ticket management system"
 msgstr "Kerberosチケット管理システムを介してユーザーを認証するための設定"
 
-#: D:\DSv3.2\ums
-#: locli\src\Syncfusion.Server.API\Models\UserManagementModel.cs:1629
-#: Models\UserManagementModel\UserManagementModel.cs:1422
+#: D:\task\release\chnge-tnt-nme\ums\src\Syncfusion.Server.API\Models\UserManagementModel.cs:1618
+#: Models\UserManagementModel\UserManagementModel.cs:1424
 msgid "Should not contain part of name, user name or email address."
-msgstr "名前、ユーザー名、または電子メールアドレスの一部を含めるべきではありません。"
+msgstr "名前、ユーザー名、電子メールアドレスの一部を含めるべきではありません。"
 
 #: Views\Administration\_SiteSettings.cshtml:232
 msgid "Show copyright information"
@@ -4327,7 +4309,7 @@ msgstr "リストを表示"
 
 #: Views\Administration\_SiteSettings.cshtml:223
 msgid "Show powered by Syncfusion"
-msgstr "表示をSyncfusionで表示"
+msgstr "Showflyを搭載"
 
 #: Views\Administration\_AdminMenu.cshtml:19
 msgid "Site"
@@ -4373,36 +4355,37 @@ msgstr "SQL認証"
 msgid "SQL Server"
 msgstr "SQLサーバー"
 
-#: Views\ServerConfiguration\DataMigration.cshtml:105
+#: Views\ServerConfiguration\DataMigration.cshtml:73
 msgid "SSO"
 msgstr "SSO"
 
-#: Views\Administration\AuthenticationSettings.cshtml:43
-#: Views\Administration\AuthenticationSettings.cshtml:49
+#: Views\Administration\AuthenticationSettings.cshtml:45
+#: Views\Administration\AuthenticationSettings.cshtml:51
 msgid "SSO Settings"
 msgstr "SSO設定"
 
-#: Views\Administration\AuthenticationSettings.cshtml:42
+#: Views\Administration\AuthenticationSettings.cshtml:44
 msgid ""
 "SSO settings has been updated. The application will be restarted "
 "automatically inorder to apply this changes."
 msgstr "SSO設定が更新されました。この変更を適用するために、アプリケーションは自動的に再起動されます。"
 
-#: Views\Administration\AuthenticationSettings.cshtml:314
-#: Views\Administration\AuthenticationSettings.cshtml:317
+#: Views\Administration\AuthenticationSettings.cshtml:316
+#: Views\Administration\AuthenticationSettings.cshtml:319
 msgid "SSO URL"
 msgstr "SSOのURL"
 
 #: Scripts\Core\Server.Core.js:561
 msgid "StartsWith"
-msgstr "で開始"
+msgstr "で始まる"
 
 #: Scripts\Group\ActiveDirectoryGroupImport.js:68
 #: Scripts\Group\GoogleSuiteGroupImport.js:63
 #: Scripts\Group\SynchronizeGoogleSuiteGroups.js:139
 #: Scripts\Group\SynchronizeGroups.js:139 Views\Application\Index.cshtml:69
-#: Views\Application\Index.cshtml:195 Views\UserManagement\Index.cshtml:73
-#: Views\UserManagement\Index.cshtml:158
+#: Views\Application\Index.cshtml:195
+#: Views\Application\ViewApplication.cshtml:67
+#: Views\UserManagement\Index.cshtml:73 Views\UserManagement\Index.cshtml:158
 #: Views\UserManagement\ViewProfile.cshtml:169
 msgid "Status"
 msgstr "状態"
@@ -4528,19 +4511,19 @@ msgstr "既存のデータベースとユーザーを同期させる"
 msgid "Synchronize users with G Suite"
 msgstr "ユーザーをG Suiteと同期させる"
 
-#: Models\Group\GroupModels.cs:1202
+#: Models\Group\GroupModels.cs:1008
 msgid "Synchronizing groups with Active Directory has been successful."
 msgstr "グループをActive Directoryと同期させることに成功しました。"
 
-#: Models\Group\GroupModels.cs:1241
+#: Models\Group\GroupModels.cs:1047
 msgid "Synchronizing groups with Active Directory has failed."
 msgstr "Active Directoryとのグループの同期に失敗しました。"
 
-#: Models\Group\GroupModels.cs:1423
+#: Models\Group\GroupModels.cs:1229
 msgid "Synchronizing groups with Azure Active Directory has been failed."
 msgstr "Azure Active Directoryとのグループの同期に失敗しました。"
 
-#: Models\Group\GroupModels.cs:1384
+#: Models\Group\GroupModels.cs:1190
 msgid "Synchronizing groups with Azure Active Directory has been successful."
 msgstr "グループをAzure Active Directoryと同期させることに成功しました。"
 
@@ -4549,7 +4532,7 @@ msgid "Synchronizing users with active directory has been failed."
 msgstr "ユーザーとActive Directoryの同期に失敗しました。"
 
 #: Models\UserManagementModel\ActiveDirectoryUserManagementModel.cs:291
-#: Models\UserManagementModel\AzureUserManagementModel.cs:397
+#: Models\UserManagementModel\AzureUserManagementModel.cs:414
 msgid "Synchronizing users with Active Directory has been failed."
 msgstr "Active Directoryとのユーザーの同期に失敗しました。"
 
@@ -4557,7 +4540,7 @@ msgstr "Active Directoryとのユーザーの同期に失敗しました。"
 msgid "Synchronizing users with active directory has been successful."
 msgstr "ユーザーをActive Directoryと同期させることに成功しました。"
 
-#: Models\UserManagementModel\AzureUserManagementModel.cs:363
+#: Models\UserManagementModel\AzureUserManagementModel.cs:380
 msgid "Synchronizing users with azure active directory has been successful."
 msgstr "ユーザーをAzure Active Directoryと同期させることに成功しました。"
 
@@ -4590,8 +4573,8 @@ msgstr "テーブル名の接頭辞"
 msgid "Tenant name"
 msgstr "テナント名"
 
-#: Views\Administration\AuthenticationSettings.cshtml:249
-#: Views\Administration\AuthenticationSettings.cshtml:252
+#: Views\Administration\AuthenticationSettings.cshtml:251
+#: Views\Administration\AuthenticationSettings.cshtml:254
 msgid "Tenant Name"
 msgstr "テナント名"
 
@@ -4644,22 +4627,22 @@ msgstr "AD設定が構成されていません。"
 msgid ""
 "The below table(s) already exists in the selected database. Please change "
 "the prefix or choose some other database."
-msgstr "下の表は、選択したデータベースに既に存在します。接頭辞を変更するか、他のデータベースを選択してください。"
+msgstr "以下のテーブルは選択したデータベースに既に存在します。接頭辞を変更するか、他のデータベースを選択してください。"
 
 #: Scripts\System\SystemSettings.js:1922 Scripts\System\SystemSettings.js:2034
 msgid ""
 "The below table(s) are already exists in the selected database. Please "
 "change the prefix or choose some other database."
-msgstr "以下のテーブルは、選択したデータベースに既に存在します。接頭辞を変更するか、他のデータベースを選択してください。"
+msgstr "以下のテーブルは選択したデータベースに既に存在します。接頭辞を変更するか、他のデータベースを選択してください。"
 
 #: Models\UserManagementModel\ActiveDirectoryUserManagementModel.cs:218
-#: Models\UserManagementModel\AzureUserManagementModel.cs:324
+#: Models\UserManagementModel\AzureUserManagementModel.cs:341
 msgid "The destination URL is not reachable."
 msgstr "宛先URLに到達できません。"
 
-#: Views\Application\_ApplicationGroups.cshtml:14
+#: Views\Application\_ApplicationGroups.cshtml:6
 msgid "The following groups have access to the application."
-msgstr "次のグループはアプリケーションにアクセスできます。"
+msgstr "以下のグループはアプリケーションにアクセスできます。"
 
 #: Views\Application\_ApplicationUsers.cshtml:15
 msgid "The following users have access to the application."
@@ -4669,7 +4652,7 @@ msgstr "以下のユーザーがアプリケーションにアクセスできま
 msgid "The following users have administrative access to the application."
 msgstr "次のユーザーはアプリケーションへの管理アクセス権を持っています。"
 
-#: Views\Application\ViewApplication.cshtml:188
+#: Views\Application\ViewApplication.cshtml:194
 msgid "The requested application details are not found."
 msgstr "要求されたアプリケーションの詳細が見つかりません。"
 
@@ -4677,7 +4660,7 @@ msgstr "要求されたアプリケーションの詳細が見つかりません
 msgid "The reset password link expires in two hours!"
 msgstr "パスワード再設定リンクは2時間で期限が切れます！"
 
-#: Views\Administration\AuthenticationSettings.cshtml:235
+#: Views\Administration\AuthenticationSettings.cshtml:237
 msgid "The URL to the authority that issues the authorization token"
 msgstr "許可トークンを発行する機関へのURL"
 
@@ -4709,11 +4692,11 @@ msgstr "これは有効なMySQLデータベースDSNではありません。有�
 msgid "This is not a valid Oracle dataBase DSN. Please select a valid DSN."
 msgstr "これは有効なOracleデータベースDSNではありません。有効なDSNを選択してください。"
 
-#: Controllers\Accounts\AccountsController.cs:102
+#: Controllers\Accounts\AccountsController.cs:103
 msgid "This link has expired."
 msgstr "このリンクは期限切れです。"
 
-#: Controllers\Accounts\AccountsController.cs:108
+#: Controllers\Accounts\AccountsController.cs:109
 #: Views\Accounts\AccountActivation.cshtml:61
 msgid "This link is invalid."
 msgstr "このリンクは無効です。"
@@ -4751,7 +4734,7 @@ msgid "Time"
 msgstr "時間"
 
 #: Views\Administration\_SiteSettings.cshtml:169
-#: Views\ServerConfiguration\DataMigration.cshtml:116
+#: Views\ServerConfiguration\DataMigration.cshtml:84
 msgid "Time zone"
 msgstr "タイムゾーン"
 
@@ -4767,7 +4750,7 @@ msgstr "MySQLデータベース用のDSNを作成する方法を学ぶため。"
 
 #: Views\ServerConfiguration\Index.cshtml:194
 msgid "to learn how to create a DSN for Oracle database."
-msgstr "Oracleデータベース用のDSNの作成方法を学習します。"
+msgstr "Oracleデータベース用のDSNを作成する方法を学習します。"
 
 #: Views\Accounts\AccountActivation.cshtml:96
 msgid "to log in to your account."
@@ -4782,6 +4765,13 @@ msgid ""
 "To send account activation email to the user, please configure email "
 "settings or change the account activation mode as automatic activation."
 msgstr "アカウント有効化Eメールをユーザーに送信するには、Eメール設定を構成するか、アカウント有効化モードを自動有効化として変更してください。"
+
+#: D:\task\release\chnge-tnt-nme\ums\src\Syncfusion.Server.API\Models\UserModel.cs:2288
+#: D:\task\release\chnge-tnt-nme\ums\src\Syncfusion.Server.API\Models\UserModel.cs:2428
+msgid ""
+"to send account activation emails, or choose Automatic account activation "
+"mode"
+msgstr "アカウントのアクティベーションメールを送信する、または自動アカウントアクティベーションモードを選択する"
 
 #: Controllers\Administration\AdministrationController.cs:154
 msgid "Token have been cleared successfully."
@@ -4805,8 +4795,8 @@ msgstr "火曜日"
 msgid "Type"
 msgstr "タイプ"
 
-#: Views\ServerConfiguration\DataMigration.cshtml:140
-#: Views\ServerConfiguration\DataMigration.cshtml:168
+#: Views\ServerConfiguration\DataMigration.cshtml:182
+#: Views\ServerConfiguration\DataMigration.cshtml:210
 msgid "UMS"
 msgstr "UMS"
 
@@ -4815,7 +4805,7 @@ msgid ""
 "UMS needs to be hosted in IIS with a valid SSL certificate assigned. Click"
 msgstr "UMSは、有効なSSL証明書が割り当てられた状態でIISでホストされる必要があります。クリック"
 
-#: Scripts\System\DataMigration.js:254
+#: Scripts\System\DataMigration.js:263
 msgid "UMS user will be mapped to client."
 msgstr "UMSユーザーはクライアントにマッピングされます。"
 
@@ -4823,7 +4813,7 @@ msgstr "UMSユーザーはクライアントにマッピングされます。"
 msgid "Unable to retrieve the recently logged in users."
 msgstr "最近ログインしたユーザーを取得できません。"
 
-#: Scripts\User\UserManagementProfile.js:520
+#: Scripts\User\UserManagementProfile.js:524
 #: Views\Administration\Storage.cshtml:109
 #: Views\Application\_AddApplicationDialog.cshtml:91
 #: Views\UserManagement\ViewProfile.cshtml:4
@@ -4840,7 +4830,7 @@ msgstr "Active Directory構成設定を更新する"
 msgid "Update Azure AD configuration settings"
 msgstr "Azure AD構成設定を更新する"
 
-#: Views\UserManagement\DatabaseUserImport.cshtml:189
+#: Views\UserManagement\DatabaseUserImport.cshtml:186
 msgid "Update database configuration settings"
 msgstr "データベース構成設定を更新する"
 
@@ -4855,20 +4845,20 @@ msgid "Update Notification Settings"
 msgstr "通知設定を更新する"
 
 #: Scripts\Password\ChangePassword.js:107
-#: Scripts\User\UserManagementProfile.js:516
+#: Scripts\User\UserManagementProfile.js:520
 msgid "Update Password"
 msgstr "パスワード更新"
 
-#: Scripts\User\EditProfile.js:412 Scripts\User\EditProfile.js:418
-#: Scripts\User\UserManagementProfile.js:605
+#: Scripts\User\EditProfile.js:415 Scripts\User\EditProfile.js:421
+#: Scripts\User\UserManagementProfile.js:609
 msgid "Update Profile"
-msgstr "プロファイルを更新する"
+msgstr "プロフィールを更新"
 
 #: Views\Administration\Storage.cshtml:28
 msgid "Update the storage settings here"
 msgstr "ここでストレージ設定を更新します"
 
-#: Views\Administration\AuthenticationSettings.cshtml:347
+#: Views\Administration\AuthenticationSettings.cshtml:349
 #: Views\Administration\_SiteSettings.cshtml:71
 #: Views\Administration\_SiteSettings.cshtml:87
 #: Views\Administration\_SiteSettings.cshtml:101
@@ -4893,8 +4883,11 @@ msgstr "URLは一意である必要があります"
 msgid "Use 24-hour format"
 msgstr "24時間表示"
 
-#: Scripts\System\DataMigration.js:251
-#: Views\ServerConfiguration\DataMigration.cshtml:149
+#: Scripts\System\DataMigration.js:260
+#: Views\ServerConfiguration\DataMigration.cshtml:136
+#: Views\ServerConfiguration\DataMigration.cshtml:148
+#: Views\ServerConfiguration\DataMigration.cshtml:160
+#: Views\ServerConfiguration\DataMigration.cshtml:191
 msgid "Use client"
 msgstr "クライアントを使用"
 
@@ -4906,10 +4899,13 @@ msgstr "HTTPを使う"
 #: Views\Administration\Storage.cshtml:75
 #: Views\ServerConfiguration\_FileStorage.cshtml:50
 msgid "Use HTTPS (Recommended)"
-msgstr "HTTPSを使用する（推奨）"
+msgstr "HTTPSを使用（推奨）"
 
-#: Scripts\System\DataMigration.js:249
-#: Views\ServerConfiguration\DataMigration.cshtml:148
+#: Scripts\System\DataMigration.js:258
+#: Views\ServerConfiguration\DataMigration.cshtml:135
+#: Views\ServerConfiguration\DataMigration.cshtml:147
+#: Views\ServerConfiguration\DataMigration.cshtml:159
+#: Views\ServerConfiguration\DataMigration.cshtml:190
 msgid "Use UMS"
 msgstr "UMSを使う"
 
@@ -4917,7 +4913,7 @@ msgstr "UMSを使う"
 msgid "User account activation"
 msgstr "ユーザーアカウントの有効化"
 
-#: Scripts\User\UserManagementProfile.js:203
+#: Scripts\User\UserManagementProfile.js:207
 msgid "User account has been activated successfully."
 msgstr "ユーザーアカウントは正常にアクティブ化されました。"
 
@@ -4949,12 +4945,12 @@ msgstr "ユーザーディレクトリの設定"
 
 #: Scripts\User\UserManagement.js:797
 msgid "User has been added and activated successfully."
-msgstr "ユーザーが追加され、有効化されました。"
+msgstr "ユーザーが追加され、正常にアクティブ化されました。"
 
 #: Scripts\User\UserManagement.js:800
 msgid ""
 "User has been added successfully, and the account activation email sent."
-msgstr "ユーザーが正常に追加され、アカウントの有効化Eメールが送信されました。"
+msgstr "ユーザーが正常に追加され、アカウントのアクティベーションEメールが送信されました。"
 
 #: Scripts\User\UserManagement.js:803
 msgid ""
@@ -5037,13 +5033,13 @@ msgid "User settings have been updated successfully."
 msgstr "ユーザー設定は正常に更新されました。"
 
 #: Models\UserManagementModel\ActiveDirectoryUserManagementModel.cs:240
-#: Models\UserManagementModel\AzureUserManagementModel.cs:346
+#: Models\UserManagementModel\AzureUserManagementModel.cs:363
 #: Models\UserManagementModel\UserManagementModel.cs:619
 msgid "user(s) are deleted."
 msgstr "ユーザーが削除されます。"
 
 #: Models\UserManagementModel\ActiveDirectoryUserManagementModel.cs:235
-#: Models\UserManagementModel\AzureUserManagementModel.cs:341
+#: Models\UserManagementModel\AzureUserManagementModel.cs:358
 #: Models\UserManagementModel\UserManagementModel.cs:609
 msgid "user(s) details are modified."
 msgstr "ユーザーの詳細が変更されました。"
@@ -5062,7 +5058,7 @@ msgstr "ユーザーが正常に追加されました。"
 
 #: Scripts\User\UserManagement.js:604
 msgid "User(s) has been deleted successfully."
-msgstr "ユーザーが正常に削除されました。"
+msgstr "ユーザーは正常に削除されました。"
 
 #: Scripts\User\ActiveDirectoryUserImport.js:89
 #: Scripts\User\ActiveDirectoryUserImport.js:100
@@ -5115,8 +5111,8 @@ msgstr "データベースにユーザーが見つかりませんでした。"
 #: Views\User\Profile.cshtml:94
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:62
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:131
-#: Views\UserManagement\DatabaseUserImport.cshtml:53
-#: Views\UserManagement\DatabaseUserImport.cshtml:120
+#: Views\UserManagement\DatabaseUserImport.cshtml:50
+#: Views\UserManagement\DatabaseUserImport.cshtml:117
 #: Views\UserManagement\GoogleSuiteUserImport.cshtml:47
 #: Views\UserManagement\GoogleSuiteUserImport.cshtml:106
 #: Views\UserManagement\SynchronizeDatabaseUsers.cshtml:38
@@ -5137,23 +5133,22 @@ msgstr "ユーザー名"
 msgid "Username :"
 msgstr "ユーザー名："
 
-#: D:\DSv3.2\ums
-#: locli\src\Syncfusion.Server.WindowsAuthentication\Controllers\AccountController.cs:75
-#: locli\src\Syncfusion.Server.WindowsAuthentication\Controllers\AccountController.cs:157
+#: D:\task\release\chnge-tnt-nme\ums\src\Syncfusion.Server.WindowsAuthentication\Controllers\AccountController.cs:75
+#: D:\task\release\chnge-tnt-nme\ums\src\Syncfusion.Server.WindowsAuthentication\Controllers\AccountController.cs:157
 #: Models\UserManagementModel\ActiveDirectoryUserManagementModel.cs:143
 #: Models\UserManagementModel\ActiveDirectoryUserManagementModel.cs:246
-#: Models\UserManagementModel\AzureUserManagementModel.cs:95
-#: Models\UserManagementModel\AzureUserManagementModel.cs:255
+#: Models\UserManagementModel\AzureUserManagementModel.cs:111
+#: Models\UserManagementModel\AzureUserManagementModel.cs:272
 #: Models\UserManagementModel\GoogleSuiteUserManagementModel.cs:118
 #: Models\UserManagementModel\UserManagementModel.cs:509
-#: Models\UserManagementModel\UserManagementModel.cs:1127
-#: Models\UserManagementModel\UserManagementModel.cs:1330
-#: Models\UserManagementModel\UserManagementModel.cs:1720
+#: Models\UserManagementModel\UserManagementModel.cs:1128
+#: Models\UserManagementModel\UserManagementModel.cs:1332
+#: Models\UserManagementModel\UserManagementModel.cs:1722
 #: Scripts\User\UserManagement.js:224
 msgid "Username already exists."
 msgstr "ユーザー名は既に存在します。"
 
-#: Models\UserManagementModel\UserManagementModel.cs:1252
+#: Models\UserManagementModel\UserManagementModel.cs:1254
 msgid "Username cannot exceed 95 characters."
 msgstr "ユーザー名は95文字を超えることはできません。"
 
@@ -5167,13 +5162,13 @@ msgid "Username contains space."
 msgstr "ユーザー名にスペースが含まれています。"
 
 #: Models\UserManagementModel\ActiveDirectoryUserManagementModel.cs:139
-#: Models\UserManagementModel\AzureUserManagementModel.cs:91
-#: Models\UserManagementModel\AzureUserManagementModel.cs:251
+#: Models\UserManagementModel\AzureUserManagementModel.cs:107
+#: Models\UserManagementModel\AzureUserManagementModel.cs:268
 #: Models\UserManagementModel\GoogleSuiteUserManagementModel.cs:114
 #: Models\UserManagementModel\UserManagementModel.cs:505
-#: Models\UserManagementModel\UserManagementModel.cs:1123
-#: Models\UserManagementModel\UserManagementModel.cs:1291
-#: Models\UserManagementModel\UserManagementModel.cs:1716
+#: Models\UserManagementModel\UserManagementModel.cs:1124
+#: Models\UserManagementModel\UserManagementModel.cs:1293
+#: Models\UserManagementModel\UserManagementModel.cs:1718
 msgid "Username is invalid."
 msgstr "ユーザー名が無効です。"
 
@@ -5183,32 +5178,32 @@ msgstr "ユーザー名またはEメールアドレス"
 
 #: Scripts\User\UserImportDatabase.js:1400
 msgid "Username or Email address already exists or repeated"
-msgstr "ユーザー名またはEメールアドレスがすでに存在するか、または重複しています"
+msgstr "ユーザー名またはEメールアドレスが既に存在するか、または重複しています"
 
 #: Scripts\User\ActiveDirectoryUserImport.js:92
 #: Scripts\User\GoogleSuiteUserImport.js:82
 msgid "Username or Email address already exists or repeated."
 msgstr "ユーザー名またはEメールアドレスが既に存在するか、または重複しています。"
 
-#: Models\UserManagementModel\AzureUserManagementModel.cs:352
+#: Models\UserManagementModel\AzureUserManagementModel.cs:369
 msgid "Username or Email address already exists."
 msgstr "ユーザー名またはEメールアドレスは既に存在します。"
 
 #: Models\UserManagementModel\ActiveDirectoryUserManagementModel.cs:252
-#: Models\UserManagementModel\AzureUserManagementModel.cs:358
+#: Models\UserManagementModel\AzureUserManagementModel.cs:375
 #: Models\UserManagementModel\UserManagementModel.cs:631
 msgid "Username or Email address is invalid."
 msgstr "ユーザー名またはEメールアドレスが無効です。"
 
-#: Controllers\Accounts\AccountsController.cs:230
+#: Controllers\Accounts\AccountsController.cs:231
 msgid "Username or email already exists."
 msgstr "ユーザー名またはEメールアドレスは既に存在します。"
 
-#: Models\UserManagementModel\AzureUserManagementModel.cs:86
+#: Models\UserManagementModel\AzureUserManagementModel.cs:102
 #: Models\UserManagementModel\GoogleSuiteUserManagementModel.cs:109
-#: Models\UserManagementModel\UserManagementModel.cs:1118
-#: Models\UserManagementModel\UserManagementModel.cs:1243
-#: Models\UserManagementModel\UserManagementModel.cs:1711
+#: Models\UserManagementModel\UserManagementModel.cs:1119
+#: Models\UserManagementModel\UserManagementModel.cs:1245
+#: Models\UserManagementModel\UserManagementModel.cs:1713
 msgid "Username should not be empty."
 msgstr "ユーザー名は空にしないでください。"
 
@@ -5216,7 +5211,7 @@ msgstr "ユーザー名は空にしないでください。"
 msgid "Username should not contain special characters"
 msgstr "ユーザー名に特殊文字を含めることはできません"
 
-#: Models\UserManagementModel\UserManagementModel.cs:1247
+#: Models\UserManagementModel\UserManagementModel.cs:1249
 msgid ""
 "Username should not contain special characters #%&*+<>?:/&quot;[']\\|@;,"
 msgstr "ユーザー名に特殊文字を使用しないでください。＃％＆* + <>？：/＆quot; ['] \\ | @ ;、"
@@ -5233,24 +5228,22 @@ msgstr "ユーザー名に空白を含めることはできません。"
 msgid ""
 "Usernames, Email addresses, Names and Passwords with special characters (, ” "
 "<) will not be displayed in the list below."
-msgstr "ユーザー名、電子メールアドレス、特殊文字（、 "<）の付いた名前とパスワードは、下のリストには表示されません。"
+msgstr "ユーザー名、Eメールアドレス、特殊文字（、 "<）を含む名前とパスワードは、下のリストには表示されません。"
 
-#: D:\DSv3.2\ums
-#: locli\src\Syncfusion.Server.API\Models\UserManagementModel.cs:220
+#: D:\task\release\chnge-tnt-nme\ums\src\Syncfusion.Server.API\Models\UserManagementModel.cs:201
 msgid ""
 "Usernames, Email addresses, Names and Passwords with special characters (, "
 "”) will not be displayed in the list"
-msgstr "ユーザー名、電子メールアドレス、特殊文字（、 "）を含む名前とパスワードはリストに表示されません。"
+msgstr "ユーザー名、Eメールアドレス、特殊文字（、 "）を含む名前とパスワードはリストに表示されません。"
 
-#: Views\Application\ViewApplication.cshtml:161
+#: Views\Application\ViewApplication.cshtml:167
 #: Views\Group\ActiveDirectoryGroup.cshtml:128
 #: Views\Group\GoogleSuiteGroup.cshtml:119 Views\Group\Group.cshtml:142
 #: Views\Home\Index.cshtml:54
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:146
 #: Views\UserManagement\ActiveDirectoryUserImport.cshtml:232
-#: Views\UserManagement\DatabaseUserImport.cshtml:167
-#: Views\UserManagement\DatabaseUserImport.cshtml:230
-#: Views\UserManagement\DatabaseUserImport.cshtml:257
+#: Views\UserManagement\DatabaseUserImport.cshtml:164
+#: Views\UserManagement\DatabaseUserImport.cshtml:226
 #: Views\UserManagement\GoogleSuiteUserImport.cshtml:122
 #: Views\UserManagement\GoogleSuiteUserImport.cshtml:190
 #: Views\UserManagement\SynchronizeDatabaseUsers.cshtml:150
@@ -5305,7 +5298,7 @@ msgstr "ユーザーを削除しました"
 #: Scripts\Group\SynchronizeGoogleSuiteGroups.js:139
 #: Scripts\Group\SynchronizeGroups.js:139
 msgid "Users synchronized"
-msgstr "ユーザーを同期しました"
+msgstr "ユーザーの同期"
 
 #: Views\Group\Group.cshtml:53 Views\Group\Group.cshtml:60
 #: Views\UserManagement\Index.cshtml:85
@@ -5341,6 +5334,13 @@ msgid ""
 "We are not able to send activation emails because the email settings are not "
 "configured. Update email settings"
 msgstr "Eメール設定が構成されていないため、アクティベーションEメールを送信できません。メール設定を更新する"
+
+#: D:\task\release\chnge-tnt-nme\ums\src\Syncfusion.Server.API\Models\UserModel.cs:2287
+#: D:\task\release\chnge-tnt-nme\ums\src\Syncfusion.Server.API\Models\UserModel.cs:2427
+msgid ""
+"We are not able to send activation emails because the email settings are not "
+"configured.Update email settings"
+msgstr "Eメール設定が構成されていないため、アクティベーションEメールを送信できません。Eメール設定の更新"
 
 #: Controllers\OAuthController.cs:104 Controllers\OAuthController.cs:130
 #: Controllers\Authorization\AuthorizationController.cs:509
@@ -5384,7 +5384,7 @@ msgstr "毎週"
 msgid "Welcome note"
 msgstr "ウェルカムノート"
 
-#: Views\ServerConfiguration\DataMigration.cshtml:14
+#: Views\ServerConfiguration\DataMigration.cshtml:15
 #: Views\ServerConfiguration\Index.cshtml:10
 #: Views\ServerConfiguration\Index.cshtml:69
 msgid "Welcome to"
@@ -5400,7 +5400,7 @@ msgstr "Windows Active Directory"
 msgid "Windows authentication"
 msgstr "Windows認証"
 
-#: Views\Administration\AuthenticationSettings.cshtml:176
+#: Views\Administration\AuthenticationSettings.cshtml:178
 #: Views\Shared\_ExternalAuthentication.cshtml:21
 msgid "Windows Authentication"
 msgstr "Windows認証"
@@ -5412,9 +5412,9 @@ msgstr "Windows認証設定"
 
 #: Controllers\Administration\AdministrationController.cs:1095
 msgid "Windows Authentication Settings has been updated successfully"
-msgstr "Windows認証設定は正常に更新されました"
+msgstr "Windows認証設定が正常に更新されました"
 
-#: Views\Administration\AuthenticationSettings.cshtml:332
+#: Views\Administration\AuthenticationSettings.cshtml:334
 msgid "X.509 Certificate"
 msgstr "X.509証明書"
 
@@ -5434,11 +5434,11 @@ msgstr "毎年"
 #: Scripts\Administration\ScheduleSynchronization.js:397
 #: Scripts\Administration\ScheduleSynchronization.js:407
 msgid "years on"
-msgstr "年"
+msgstr "何年も"
 
 #: Scripts\Core\Server.Core.js:452
 #: Views\Application\_ApplicationAdministrators.cshtml:82
-#: Views\Application\_ApplicationGroups.cshtml:102
+#: Views\Application\_ApplicationGroups.cshtml:84
 #: Views\Application\_ApplicationUsers.cshtml:101
 #: Views\Application\_EnableOrDisableApplicationDialog.cshtml:20
 #: Views\Application\_EnableOrDisableApplicationDialog.cshtml:47
@@ -5485,5 +5485,5 @@ msgstr "アカウントにメールアドレスを設定していないため、
 
 #: Views\Accounts\AccountActivation.cshtml:96
 msgid "You have successfully activated your"
-msgstr "あなたは正常にあなたを起動しました"
+msgstr "あなたは成功しました"
 
